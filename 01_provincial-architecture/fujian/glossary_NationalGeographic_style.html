@@ -26,8 +26,52 @@ body{font-family:Georgia,"Times New Roman","Microsoft YaHei",serif;background:#f
 .entry .meta span{margin-right:20px}
 .footer{background:#2c3e50;color:#bdc3c7;text-align:center;padding:40px 20px;margin-top:60px;font-size:0.9em}
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="hero">
 <h1>福建古建筑</h1>
 <div class="sub">The Living Architecture of Fujian · A National Geographic Exploration</div>
@@ -43,84 +87,84 @@ body{font-family:Georgia,"Times New Roman","Microsoft YaHei",serif;background:#f
 <div class="en-term">Swallow-Tail Ridge (Yanweiji)</div>
 <p class="zh-text">燕尾脊是闽南建筑最具标志性的屋顶形式，屋脊两端向上翘起，形似燕子尾巴，曲线优美流畅。燕尾脊分为正脊和垂脊，正脊两端高高翘起，有的高达1米以上，装饰有剪粘、交趾陶等。燕尾脊在闽南、台湾、潮汕地区广泛使用，是闽南建筑区别于其他地区建筑的最显著特征，其翘起的弧度和高度有严格的等级规定。</p>
 <p class="en-text">The swallow-tail ridge (yanweiji) is the most iconic roof form of Minnan (southern Fujian) architecture, with both ends of the ridge curving upward like a swallow's tail in graceful flowing lines. Divided into main and hip ridges, the main ridge ends rise high, sometimes over 1 meter, decorated with jianzhan (cut-and-paste porcelain) and cochin pottery. Widely used in southern Fujian, Taiwan, and Chaoshan, it is the most distinctive feature distinguishing Minnan architecture, with strict hierarchical regulations on the curvature and height of its upturned ends.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、厦门南普陀、漳州南山寺</span><span>🔗 关联: 马鞍脊, 剪粘, 交趾陶, 红砖厝</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、厦门南普陀、漳州南山寺</span><span> 关联: 马鞍脊, 剪粘, 交趾陶, 红砖厝</span></div>
 </div>
 <div class="entry">
 <h3>马鞍脊</h3>
 <div class="en-term">Saddle Ridge (Maanji)</div>
 <p class="zh-text">马鞍脊是福州地区传统建筑的典型屋顶形式，屋脊两端呈马鞍形曲线，中间低两端高，形似马鞍。与闽南燕尾脊的张扬不同，马鞍脊造型内敛稳重，是福州民居和三坊七巷建筑的标志性特征。马鞍脊的弧度和装饰有地域差异，福州地区多为素面或简单灰塑，闽东地区则装饰更为丰富。</p>
 <p class="en-text">The saddle ridge (maanji) is a typical roof form of traditional Fuzhou architecture, with both ends of the ridge curving in a saddle shape—low in the middle and high at both ends—resembling a saddle. Unlike the flamboyant Minnan swallow-tail ridge, the saddle ridge has a restrained and steady form, serving as the signature feature of Fuzhou residences and the Three Lanes and Seven Alleys. Its curvature and decoration vary by region: Fuzhou area features plain surfaces or simple gray plaster sculptures, while eastern Fujian has richer decoration.</p>
-<div class="meta"><span>📍 实例: 福州三坊七巷、福州林觉民故居、闽清宏琳厝</span><span>🔗 关联: 燕尾脊, 三坊七巷, 马鞍墙, 灰塑</span></div>
+<div class="meta"><span> 实例: 福州三坊七巷、福州林觉民故居、闽清宏琳厝</span><span> 关联: 燕尾脊, 三坊七巷, 马鞍墙, 灰塑</span></div>
 </div>
 <div class="entry">
 <h3>马鞍墙</h3>
 <div class="en-term">Saddle Wall (Maanqiang)</div>
 <p class="zh-text">马鞍墙是福州地区传统民居的封火墙形式，墙体随屋顶坡度呈马鞍形曲线，高出屋顶，既防火又装饰。马鞍墙是福州民居最显著的外部特征，与徽派马头墙的阶梯状不同，马鞍墙呈连续的波浪形曲线。墙顶通常有灰塑装饰，墙面粉刷白灰，与青瓦形成对比。</p>
 <p class="en-text">The saddle wall (maanqiang) is a fire wall form in traditional Fuzhou residences, following the roof slope in a saddle-shaped curve, rising above the roof to serve both fire-prevention and decorative purposes. The most distinctive external feature of Fuzhou residences, unlike the stepped horse-head walls of the Huizhou style, saddle walls form continuous wavy curves. The wall tops usually have gray plaster decorations, and the walls are whitewashed, contrasting with dark tiles.</p>
-<div class="meta"><span>📍 实例: 福州三坊七巷、福州严复故居、闽清宏琳厝</span><span>🔗 关联: 马鞍脊, 马头墙, 封火墙, 三坊七巷</span></div>
+<div class="meta"><span> 实例: 福州三坊七巷、福州严复故居、闽清宏琳厝</span><span> 关联: 马鞍脊, 马头墙, 封火墙, 三坊七巷</span></div>
 </div>
 <div class="entry">
 <h3>出砖入石</h3>
 <div class="en-term">Brick-and-Stone Wall (Chuzhuan Rushi)</div>
 <p class="zh-text">出砖入石是闽南地区独特的墙体砌筑工艺，将红砖和花岗岩石块交错砌筑，砖块凸出、石块凹入，形成富有肌理感的墙面。这种工艺利用废旧材料，经济实用，同时具有独特的装饰效果。出砖入石墙面在泉州、厦门、漳州等地的传统民居中广泛使用，是闽南建筑的标志性元素之一。</p>
 <p class="en-text">Brick-and-stone wall (chuzhuan rushi) is a unique wall masonry technique in southern Fujian, laying red bricks and granite blocks in an alternating pattern with bricks protruding and stones recessed, creating a textured wall surface. This technique uses recycled materials, making it economical and practical while achieving a unique decorative effect. Widely used in traditional residences in Quanzhou, Xiamen, and Zhangzhou, it is one of the signature elements of Minnan architecture.</p>
-<div class="meta"><span>📍 实例: 泉州蔡氏古民居、厦门鼓浪屿老别墅、漳州古城</span><span>🔗 关联: 红砖厝, 蚵壳厝, 镜面墙, 闽南建筑</span></div>
+<div class="meta"><span> 实例: 泉州蔡氏古民居、厦门鼓浪屿老别墅、漳州古城</span><span> 关联: 红砖厝, 蚵壳厝, 镜面墙, 闽南建筑</span></div>
 </div>
 <div class="entry">
 <h3>镜面墙</h3>
 <div class="en-term">Mirror Wall (Jingmianqiang)</div>
 <p class="zh-text">镜面墙是闽南传统建筑的正面墙体，以红砖或白石砌筑，表面平整光滑如镜面，故名。镜面墙通常是建筑的正立面，装饰精美，墙顶有水车堵、规带等装饰，墙面上常有匾额、对联。镜面墙是闽南大厝的标志性元素，体现了闽南人对建筑正面的重视和对红砖文化的崇尚。</p>
 <p class="en-text">The mirror wall (jingmianqiang) is the front wall of traditional Minnan architecture, built with red bricks or white stone with a smooth surface like a mirror, hence the name. Usually the main facade of a building, it is exquisitely decorated with water-wheel blocks and gui bands at the top, and often bears inscribed plaques and couplets. The mirror wall is a signature element of Minnan grand residences, reflecting the importance Minnan people place on a building's front and their reverence for red-brick culture.</p>
-<div class="meta"><span>📍 实例: 泉州蔡氏古民居、南安中宪第、漳州官园大厝</span><span>🔗 关联: 红砖厝, 水车堵, 出砖入石, 燕尾脊</span></div>
+<div class="meta"><span> 实例: 泉州蔡氏古民居、南安中宪第、漳州官园大厝</span><span> 关联: 红砖厝, 水车堵, 出砖入石, 燕尾脊</span></div>
 </div>
 <div class="entry">
 <h3>水车堵</h3>
 <div class="en-term">Water-Wheel Block (Shuichedu)</div>
 <p class="zh-text">水车堵是闽南传统建筑屋脊下方的水平装饰带，因形似水车而得名。水车堵通常以灰塑、剪粘、交趾陶等工艺装饰，内容包括人物故事、花鸟虫鱼、博古图案等，色彩绚丽，是闽南建筑装饰最集中的部位。水车堵的工艺水平直接反映了建筑的等级和主人的财力。</p>
 <p class="en-text">The water-wheel block (shuichedu) is a horizontal decorative band below the roof ridge in traditional Minnan architecture, named for its resemblance to a water wheel. Usually decorated with gray plaster sculpture, cut-and-paste porcelain, and cochin pottery, its content includes figure stories, flowers, birds, insects, fish, and antique patterns in brilliant colors—it is the most concentrated area of decoration in Minnan architecture. The craftsmanship of the water-wheel block directly reflects the building's grade and the owner's wealth.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、厦门青礁慈济宫、漳州白礁慈济宫</span><span>🔗 关联: 剪粘, 交趾陶, 燕尾脊, 镜面墙</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、厦门青礁慈济宫、漳州白礁慈济宫</span><span> 关联: 剪粘, 交趾陶, 燕尾脊, 镜面墙</span></div>
 </div>
 <div class="entry">
 <h3>剪粘</h3>
 <div class="en-term">Cut-and-Paste Porcelain (Jianzhan)</div>
 <p class="zh-text">剪粘是闽南地区独特的建筑装饰工艺，将彩色瓷碗、瓷盘剪碎后，用糯米灰浆粘贴在建筑表面，形成各种图案。剪粘工艺精细，色彩鲜艳持久，多用于屋脊、水车堵、照壁等部位。剪粘题材丰富，包括龙凤、人物、花鸟、瑞兽等，是闽南寺庙和大厝装饰的标志性工艺。</p>
 <p class="en-text">Cut-and-paste porcelain (jianzhan) is a unique architectural decorative craft in southern Fujian, cutting colored porcelain bowls and plates into pieces and pasting them on building surfaces with glutinous rice mortar to form various patterns. With fine craftsmanship and bright lasting colors, it is mostly used on ridges, water-wheel blocks, and screen walls. With rich subjects including dragons, phoenixes, figures, flowers, birds, and auspicious animals, it is the signature decorative craft of Minnan temples and grand residences.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、厦门南普陀、漳州白礁慈济宫</span><span>🔗 关联: 交趾陶, 灰塑, 水车堵, 燕尾脊</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、厦门南普陀、漳州白礁慈济宫</span><span> 关联: 交趾陶, 灰塑, 水车堵, 燕尾脊</span></div>
 </div>
 <div class="entry">
 <h3>交趾陶</h3>
 <div class="en-term">Cochin Pottery (Jiaozhitao)</div>
 <p class="zh-text">交趾陶是闽南地区独特的低温釉陶工艺，因源自越南交趾（今越南北部）而得名。交趾陶以陶土塑形，施低温釉烧制，色彩丰富，多用于建筑装饰和案头陈设。交趾陶工艺在清代传入闽南，与剪粘配合使用，共同装饰寺庙和大厝的屋脊、水车堵等部位，是闽南建筑装饰的重要组成部分。</p>
 <p class="en-text">Cochin pottery (jiaozhitao) is a unique low-temperature glazed pottery craft in southern Fujian, named for its origin in Cochin (northern Vietnam today). Shaped from clay and fired with low-temperature glaze in rich colors, it is used for architectural decoration and desk ornaments. Introduced to southern Fujian in the Qing dynasty, it is used together with cut-and-paste porcelain to decorate the ridges and water-wheel blocks of temples and grand residences, serving as an important component of Minnan architectural decoration.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、厦门青礁慈济宫、漳州南山寺</span><span>🔗 关联: 剪粘, 灰塑, 水车堵, 闽南建筑</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、厦门青礁慈济宫、漳州南山寺</span><span> 关联: 剪粘, 灰塑, 水车堵, 闽南建筑</span></div>
 </div>
 <div class="entry">
 <h3>蚵壳厝</h3>
 <div class="en-term">Oyster-Shell House (Keke Cuo)</div>
 <p class="zh-text">蚵壳厝是泉州沿海地区独特的民居建筑，以牡蛎壳（蚵壳）砌筑墙体，内外双层，中间填土，具有冬暖夏凉、防风耐碱的特点。蚵壳厝的蚵壳多为宋元时期海外贸易从东南亚运回的牡蛎壳，是海上丝绸之路的实物见证。蚵壳厝主要分布在泉州鲟埔、法石等地，是闽南海洋文化的独特建筑形式。</p>
 <p class="en-text">Oyster-shell house (keke cuo) is a unique residential architecture in the coastal areas of Quanzhou, building walls with oyster shells in double layers filled with earth, featuring warmth in winter, coolness in summer, wind resistance, and alkali tolerance. The oyster shells were mostly brought back from Southeast Asia during overseas trade in the Song-Yuan period, serving as material evidence of the Maritime Silk Road. Mainly distributed in Xunpu and Fashi in Quanzhou, oyster-shell houses are a unique architectural form of Minnan maritime culture.</p>
-<div class="meta"><span>📍 实例: 泉州鲟埔蚵壳厝、泉州法石蚵壳厝</span><span>🔗 关联: 红砖厝, 出砖入石, 海上丝绸之路, 闽南建筑</span></div>
+<div class="meta"><span> 实例: 泉州鲟埔蚵壳厝、泉州法石蚵壳厝</span><span> 关联: 红砖厝, 出砖入石, 海上丝绸之路, 闽南建筑</span></div>
 </div>
 <div class="entry">
 <h3>木拱廊桥</h3>
 <div class="en-term">Timber Arch Lounge Bridge (Mugong Langqiao)</div>
 <p class="zh-text">木拱廊桥是闽东北和浙南地区独特的桥梁形式，以木材搭接成拱形结构，桥上建廊屋，可供行人避雨休息。木拱廊桥不用一钉一铆，完全靠木材的搭接和挤压形成稳定结构，是中国古代桥梁技术的杰出代表。福建宁德、南平地区保存有大量木拱廊桥，其中宁德屏南、寿宁的廊桥最为集中，被誉为'世界木拱廊桥之乡'。</p>
 <p class="en-text">Timber arch lounge bridges (mugong langqiao) are a unique bridge form in northeastern Fujian and southern Zhejiang, using timber joined into an arch structure with a covered corridor on top for pedestrians to shelter from rain and rest. Built without a single nail or rivet, relying entirely on timber joinery and compression for stability, they are outstanding representatives of ancient Chinese bridge technology. Ningde and Nanping in Fujian preserve numerous timber arch lounge bridges, with Pingnan and Shouning in Ningde having the highest concentration, known as the 'Hometown of World Timber Arch Lounge Bridges'.</p>
-<div class="meta"><span>📍 实例: 屏南万安桥、寿宁升平桥、宁德金造桥</span><span>🔗 关联: 廊桥, 虹梁, 闽东北建筑, 传统村落</span></div>
+<div class="meta"><span> 实例: 屏南万安桥、寿宁升平桥、宁德金造桥</span><span> 关联: 廊桥, 虹梁, 闽东北建筑, 传统村落</span></div>
 </div>
 <div class="entry">
 <h3>虹梁</h3>
 <div class="en-term">Rainbow Beam (Hongliang)</div>
 <p class="zh-text">虹梁是木拱廊桥的核心结构构件，由多根圆木搭接成拱形，形似彩虹。虹梁结构利用木材的抗压性能，通过'三节苗''五节苗'等搭接方式，形成跨越河流的拱形结构。虹梁是中国古代木构桥梁技术的精华，体现了古代工匠对材料力学的深刻理解。</p>
 <p class="en-text">The rainbow beam (hongliang) is the core structural component of timber arch lounge bridges, formed by multiple logs joined into an arch shape resembling a rainbow. Utilizing the compressive strength of timber through joining methods such as 'three-section seedlings' and 'five-section seedlings', it forms an arch structure spanning rivers. The rainbow beam represents the essence of ancient Chinese timber bridge technology, reflecting ancient craftsmen's deep understanding of material mechanics.</p>
-<div class="meta"><span>📍 实例: 屏南万安桥、寿宁杨梅洲桥、政和后山桥</span><span>🔗 关联: 木拱廊桥, 廊桥, 闽东北建筑, 传统村落</span></div>
+<div class="meta"><span> 实例: 屏南万安桥、寿宁杨梅洲桥、政和后山桥</span><span> 关联: 木拱廊桥, 廊桥, 闽东北建筑, 传统村落</span></div>
 </div>
 <div class="entry">
 <h3>斗拱</h3>
 <div class="en-term">Bracket Set (Dougong)</div>
 <p class="zh-text">斗拱是中国古代建筑中柱梁之间的承重构件，福建地区的斗拱在继承中原传统的基础上形成了地方特色。闽南寺庙的斗拱装饰华丽，常以象鼻、花鸟等造型替代标准斗拱；福州地区的斗拱则较为简洁，注重结构功能。福建宋代建筑如华林寺大殿、玄妙观三清殿的斗拱保留了宋代特征，是研究中国古代建筑的重要实物。</p>
 <p class="en-text">The bracket set (dougong) is a load-bearing component between columns and beams in ancient Chinese architecture. Fujian bracket sets developed local characteristics while inheriting Central Plains traditions. Minnan temple bracket sets are ornately decorated, often using elephant trunks, flowers, and birds in place of standard forms; Fuzhou bracket sets are simpler, emphasizing structural function. Fujian's Song dynasty buildings such as the Hualin Temple Main Hall and Xuanmiao Temple Sanqing Hall preserve Song dynasty bracket features, important artifacts for studying ancient Chinese architecture.</p>
-<div class="meta"><span>📍 实例: 福州华林寺、泉州玄妙观、莆田元妙观</span><span>🔗 关联: 燕尾脊, 减柱造, 叉手, 宋代建筑</span></div>
+<div class="meta"><span> 实例: 福州华林寺、泉州玄妙观、莆田元妙观</span><span> 关联: 燕尾脊, 减柱造, 叉手, 宋代建筑</span></div>
 </div>
 </div>
 <div class="section">
@@ -130,91 +174,91 @@ body{font-family:Georgia,"Times New Roman","Microsoft YaHei",serif;background:#f
 <div class="en-term">Earthen Roundhouse (Tulou)</div>
 <p class="zh-text">土楼是福建西南部客家和闽南地区独特的大型集体住宅建筑，以生土、砂石、竹木为主要材料，夯筑成圆形或方形的高大围墙，内部为多层环形或方形结构，可供数十户甚至上百户人家居住。土楼具有防御、居住、祭祀等多种功能，是中国古代民居建筑的奇葩。福建土楼主要分布在永定、南靖、华安等地，2008年被列入世界文化遗产名录。</p>
 <p class="en-text">Earthen roundhouses (tulou) are unique large-scale collective residential buildings in southwestern Fujian's Hakka and Minnan regions, using raw earth, sand, gravel, and bamboo as main materials, rammed into tall round or square enclosing walls with multi-story ring or square structures inside, housing dozens or even hundreds of households. Tulou serve multiple functions including defense, residence, and worship, representing a marvel of ancient Chinese residential architecture. Mainly distributed in Yongding, Nanjing, and Hua'an, Fujian tulou were listed as UNESCO World Heritage Sites in 2008.</p>
-<div class="meta"><span>📍 实例: 永定承启楼、南靖田螺坑、华安二宜楼</span><span>🔗 关联: 客家, 土堡, 围屋, 世界文化遗产</span></div>
+<div class="meta"><span> 实例: 永定承启楼、南靖田螺坑、华安二宜楼</span><span> 关联: 客家, 土堡, 围屋, 世界文化遗产</span></div>
 </div>
 <div class="entry">
 <h3>土堡</h3>
 <div class="en-term">Earthen Fortress (Tubao)</div>
 <p class="zh-text">土堡是福建中部和西北部地区独特的防御性民居建筑，以生土夯筑高大围墙，内部建有住宅，兼具居住和防御功能。与土楼的圆形或方形不同，土堡多为不规则形状，依山就势而建，防御设施更为完善。福建土堡主要分布在三明、大田、尤溪、永安等地，其中大田土堡最为集中，是研究中国古代防御性民居的重要实物。</p>
 <p class="en-text">Earthen fortresses (tubao) are unique defensive residential buildings in central and northwestern Fujian, with tall walls rammed from raw earth and residences inside, combining residential and defensive functions. Unlike the round or square tulou, tubao are often irregularly shaped, built according to terrain with more complete defensive facilities. Mainly distributed in Sanming, Datian, Youxi, and Yong'an, with Datian having the highest concentration, Fujian tubao are important artifacts for studying ancient Chinese defensive residences.</p>
-<div class="meta"><span>📍 实例: 大田安良堡、尤溪茂荆堡、永安安贞堡</span><span>🔗 关联: 土楼, 客家, 围屋, 防御建筑</span></div>
+<div class="meta"><span> 实例: 大田安良堡、尤溪茂荆堡、永安安贞堡</span><span> 关联: 土楼, 客家, 围屋, 防御建筑</span></div>
 </div>
 <div class="entry">
 <h3>红砖厝</h3>
 <div class="en-term">Red-Brick Residence (Hongzhuan Cuo)</div>
 <p class="zh-text">红砖厝是闽南地区最典型的传统民居，以红砖为主要建筑材料，红瓦红墙，色彩鲜艳。红砖厝多为合院式布局，有'三间张''五间张'等形制，正面为镜面墙，屋顶为燕尾脊，装饰有剪粘、交趾陶等。红砖厝体现了闽南人对红色的崇尚和对海洋文化的包容，是闽南文化的物质载体。泉州蔡氏古民居、南安中宪第等是红砖厝的代表。</p>
 <p class="en-text">Red-brick residences (hongzhuan cuo) are the most typical traditional residences in southern Fujian, using red bricks as the main building material with red tiles and red walls in vivid colors. Usually courtyard-style layouts with forms such as 'three-bay' and 'five-bay', they feature mirror walls at the front, swallow-tail ridges on the roof, and decorations of cut-and-paste porcelain and cochin pottery. Red-brick residences embody the Minnan reverence for red and openness to maritime culture, serving as material carriers of Minnan culture. Representative examples include the Cai Family Ancient Residences in Quanzhou and Zhongxian Di in Nan'an.</p>
-<div class="meta"><span>📍 实例: 泉州蔡氏古民居、南安中宪第、漳州官园大厝</span><span>🔗 关联: 燕尾脊, 镜面墙, 出砖入石, 剪粘</span></div>
+<div class="meta"><span> 实例: 泉州蔡氏古民居、南安中宪第、漳州官园大厝</span><span> 关联: 燕尾脊, 镜面墙, 出砖入石, 剪粘</span></div>
 </div>
 <div class="entry">
 <h3>三坊七巷</h3>
 <div class="en-term">Three Lanes and Seven Alleys (Sanfang Qixiang)</div>
 <p class="zh-text">三坊七巷位于福州市中心，是中国现存规模最大、保存最完整的历史文化街区之一，始建于西晋，唐代形成格局，明清时期达到鼎盛。街区由三个坊（衣锦坊、文儒坊、光禄坊）和七条巷（杨桥巷、郎官巷、塔巷、黄巷、安民巷、宫巷、吉庇巷）组成，占地面积约38公顷，保存有明清古建筑200余座。三坊七巷是福州历史文化的缩影，被誉为'中国城市里坊制度的活化石'。</p>
 <p class="en-text">Three Lanes and Seven Alleys (Sanfang Qixiang), located in central Fuzhou, is one of China's largest and best-preserved historical and cultural districts. Founded in the Western Jin, its layout took shape in the Tang and flourished in the Ming-Qing. Comprising three lanes (Yijin, Wenru, Guanglu) and seven alleys (Yangqiao, Langguan, Ta, Huang, Anmin, Gong, Jibi), it covers about 38 hectares with over 200 Ming-Qing ancient buildings. A microcosm of Fuzhou's history and culture, it is known as the 'living fossil of China's urban ward system'.</p>
-<div class="meta"><span>📍 实例: 福州林觉民故居、严复故居、沈葆桢故居</span><span>🔗 关联: 马鞍墙, 马鞍脊, 福州建筑, 历史街区</span></div>
+<div class="meta"><span> 实例: 福州林觉民故居、严复故居、沈葆桢故居</span><span> 关联: 马鞍墙, 马鞍脊, 福州建筑, 历史街区</span></div>
 </div>
 <div class="entry">
 <h3>闽南大厝</h3>
 <div class="en-term">Minnan Grand Residence (Minnan Dacuo)</div>
 <p class="zh-text">闽南大厝是闽南地区大型传统民居的统称，以红砖、白石、燕尾脊为主要特征，规模宏大，装饰精美。闽南大厝多为多进合院式布局，有'二落大厝''三落大厝''四落大厝'等形制，两侧常有护厝（护龙），形成完整的建筑群。大厝内部有厅堂、天井、厢房、榉头等空间，体现了闽南家族制度和居住文化。</p>
 <p class="en-text">Minnan grand residences (minnan dacuo) is a general term for large traditional residences in southern Fujian, characterized by red bricks, white stone, and swallow-tail ridges, with grand scale and exquisite decoration. Usually multi-courtyard layouts with forms such as 'two-court', 'three-court', and 'four-court' grand residences, they often have side wings (hucuo/hulong) forming complete building complexes. Interior spaces include halls, courtyards, wing rooms, and jutou, reflecting Minnan clan systems and residential culture.</p>
-<div class="meta"><span>📍 实例: 泉州蔡氏古民居、南安中宪第、晋江梧林传统村落</span><span>🔗 关联: 红砖厝, 燕尾脊, 镜面墙, 护厝</span></div>
+<div class="meta"><span> 实例: 泉州蔡氏古民居、南安中宪第、晋江梧林传统村落</span><span> 关联: 红砖厝, 燕尾脊, 镜面墙, 护厝</span></div>
 </div>
 <div class="entry">
 <h3>护厝</h3>
 <div class="en-term">Side Wing (Hucuo)</div>
 <p class="zh-text">护厝是闽南大厝两侧的附属建筑，又称'护龙'，沿纵向排列，与主体建筑平行，中间有天井相隔。护厝通常为厨房、储藏、仆役居住等辅助功能，其数量和规模反映了家族的大小和财力。护厝的屋顶低于主体建筑，形成主次分明的轮廓，是闽南大厝布局的重要组成部分。</p>
 <p class="en-text">Side wings (hucuo), also called 'hulong' (protecting dragons), are auxiliary buildings on both sides of a Minnan grand residence, arranged longitudinally parallel to the main building with courtyards between them. Usually serving auxiliary functions such as kitchens, storage, and servant quarters, their number and scale reflect the family's size and wealth. The side wing roofs are lower than the main building, creating a clear hierarchical silhouette—an important component of Minnan grand residence layout.</p>
-<div class="meta"><span>📍 实例: 泉州蔡氏古民居、南安中宪第</span><span>🔗 关联: 闽南大厝, 红砖厝, 榉头, 天井</span></div>
+<div class="meta"><span> 实例: 泉州蔡氏古民居、南安中宪第</span><span> 关联: 闽南大厝, 红砖厝, 榉头, 天井</span></div>
 </div>
 <div class="entry">
 <h3>妈祖庙</h3>
 <div class="en-term">Mazu Temple (Mazumiao)</div>
 <p class="zh-text">妈祖庙是祭祀海上保护神妈祖的庙宇，福建是妈祖信仰的发源地，湄洲妈祖庙为祖庙。妈祖庙多为闽南建筑风格，有燕尾脊、剪粘装饰，布局包括山门、戏台、拜亭、正殿、寝殿等。福建沿海地区妈祖庙众多，其中莆田湄洲妈祖庙、泉州天后宫、厦门青礁慈济宫等最为著名。妈祖信仰随福建移民传播到台湾、东南亚等地，妈祖庙成为海上丝绸之路文化交流的见证。</p>
 <p class="en-text">Mazu temples are temples dedicated to Mazu, the sea goddess. Fujian is the birthplace of Mazu worship, with the Meizhou Mazu Temple as the ancestral temple. Usually in Minnan architectural style with swallow-tail ridges and cut-and-paste porcelain decoration, their layouts include a gate, stage, worship pavilion, main hall, and sleeping hall. Numerous Mazu temples dot the Fujian coast, with the most famous being Meizhou Mazu Temple in Putian, Tianhou Palace in Quanzhou, and Qingjiao Ciji Palace in Xiamen. Mazu worship spread with Fujian immigrants to Taiwan and Southeast Asia, making Mazu temples witnesses to Maritime Silk Road cultural exchange.</p>
-<div class="meta"><span>📍 实例: 莆田湄洲妈祖庙、泉州天后宫、厦门青礁慈济宫</span><span>🔗 关联: 闽南建筑, 燕尾脊, 剪粘, 海上丝绸之路</span></div>
+<div class="meta"><span> 实例: 莆田湄洲妈祖庙、泉州天后宫、厦门青礁慈济宫</span><span> 关联: 闽南建筑, 燕尾脊, 剪粘, 海上丝绸之路</span></div>
 </div>
 <div class="entry">
 <h3>骑楼</h3>
 <div class="en-term">Arcade Building (Qilou)</div>
 <p class="zh-text">骑楼是近代闽南和华南地区独特的商住建筑形式，建筑底层沿街面后退，留出公共人行空间，上层悬挑在人行道上方，形似骑在人行道上，故名。骑楼适应南方炎热多雨的气候，既为行人遮阳避雨，又为商铺提供展示空间。福建骑楼主要分布在厦门、泉州、漳州、福州等城市的老城区，是近代福建城市建筑的重要特征，融合了中西建筑风格。</p>
 <p class="en-text">Arcade buildings (qilou) are a unique commercial-residential architectural form in modern southern Fujian and South China, with the ground floor set back from the street to create public pedestrian space, and the upper floor cantilevered above the sidewalk—like riding on the sidewalk, hence the name. Suited to the hot and rainy southern climate, arcades provide shade and rain shelter for pedestrians while offering display space for shops. Mainly found in old urban districts of Xiamen, Quanzhou, Zhangzhou, and Fuzhou, Fujian arcades are an important feature of modern Fujian urban architecture, blending Chinese and Western styles.</p>
-<div class="meta"><span>📍 实例: 厦门中山路、泉州中山路、漳州台湾路</span><span>🔗 关联: 近代建筑, 闽南建筑, 红砖厝, 海派文化</span></div>
+<div class="meta"><span> 实例: 厦门中山路、泉州中山路、漳州台湾路</span><span> 关联: 近代建筑, 闽南建筑, 红砖厝, 海派文化</span></div>
 </div>
 <div class="entry">
 <h3>廊桥</h3>
 <div class="en-term">Lounge Bridge (Langqiao)</div>
 <p class="zh-text">廊桥是桥上建有廊屋的桥梁，既可供行人通行，又可避雨休息，还具有祭祀、交易等功能。福建廊桥主要分布在闽东北的宁德、南平地区，以木拱廊桥最为著名，此外还有石拱廊桥、木平梁廊桥等。福建廊桥数量众多，仅寿宁县就有19座，被誉为'世界廊桥之乡'。廊桥是闽东北山区交通和社会生活的重要组成部分。</p>
 <p class="en-text">Lounge bridges (langqiao) are bridges with covered corridors, providing passage for pedestrians while offering rain shelter and rest, as well as serving worship and trade functions. Fujian lounge bridges are mainly distributed in northeastern Fujian's Ningde and Nanping regions, with timber arch lounge bridges being the most famous, in addition to stone arch and timber beam lounge bridges. Fujian has numerous lounge bridges—Shouning County alone has 19, known as the 'Hometown of World Lounge Bridges'. Lounge bridges are important components of transportation and social life in the mountainous regions of northeastern Fujian.</p>
-<div class="meta"><span>📍 实例: 屏南万安桥、寿宁升平桥、政和后山桥</span><span>🔗 关联: 木拱廊桥, 虹梁, 闽东北建筑, 传统村落</span></div>
+<div class="meta"><span> 实例: 屏南万安桥、寿宁升平桥、政和后山桥</span><span> 关联: 木拱廊桥, 虹梁, 闽东北建筑, 传统村落</span></div>
 </div>
 <div class="entry">
 <h3>客家土楼</h3>
 <div class="en-term">Hakka Tulou (Kejia Tulou)</div>
 <p class="zh-text">客家土楼是客家人在福建西南部建造的大型集体住宅，是土楼的主要类型。客家土楼以圆形和方形为主，外墙以生土夯筑，厚达1-2米，内部为木结构，有3-5层，每层有30-50个房间，可供一个宗族的数十户人家居住。客家土楼体现了客家人聚族而居的传统和强烈的防御意识，永定客家土楼是福建土楼的核心组成部分。</p>
 <p class="en-text">Hakka tulou are large collective residences built by the Hakka people in southwestern Fujian, the main type of tulou. Mostly round or square, with outer walls rammed from raw earth 1-2 meters thick and wooden interiors of 3-5 stories, each floor has 30-50 rooms housing dozens of households of a clan. Hakka tulou embody the Hakka tradition of clan living and strong defensive awareness; Yongding Hakka tulou are the core component of Fujian tulou.</p>
-<div class="meta"><span>📍 实例: 永定承启楼、永定振成楼、南靖和贵楼</span><span>🔗 关联: 土楼, 客家, 土堡, 世界文化遗产</span></div>
+<div class="meta"><span> 实例: 永定承启楼、永定振成楼、南靖和贵楼</span><span> 关联: 土楼, 客家, 土堡, 世界文化遗产</span></div>
 </div>
 <div class="entry">
 <h3>寺庙</h3>
 <div class="en-term">Buddhist/Taoist Temple (Simiao)</div>
 <p class="zh-text">福建寺庙建筑融合了中原传统与闽南地方特色，既有福州华林寺这样的宋代木构珍品，也有泉州开元寺这样的闽南建筑典范。福建寺庙多为合院式布局，有山门、天王殿、大雄宝殿、法堂等，屋顶多为燕尾脊或歇山顶，装饰有剪粘、交趾陶、灰塑等。福建还是多种宗教的传播地，佛教、道教、伊斯兰教、基督教等建筑并存，体现了福建文化的多元性。</p>
 <p class="en-text">Fujian temple architecture blends Central Plains traditions with Minnan local characteristics, ranging from Song dynasty wooden treasures like Fuzhou's Hualin Temple to Minnan architectural models like Quanzhou's Kaiyuan Temple. Usually courtyard-style layouts with a gate, Heavenly Kings Hall, Mahavira Hall, and Dharma Hall, their roofs are mostly swallow-tail ridges or hip-and-gable roofs, decorated with cut-and-paste porcelain, cochin pottery, and gray plaster sculpture. Fujian is also a propagation ground for multiple religions, with Buddhist, Taoist, Islamic, and Christian buildings coexisting, reflecting Fujian's cultural diversity.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、福州华林寺、厦门南普陀</span><span>🔗 关联: 燕尾脊, 剪粘, 妈祖庙, 宋代建筑</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、福州华林寺、厦门南普陀</span><span> 关联: 燕尾脊, 剪粘, 妈祖庙, 宋代建筑</span></div>
 </div>
 <div class="entry">
 <h3>古汉城遗址</h3>
 <div class="en-term">Ancient Han City Site (Guhancheng Yizhi)</div>
 <p class="zh-text">古汉城遗址位于武夷山市兴田镇，是西汉时期闽越国的都城遗址，距今约2200年。遗址面积约48万平方米，发现有城墙、宫殿基址、作坊、墓葬等，出土有大量汉代陶器、铜器、铁器等。古汉城遗址是中国南方保存最完整的汉代城址之一，是研究闽越文化和汉代南方建筑的重要遗址。</p>
 <p class="en-text">The Ancient Han City Site, located in Xingtian Town, Wuyishan City, is the capital site of the Minyue Kingdom during the Western Han dynasty, dating back about 2,200 years. Covering about 480,000 square meters, the site contains city walls, palace foundations, workshops, and tombs, with numerous Han pottery, bronze, and iron artifacts excavated. One of the best-preserved Han city sites in southern China, it is important for studying Minyue culture and Han dynasty southern architecture.</p>
-<div class="meta"><span>📍 实例: 武夷山城村汉城遗址</span><span>🔗 关联: 闽越文化, 武夷山, 汉代建筑, 遗址</span></div>
+<div class="meta"><span> 实例: 武夷山城村汉城遗址</span><span> 关联: 闽越文化, 武夷山, 汉代建筑, 遗址</span></div>
 </div>
 <div class="entry">
 <h3>传统村落</h3>
 <div class="en-term">Traditional Village (Chuantong Cunluo)</div>
 <p class="zh-text">福建传统村落数量众多，类型丰富，包括闽南红砖厝村落、客家土楼村落、闽东北廊桥村落、闽西北土堡村落、沿海渔村等。福建有中国历史文化名镇名村数十个，中国传统村落数百个。这些村落保存了完整的传统建筑、街巷格局和民俗文化，是福建地域文化的活态载体。著名的有晋江梧林、龙岩培田、南平下梅、宁德漈下等。</p>
 <p class="en-text">Fujian has numerous and diverse traditional villages, including Minnan red-brick villages, Hakka tulou villages, northeastern Fujian lounge-bridge villages, northwestern Fujian tubao villages, and coastal fishing villages. Fujian has dozens of Chinese Famous Historical and Cultural Towns/Villages and hundreds of Chinese Traditional Villages. These villages preserve complete traditional architecture, street patterns, and folk culture, serving as living carriers of Fujian regional culture. Famous ones include Wulin in Jinjiang, Peitian in Longyan, Xiamei in Nanping, and Jixia in Ningde.</p>
-<div class="meta"><span>📍 实例: 龙岩培田古民居、晋江梧林、南平下梅</span><span>🔗 关联: 红砖厝, 土楼, 廊桥, 客家</span></div>
+<div class="meta"><span> 实例: 龙岩培田古民居、晋江梧林、南平下梅</span><span> 关联: 红砖厝, 土楼, 廊桥, 客家</span></div>
 </div>
 </div>
 <div class="section">
@@ -224,70 +268,70 @@ body{font-family:Georgia,"Times New Roman","Microsoft YaHei",serif;background:#f
 <div class="en-term">Gray Plaster Sculpture (Huisu)</div>
 <p class="zh-text">灰塑是福建传统建筑中常见的装饰工艺，以石灰、贝壳灰为主要材料，掺入红糖、糯米汁等，在建筑表面塑造各种图案。灰塑多用于屋脊、山花、门楣、照壁等部位，题材包括人物故事、花鸟瑞兽、博古图案等。福建灰塑工艺精湛，色彩丰富，是闽南和福州传统建筑装饰的重要组成部分。</p>
 <p class="en-text">Gray plaster sculpture (huisu) is a common decorative craft in traditional Fujian architecture, using lime and shell ash as main materials mixed with brown sugar and glutinous rice juice to mold various patterns on building surfaces. Mostly used on ridges, gables, lintels, and screen walls, subjects include figure stories, flowers, birds, auspicious animals, and antique patterns. With exquisite craftsmanship and rich colors, Fujian gray plaster sculpture is an important component of traditional Minnan and Fuzhou architectural decoration.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、福州三坊七巷、漳州南山寺</span><span>🔗 关联: 剪粘, 交趾陶, 水车堵, 燕尾脊</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、福州三坊七巷、漳州南山寺</span><span> 关联: 剪粘, 交趾陶, 水车堵, 燕尾脊</span></div>
 </div>
 <div class="entry">
 <h3>木雕</h3>
 <div class="en-term">Wood Carving (Mudiao)</div>
 <p class="zh-text">福建木雕是中国木雕艺术的重要流派，以莆田木雕、福州木雕、泉州木雕最为著名。福建木雕多用于建筑的梁枋、雀替、门窗、神龛等部位，技法包括浮雕、透雕、圆雕、镂雕等，题材丰富，工艺精湛。莆田木雕以精细入微著称，福州木雕以龙眼木为材料，泉州木雕则融合了闽南建筑的装饰风格。</p>
 <p class="en-text">Fujian wood carving is an important school of Chinese wood carving art, with Putian, Fuzhou, and Quanzhou wood carvings being the most famous. Mostly used on beams, spandrels, doors, windows, and shrines in buildings, techniques include relief, openwork, round, and hollow carving with rich subjects and exquisite craftsmanship. Putian wood carving is known for fine detail, Fuzhou wood carving uses longan wood, and Quanzhou wood carving blends Minnan architectural decorative styles.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、莆田元妙观、福州三坊七巷</span><span>🔗 关联: 砖雕, 石雕, 闽南建筑, 三坊七巷</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、莆田元妙观、福州三坊七巷</span><span> 关联: 砖雕, 石雕, 闽南建筑, 三坊七巷</span></div>
 </div>
 <div class="entry">
 <h3>石雕</h3>
 <div class="en-term">Stone Carving (Shidiao)</div>
 <p class="zh-text">福建石雕历史悠久，以惠安石雕最为著名，被誉为'中国石雕之乡'。福建石雕多用于建筑的台基、栏杆、柱础、石狮、牌坊等部位，技法包括圆雕、浮雕、透雕、线刻等。惠安石雕以龙柱、石狮最为著名，泉州开元寺的宋代石塔、天后宫的石雕都是福建石雕艺术的精品。</p>
 <p class="en-text">Fujian stone carving has a long history, with Hui'an stone carving being the most famous, known as the 'Hometown of Chinese Stone Carving'. Mostly used on building pedestals, railings, column bases, stone lions, and memorial arches, techniques include round carving, relief, openwork, and line carving. Hui'an stone carving is most famous for dragon columns and stone lions; the Song stone pagodas at Quanzhou's Kaiyuan Temple and the carvings at Tianhou Palace are fine examples of Fujian stone carving art.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺东西塔、惠安崇武古城、莆田妈祖庙</span><span>🔗 关联: 木雕, 砖雕, 闽南建筑, 牌坊</span></div>
+<div class="meta"><span> 实例: 泉州开元寺东西塔、惠安崇武古城、莆田妈祖庙</span><span> 关联: 木雕, 砖雕, 闽南建筑, 牌坊</span></div>
 </div>
 <div class="entry">
 <h3>砖雕</h3>
 <div class="en-term">Brick Carving (Zhuandiao)</div>
 <p class="zh-text">福建砖雕是在红砖或青砖上雕刻图案的装饰工艺，多用于门楣、窗楣、照壁、山墙等部位。福建砖雕以闽南地区最为发达，题材包括人物故事、花鸟虫鱼、博古图案等，工艺精细，层次丰富。闽南砖雕与红砖厝建筑结合，形成了独特的装饰效果，是闽南建筑装饰的重要组成部分。</p>
 <p class="en-text">Fujian brick carving is a decorative technique of carving patterns on red or grey bricks, mostly used on door and window lintels, screen walls, and gables. Most developed in southern Fujian, subjects include figure stories, flowers, birds, insects, fish, and antique patterns, with fine craftsmanship and rich layers. Minnan brick carving, combined with red-brick residence architecture, creates unique decorative effects and is an important component of Minnan architectural decoration.</p>
-<div class="meta"><span>📍 实例: 泉州蔡氏古民居、厦门鼓浪屿、漳州古城</span><span>🔗 关联: 木雕, 石雕, 红砖厝, 闽南建筑</span></div>
+<div class="meta"><span> 实例: 泉州蔡氏古民居、厦门鼓浪屿、漳州古城</span><span> 关联: 木雕, 石雕, 红砖厝, 闽南建筑</span></div>
 </div>
 <div class="entry">
 <h3>琉璃瓦</h3>
 <div class="en-term">Glazed Tile (Liuliwa)</div>
 <p class="zh-text">琉璃瓦是表面施釉的陶瓦，福建地区的琉璃瓦以闽南寺庙使用最为广泛，颜色有黄、绿、蓝等。福建琉璃瓦工艺在明清时期达到高峰，泉州、漳州等地有专门的琉璃窑。琉璃瓦多用于寺庙的屋顶，与燕尾脊、剪粘等装饰配合，形成了闽南寺庙绚丽多彩的屋顶景观。</p>
 <p class="en-text">Glazed tiles are ceramic tiles with a glazed surface, most widely used in Minnan temples in Fujian, in colors including yellow, green, and blue. Fujian glazed tile craftsmanship reached its peak in the Ming-Qing period, with specialized kilns in Quanzhou and Zhangzhou. Glazed tiles are mostly used on temple roofs, combined with swallow-tail ridges and cut-and-paste porcelain decoration to create the brilliantly colorful roofscapes of Minnan temples.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、厦门南普陀、莆田湄洲妈祖庙</span><span>🔗 关联: 燕尾脊, 剪粘, 寺庙, 闽南建筑</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、厦门南普陀、莆田湄洲妈祖庙</span><span> 关联: 燕尾脊, 剪粘, 寺庙, 闽南建筑</span></div>
 </div>
 <div class="entry">
 <h3>壁画</h3>
 <div class="en-term">Mural (Bihua)</div>
 <p class="zh-text">福建寺庙和民居中保存有大量古代壁画，题材包括佛教故事、道教神仙、历史人物、花鸟山水等。福建壁画以闽南寺庙的壁画最为著名，色彩鲜艳，线条流畅，具有浓厚的地方特色。泉州开元寺、厦门青礁慈济宫、漳州南山寺等都保存有精美的古代壁画，是研究福建古代绘画艺术的重要实物。</p>
 <p class="en-text">Numerous ancient murals survive in Fujian temples and residences, with subjects including Buddhist stories, Taoist immortals, historical figures, flowers, birds, and landscapes. The most famous are murals in Minnan temples, with vivid colors and flowing lines, strong local characteristics. Quanzhou's Kaiyuan Temple, Xiamen's Qingjiao Ciji Palace, and Zhangzhou's Nanshan Temple all preserve exquisite ancient murals, important artifacts for studying ancient Fujian painting art.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、厦门青礁慈济宫、漳州南山寺</span><span>🔗 关联: 寺庙, 闽南建筑, 彩塑, 灰塑</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、厦门青礁慈济宫、漳州南山寺</span><span> 关联: 寺庙, 闽南建筑, 彩塑, 灰塑</span></div>
 </div>
 <div class="entry">
 <h3>彩塑</h3>
 <div class="en-term">Painted Sculpture (Caisu)</div>
 <p class="zh-text">福建寺庙中保存有大量彩塑，包括佛像、菩萨像、罗汉像、神像等。福建彩塑以闽南寺庙的泥塑和脱胎漆器最为著名，工艺精湛，色彩绚丽。泉州开元寺的宋代石佛、福州西禅寺的五百罗汉、莆田妈祖庙的妈祖像等都是福建彩塑艺术的精品。脱胎漆器是福州特有的工艺，用于制作佛像和陈设品。</p>
 <p class="en-text">Numerous painted sculptures survive in Fujian temples, including Buddha, bodhisattva, arhat, and deity statues. Fujian painted sculpture is most famous for clay sculpture and bodiless lacquerware in Minnan temples, with exquisite craftsmanship and brilliant colors. The Song stone Buddhas at Quanzhou's Kaiyuan Temple, the Five Hundred Arhats at Fuzhou's Xichan Temple, and the Mazu statue at Putian's Mazu Temple are fine examples. Bodiless lacquerware is a Fuzhou-specific craft used for Buddhist statues and ornaments.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、福州西禅寺、莆田湄洲妈祖庙</span><span>🔗 关联: 寺庙, 壁画, 脱胎漆器, 闽南建筑</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、福州西禅寺、莆田湄洲妈祖庙</span><span> 关联: 寺庙, 壁画, 脱胎漆器, 闽南建筑</span></div>
 </div>
 <div class="entry">
 <h3>藻井</h3>
 <div class="en-term">Caisson Ceiling (Zaojing)</div>
 <p class="zh-text">藻井是中国古代建筑天花板上的装饰性凹面结构，福建地区的藻井以闽南寺庙和福州华林寺最为著名。福建藻井多为八角形或圆形，层层叠涩，中心雕刻或绘制龙凤、莲花等图案，工艺精湛。泉州开元寺大雄宝殿的藻井、福州华林寺大殿的藻井都是福建古代建筑装饰的精品。</p>
 <p class="en-text">The caisson ceiling (zaojing) is a decorative sunken structure in ancient Chinese ceilings, with Fujian's most famous examples in Minnan temples and Fuzhou's Hualin Temple. Mostly octagonal or round with stacked moldings, the center is carved or painted with dragons, phoenixes, or lotuses in exquisite craftsmanship. The caissons at Quanzhou's Kaiyuan Temple Mahavira Hall and Fuzhou's Hualin Temple Main Hall are fine examples of ancient Fujian architectural decoration.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、福州华林寺、莆田元妙观</span><span>🔗 关联: 斗拱, 寺庙, 宋代建筑, 闽南建筑</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、福州华林寺、莆田元妙观</span><span> 关联: 斗拱, 寺庙, 宋代建筑, 闽南建筑</span></div>
 </div>
 <div class="entry">
 <h3>悬鱼惹草</h3>
 <div class="en-term">Hanging Fish and Grass (Xuanyu Recao)</div>
 <p class="zh-text">悬鱼惹草是中国古代建筑博风板下的装饰构件，悬鱼为鱼形，惹草为草形，具有装饰和防火的象征意义。福建地区的悬鱼惹草在继承中原传统的基础上形成了地方特色，闽南地区多为剪粘或灰塑制作，福州地区则多为木雕。福建悬鱼惹草造型丰富，是传统建筑山面装饰的重要组成部分。</p>
 <p class="en-text">Hanging fish and grass (xuanyu recao) are decorative components below the gable boards of ancient Chinese architecture—the hanging fish is fish-shaped and the grass is plant-shaped, with both decorative and fire-prevention symbolic meaning. Fujian's hanging fish and grass developed local characteristics while inheriting Central Plains traditions: in Minnan they are mostly made of cut-and-paste porcelain or gray plaster, while in Fuzhou they are mostly wood-carved. With rich forms, they are important components of traditional building gable decoration in Fujian.</p>
-<div class="meta"><span>📍 实例: 泉州蔡氏古民居、福州三坊七巷、漳州古城</span><span>🔗 关联: 燕尾脊, 灰塑, 剪粘, 闽南建筑</span></div>
+<div class="meta"><span> 实例: 泉州蔡氏古民居、福州三坊七巷、漳州古城</span><span> 关联: 燕尾脊, 灰塑, 剪粘, 闽南建筑</span></div>
 </div>
 <div class="entry">
 <h3>石敢当</h3>
 <div class="en-term">Stone Tablet (Shigandang)</div>
 <p class="zh-text">石敢当是福建民间广泛使用的镇宅辟邪石刻，通常刻有'石敢当'或'泰山石敢当'字样，立于街巷口、宅门前或桥梁旁，具有辟邪镇宅的功能。福建石敢当分布广泛，造型多样，有的刻有狮首、八卦等图案。石敢当是福建民间信仰和建筑文化的独特现象，反映了福建人对居住环境的风水观念。</p>
 <p class="en-text">Stone tablets (shigandang) are widely used evil-warding stone carvings in Fujian folk culture, usually inscribed with 'Shigandang' or 'Taishan Shigandang', placed at street intersections, in front of residences, or beside bridges to ward off evil and protect the home. Widely distributed in Fujian with diverse forms, some are carved with lion heads or bagua patterns. Shigandang is a unique phenomenon of Fujian folk belief and architectural culture, reflecting Fujian people's fengshui concepts about living environments.</p>
-<div class="meta"><span>📍 实例: 泉州古城、福州三坊七巷、漳州古城</span><span>🔗 关联: 闽南建筑, 民间信仰, 传统村落, 风水</span></div>
+<div class="meta"><span> 实例: 泉州古城、福州三坊七巷、漳州古城</span><span> 关联: 闽南建筑, 民间信仰, 传统村落, 风水</span></div>
 </div>
 </div>
 <div class="section">
@@ -297,35 +341,35 @@ body{font-family:Georgia,"Times New Roman","Microsoft YaHei",serif;background:#f
 <div class="en-term">Red Brick (Hongzhuan)</div>
 <p class="zh-text">红砖是闽南地区最具特色的建筑材料，以当地黏土烧制而成，呈鲜艳的红色，质地坚硬。闽南红砖与北方青砖不同，其烧制温度更高，氧化铁含量高，呈现出独特的红色。红砖在闽南建筑中用于墙体、地面、装饰等各个部位，形成了'红砖文化'。闽南红砖的使用与福建人的海洋文化和对红色的崇尚密切相关。</p>
 <p class="en-text">Red brick is the most distinctive building material in southern Fujian, fired from local clay into vivid red, hard bricks. Unlike northern grey bricks, Minnan red bricks are fired at higher temperatures with high iron oxide content, producing their unique red color. Used in walls, floors, and decoration in Minnan architecture, red bricks formed the 'red-brick culture'. The use of red brick in Minnan is closely related to Fujian's maritime culture and reverence for the color red.</p>
-<div class="meta"><span>📍 实例: 泉州蔡氏古民居、厦门鼓浪屿、漳州古城</span><span>🔗 关联: 红砖厝, 出砖入石, 镜面墙, 闽南建筑</span></div>
+<div class="meta"><span> 实例: 泉州蔡氏古民居、厦门鼓浪屿、漳州古城</span><span> 关联: 红砖厝, 出砖入石, 镜面墙, 闽南建筑</span></div>
 </div>
 <div class="entry">
 <h3>花岗岩</h3>
 <div class="en-term">Granite (Huagangyan)</div>
 <p class="zh-text">福建是中国花岗岩资源最丰富的省份之一，花岗岩是福建传统建筑中最重要的石材。福建花岗岩质地坚硬，色泽丰富，广泛用于建筑的台基、柱子、栏杆、墙体、石狮等。闽南建筑中常见的'出砖入石'就是红砖与花岗岩的组合使用。惠安石雕以花岗岩为主要材料，是中国石雕艺术的重要流派。</p>
 <p class="en-text">Fujian is one of China's provinces richest in granite resources, and granite is the most important stone material in traditional Fujian architecture. Fujian granite is hard with rich colors, widely used for building pedestals, columns, railings, walls, and stone lions. The common 'brick-and-stone wall' (chuzhuan rushi) in Minnan architecture combines red brick with granite. Hui'an stone carving, using granite as its main material, is an important school of Chinese stone carving art.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、惠安崇武古城、厦门鼓浪屿</span><span>🔗 关联: 出砖入石, 石雕, 红砖厝, 闽南建筑</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、惠安崇武古城、厦门鼓浪屿</span><span> 关联: 出砖入石, 石雕, 红砖厝, 闽南建筑</span></div>
 </div>
 <div class="entry">
 <h3>生土</h3>
 <div class="en-term">Raw Earth (Shengtu)</div>
 <p class="zh-text">生土是福建土楼和土堡的主要建筑材料，以当地黏土、砂石、石灰等混合，加入糯米汁、红糖等增强强度，分层夯筑而成。生土墙体厚达1-2米，具有良好的保温隔热性能和防御功能。福建生土建筑技术历史悠久，客家土楼是生土建筑的巅峰之作，2008年被列入世界文化遗产名录。</p>
 <p class="en-text">Raw earth is the main building material of Fujian tulou and tubao, mixed from local clay, sand, gravel, and lime, with glutinous rice juice and brown sugar added to enhance strength, rammed in layers. Raw earth walls are 1-2 meters thick, with excellent thermal insulation and defensive functions. Fujian raw earth building technology has a long history; Hakka tulou represent the pinnacle of raw earth architecture and were listed as UNESCO World Heritage Sites in 2008.</p>
-<div class="meta"><span>📍 实例: 永定承启楼、南靖田螺坑、大田安良堡</span><span>🔗 关联: 土楼, 土堡, 客家, 世界文化遗产</span></div>
+<div class="meta"><span> 实例: 永定承启楼、南靖田螺坑、大田安良堡</span><span> 关联: 土楼, 土堡, 客家, 世界文化遗产</span></div>
 </div>
 <div class="entry">
 <h3>蚵壳</h3>
 <div class="en-term">Oyster Shell (Keke)</div>
 <p class="zh-text">蚵壳（牡蛎壳）是泉州沿海地区独特的建筑材料，用于砌筑蚵壳厝的墙体。蚵壳多为宋元时期海外贸易从东南亚运回的牡蛎壳，体积大，质地轻，具有隔热、防碱、防风的特点。蚵壳厝是海上丝绸之路的实物见证，体现了福建海洋文化的独特性。蚵壳主要分布在泉州鲟埔、法石等沿海地区。</p>
 <p class="en-text">Oyster shells are a unique building material in coastal Quanzhou, used to build the walls of oyster-shell houses. Mostly brought back from Southeast Asia during Song-Yuan overseas trade, the shells are large and light, with thermal insulation, alkali resistance, and wind resistance. Oyster-shell houses are material evidence of the Maritime Silk Road, reflecting the uniqueness of Fujian maritime culture. Oyster shells are mainly distributed in coastal areas such as Xunpu and Fashi in Quanzhou.</p>
-<div class="meta"><span>📍 实例: 泉州鲟埔蚵壳厝、泉州法石蚵壳厝</span><span>🔗 关联: 蚵壳厝, 红砖, 海上丝绸之路, 闽南建筑</span></div>
+<div class="meta"><span> 实例: 泉州鲟埔蚵壳厝、泉州法石蚵壳厝</span><span> 关联: 蚵壳厝, 红砖, 海上丝绸之路, 闽南建筑</span></div>
 </div>
 <div class="entry">
 <h3>木材</h3>
 <div class="en-term">Timber (Mucai)</div>
 <p class="zh-text">福建森林资源丰富，木材是传统建筑中最重要的材料之一。福建传统建筑以木结构为主，福州华林寺大殿、泉州玄妙观三清殿等宋代木构建筑是中国古代建筑的珍品。闽东北木拱廊桥完全以木材搭接而成，不用一钉一铆，体现了福建古代木构技术的高超水平。福建木材种类丰富，杉木、松木、楠木、樟木等都用于建筑。</p>
 <p class="en-text">Fujian is rich in forest resources, and timber is one of the most important materials in traditional architecture. Traditional Fujian architecture is mainly timber-framed; Song dynasty wooden buildings such as Fuzhou's Hualin Temple Main Hall and Quanzhou's Xuanmiao Temple Sanqing Hall are treasures of ancient Chinese architecture. Northeastern Fujian's timber arch lounge bridges are built entirely with timber joinery without a single nail or rivet, demonstrating the high level of ancient Fujian timber technology. Fujian has rich timber species including fir, pine, nanmu, and camphor, all used in construction.</p>
-<div class="meta"><span>📍 实例: 福州华林寺、屏南万安桥、泉州玄妙观</span><span>🔗 关联: 木拱廊桥, 斗拱, 宋代建筑, 闽东北建筑</span></div>
+<div class="meta"><span> 实例: 福州华林寺、屏南万安桥、泉州玄妙观</span><span> 关联: 木拱廊桥, 斗拱, 宋代建筑, 闽东北建筑</span></div>
 </div>
 </div>
 <div class="section">
@@ -335,74 +379,95 @@ body{font-family:Georgia,"Times New Roman","Microsoft YaHei",serif;background:#f
 <div class="en-term">World Cultural Heritage</div>
 <p class="zh-text">福建拥有多项世界文化遗产：福建土楼（2008年，永定、南靖、华安）、鼓浪屿（2017年，厦门）、泉州：宋元中国的世界海洋商贸中心（2021年，包括22处遗产点）。此外，武夷山（1999年，文化与自然双重遗产）也包含丰富的古建筑。这些遗产是福建古建筑和文化景观的精华，体现了福建作为海上丝绸之路起点的历史地位。</p>
 <p class="en-text">Fujian has multiple UNESCO World Cultural Heritage sites: Fujian Tulou (2008, Yongding, Nanjing, Hua'an), Gulangyu (2017, Xiamen), and 'Quanzhou: Emporium of the World in Song-Yuan China' (2021, including 22 heritage sites). In addition, Wuyi Mountain (1999, mixed cultural and natural heritage) contains rich ancient architecture. These heritage sites represent the essence of Fujian's ancient architecture and cultural landscapes, reflecting Fujian's historical position as the starting point of the Maritime Silk Road.</p>
-<div class="meta"><span>📍 实例: 福建土楼、鼓浪屿、泉州宋元海洋商贸中心</span><span>🔗 关联: 土楼, 闽南建筑, 海上丝绸之路, 客家</span></div>
+<div class="meta"><span> 实例: 福建土楼、鼓浪屿、泉州宋元海洋商贸中心</span><span> 关联: 土楼, 闽南建筑, 海上丝绸之路, 客家</span></div>
 </div>
 <div class="entry">
 <h3>海上丝绸之路</h3>
 <div class="en-term">Maritime Silk Road (Haihang Sichouzhilu)</div>
 <p class="zh-text">福建是海上丝绸之路的重要起点和核心区域，泉州在宋元时期是世界第一大港，与世界100多个国家和地区有贸易往来。海上丝绸之路对福建建筑产生了深远影响：蚵壳厝使用了海外贸易运回的牡蛎壳，闽南建筑中的伊斯兰元素、印度教元素、佛教元素都体现了文化交流。泉州开元寺、清净寺、天后宫等都是海上丝绸之路的建筑见证。</p>
 <p class="en-text">Fujian is an important starting point and core region of the Maritime Silk Road. Quanzhou was the world's largest port in the Song-Yuan period, trading with over 100 countries and regions. The Maritime Silk Road profoundly influenced Fujian architecture: oyster-shell houses used shells brought back from overseas trade, and Islamic, Hindu, and Buddhist elements in Minnan architecture reflect cultural exchange. Quanzhou's Kaiyuan Temple, Qingjing Mosque, and Tianhou Palace are all architectural witnesses of the Maritime Silk Road.</p>
-<div class="meta"><span>📍 实例: 泉州开元寺、泉州清净寺、泉州天后宫</span><span>🔗 关联: 闽南建筑, 蚵壳厝, 妈祖庙, 世界文化遗产</span></div>
+<div class="meta"><span> 实例: 泉州开元寺、泉州清净寺、泉州天后宫</span><span> 关联: 闽南建筑, 蚵壳厝, 妈祖庙, 世界文化遗产</span></div>
 </div>
 <div class="entry">
 <h3>客家文化</h3>
 <div class="en-term">Hakka Culture (Kejia Wenhua)</div>
 <p class="zh-text">客家是汉民族的重要支系，福建西部是客家民系的形成地和主要聚居地。客家人在迁徙过程中创造了独特的建筑文化，以土楼、围屋、土堡为代表，体现了客家人聚族而居、崇文重教、坚韧不拔的精神。福建客家建筑主要分布在龙岩、三明等地，永定客家土楼是客家建筑的巅峰之作，2008年被列入世界文化遗产名录。</p>
 <p class="en-text">The Hakka are an important branch of the Han Chinese, and western Fujian is the formation place and main settlement of the Hakka people. During their migrations, the Hakka created a unique architectural culture represented by tulou, weiwu (enclosed houses), and tubao, reflecting the Hakka spirit of clan living, reverence for education, and resilience. Fujian Hakka architecture is mainly distributed in Longyan and Sanming; Yongding Hakka tulou represent the pinnacle of Hakka architecture and were listed as UNESCO World Heritage Sites in 2008.</p>
-<div class="meta"><span>📍 实例: 永定承启楼、永定振成楼、龙岩培田古民居</span><span>🔗 关联: 土楼, 客家土楼, 土堡, 传统村落</span></div>
+<div class="meta"><span> 实例: 永定承启楼、永定振成楼、龙岩培田古民居</span><span> 关联: 土楼, 客家土楼, 土堡, 传统村落</span></div>
 </div>
 <div class="entry">
 <h3>闽南文化</h3>
 <div class="en-term">Minnan Culture (Minnan Wenhua)</div>
 <p class="zh-text">闽南文化是福建南部地区形成的地域文化，以泉州、厦门、漳州为核心，以闽南语为载体，以海洋文化和商业文化为特色。闽南文化在建筑上体现为红砖厝、燕尾脊、剪粘、交趾陶、出砖入石等独特元素，以及妈祖信仰、保生大帝信仰等民间宗教。闽南文化随移民传播到台湾、东南亚等地，对当地建筑产生了深远影响。</p>
 <p class="en-text">Minnan culture is a regional culture formed in southern Fujian, centered on Quanzhou, Xiamen, and Zhangzhou, with the Minnan language as its carrier and maritime and commercial culture as its characteristics. In architecture, Minnan culture manifests as unique elements including red-brick residences, swallow-tail ridges, cut-and-paste porcelain, cochin pottery, and brick-and-stone walls, as well as folk religions such as Mazu and Baosheng Dadi worship. Minnan culture spread with immigrants to Taiwan and Southeast Asia, profoundly influencing local architecture.</p>
-<div class="meta"><span>📍 实例: 泉州蔡氏古民居、厦门鼓浪屿、漳州古城</span><span>🔗 关联: 红砖厝, 燕尾脊, 剪粘, 妈祖庙</span></div>
+<div class="meta"><span> 实例: 泉州蔡氏古民居、厦门鼓浪屿、漳州古城</span><span> 关联: 红砖厝, 燕尾脊, 剪粘, 妈祖庙</span></div>
 </div>
 <div class="entry">
 <h3>闽越文化</h3>
 <div class="en-term">Minyue Culture (Minyue Wenhua)</div>
 <p class="zh-text">闽越文化是先秦至汉代福建地区闽越族创造的地域文化，是福建文化的源头之一。闽越人擅长造船和航海，创造了独特的干栏式建筑和悬棺葬俗。武夷山城村汉城遗址是闽越国的都城遗址，出土有大量闽越文化遗物。闽越文化后来与中原文化融合，形成了福建文化的基础，对福建建筑的干栏式、巢居式传统有深远影响。</p>
 <p class="en-text">Minyue culture is a regional culture created by the Minyue people in Fujian from the pre-Qin to Han periods, one of the sources of Fujian culture. The Minyue were skilled at shipbuilding and navigation, creating unique stilt-style architecture and cliff burial customs. the Ancient Han City Site at Chengcun, Wuyishan, was the capital of the Minyue Kingdom, yielding numerous Minyue cultural relics. Minyue culture later merged with Central Plains culture to form the foundation of Fujian culture, profoundly influencing Fujian's stilt and nest-style architectural traditions.</p>
-<div class="meta"><span>📍 实例: 武夷山城村汉城遗址、闽侯昙石山遗址</span><span>🔗 关联: 古汉城遗址, 武夷山, 干栏式建筑, 汉代建筑</span></div>
+<div class="meta"><span> 实例: 武夷山城村汉城遗址、闽侯昙石山遗址</span><span> 关联: 古汉城遗址, 武夷山, 干栏式建筑, 汉代建筑</span></div>
 </div>
 <div class="entry">
 <h3>妈祖信仰</h3>
 <div class="en-term">Mazu Belief (Mazu Xinyang)</div>
 <p class="zh-text">妈祖信仰起源于福建莆田湄洲岛，妈祖（林默娘）是宋代莆田的一位女子，因救助海难而被尊为海上保护神。妈祖信仰随福建移民传播到中国沿海、台湾、东南亚等地，成为全球华人最重要的民间信仰之一。福建有妈祖庙数千座，湄洲妈祖庙为祖庙。妈祖信仰对福建建筑产生了深远影响，妈祖庙的建筑风格和装饰成为闽南建筑的重要组成部分。</p>
 <p class="en-text">Mazu belief originated on Meizhou Island, Putian, Fujian. Mazu (Lin Moniang) was a Song dynasty woman from Putian who was revered as a sea goddess after dying while rescuing people from shipwrecks. Mazu belief spread with Fujian immigrants to China's coasts, Taiwan, and Southeast Asia, becoming one of the most important folk beliefs of Chinese people worldwide. Fujian has thousands of Mazu temples, with Meizhou Mazu Temple as the ancestral temple. Mazu belief profoundly influenced Fujian architecture, with the architectural style and decoration of Mazu temples becoming important components of Minnan architecture.</p>
-<div class="meta"><span>📍 实例: 莆田湄洲妈祖庙、泉州天后宫、厦门青礁慈济宫</span><span>🔗 关联: 妈祖庙, 闽南建筑, 海上丝绸之路, 民间信仰</span></div>
+<div class="meta"><span> 实例: 莆田湄洲妈祖庙、泉州天后宫、厦门青礁慈济宫</span><span> 关联: 妈祖庙, 闽南建筑, 海上丝绸之路, 民间信仰</span></div>
 </div>
 <div class="entry">
 <h3>福州文化</h3>
 <div class="en-term">Fuzhou Culture (Fuzhou Wenhua)</div>
 <p class="zh-text">福州文化是以福州为中心的闽东地域文化，以福州语为载体，具有深厚的历史文化底蕴。福州是福建省会，有2200多年建城史，三坊七巷是福州文化的集中体现。福州建筑以马鞍墙、马鞍脊为标志，与闽南燕尾脊形成鲜明对比。福州还是脱胎漆器、寿山石雕、软木画等传统工艺的发源地，这些工艺广泛用于建筑装饰。</p>
 <p class="en-text">Fuzhou culture is the eastern Fujian regional culture centered on Fuzhou, with the Fuzhou dialect as its carrier and profound historical heritage. Fuzhou, the provincial capital, has over 2,200 years of city history, with Three Lanes and Seven Alleys as the concentrated embodiment of Fuzhou culture. Fuzhou architecture is marked by saddle walls and saddle ridges, contrasting sharply with Minnan's swallow-tail ridges. Fuzhou is also the birthplace of traditional crafts including bodiless lacquerware, Shoushan stone carving, and cork painting, widely used in architectural decoration.</p>
-<div class="meta"><span>📍 实例: 福州三坊七巷、福州华林寺、闽清宏琳厝</span><span>🔗 关联: 三坊七巷, 马鞍墙, 马鞍脊, 脱胎漆器</span></div>
+<div class="meta"><span> 实例: 福州三坊七巷、福州华林寺、闽清宏琳厝</span><span> 关联: 三坊七巷, 马鞍墙, 马鞍脊, 脱胎漆器</span></div>
 </div>
 <div class="entry">
 <h3>闽东北文化</h3>
 <div class="en-term">Northeastern Fujian Culture (Mindongbei Wenhua)</div>
 <p class="zh-text">闽东北文化是以宁德、南平为中心的山区地域文化，以木拱廊桥、传统村落、畲族文化为特色。闽东北山区交通不便，保留了大量传统建筑和民俗文化。木拱廊桥是闽东北最具代表性的建筑，屏南、寿宁等地被誉为'世界廊桥之乡'。宁德还是畲族的主要聚居地，畲族建筑和文化是闽东北文化的重要组成部分。</p>
 <p class="en-text">Northeastern Fujian culture is a mountainous regional culture centered on Ningde and Nanping, characterized by timber arch lounge bridges, traditional villages, and She ethnic culture. Due to inconvenient transportation, the mountainous regions of northeastern Fujian preserve numerous traditional buildings and folk culture. Timber arch lounge bridges are the most representative architecture of northeastern Fujian, with Pingnan and Shouning known as the 'Hometown of World Lounge Bridges'. Ningde is also the main settlement of the She ethnic group, whose architecture and culture are important components of northeastern Fujian culture.</p>
-<div class="meta"><span>📍 实例: 屏南万安桥、寿宁升平桥、宁德漈下村</span><span>🔗 关联: 木拱廊桥, 廊桥, 虹梁, 传统村落</span></div>
+<div class="meta"><span> 实例: 屏南万安桥、寿宁升平桥、宁德漈下村</span><span> 关联: 木拱廊桥, 廊桥, 虹梁, 传统村落</span></div>
 </div>
 <div class="entry">
 <h3>近代建筑</h3>
 <div class="en-term">Modern Architecture (Jindai Jianzhu)</div>
 <p class="zh-text">福建近代建筑融合了中西建筑风格，以厦门鼓浪屿、福州仓山、泉州中山路等最为著名。鼓浪屿是近代万国建筑博览会，保存有1000多栋近代建筑，包括英式、法式、德式、日式、闽南式等多种风格，2017年被列入世界文化遗产名录。福建近代建筑体现了福建作为沿海开放地区的文化交流和融合，是中国近代建筑史的重要组成部分。</p>
 <p class="en-text">Modern Fujian architecture blends Chinese and Western styles, with the most famous examples on Xiamen's Gulangyu Island, Fuzhou's Cangshan, and Quanzhou's Zhongshan Road. Gulangyu is a modern international architecture expo, preserving over 1,000 modern buildings in British, French, German, Japanese, and Minnan styles, listed as a UNESCO World Heritage Site in 2017. Modern Fujian architecture reflects cultural exchange and fusion in Fujian as a coastal open region, serving as an important component of modern Chinese architectural history.</p>
-<div class="meta"><span>📍 实例: 厦门鼓浪屿、福州仓山老洋房、泉州中山路骑楼</span><span>🔗 关联: 骑楼, 鼓浪屿, 海派文化, 世界文化遗产</span></div>
+<div class="meta"><span> 实例: 厦门鼓浪屿、福州仓山老洋房、泉州中山路骑楼</span><span> 关联: 骑楼, 鼓浪屿, 海派文化, 世界文化遗产</span></div>
 </div>
 <div class="entry">
 <h3>脱胎漆器</h3>
 <div class="en-term">Bodiless Lacquerware (Tuotai Qiqi)</div>
 <p class="zh-text">脱胎漆器是福州特有的传统工艺，与景德镇瓷器、北京景泰蓝并称中国传统工艺三宝。脱胎漆器以泥土或石膏为胎，裱以夏布或绸布，涂漆后去掉内胎，形成轻巧坚固的漆器。脱胎漆器工艺精湛，色彩绚丽，广泛用于佛像、陈设品和建筑装饰。福州脱胎漆器始于清代乾隆年间，至今已有200多年历史。</p>
 <p class="en-text">Bodiless lacquerware is a Fuzhou-specific traditional craft, ranked with Jingdezhen porcelain and Beijing cloisonné as one of the Three Treasures of traditional Chinese crafts. Using clay or plaster as a core, wrapped with linen or silk cloth, lacquered, and then removing the inner core to form light and sturdy lacquerware. With exquisite craftsmanship and brilliant colors, it is widely used for Buddhist statues, ornaments, and architectural decoration. Fuzhou bodiless lacquerware began in the Qianlong era of the Qing dynasty, with a history of over 200 years.</p>
-<div class="meta"><span>📍 实例: 福州脱胎漆器厂、福州西禅寺佛像</span><span>🔗 关联: 彩塑, 福州文化, 三坊七巷, 传统工艺</span></div>
+<div class="meta"><span> 实例: 福州脱胎漆器厂、福州西禅寺佛像</span><span> 关联: 彩塑, 福州文化, 三坊七巷, 传统工艺</span></div>
 </div>
 </div>
 <div class="footer">
 <p>福建古建筑术语 · National Geographic风格 | 基于《福建古建筑地图》(刘畅) 整理</p>
 <p>Fujian Ancient Architecture Terms · National Geographic Style</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body></html>

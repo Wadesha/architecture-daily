@@ -33,12 +33,56 @@ body{font-family:'Segoe UI','Microsoft YaHei',sans-serif;background:#f5f0e8;colo
 .fact-box h3{color:#f39c12;font-size:1.3em;margin-bottom:12px}
 .fact-box ul{list-style:none}
 .fact-box li{padding:6px 0;padding-left:24px;position:relative;font-size:.92em}
-.fact-box li::before{content:'★';position:absolute;left:0;color:#f39c12}
+.fact-box li::before{content:'';position:absolute;left:0;color:#f39c12}
 .footer{background:#2c3e50;color:#95a5a6;text-align:center;padding:24px;font-size:.85em;margin-top:40px}
 .footer a{color:#f39c12;text-decoration:none}
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="header">
 <h1>甘肃传统村落术语百科</h1>
 <div class="subtitle">Traditional Villages of Gansu — Terminopedia</div>
@@ -131,7 +175,7 @@ body{font-family:'Segoe UI','Microsoft YaHei',sans-serif;background:#f5f0e8;colo
 <div class="term-card"><span class="cat-tag">建筑特征 Feature</span><h3>外不见木内不见土</h3><div class="en">Wood Concealed Outside, Earth Concealed Inside</div><div class="def">甘南藏区传统土木结构建筑的典型特征：外部以夯土墙围护，看不到木构件；内部以木结构为承重框架，看不到土体。尼巴村百年藏寨、扎尕那村、茨日那村、王府村民居均体现此特征。</div><div class="def-en">A defining feature of traditional earthy-wood buildings in Southern Gansu Tibetan areas: the exterior is enclosed by rammed earth with no visible timber, while the interior uses a timber load-bearing frame with no visible earth. Seen in Niba's century-old Tibetan stockade, Zhagana, Cirina, and Wangfu dwellings.</div><div class="example"><strong>实例 Example:</strong> 尼巴村百年藏寨、扎尕那村、茨日那村、王府村</div></div>
 </div>
 <div class="fact-box">
-<h3>★ 关键数据速览 | Key Facts at a Glance</h3>
+<h3> 关键数据速览 | Key Facts at a Glance</h3>
 <ul>
 <li>全书覆盖 57 个传统村落 | 57 traditional villages covered</li>
 <li>四大区域：陇中14村、陇东南25村、甘南15村、河西3村 | Four regions: 14 Central, 25 Southeastern, 15 Southern, 3 Hexi</li>
@@ -147,5 +191,28 @@ body{font-family:'Segoe UI','Microsoft YaHei',sans-serif;background:#f5f0e8;colo
 <p>《甘肃传统村落》术语百科 · DK版 | 基于刘奔腾、张小娟、李沁鞠编著《甘肃传统村落》（东南大学出版社）原文提取</p>
 <p>Traditional Villages of Gansu Terminopedia · DK Edition | Extracted from the original text by Liu Benteng, Zhang Xiaojuan, Li Qinju (Southeast University Press)</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+
+<a id="planning" style="display:block;margin-top:30px;padding:8px;background:#f5f4f0;color:#6b6b6b;font-size:12px;"> planning 未在此页定义</a>
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

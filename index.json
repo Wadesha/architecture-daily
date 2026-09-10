@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T13:09:13.132Z",
+  "generated_at": "2026-09-11T07:08:14",
   "repo": "Wadesha/architecture-daily",
   "pages_url": "https://wadesha.github.io/architecture-daily/",
-  "total": 144,
+  "total": 201,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
     "03_overseas-architecture": 35,
-    "04_style-analysis": 11
+    "04_style-analysis": 68
   },
   "category_labels": {
     "01_provincial-architecture": "省级建筑 Provincial Architecture",
@@ -21,990 +21,990 @@
       "title": "Fujian Architecture DK bilingual",
       "category": "01_provincial-architecture",
       "subcategory": "fujian",
-      "size": 123574,
-      "words": 61787,
-      "modified": "2026-09-03"
+      "size": 125895,
+      "words": 97877,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/fujian/Fujian_Architecture_DK_bilingual_FULL.html",
       "title": "Fujian Architecture DK bilingual FULL",
       "category": "01_provincial-architecture",
       "subcategory": "fujian",
-      "size": 1835839,
-      "words": 917919,
-      "modified": "2026-09-04"
+      "size": 1822153,
+      "words": 1438700,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/fujian/glossary_Britannica_style.html",
       "title": "glossary Britannica style",
       "category": "01_provincial-architecture",
       "subcategory": "fujian",
-      "size": 75632,
-      "words": 37816,
-      "modified": "2026-09-03"
+      "size": 78927,
+      "words": 61168,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/fujian/glossary_Britannica_style_full.html",
       "title": "glossary Britannica style full",
       "category": "01_provincial-architecture",
       "subcategory": "fujian",
-      "size": 76288,
-      "words": 38144,
-      "modified": "2026-09-04"
+      "size": 79300,
+      "words": 61011,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/fujian/glossary_DK_style.html",
       "title": "glossary DK style",
       "category": "01_provincial-architecture",
       "subcategory": "fujian",
-      "size": 77525,
-      "words": 38762,
-      "modified": "2026-09-03"
+      "size": 80631,
+      "words": 62311,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/fujian/glossary_DK_style_full.html",
       "title": "glossary DK style full",
       "category": "01_provincial-architecture",
       "subcategory": "fujian",
-      "size": 94255,
-      "words": 47127,
-      "modified": "2026-09-04"
+      "size": 96598,
+      "words": 78527,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/fujian/glossary_NationalGeographic_style.html",
       "title": "glossary NationalGeographic style",
       "category": "01_provincial-architecture",
       "subcategory": "fujian",
-      "size": 67599,
-      "words": 33799,
-      "modified": "2026-09-03"
+      "size": 70550,
+      "words": 53016,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/fujian/glossary_NationalGeographic_style_full.html",
       "title": "glossary NationalGeographic style full",
       "category": "01_provincial-architecture",
       "subcategory": "fujian",
-      "size": 78454,
-      "words": 39227,
-      "modified": "2026-09-04"
-    },
-    {
-      "url": "01_provincial-architecture/hubei/glossary_Britannica_style.html",
-      "title": "glossary Britannica style",
-      "category": "01_provincial-architecture",
-      "subcategory": "hubei",
-      "size": 74587,
-      "words": 37293,
-      "modified": "2026-09-03"
-    },
-    {
-      "url": "01_provincial-architecture/hubei/glossary_Britannica_style_full.html",
-      "title": "glossary Britannica style full",
-      "category": "01_provincial-architecture",
-      "subcategory": "hubei",
-      "size": 73953,
-      "words": 36976,
-      "modified": "2026-09-04"
-    },
-    {
-      "url": "01_provincial-architecture/hubei/glossary_DK_style.html",
-      "title": "glossary DK style",
-      "category": "01_provincial-architecture",
-      "subcategory": "hubei",
-      "size": 77080,
-      "words": 38540,
-      "modified": "2026-09-03"
-    },
-    {
-      "url": "01_provincial-architecture/hubei/glossary_DK_style_full.html",
-      "title": "glossary DK style full",
-      "category": "01_provincial-architecture",
-      "subcategory": "hubei",
-      "size": 71979,
-      "words": 35989,
-      "modified": "2026-09-04"
-    },
-    {
-      "url": "01_provincial-architecture/hubei/glossary_NationalGeographic_style.html",
-      "title": "glossary NationalGeographic style",
-      "category": "01_provincial-architecture",
-      "subcategory": "hubei",
-      "size": 67200,
-      "words": 33600,
-      "modified": "2026-09-03"
-    },
-    {
-      "url": "01_provincial-architecture/hubei/glossary_NationalGeographic_style_full.html",
-      "title": "glossary NationalGeographic style full",
-      "category": "01_provincial-architecture",
-      "subcategory": "hubei",
-      "size": 66148,
-      "words": 33074,
-      "modified": "2026-09-04"
+      "size": 81462,
+      "words": 63217,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/hubei/Hubei_Architecture_DK_bilingual.html",
       "title": "Hubei Architecture DK bilingual",
       "category": "01_provincial-architecture",
       "subcategory": "hubei",
-      "size": 114374,
-      "words": 57187,
-      "modified": "2026-09-03"
+      "size": 116794,
+      "words": 90865,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/hubei/Hubei_Architecture_DK_bilingual_FULL.html",
       "title": "Hubei Architecture DK bilingual FULL",
       "category": "01_provincial-architecture",
       "subcategory": "hubei",
-      "size": 2131949,
-      "words": 1065974,
-      "modified": "2026-09-04"
+      "size": 2122917,
+      "words": 1714115,
+      "modified": "2026-09-11"
     },
     {
-      "url": "01_provincial-architecture/jiangsu-shanghai/glossary_Britannica_style.html",
+      "url": "01_provincial-architecture/hubei/glossary_Britannica_style.html",
       "title": "glossary Britannica style",
       "category": "01_provincial-architecture",
-      "subcategory": "jiangsu-shanghai",
-      "size": 70898,
-      "words": 35449,
-      "modified": "2026-09-03"
+      "subcategory": "hubei",
+      "size": 77882,
+      "words": 60668,
+      "modified": "2026-09-11"
     },
     {
-      "url": "01_provincial-architecture/jiangsu-shanghai/glossary_Britannica_style_full.html",
+      "url": "01_provincial-architecture/hubei/glossary_Britannica_style_full.html",
       "title": "glossary Britannica style full",
       "category": "01_provincial-architecture",
-      "subcategory": "jiangsu-shanghai",
-      "size": 83671,
-      "words": 41835,
-      "modified": "2026-09-04"
+      "subcategory": "hubei",
+      "size": 76661,
+      "words": 62501,
+      "modified": "2026-09-11"
     },
     {
-      "url": "01_provincial-architecture/jiangsu-shanghai/glossary_DK_style.html",
+      "url": "01_provincial-architecture/hubei/glossary_DK_style.html",
       "title": "glossary DK style",
       "category": "01_provincial-architecture",
-      "subcategory": "jiangsu-shanghai",
-      "size": 77970,
-      "words": 38985,
-      "modified": "2026-09-03"
+      "subcategory": "hubei",
+      "size": 80186,
+      "words": 62399,
+      "modified": "2026-09-11"
     },
     {
-      "url": "01_provincial-architecture/jiangsu-shanghai/glossary_DK_style_full.html",
+      "url": "01_provincial-architecture/hubei/glossary_DK_style_full.html",
       "title": "glossary DK style full",
       "category": "01_provincial-architecture",
-      "subcategory": "jiangsu-shanghai",
-      "size": 79516,
-      "words": 39758,
-      "modified": "2026-09-04"
+      "subcategory": "hubei",
+      "size": 74845,
+      "words": 61217,
+      "modified": "2026-09-11"
     },
     {
-      "url": "01_provincial-architecture/jiangsu-shanghai/glossary_NationalGeographic_style.html",
+      "url": "01_provincial-architecture/hubei/glossary_NationalGeographic_style.html",
       "title": "glossary NationalGeographic style",
       "category": "01_provincial-architecture",
-      "subcategory": "jiangsu-shanghai",
-      "size": 72487,
-      "words": 36243,
-      "modified": "2026-09-03"
+      "subcategory": "hubei",
+      "size": 70151,
+      "words": 53144,
+      "modified": "2026-09-11"
     },
     {
-      "url": "01_provincial-architecture/jiangsu-shanghai/glossary_NationalGeographic_style_full.html",
+      "url": "01_provincial-architecture/hubei/glossary_NationalGeographic_style_full.html",
       "title": "glossary NationalGeographic style full",
       "category": "01_provincial-architecture",
-      "subcategory": "jiangsu-shanghai",
-      "size": 74058,
-      "words": 37029,
-      "modified": "2026-09-04"
+      "subcategory": "hubei",
+      "size": 68766,
+      "words": 56233,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/jiangsu-shanghai/Jiangsu_Shanghai_Architecture_DK_bilingual.html",
       "title": "Jiangsu Shanghai Architecture DK bilingual",
       "category": "01_provincial-architecture",
       "subcategory": "jiangsu-shanghai",
-      "size": 305529,
-      "words": 152764,
-      "modified": "2026-09-03"
+      "size": 307550,
+      "words": 245685,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/jiangsu-shanghai/Jiangsu_Shanghai_Architecture_DK_bilingual_FULL.html",
       "title": "Jiangsu Shanghai Architecture DK bilingual FULL",
       "category": "01_provincial-architecture",
       "subcategory": "jiangsu-shanghai",
-      "size": 2217614,
-      "words": 1108807,
-      "modified": "2026-09-04"
+      "size": 2205087,
+      "words": 1676057,
+      "modified": "2026-09-11"
     },
     {
-      "url": "01_provincial-architecture/qingyuan/glossary_Britannica_style_full.html",
+      "url": "01_provincial-architecture/jiangsu-shanghai/glossary_Britannica_style.html",
+      "title": "glossary Britannica style",
+      "category": "01_provincial-architecture",
+      "subcategory": "jiangsu-shanghai",
+      "size": 74552,
+      "words": 59233,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/jiangsu-shanghai/glossary_Britannica_style_full.html",
       "title": "glossary Britannica style full",
       "category": "01_provincial-architecture",
-      "subcategory": "qingyuan",
-      "size": 64678,
-      "words": 32339,
-      "modified": "2026-09-04"
+      "subcategory": "jiangsu-shanghai",
+      "size": 86377,
+      "words": 72321,
+      "modified": "2026-09-11"
     },
     {
-      "url": "01_provincial-architecture/qingyuan/glossary_DK_style_full.html",
+      "url": "01_provincial-architecture/jiangsu-shanghai/glossary_DK_style.html",
+      "title": "glossary DK style",
+      "category": "01_provincial-architecture",
+      "subcategory": "jiangsu-shanghai",
+      "size": 81574,
+      "words": 66913,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/jiangsu-shanghai/glossary_DK_style_full.html",
       "title": "glossary DK style full",
       "category": "01_provincial-architecture",
-      "subcategory": "qingyuan",
-      "size": 69711,
-      "words": 34855,
-      "modified": "2026-09-04"
+      "subcategory": "jiangsu-shanghai",
+      "size": 81850,
+      "words": 68983,
+      "modified": "2026-09-11"
     },
     {
-      "url": "01_provincial-architecture/qingyuan/glossary_NationalGeographic_style_full.html",
+      "url": "01_provincial-architecture/jiangsu-shanghai/glossary_NationalGeographic_style.html",
+      "title": "glossary NationalGeographic style",
+      "category": "01_provincial-architecture",
+      "subcategory": "jiangsu-shanghai",
+      "size": 76131,
+      "words": 60794,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/jiangsu-shanghai/glossary_NationalGeographic_style_full.html",
       "title": "glossary NationalGeographic style full",
       "category": "01_provincial-architecture",
-      "subcategory": "qingyuan",
-      "size": 58654,
-      "words": 29327,
-      "modified": "2026-09-04"
+      "subcategory": "jiangsu-shanghai",
+      "size": 76661,
+      "words": 63589,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/qingyuan/Qingyuan_Architecture_DK_bilingual_FULL.html",
       "title": "Qingyuan Architecture DK bilingual FULL",
       "category": "01_provincial-architecture",
       "subcategory": "qingyuan",
-      "size": 945218,
-      "words": 472609,
-      "modified": "2026-09-04"
+      "size": 945161,
+      "words": 685431,
+      "modified": "2026-09-11"
     },
     {
-      "url": "01_provincial-architecture/shaanxi/glossary_Britannica_style.html",
-      "title": "glossary Britannica style",
-      "category": "01_provincial-architecture",
-      "subcategory": "shaanxi",
-      "size": 56006,
-      "words": 28003,
-      "modified": "2026-09-03"
-    },
-    {
-      "url": "01_provincial-architecture/shaanxi/glossary_Britannica_style_full.html",
+      "url": "01_provincial-architecture/qingyuan/glossary_Britannica_style_full.html",
       "title": "glossary Britannica style full",
       "category": "01_provincial-architecture",
-      "subcategory": "shaanxi",
-      "size": 50711,
-      "words": 25355,
-      "modified": "2026-09-04"
+      "subcategory": "qingyuan",
+      "size": 67765,
+      "words": 56635,
+      "modified": "2026-09-11"
     },
     {
-      "url": "01_provincial-architecture/shaanxi/glossary_DK_style.html",
-      "title": "glossary DK style",
-      "category": "01_provincial-architecture",
-      "subcategory": "shaanxi",
-      "size": 59497,
-      "words": 29748,
-      "modified": "2026-09-03"
-    },
-    {
-      "url": "01_provincial-architecture/shaanxi/glossary_DK_style_full.html",
+      "url": "01_provincial-architecture/qingyuan/glossary_DK_style_full.html",
       "title": "glossary DK style full",
       "category": "01_provincial-architecture",
-      "subcategory": "shaanxi",
-      "size": 63456,
-      "words": 31728,
-      "modified": "2026-09-04"
+      "subcategory": "qingyuan",
+      "size": 72339,
+      "words": 60454,
+      "modified": "2026-09-11"
     },
     {
-      "url": "01_provincial-architecture/shaanxi/glossary_NationalGeographic_style.html",
-      "title": "glossary NationalGeographic style",
-      "category": "01_provincial-architecture",
-      "subcategory": "shaanxi",
-      "size": 49932,
-      "words": 24966,
-      "modified": "2026-09-03"
-    },
-    {
-      "url": "01_provincial-architecture/shaanxi/glossary_NationalGeographic_style_full.html",
+      "url": "01_provincial-architecture/qingyuan/glossary_NationalGeographic_style_full.html",
       "title": "glossary NationalGeographic style full",
       "category": "01_provincial-architecture",
-      "subcategory": "shaanxi",
-      "size": 56627,
-      "words": 28313,
-      "modified": "2026-09-04"
+      "subcategory": "qingyuan",
+      "size": 61742,
+      "words": 50538,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/shaanxi/Shaanxi_Architecture_DK_bilingual.html",
       "title": "Shaanxi Architecture DK bilingual",
       "category": "01_provincial-architecture",
       "subcategory": "shaanxi",
-      "size": 108072,
-      "words": 54036,
-      "modified": "2026-09-03"
+      "size": 111522,
+      "words": 84506,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/shaanxi/Shaanxi_Architecture_DK_bilingual_FULL.html",
       "title": "Shaanxi Architecture DK bilingual FULL",
       "category": "01_provincial-architecture",
       "subcategory": "shaanxi",
-      "size": 954480,
-      "words": 477240,
-      "modified": "2026-09-04"
+      "size": 952070,
+      "words": 740365,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/shaanxi/glossary_Britannica_style.html",
+      "title": "glossary Britannica style",
+      "category": "01_provincial-architecture",
+      "subcategory": "shaanxi",
+      "size": 59525,
+      "words": 45941,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/shaanxi/glossary_Britannica_style_full.html",
+      "title": "glossary Britannica style full",
+      "category": "01_provincial-architecture",
+      "subcategory": "shaanxi",
+      "size": 53614,
+      "words": 45094,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/shaanxi/glossary_DK_style.html",
+      "title": "glossary DK style",
+      "category": "01_provincial-architecture",
+      "subcategory": "shaanxi",
+      "size": 63049,
+      "words": 49003,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/shaanxi/glossary_DK_style_full.html",
+      "title": "glossary DK style full",
+      "category": "01_provincial-architecture",
+      "subcategory": "shaanxi",
+      "size": 66166,
+      "words": 56316,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/shaanxi/glossary_NationalGeographic_style.html",
+      "title": "glossary NationalGeographic style",
+      "category": "01_provincial-architecture",
+      "subcategory": "shaanxi",
+      "size": 53054,
+      "words": 39595,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/shaanxi/glossary_NationalGeographic_style_full.html",
+      "title": "glossary NationalGeographic style full",
+      "category": "01_provincial-architecture",
+      "subcategory": "shaanxi",
+      "size": 59439,
+      "words": 50877,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/shandong/Shandong_Architecture_DK_bilingual_FULL.html",
       "title": "Shandong Architecture DK bilingual FULL",
       "category": "01_provincial-architecture",
       "subcategory": "shandong",
-      "size": 982029,
-      "words": 491014,
-      "modified": "2026-09-04"
+      "size": 981534,
+      "words": 789788,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/shangdang/Shangdang_Architecture_DK_bilingual.html",
       "title": "Shangdang Architecture DK bilingual",
       "category": "01_provincial-architecture",
       "subcategory": "shangdang",
-      "size": 152144,
-      "words": 76072,
-      "modified": "2026-09-03"
+      "size": 152361,
+      "words": 120146,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/shangdang/Shangdang_Terminology_Britannica.html",
       "title": "Shangdang Terminology Britannica",
       "category": "01_provincial-architecture",
       "subcategory": "shangdang",
-      "size": 39857,
-      "words": 19928,
-      "modified": "2026-09-03"
+      "size": 42289,
+      "words": 27933,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/shangdang/Shangdang_Terminology_DK.html",
       "title": "Shangdang Terminology DK",
       "category": "01_provincial-architecture",
       "subcategory": "shangdang",
-      "size": 29082,
-      "words": 14541,
-      "modified": "2026-09-03"
+      "size": 32710,
+      "words": 24175,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/shangdang/Shangdang_Terminology_NationalGeographic.html",
       "title": "Shangdang Terminology NationalGeographic",
       "category": "01_provincial-architecture",
       "subcategory": "shangdang",
-      "size": 13147,
-      "words": 6573,
-      "modified": "2026-09-03"
-    },
-    {
-      "url": "01_provincial-architecture/sichuan-chongqing/glossary_Britannica_style.html",
-      "title": "glossary Britannica style",
-      "category": "01_provincial-architecture",
-      "subcategory": "sichuan-chongqing",
-      "size": 83424,
-      "words": 41712,
-      "modified": "2026-09-03"
-    },
-    {
-      "url": "01_provincial-architecture/sichuan-chongqing/glossary_Britannica_style_full.html",
-      "title": "glossary Britannica style full",
-      "category": "01_provincial-architecture",
-      "subcategory": "sichuan-chongqing",
-      "size": 36520,
-      "words": 18260,
-      "modified": "2026-09-03"
-    },
-    {
-      "url": "01_provincial-architecture/sichuan-chongqing/glossary_DK_style.html",
-      "title": "glossary DK style",
-      "category": "01_provincial-architecture",
-      "subcategory": "sichuan-chongqing",
-      "size": 85225,
-      "words": 42612,
-      "modified": "2026-09-03"
-    },
-    {
-      "url": "01_provincial-architecture/sichuan-chongqing/glossary_DK_style_full.html",
-      "title": "glossary DK style full",
-      "category": "01_provincial-architecture",
-      "subcategory": "sichuan-chongqing",
-      "size": 45610,
-      "words": 22805,
-      "modified": "2026-09-03"
-    },
-    {
-      "url": "01_provincial-architecture/sichuan-chongqing/glossary_NationalGeographic_style.html",
-      "title": "glossary NationalGeographic style",
-      "category": "01_provincial-architecture",
-      "subcategory": "sichuan-chongqing",
-      "size": 75312,
-      "words": 37656,
-      "modified": "2026-09-03"
-    },
-    {
-      "url": "01_provincial-architecture/sichuan-chongqing/glossary_NationalGeographic_style_full.html",
-      "title": "glossary NationalGeographic style full",
-      "category": "01_provincial-architecture",
-      "subcategory": "sichuan-chongqing",
-      "size": 32700,
-      "words": 16350,
-      "modified": "2026-09-03"
+      "size": 16737,
+      "words": 12090,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/sichuan-chongqing/Sichuan_Chongqing_Architecture_DK_bilingual.html",
       "title": "Sichuan Chongqing Architecture DK bilingual",
       "category": "01_provincial-architecture",
       "subcategory": "sichuan-chongqing",
-      "size": 165168,
-      "words": 82584,
-      "modified": "2026-09-03"
+      "size": 166702,
+      "words": 130870,
+      "modified": "2026-09-11"
     },
     {
       "url": "01_provincial-architecture/sichuan-chongqing/Sichuan_Chongqing_Architecture_DK_bilingual_FULL.html",
       "title": "Sichuan Chongqing Architecture DK bilingual FULL",
       "category": "01_provincial-architecture",
       "subcategory": "sichuan-chongqing",
-      "size": 1628124,
-      "words": 814062,
-      "modified": "2026-09-03"
+      "size": 1610917,
+      "words": 1290296,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/sichuan-chongqing/glossary_Britannica_style.html",
+      "title": "glossary Britannica style",
+      "category": "01_provincial-architecture",
+      "subcategory": "sichuan-chongqing",
+      "size": 86719,
+      "words": 67117,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/sichuan-chongqing/glossary_Britannica_style_full.html",
+      "title": "glossary Britannica style full",
+      "category": "01_provincial-architecture",
+      "subcategory": "sichuan-chongqing",
+      "size": 39681,
+      "words": 28587,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/sichuan-chongqing/glossary_DK_style.html",
+      "title": "glossary DK style",
+      "category": "01_provincial-architecture",
+      "subcategory": "sichuan-chongqing",
+      "size": 88331,
+      "words": 68158,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/sichuan-chongqing/glossary_DK_style_full.html",
+      "title": "glossary DK style full",
+      "category": "01_provincial-architecture",
+      "subcategory": "sichuan-chongqing",
+      "size": 47928,
+      "words": 40871,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/sichuan-chongqing/glossary_NationalGeographic_style.html",
+      "title": "glossary NationalGeographic style",
+      "category": "01_provincial-architecture",
+      "subcategory": "sichuan-chongqing",
+      "size": 78263,
+      "words": 58852,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "01_provincial-architecture/sichuan-chongqing/glossary_NationalGeographic_style_full.html",
+      "title": "glossary NationalGeographic style full",
+      "category": "01_provincial-architecture",
+      "subcategory": "sichuan-chongqing",
+      "size": 35964,
+      "words": 28388,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/chuantong-minju/Chuantong_Minju_DK_bilingual_FULL.html",
       "title": "Chuantong Minju DK bilingual FULL",
       "category": "02_villages-and-houses",
       "subcategory": "chuantong-minju",
-      "size": 832041,
-      "words": 416020,
-      "modified": "2026-09-05"
+      "size": 832169,
+      "words": 667847,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/chuantong-minju/glossary_Britannica_style_full.html",
       "title": "glossary Britannica style full",
       "category": "02_villages-and-houses",
       "subcategory": "chuantong-minju",
-      "size": 203461,
-      "words": 101730,
-      "modified": "2026-09-05"
+      "size": 202409,
+      "words": 163236,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/chuantong-minju/glossary_DK_style_full.html",
       "title": "glossary DK style full",
       "category": "02_villages-and-houses",
       "subcategory": "chuantong-minju",
-      "size": 142564,
-      "words": 71282,
-      "modified": "2026-09-05"
+      "size": 142507,
+      "words": 111617,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/chuantong-minju/glossary_NationalGeographic_style_full.html",
       "title": "glossary NationalGeographic style full",
       "category": "02_villages-and-houses",
       "subcategory": "chuantong-minju",
-      "size": 161429,
-      "words": 80714,
-      "modified": "2026-09-05"
+      "size": 161412,
+      "words": 130376,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/cunluoshi/Cunluoshi_DK_bilingual_FULL.html",
       "title": "Cunluoshi DK bilingual FULL",
       "category": "02_villages-and-houses",
       "subcategory": "cunluoshi",
-      "size": 2214781,
-      "words": 1107390,
-      "modified": "2026-09-04"
+      "size": 2213311,
+      "words": 1598291,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/cunluoshi/glossary_Britannica_style_full.html",
       "title": "glossary Britannica style full",
       "category": "02_villages-and-houses",
       "subcategory": "cunluoshi",
-      "size": 679379,
-      "words": 339689,
-      "modified": "2026-09-04"
+      "size": 669821,
+      "words": 439072,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/cunluoshi/glossary_DK_style_full.html",
       "title": "glossary DK style full",
       "category": "02_villages-and-houses",
       "subcategory": "cunluoshi",
-      "size": 363376,
-      "words": 181688,
-      "modified": "2026-09-04"
+      "size": 356990,
+      "words": 273044,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/cunluoshi/glossary_NationalGeographic_style_full.html",
       "title": "glossary NationalGeographic style full",
       "category": "02_villages-and-houses",
       "subcategory": "cunluoshi",
-      "size": 295908,
-      "words": 147954,
-      "modified": "2026-09-04"
+      "size": 293952,
+      "words": 214309,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/gansu-villages/Gansu_Terminology_Britannica.html",
       "title": "Gansu Terminology Britannica",
       "category": "02_villages-and-houses",
       "subcategory": "gansu-villages",
-      "size": 56702,
-      "words": 28351,
-      "modified": "2026-09-03"
+      "size": 62684,
+      "words": 48236,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/gansu-villages/Gansu_Terminology_DK.html",
       "title": "Gansu Terminology DK",
       "category": "02_villages-and-houses",
       "subcategory": "gansu-villages",
-      "size": 45100,
-      "words": 22550,
-      "modified": "2026-09-03"
+      "size": 49002,
+      "words": 37857,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/gansu-villages/Gansu_Terminology_NationalGeographic.html",
       "title": "Gansu Terminology NationalGeographic",
       "category": "02_villages-and-houses",
       "subcategory": "gansu-villages",
-      "size": 29495,
-      "words": 14747,
-      "modified": "2026-09-03"
+      "size": 33253,
+      "words": 25174,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/gansu-villages/Gansu_Villages_DK_bilingual.html",
       "title": "Gansu Villages DK bilingual",
       "category": "02_villages-and-houses",
       "subcategory": "gansu-villages",
-      "size": 157477,
-      "words": 78738,
-      "modified": "2026-09-03"
+      "size": 161234,
+      "words": 116615,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/huaihai-fieldwork/ima_Copilot_淮海古村游记抓取_提示词.html",
       "title": "ima Copilot 淮海古村游记抓取 提示词",
       "category": "02_villages-and-houses",
       "subcategory": "huaihai-fieldwork",
-      "size": 15342,
-      "words": 7671,
-      "modified": "2026-09-05"
+      "size": 19027,
+      "words": 13853,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/huaihai-fieldwork/淮海_ima联动_方志库索引与检索手册.html",
       "title": "淮海 ima联动 方志库索引与检索手册",
       "category": "02_villages-and-houses",
       "subcategory": "huaihai-fieldwork",
-      "size": 14341,
-      "words": 7170,
-      "modified": "2026-09-05"
+      "size": 18099,
+      "words": 14924,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/huaihai-fieldwork/淮海_ima读写联动_最佳实践手册.html",
       "title": "淮海 ima读写联动 最佳实践手册",
       "category": "02_villages-and-houses",
       "subcategory": "huaihai-fieldwork",
-      "size": 16982,
-      "words": 8491,
-      "modified": "2026-09-07"
-    },
-    {
-      "url": "02_villages-and-houses/nanxi-river/glossary_Britannica_style_full.html",
-      "title": "glossary Britannica style full",
-      "category": "02_villages-and-houses",
-      "subcategory": "nanxi-river",
-      "size": 220689,
-      "words": 110344,
-      "modified": "2026-09-05"
-    },
-    {
-      "url": "02_villages-and-houses/nanxi-river/glossary_DK_style_full.html",
-      "title": "glossary DK style full",
-      "category": "02_villages-and-houses",
-      "subcategory": "nanxi-river",
-      "size": 234882,
-      "words": 117441,
-      "modified": "2026-09-05"
-    },
-    {
-      "url": "02_villages-and-houses/nanxi-river/glossary_NationalGeographic_style_full.html",
-      "title": "glossary NationalGeographic style full",
-      "category": "02_villages-and-houses",
-      "subcategory": "nanxi-river",
-      "size": 140388,
-      "words": 70194,
-      "modified": "2026-09-05"
+      "size": 20725,
+      "words": 16099,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/nanxi-river/Nanxi_River_DK_bilingual_FULL.html",
       "title": "Nanxi River DK bilingual FULL",
       "category": "02_villages-and-houses",
       "subcategory": "nanxi-river",
-      "size": 989692,
-      "words": 494846,
-      "modified": "2026-09-05"
+      "size": 990610,
+      "words": 750261,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/nanxijiang/glossary_Britannica_style_full.html",
+      "url": "02_villages-and-houses/nanxi-river/glossary_Britannica_style_full.html",
       "title": "glossary Britannica style full",
       "category": "02_villages-and-houses",
-      "subcategory": "nanxijiang",
-      "size": 414379,
-      "words": 207189,
-      "modified": "2026-09-05"
+      "subcategory": "nanxi-river",
+      "size": 221297,
+      "words": 159872,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/nanxijiang/glossary_DK_style_full.html",
+      "url": "02_villages-and-houses/nanxi-river/glossary_DK_style_full.html",
       "title": "glossary DK style full",
       "category": "02_villages-and-houses",
-      "subcategory": "nanxijiang",
-      "size": 280275,
-      "words": 140137,
-      "modified": "2026-09-05"
+      "subcategory": "nanxi-river",
+      "size": 233919,
+      "words": 163131,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/nanxijiang/glossary_NationalGeographic_style_full.html",
+      "url": "02_villages-and-houses/nanxi-river/glossary_NationalGeographic_style_full.html",
       "title": "glossary NationalGeographic style full",
       "category": "02_villages-and-houses",
-      "subcategory": "nanxijiang",
-      "size": 326963,
-      "words": 163481,
-      "modified": "2026-09-05"
+      "subcategory": "nanxi-river",
+      "size": 141487,
+      "words": 103423,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/nanxijiang/Nanxijiang_DK_bilingual_FULL.html",
       "title": "Nanxijiang DK bilingual FULL",
       "category": "02_villages-and-houses",
       "subcategory": "nanxijiang",
-      "size": 1206217,
-      "words": 603108,
-      "modified": "2026-09-05"
+      "size": 1205056,
+      "words": 964020,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "02_villages-and-houses/nanxijiang/glossary_Britannica_style_full.html",
+      "title": "glossary Britannica style full",
+      "category": "02_villages-and-houses",
+      "subcategory": "nanxijiang",
+      "size": 406053,
+      "words": 358734,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "02_villages-and-houses/nanxijiang/glossary_DK_style_full.html",
+      "title": "glossary DK style full",
+      "category": "02_villages-and-houses",
+      "subcategory": "nanxijiang",
+      "size": 275604,
+      "words": 231187,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "02_villages-and-houses/nanxijiang/glossary_NationalGeographic_style_full.html",
+      "title": "glossary NationalGeographic style full",
+      "category": "02_villages-and-houses",
+      "subcategory": "nanxijiang",
+      "size": 321745,
+      "words": 285050,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/shandong-villages-data/山东民居与建筑学术文献全文原文汇编_第1轮.html",
       "title": "山东民居与建筑学术文献全文原文汇编 第1轮",
       "category": "02_villages-and-houses",
       "subcategory": "shandong-villages-data",
-      "size": 108052,
-      "words": 54026,
-      "modified": "2026-09-04"
-    },
-    {
-      "url": "02_villages-and-houses/songyang/glossary_Britannica_style_full.html",
-      "title": "glossary Britannica style full",
-      "category": "02_villages-and-houses",
-      "subcategory": "songyang",
-      "size": 79844,
-      "words": 39922,
-      "modified": "2026-09-05"
-    },
-    {
-      "url": "02_villages-and-houses/songyang/glossary_DK_style_full.html",
-      "title": "glossary DK style full",
-      "category": "02_villages-and-houses",
-      "subcategory": "songyang",
-      "size": 55367,
-      "words": 27683,
-      "modified": "2026-09-05"
-    },
-    {
-      "url": "02_villages-and-houses/songyang/glossary_NationalGeographic_style_full.html",
-      "title": "glossary NationalGeographic style full",
-      "category": "02_villages-and-houses",
-      "subcategory": "songyang",
-      "size": 62364,
-      "words": 31182,
-      "modified": "2026-09-05"
+      "size": 110742,
+      "words": 98530,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/songyang/Songyang_Villages_DK_bilingual_FULL.html",
       "title": "Songyang Villages DK bilingual FULL",
       "category": "02_villages-and-houses",
       "subcategory": "songyang",
-      "size": 424849,
-      "words": 212424,
-      "modified": "2026-09-05"
+      "size": 427015,
+      "words": 334892,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/wenzhou-vernacular/glossary_Britannica_style_full.html",
+      "url": "02_villages-and-houses/songyang/glossary_Britannica_style_full.html",
       "title": "glossary Britannica style full",
       "category": "02_villages-and-houses",
-      "subcategory": "wenzhou-vernacular",
-      "size": 106779,
-      "words": 53389,
-      "modified": "2026-09-05"
+      "subcategory": "songyang",
+      "size": 81496,
+      "words": 72553,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/wenzhou-vernacular/glossary_DK_style_full.html",
+      "url": "02_villages-and-houses/songyang/glossary_DK_style_full.html",
       "title": "glossary DK style full",
       "category": "02_villages-and-houses",
-      "subcategory": "wenzhou-vernacular",
-      "size": 74885,
-      "words": 37442,
-      "modified": "2026-09-05"
+      "subcategory": "songyang",
+      "size": 57566,
+      "words": 48898,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/wenzhou-vernacular/glossary_NationalGeographic_style_full.html",
+      "url": "02_villages-and-houses/songyang/glossary_NationalGeographic_style_full.html",
       "title": "glossary NationalGeographic style full",
       "category": "02_villages-and-houses",
-      "subcategory": "wenzhou-vernacular",
-      "size": 84552,
-      "words": 42276,
-      "modified": "2026-09-05"
+      "subcategory": "songyang",
+      "size": 64517,
+      "words": 57237,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/wenzhou-vernacular/Wenzhou_Vernacular_DK_bilingual_FULL.html",
       "title": "Wenzhou Vernacular DK bilingual FULL",
       "category": "02_villages-and-houses",
       "subcategory": "wenzhou-vernacular",
-      "size": 366338,
-      "words": 183169,
-      "modified": "2026-09-05"
+      "size": 368410,
+      "words": 300236,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/xiangtu-architecture/glossary_Britannica_style_full.html",
+      "url": "02_villages-and-houses/wenzhou-vernacular/glossary_Britannica_style_full.html",
       "title": "glossary Britannica style full",
       "category": "02_villages-and-houses",
-      "subcategory": "xiangtu-architecture",
-      "size": 1960736,
-      "words": 980368,
-      "modified": "2026-09-04"
+      "subcategory": "wenzhou-vernacular",
+      "size": 107895,
+      "words": 91556,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/xiangtu-architecture/glossary_DK_style_full.html",
+      "url": "02_villages-and-houses/wenzhou-vernacular/glossary_DK_style_full.html",
       "title": "glossary DK style full",
       "category": "02_villages-and-houses",
-      "subcategory": "xiangtu-architecture",
-      "size": 2032705,
-      "words": 1016352,
-      "modified": "2026-09-04"
+      "subcategory": "wenzhou-vernacular",
+      "size": 76692,
+      "words": 61762,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/xiangtu-architecture/glossary_NationalGeographic_style_full.html",
+      "url": "02_villages-and-houses/wenzhou-vernacular/glossary_NationalGeographic_style_full.html",
       "title": "glossary NationalGeographic style full",
       "category": "02_villages-and-houses",
-      "subcategory": "xiangtu-architecture",
-      "size": 1818077,
-      "words": 909038,
-      "modified": "2026-09-04"
+      "subcategory": "wenzhou-vernacular",
+      "size": 86299,
+      "words": 72599,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/xiangtu-architecture/Xiangtu_Architecture_DK_bilingual_FULL.html",
       "title": "Xiangtu Architecture DK bilingual FULL",
       "category": "02_villages-and-houses",
       "subcategory": "xiangtu-architecture",
-      "size": 1539321,
-      "words": 769660,
-      "modified": "2026-09-04"
+      "size": 1535895,
+      "words": 1139994,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/xiangtu-mantan/glossary_Britannica_style_full.html",
+      "url": "02_villages-and-houses/xiangtu-architecture/glossary_Britannica_style_full.html",
       "title": "glossary Britannica style full",
       "category": "02_villages-and-houses",
-      "subcategory": "xiangtu-mantan",
-      "size": 530514,
-      "words": 265257,
-      "modified": "2026-09-05"
+      "subcategory": "xiangtu-architecture",
+      "size": 1935733,
+      "words": 1387483,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/xiangtu-mantan/glossary_DK_style_full.html",
+      "url": "02_villages-and-houses/xiangtu-architecture/glossary_DK_style_full.html",
       "title": "glossary DK style full",
       "category": "02_villages-and-houses",
-      "subcategory": "xiangtu-mantan",
-      "size": 209757,
-      "words": 104878,
-      "modified": "2026-09-05"
+      "subcategory": "xiangtu-architecture",
+      "size": 2001302,
+      "words": 1421132,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/xiangtu-mantan/glossary_NationalGeographic_style_full.html",
+      "url": "02_villages-and-houses/xiangtu-architecture/glossary_NationalGeographic_style_full.html",
       "title": "glossary NationalGeographic style full",
       "category": "02_villages-and-houses",
-      "subcategory": "xiangtu-mantan",
-      "size": 274176,
-      "words": 137088,
-      "modified": "2026-09-05"
+      "subcategory": "xiangtu-architecture",
+      "size": 1799442,
+      "words": 1251204,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/xiangtu-mantan/Xiangtu_Mantan_DK_bilingual_FULL.html",
       "title": "Xiangtu Mantan DK bilingual FULL",
       "category": "02_villages-and-houses",
       "subcategory": "xiangtu-mantan",
-      "size": 962545,
-      "words": 481272,
-      "modified": "2026-09-05"
+      "size": 962644,
+      "words": 731091,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/yanxia/glossary_Britannica_style_full.html",
+      "url": "02_villages-and-houses/xiangtu-mantan/glossary_Britannica_style_full.html",
       "title": "glossary Britannica style full",
       "category": "02_villages-and-houses",
-      "subcategory": "yanxia",
-      "size": 219869,
-      "words": 109934,
-      "modified": "2026-09-05"
+      "subcategory": "xiangtu-mantan",
+      "size": 523726,
+      "words": 358663,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/yanxia/glossary_DK_style_full.html",
+      "url": "02_villages-and-houses/xiangtu-mantan/glossary_DK_style_full.html",
       "title": "glossary DK style full",
       "category": "02_villages-and-houses",
-      "subcategory": "yanxia",
-      "size": 157596,
-      "words": 78798,
-      "modified": "2026-09-05"
+      "subcategory": "xiangtu-mantan",
+      "size": 207242,
+      "words": 172457,
+      "modified": "2026-09-11"
     },
     {
-      "url": "02_villages-and-houses/yanxia/glossary_NationalGeographic_style_full.html",
+      "url": "02_villages-and-houses/xiangtu-mantan/glossary_NationalGeographic_style_full.html",
       "title": "glossary NationalGeographic style full",
       "category": "02_villages-and-houses",
-      "subcategory": "yanxia",
-      "size": 176633,
-      "words": 88316,
-      "modified": "2026-09-05"
-    },
-    {
-      "url": "02_villages-and-houses/yanxia/Yanxia_DK_bilingual_FULL.html",
-      "title": "Yanxia DK bilingual FULL",
-      "category": "02_villages-and-houses",
-      "subcategory": "yanxia",
-      "size": 953253,
-      "words": 476626,
-      "modified": "2026-09-05"
-    },
-    {
-      "url": "02_villages-and-houses/yanxia-oldstreet/glossary_Britannica_style_full.html",
-      "title": "glossary Britannica style full",
-      "category": "02_villages-and-houses",
-      "subcategory": "yanxia-oldstreet",
-      "size": 262699,
-      "words": 131349,
-      "modified": "2026-09-05"
-    },
-    {
-      "url": "02_villages-and-houses/yanxia-oldstreet/glossary_DK_style_full.html",
-      "title": "glossary DK style full",
-      "category": "02_villages-and-houses",
-      "subcategory": "yanxia-oldstreet",
-      "size": 300567,
-      "words": 150283,
-      "modified": "2026-09-05"
-    },
-    {
-      "url": "02_villages-and-houses/yanxia-oldstreet/glossary_NationalGeographic_style_full.html",
-      "title": "glossary NationalGeographic style full",
-      "category": "02_villages-and-houses",
-      "subcategory": "yanxia-oldstreet",
-      "size": 173996,
-      "words": 86998,
-      "modified": "2026-09-05"
+      "subcategory": "xiangtu-mantan",
+      "size": 269210,
+      "words": 235231,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/yanxia-oldstreet/Yanxia_OldStreet_DK_bilingual_FULL.html",
       "title": "Yanxia OldStreet DK bilingual FULL",
       "category": "02_villages-and-houses",
       "subcategory": "yanxia-oldstreet",
-      "size": 1069565,
-      "words": 534782,
-      "modified": "2026-09-05"
+      "size": 1067057,
+      "words": 800673,
+      "modified": "2026-09-11"
     },
     {
       "url": "02_villages-and-houses/yanxia-oldstreet/Yanxia_Old_Street_DK_bilingual_FULL.html",
       "title": "Yanxia Old Street DK bilingual FULL",
       "category": "02_villages-and-houses",
       "subcategory": "yanxia-oldstreet",
-      "size": 624000,
-      "words": 312000,
-      "modified": "2026-09-04"
+      "size": 625655,
+      "words": 432942,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "02_villages-and-houses/yanxia-oldstreet/glossary_Britannica_style_full.html",
+      "title": "glossary Britannica style full",
+      "category": "02_villages-and-houses",
+      "subcategory": "yanxia-oldstreet",
+      "size": 263774,
+      "words": 161997,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "02_villages-and-houses/yanxia-oldstreet/glossary_DK_style_full.html",
+      "title": "glossary DK style full",
+      "category": "02_villages-and-houses",
+      "subcategory": "yanxia-oldstreet",
+      "size": 300311,
+      "words": 173428,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "02_villages-and-houses/yanxia-oldstreet/glossary_NationalGeographic_style_full.html",
+      "title": "glossary NationalGeographic style full",
+      "category": "02_villages-and-houses",
+      "subcategory": "yanxia-oldstreet",
+      "size": 175473,
+      "words": 107611,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "02_villages-and-houses/yanxia/Yanxia_DK_bilingual_FULL.html",
+      "title": "Yanxia DK bilingual FULL",
+      "category": "02_villages-and-houses",
+      "subcategory": "yanxia",
+      "size": 953232,
+      "words": 744668,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "02_villages-and-houses/yanxia/glossary_Britannica_style_full.html",
+      "title": "glossary Britannica style full",
+      "category": "02_villages-and-houses",
+      "subcategory": "yanxia",
+      "size": 217559,
+      "words": 188053,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "02_villages-and-houses/yanxia/glossary_DK_style_full.html",
+      "title": "glossary DK style full",
+      "category": "02_villages-and-houses",
+      "subcategory": "yanxia",
+      "size": 156701,
+      "words": 128530,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "02_villages-and-houses/yanxia/glossary_NationalGeographic_style_full.html",
+      "title": "glossary NationalGeographic style full",
+      "category": "02_villages-and-houses",
+      "subcategory": "yanxia",
+      "size": 175699,
+      "words": 151522,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/01_营造法式_原文全文.html",
       "title": "01 营造法式 原文全文",
       "category": "03_overseas-architecture",
       "subcategory": "01_营造法式_原文全文.html",
-      "size": 2015939,
-      "words": 1007969,
-      "modified": "2026-09-04"
+      "size": 2019631,
+      "words": 886647,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/02_手绘天朝_原文全文.html",
       "title": "02 手绘天朝 原文全文",
       "category": "03_overseas-architecture",
       "subcategory": "02_手绘天朝_原文全文.html",
-      "size": 107660,
-      "words": 53830,
-      "modified": "2026-09-04"
+      "size": 107553,
+      "words": 60978,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/03_喜龙仁_北京的城墙和城门_原文全文.html",
       "title": "03 喜龙仁 北京的城墙和城门 原文全文",
       "category": "03_overseas-architecture",
       "subcategory": "03_喜龙仁_北京的城墙和城门_原文全文.html",
-      "size": 21806,
-      "words": 10903,
-      "modified": "2026-09-04"
+      "size": 25498,
+      "words": 20892,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/04_沙畹_泰山_原文全文.html",
       "title": "04 沙畹 泰山 原文全文",
       "category": "03_overseas-architecture",
       "subcategory": "04_沙畹_泰山_原文全文.html",
-      "size": 1014276,
-      "words": 507138,
-      "modified": "2026-09-04"
+      "size": 1006532,
+      "words": 983516,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/05_柏石曼_中国建筑与景观_原文全文.html",
       "title": "05 柏石曼 中国建筑与景观 原文全文",
       "category": "03_overseas-architecture",
       "subcategory": "05_柏石曼_中国建筑与景观_原文全文.html",
-      "size": 5705,
-      "words": 2852,
-      "modified": "2026-09-04"
+      "size": 9397,
+      "words": 8720,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/06_关野贞_支那文化史迹_原文全文.html",
       "title": "06 关野贞 支那文化史迹 原文全文",
       "category": "03_overseas-architecture",
       "subcategory": "06_关野贞_支那文化史迹_原文全文.html",
-      "size": 5314,
-      "words": 2657,
-      "modified": "2026-09-04"
+      "size": 9006,
+      "words": 7823,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/07_谢阁兰_汉代丧葬艺术_原文全文.html",
       "title": "07 谢阁兰 汉代丧葬艺术 原文全文",
       "category": "03_overseas-architecture",
       "subcategory": "07_谢阁兰_汉代丧葬艺术_原文全文.html",
-      "size": 28888,
-      "words": 14444,
-      "modified": "2026-09-04"
+      "size": 28060,
+      "words": 16382,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/08_Architectura_Sinica_原文全文.html",
       "title": "08 Architectura Sinica 原文全文",
       "category": "03_overseas-architecture",
       "subcategory": "08_Architectura_Sinica_原文全文.html",
-      "size": 7068,
-      "words": 3534,
-      "modified": "2026-09-04"
+      "size": 10760,
+      "words": 9662,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/ch1.html",
       "title": "ch1",
       "category": "03_overseas-architecture",
       "subcategory": "ch1.html",
-      "size": 18034,
-      "words": 9017,
-      "modified": "2026-09-04"
+      "size": 21559,
+      "words": 15395,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/diancang_index.html",
       "title": "diancang index",
       "category": "03_overseas-architecture",
       "subcategory": "diancang_index.html",
-      "size": 20340,
-      "words": 10170,
-      "modified": "2026-09-04"
+      "size": 23781,
+      "words": 19985,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/docin_xibuyg.html",
       "title": "docin xibuyg",
       "category": "03_overseas-architecture",
       "subcategory": "docin_xibuyg.html",
-      "size": 48066,
-      "words": 24033,
-      "modified": "2026-09-04"
+      "size": 44465,
+      "words": 41975,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/gxs_338928o.html",
       "title": "gxs 338928o",
       "category": "03_overseas-architecture",
       "subcategory": "gxs_338928o.html",
-      "size": 46153,
-      "words": 23076,
-      "modified": "2026-09-04"
+      "size": 49114,
+      "words": 39022,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/ito_10.html",
@@ -1012,7 +1012,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "ito_10.html",
       "size": 56593,
-      "words": 28296,
+      "words": 45508,
       "modified": "2026-09-04"
     },
     {
@@ -1021,7 +1021,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "ito_11.html",
       "size": 57663,
-      "words": 28831,
+      "words": 45988,
       "modified": "2026-09-04"
     },
     {
@@ -1030,7 +1030,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "ito_12.html",
       "size": 56547,
-      "words": 28273,
+      "words": 45432,
       "modified": "2026-09-04"
     },
     {
@@ -1039,7 +1039,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "ito_13.html",
       "size": 56244,
-      "words": 28122,
+      "words": 45503,
       "modified": "2026-09-04"
     },
     {
@@ -1047,9 +1047,9 @@
       "title": "ito 14",
       "category": "03_overseas-architecture",
       "subcategory": "ito_14.html",
-      "size": 58688,
-      "words": 29344,
-      "modified": "2026-09-04"
+      "size": 58687,
+      "words": 46355,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/ito_3.html",
@@ -1057,8 +1057,8 @@
       "category": "03_overseas-architecture",
       "subcategory": "ito_3.html",
       "size": 78112,
-      "words": 39056,
-      "modified": "2026-09-04"
+      "words": 58144,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/ito_4.html",
@@ -1066,7 +1066,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "ito_4.html",
       "size": 366752,
-      "words": 183376,
+      "words": 274079,
       "modified": "2026-09-04"
     },
     {
@@ -1074,9 +1074,9 @@
       "title": "ito 5",
       "category": "03_overseas-architecture",
       "subcategory": "ito_5.html",
-      "size": 58368,
-      "words": 29184,
-      "modified": "2026-09-04"
+      "size": 58367,
+      "words": 46142,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/ito_6.html",
@@ -1084,7 +1084,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "ito_6.html",
       "size": 55540,
-      "words": 27770,
+      "words": 45194,
       "modified": "2026-09-04"
     },
     {
@@ -1093,7 +1093,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "ito_7.html",
       "size": 57918,
-      "words": 28959,
+      "words": 46057,
       "modified": "2026-09-04"
     },
     {
@@ -1102,7 +1102,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "ito_8.html",
       "size": 57552,
-      "words": 28776,
+      "words": 45855,
       "modified": "2026-09-04"
     },
     {
@@ -1110,9 +1110,9 @@
       "title": "ito 9",
       "category": "03_overseas-architecture",
       "subcategory": "ito_9.html",
-      "size": 60952,
-      "words": 30476,
-      "modified": "2026-09-04"
+      "size": 60951,
+      "words": 47115,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/ja1915.html",
@@ -1120,7 +1120,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "ja1915.html",
       "size": 291807,
-      "words": 145903,
+      "words": 291627,
       "modified": "2026-09-04"
     },
     {
@@ -1129,7 +1129,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "ja_date.html",
       "size": 246180,
-      "words": 123090,
+      "words": 245884,
       "modified": "2026-09-04"
     },
     {
@@ -1138,7 +1138,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "ja_date1915.html",
       "size": 291807,
-      "words": 145903,
+      "words": 291627,
       "modified": "2026-09-04"
     },
     {
@@ -1147,7 +1147,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "segalen_premier.html",
       "size": 1193,
-      "words": 596,
+      "words": 1176,
       "modified": "2026-09-04"
     },
     {
@@ -1156,7 +1156,7 @@
       "category": "03_overseas-architecture",
       "subcategory": "segalen_texte.html",
       "size": 1198,
-      "words": 599,
+      "words": 1181,
       "modified": "2026-09-04"
     },
     {
@@ -1164,153 +1164,666 @@
       "title": "siren book",
       "category": "03_overseas-architecture",
       "subcategory": "siren_book.html",
-      "size": 171148,
-      "words": 85574,
-      "modified": "2026-09-04"
+      "size": 175764,
+      "words": 166433,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/taishan_page.html",
       "title": "taishan page",
       "category": "03_overseas-architecture",
       "subcategory": "taishan_page.html",
-      "size": 28347,
-      "words": 14173,
-      "modified": "2026-09-04"
+      "size": 32179,
+      "words": 31837,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/欧美日古建筑调查学术档案_双语.html",
       "title": "欧美日古建筑调查学术档案 双语",
       "category": "03_overseas-architecture",
       "subcategory": "欧美日古建筑调查学术档案_双语.html",
-      "size": 63150,
-      "words": 31575,
-      "modified": "2026-09-04"
+      "size": 63093,
+      "words": 42358,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/海外古建筑调查_原文全文_中文导读.html",
       "title": "海外古建筑调查 原文全文 中文导读",
       "category": "03_overseas-architecture",
       "subcategory": "海外古建筑调查_原文全文_中文导读.html",
-      "size": 2029274,
-      "words": 1014637,
-      "modified": "2026-09-04"
+      "size": 2015294,
+      "words": 830381,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/海外古建筑调查学术谱系_时间轴.html",
       "title": "海外古建筑调查学术谱系 时间轴",
       "category": "03_overseas-architecture",
       "subcategory": "海外古建筑调查学术谱系_时间轴.html",
-      "size": 19201,
-      "words": 9600,
-      "modified": "2026-09-04"
+      "size": 22920,
+      "words": 20976,
+      "modified": "2026-09-11"
     },
     {
       "url": "03_overseas-architecture/营造法式_全文.html",
       "title": "营造法式 全文",
       "category": "03_overseas-architecture",
       "subcategory": "营造法式_全文.html",
-      "size": 1909167,
-      "words": 954583,
-      "modified": "2026-09-04"
+      "size": 1898932,
+      "words": 764878,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_南屏村.html",
+      "title": "模仿稿 陈志华学派风 南屏村",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 12971,
+      "words": 7706,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_埭美村.html",
+      "title": "模仿稿 陈志华学派风 埭美村",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 13174,
+      "words": 7783,
+      "modified": "2026-09-11"
     },
     {
       "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_塘湾村.html",
       "title": "模仿稿 陈志华学派风 塘湾村",
       "category": "04_style-analysis",
       "subcategory": "group01-chenzhihua",
-      "size": 13573,
-      "words": 6786,
-      "modified": "2026-09-05"
+      "size": 17331,
+      "words": 9233,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_大阳古镇.html",
+      "title": "模仿稿 陈志华学派风 大阳古镇",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 13115,
+      "words": 7754,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_张谷英村.html",
+      "title": "模仿稿 陈志华学派风 张谷英村",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 11630,
+      "words": 7162,
+      "modified": "2026-09-11"
     },
     {
       "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_林坑村_短稿.html",
       "title": "模仿稿 陈志华学派风 林坑村 短稿",
       "category": "04_style-analysis",
       "subcategory": "group01-chenzhihua",
-      "size": 8988,
-      "words": 4494,
-      "modified": "2026-09-05"
+      "size": 12746,
+      "words": 8025,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_桥溪村.html",
+      "title": "模仿稿 陈志华学派风 桥溪村",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 13210,
+      "words": 7803,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_沙溪寺登街.html",
+      "title": "模仿稿 陈志华学派风 沙溪寺登街",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 13104,
+      "words": 7757,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_流坑村.html",
+      "title": "模仿稿 陈志华学派风 流坑村",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 11864,
+      "words": 7248,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_湘峪古堡.html",
+      "title": "模仿稿 陈志华学派风 湘峪古堡",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 13098,
+      "words": 7743,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_理坑村.html",
+      "title": "模仿稿 陈志华学派风 理坑村",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 13139,
+      "words": 7790,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_瑶里.html",
+      "title": "模仿稿 陈志华学派风 瑶里",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 13032,
+      "words": 7733,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_肇兴侗寨.html",
+      "title": "模仿稿 陈志华学派风 肇兴侗寨",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 13238,
+      "words": 7799,
+      "modified": "2026-09-11"
     },
     {
       "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_芙蓉村.html",
       "title": "模仿稿 陈志华学派风 芙蓉村",
       "category": "04_style-analysis",
       "subcategory": "group01-chenzhihua",
-      "size": 12942,
-      "words": 6471,
-      "modified": "2026-09-05"
+      "size": 16700,
+      "words": 9011,
+      "modified": "2026-09-11"
     },
     {
       "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_蓬溪村.html",
       "title": "模仿稿 陈志华学派风 蓬溪村",
       "category": "04_style-analysis",
       "subcategory": "group01-chenzhihua",
-      "size": 12516,
-      "words": 6258,
-      "modified": "2026-09-05"
+      "size": 16278,
+      "words": 9966,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_蟳埔村.html",
+      "title": "模仿稿 陈志华学派风 蟳埔村",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 13160,
+      "words": 7773,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_诺邓村.html",
+      "title": "模仿稿 陈志华学派风 诺邓村",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 13249,
+      "words": 7804,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group01-chenzhihua/模仿稿_陈志华学派风_郭峪村.html",
+      "title": "模仿稿 陈志华学派风 郭峪村",
+      "category": "04_style-analysis",
+      "subcategory": "group01-chenzhihua",
+      "size": 14025,
+      "words": 8062,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group02-songyang-luxiaomin/模仿稿_鲁晓敏体_党家村.html",
+      "title": "模仿稿 鲁晓敏体 党家村",
+      "category": "04_style-analysis",
+      "subcategory": "group02-songyang-luxiaomin",
+      "size": 10783,
+      "words": 6649,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group02-songyang-luxiaomin/模仿稿_鲁晓敏体_喀什老城.html",
+      "title": "模仿稿 鲁晓敏体 喀什老城",
+      "category": "04_style-analysis",
+      "subcategory": "group02-songyang-luxiaomin",
+      "size": 12626,
+      "words": 8606,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group02-songyang-luxiaomin/模仿稿_鲁晓敏体_喜洲.html",
+      "title": "模仿稿 鲁晓敏体 喜洲",
+      "category": "04_style-analysis",
+      "subcategory": "group02-songyang-luxiaomin",
+      "size": 12700,
+      "words": 7268,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group02-songyang-luxiaomin/模仿稿_鲁晓敏体_廿八都.html",
+      "title": "模仿稿 鲁晓敏体 廿八都",
+      "category": "04_style-analysis",
+      "subcategory": "group02-songyang-luxiaomin",
+      "size": 10915,
+      "words": 6655,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group02-songyang-luxiaomin/模仿稿_鲁晓敏体_张壁古堡.html",
+      "title": "模仿稿 鲁晓敏体 张壁古堡",
+      "category": "04_style-analysis",
+      "subcategory": "group02-songyang-luxiaomin",
+      "size": 10892,
+      "words": 6646,
+      "modified": "2026-09-11"
     },
     {
       "url": "04_style-analysis/group02-songyang-luxiaomin/模仿稿_鲁晓敏体_界首村.html",
       "title": "模仿稿 鲁晓敏体 界首村",
       "category": "04_style-analysis",
       "subcategory": "group02-songyang-luxiaomin",
-      "size": 6636,
-      "words": 3318,
-      "modified": "2026-09-08"
+      "size": 10394,
+      "words": 6489,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group02-songyang-luxiaomin/模仿稿_鲁晓敏体_篁岭.html",
+      "title": "模仿稿 鲁晓敏体 篁岭",
+      "category": "04_style-analysis",
+      "subcategory": "group02-songyang-luxiaomin",
+      "size": 12807,
+      "words": 7307,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group02-songyang-luxiaomin/模仿稿_鲁晓敏体_龙湖古寨.html",
+      "title": "模仿稿 鲁晓敏体 龙湖古寨",
+      "category": "04_style-analysis",
+      "subcategory": "group02-songyang-luxiaomin",
+      "size": 12798,
+      "words": 7312,
+      "modified": "2026-09-11"
     },
     {
       "url": "04_style-analysis/group03-provincial-series/天津_丛书省卷风_联网搜索版_过往成果.html",
       "title": "天津 丛书省卷风 联网搜索版 过往成果",
       "category": "04_style-analysis",
       "subcategory": "group03-provincial-series",
-      "size": 22713,
-      "words": 11356,
-      "modified": "2026-09-05"
+      "size": 26404,
+      "words": 20034,
+      "modified": "2026-09-11"
     },
     {
       "url": "04_style-analysis/group03-provincial-series/山东_丛书省卷风_联网搜索版_过往成果.html",
       "title": "山东 丛书省卷风 联网搜索版 过往成果",
       "category": "04_style-analysis",
       "subcategory": "group03-provincial-series",
-      "size": 248003,
-      "words": 124001,
-      "modified": "2026-09-05"
+      "size": 251247,
+      "words": 174390,
+      "modified": "2026-09-11"
     },
     {
       "url": "04_style-analysis/group03-provincial-series/方法论_丛书省卷体.html",
       "title": "方法论 丛书省卷体",
       "category": "04_style-analysis",
       "subcategory": "group03-provincial-series",
-      "size": 8382,
-      "words": 4191,
-      "modified": "2026-09-05"
+      "size": 12140,
+      "words": 8778,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_万荣飞云楼.html",
+      "title": "模仿稿 丛书省卷体风 万荣飞云楼",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7489,
+      "words": 3383,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_二宜楼.html",
+      "title": "模仿稿 丛书省卷体风 二宜楼",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7558,
+      "words": 3416,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_保国寺.html",
+      "title": "模仿稿 丛书省卷体风 保国寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 10749,
+      "words": 6831,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_增冲鼓楼.html",
+      "title": "模仿稿 丛书省卷体风 增冲鼓楼",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7215,
+      "words": 3310,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_婺源彩虹桥.html",
+      "title": "模仿稿 丛书省卷体风 婺源彩虹桥",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7605,
+      "words": 3427,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_安平桥.html",
+      "title": "模仿稿 丛书省卷体风 安平桥",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7631,
+      "words": 3435,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_崇圣寺三塔.html",
+      "title": "模仿稿 丛书省卷体风 崇圣寺三塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7418,
+      "words": 3365,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_广胜寺.html",
+      "title": "模仿稿 丛书省卷体风 广胜寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7636,
+      "words": 3432,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_府城玉皇庙.html",
+      "title": "模仿稿 丛书省卷体风 府城玉皇庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7981,
+      "words": 3547,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_张掖大佛寺.html",
+      "title": "模仿稿 丛书省卷体风 张掖大佛寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7033,
+      "words": 3238,
+      "modified": "2026-09-11"
     },
     {
       "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_武当山金殿.html",
       "title": "模仿稿 丛书省卷体风 武当山金殿",
       "category": "04_style-analysis",
       "subcategory": "group03-provincial-series",
-      "size": 5318,
-      "words": 2659,
-      "modified": "2026-09-05"
+      "size": 11452,
+      "words": 7619,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_永乐宫.html",
+      "title": "模仿稿 丛书省卷体风 永乐宫",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7612,
+      "words": 3424,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_泉州开元寺.html",
+      "title": "模仿稿 丛书省卷体风 泉州开元寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7875,
+      "words": 3515,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_济渎庙.html",
+      "title": "模仿稿 丛书省卷体风 济渎庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 10477,
+      "words": 6739,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_浮梁古县衙.html",
+      "title": "模仿稿 丛书省卷体风 浮梁古县衙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7775,
+      "words": 3483,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_渔梁坝.html",
+      "title": "模仿稿 丛书省卷体风 渔梁坝",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7597,
+      "words": 3427,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_真武阁.html",
+      "title": "模仿稿 丛书省卷体风 真武阁",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 10481,
+      "words": 6739,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_罗东舒祠.html",
+      "title": "模仿稿 丛书省卷体风 罗东舒祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7984,
+      "words": 3556,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_花萼楼.html",
+      "title": "模仿稿 丛书省卷体风 花萼楼",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7581,
+      "words": 3417,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_苏公塔.html",
+      "title": "模仿稿 丛书省卷体风 苏公塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7204,
+      "words": 3291,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_莫高窟九层楼.html",
+      "title": "模仿稿 丛书省卷体风 莫高窟九层楼",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7231,
+      "words": 3310,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_许国石坊.html",
+      "title": "模仿稿 丛书省卷体风 许国石坊",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7845,
+      "words": 3507,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_许驸马府.html",
+      "title": "模仿稿 丛书省卷体风 许驸马府",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7499,
+      "words": 3406,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_高平开化寺.html",
+      "title": "模仿稿 丛书省卷体风 高平开化寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "size": 7738,
+      "words": 3466,
+      "modified": "2026-09-11"
     },
     {
       "url": "04_style-analysis/group03-provincial-series/湖北_丛书省卷风_联网搜索版_过往成果.html",
       "title": "湖北 丛书省卷风 联网搜索版 过往成果",
       "category": "04_style-analysis",
       "subcategory": "group03-provincial-series",
-      "size": 169971,
-      "words": 84985,
-      "modified": "2026-09-05"
+      "size": 173733,
+      "words": 114968,
+      "modified": "2026-09-11"
     },
     {
       "url": "04_style-analysis/group03-provincial-series/陕西_丛书省卷风_联网搜索版_过往成果.html",
       "title": "陕西 丛书省卷风 联网搜索版 过往成果",
       "category": "04_style-analysis",
       "subcategory": "group03-provincial-series",
-      "size": 116029,
-      "words": 58014,
-      "modified": "2026-09-05"
+      "size": 119583,
+      "words": 86873,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group04-early-scholars/模仿稿_导读体_中国营造学社与李庄岁月.html",
+      "title": "模仿稿 导读体 中国营造学社与李庄岁月",
+      "category": "04_style-analysis",
+      "subcategory": "group04-early-scholars",
+      "size": 11283,
+      "words": 7177,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group04-early-scholars/模仿稿_导读体_刘敦桢与中国住宅概说.html",
+      "title": "模仿稿 导读体 刘敦桢与中国住宅概说",
+      "category": "04_style-analysis",
+      "subcategory": "group04-early-scholars",
+      "size": 11197,
+      "words": 7145,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group04-early-scholars/模仿稿_导读体_梁思成林徽因与山西古建筑考察.html",
+      "title": "模仿稿 导读体 梁思成林徽因与山西古建筑考察",
+      "category": "04_style-analysis",
+      "subcategory": "group04-early-scholars",
+      "size": 12980,
+      "words": 8367,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group04-early-scholars/模仿稿_导读体_艾克与泉州开元寺双塔.html",
+      "title": "模仿稿 导读体 艾克与泉州开元寺双塔",
+      "category": "04_style-analysis",
+      "subcategory": "group04-early-scholars",
+      "size": 10913,
+      "words": 7078,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group04-early-scholars/模仿稿_导读体_足立喜六与长安史迹研究.html",
+      "title": "模仿稿 导读体 足立喜六与长安史迹研究",
+      "category": "04_style-analysis",
+      "subcategory": "group04-early-scholars",
+      "size": 10986,
+      "words": 7079,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group05-hubinbing-villages/模仿稿_学术通史体_徽州天井.html",
+      "title": "模仿稿 学术通史体 徽州天井",
+      "category": "04_style-analysis",
+      "subcategory": "group05-hubinbing-villages",
+      "size": 12760,
+      "words": 7684,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group05-hubinbing-villages/模仿稿_学术通史体_晋东南楼房.html",
+      "title": "模仿稿 学术通史体 晋东南楼房",
+      "category": "04_style-analysis",
+      "subcategory": "group05-hubinbing-villages",
+      "size": 12706,
+      "words": 7662,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group05-hubinbing-villages/模仿稿_学术通史体_潮汕民居.html",
+      "title": "模仿稿 学术通史体 潮汕民居",
+      "category": "04_style-analysis",
+      "subcategory": "group05-hubinbing-villages",
+      "size": 12785,
+      "words": 7711,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group05-hubinbing-villages/模仿稿_学术通史体_红砖厝.html",
+      "title": "模仿稿 学术通史体 红砖厝",
+      "category": "04_style-analysis",
+      "subcategory": "group05-hubinbing-villages",
+      "size": 12702,
+      "words": 7660,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group05-hubinbing-villages/模仿稿_学术通史体_西北生土建筑.html",
+      "title": "模仿稿 学术通史体 西北生土建筑",
+      "category": "04_style-analysis",
+      "subcategory": "group05-hubinbing-villages",
+      "size": 13039,
+      "words": 7781,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group05-hubinbing-villages/模仿稿_学术通史体_赣南围屋.html",
+      "title": "模仿稿 学术通史体 赣南围屋",
+      "category": "04_style-analysis",
+      "subcategory": "group05-hubinbing-villages",
+      "size": 12079,
+      "words": 7369,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group05-hubinbing-villages/模仿稿_学术通史体_鼓楼与风雨桥.html",
+      "title": "模仿稿 学术通史体 鼓楼与风雨桥",
+      "category": "04_style-analysis",
+      "subcategory": "group05-hubinbing-villages",
+      "size": 12983,
+      "words": 7759,
+      "modified": "2026-09-11"
+    },
+    {
+      "url": "04_style-analysis/group05-hubinbing-villages/模仿稿_村落史胡彬彬体风_晋商大院.html",
+      "title": "模仿稿 村落史胡彬彬体风 晋商大院",
+      "category": "04_style-analysis",
+      "subcategory": "group05-hubinbing-villages",
+      "size": 12699,
+      "words": 7647,
+      "modified": "2026-09-11"
     }
   ]
 }

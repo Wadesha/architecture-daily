@@ -22,8 +22,52 @@ h1 { font-size: 1.7em; text-align: center; margin-bottom: 5px; border: none; fon
 .note { color: #aaa; font-size: 0.78em; margin-top: 18px; font-style: italic; padding-left: 14px; border-left: 2px solid #eee; }
 
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body data-page-node-id="d722uasDyDqibEOqMGav5b">
+<body id="top" data-page-node-id="top d722uasDyDqibEOqMGav5b"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 
 <h1 data-page-node-id="0xPIeNYdjZkK6lmfgkEEGd">陕西古建筑</h1>
 <p class="subtitle" data-page-node-id="ec4S5SK7h81UICaHDMpagp">联网搜索版 · 四轮迭代法撰写 · 跨省迁移测试（与湖北版对照验证方法通用性）</p>
@@ -204,5 +248,26 @@ h1 { font-size: 1.7em; text-align: center; margin-bottom: 5px; border: none; fon
 <p class="note">来源：联网搜索四轮（有源书对照工作流）。第一轮基础信息（百度百科司马迁墓和祠·维基：始建西晋永嘉四年310殷济建石室/1982第二批国保/99级台阶/献殿寝殿墓冢尺寸），第二轮形制与碑刻（今日头条全国重点文保司马迁祠墓：献殿133.89㎡尹阳北宋宣和七年建/文史祖宗匾/刚直不阿联/66通碑宋4金5元1明21清34/寝殿103.88㎡靖康1126重修/司马像140cm/墓2.15×13.19元建16幅砖雕/毕沅碑/郭沫若1958诗），第三轮空间叙事与现场（携程/渭南文旅：四层台地/高山仰止河山之阳牌坊/99级朝圣道1668翟世琪填沟筑/司马古道北宋石条车辙/龙门才子故里已毁/太史祠匾/望母台），第四轮宋代营造法式语汇核对（对照原文：山门分心用三柱四铺作出单抄单材襻间/寝殿搭牵对三椽栿驼峰叉手蜀柱丁华抹颏拱梭柱生起侧脚琴面昂耍头后尾起挑斡——专业测绘语汇联网难覆盖，故本段以原文《营造法式》术语为基准逐条采写，确保与原文深度一致）。数据出入已标注未强行合一：司马迁生年前145/前135年、献殿进深三间/两间、殷济建祠年代西晋永嘉四年310、寝殿重修北宋靖康元年1126、冢前毕沅碑题乾隆四十一年1776/四十七年1782、汉太史司马公墓碑/汉太史司马迁祠墓牌坊启功书。</p>
 </div>
 
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

@@ -1,702 +1,702 @@
 [
-  {
-    "id": 1,
-    "category": "建筑结构",
-    "cn": "窑洞",
-    "en": "Cave Dwelling (Yaodong)",
-    "def_zh": "窑洞是中国西北黄土高原特有的传统民居，利用黄土直立性在山坡或平地挖掘拱形洞穴。书中记载陕西窑洞有靠崖窑、地坑院（下沉式）和锢窑（独立式）三种类型。陕北窑洞平面呈L形，底层为回廊，廊下墁砖，上下层均有排水设施，是适应黄土高原干旱气候的智慧结晶。",
-    "def_en": "Cave dwellings are traditional residences unique to the Loess Plateau, using loess vertical stability to excavate arched caves. The book records three types: cliff-side, sunken courtyard, and free-standing stone caves. Northern Shaanxi caves have L-shaped plans with ground-floor corridors paved with brick and drainage on both levels—wisdom adapted to the arid plateau climate.",
-    "examples": "米脂杨家沟扶风寨、延安窑洞、三原柏社村地坑院",
-    "related": [
-      "地坑院",
-      "锢窑",
-      "黄土高原"
-    ]
-  },
-  {
-    "id": 2,
-    "category": "建筑结构",
-    "cn": "地坑院",
-    "en": "Sunken Courtyard (Dikengyuan)",
-    "def_zh": "地坑院又称下沉式窑洞，在平坦黄土地面向下挖掘方形深坑，再在坑壁四周挖掘窑洞形成地下院落。书中记载三原柏社村保留有完整的地坑院群落，被誉为'地平线下古村落，民居史上活化石'。",
-    "def_en": "Sunken courtyards are underground dwellings formed by excavating a square pit on flat loess ground, then digging caves around the pit walls. The book records that Sanyuan Baishe Village preserves a complete cluster, known as 'ancient villages below the horizon, living fossils in residential history.'",
-    "examples": "三原柏社村",
-    "related": [
-      "窑洞",
-      "锢窑",
-      "黄土高原"
-    ]
-  },
-  {
-    "id": 3,
-    "category": "建筑结构",
-    "cn": "抬梁式",
-    "en": "Beam-Lifting Frame (Tailiangshi)",
-    "def_zh": "抬梁式是中国古建筑主要木构架形式，柱上抬梁，梁上安短柱，短柱上再抬梁，层层叠叠形成屋架。书中记载三原城隍庙大殿为'彻上明造，抬梁式构架，五架梁上用瓜柱、角背'，西安钟楼、鼓楼均采用抬梁式结构，可获得较大室内空间。",
-    "def_en": "The beam-lifting frame is a main timber framing form with beams on columns, short columns on beams, layered to form roof trusses. The book records Sanyuan City God Temple's main hall as 'exposed construction, beam-lifting frame with five-rafter beams using瓜柱 and角背.' Xi'an Bell and Drum Towers use this frame for large interior spaces.",
-    "examples": "三原城隍庙大殿、西安钟楼、西安鼓楼",
-    "related": [
-      "穿斗式",
-      "斗拱",
-      "彻上明造"
-    ]
-  },
-  {
-    "id": 4,
-    "category": "建筑结构",
-    "cn": "斗拱",
-    "en": "Dougong (Bracket Set)",
-    "def_zh": "斗拱是中国古建筑特有构件，由方形斗、升和弓形拱、昂组成，位于柱与梁枋之间。书中记载西安钟楼'下檐斗拱为三踩单昂，上檐斗拱为五踩双昂'，榆林万佛楼'外檐斗拱布置疏朗，升棋做法正规'，韩城城隍庙戏楼'如意斗拱'是明代建筑特征。",
-    "def_en": "Dougong are unique bracket sets consisting of square blocks and bow-shaped arms between columns and beams. The book records Xi'an Bell Tower's 'lower eaves with three-step single ang, upper eaves with five-step double ang,' Yulin Wanfo Tower's 'sparse outer-eave dougong with regular sheng-qi method,' and Hancheng City God Temple's 'ruyi dougong' as Ming features.",
-    "examples": "西安钟楼、榆林万佛楼、韩城城隍庙戏楼",
-    "related": [
-      "昂",
-      "华拱",
-      "坐斗"
-    ]
-  },
-  {
-    "id": 5,
-    "category": "建筑结构",
-    "cn": "歇山顶",
-    "en": "Hip-and-Gable Roof (Xieshanding)",
-    "def_zh": "歇山顶由一条正脊、四条垂脊和四条戗脊组成，又称九脊顶，有单檐和重檐之分。书中记载西安鼓楼为'重檐三滴水歇山顶的阁楼式建筑'，三原城隍庙寝殿'重檐歇山顶，高17.25米'，勉县武侯墓山门'硬山式建筑，抬梁式三架梁'。",
-    "def_en": "The hip-and-gable roof has one main ridge, four vertical ridges, and four diagonal ridges (nine ridges total), with single and double eave variants. The book records Xi'an Drum Tower as a 'double-eave three-water-drop hip-and-gable tower,' Sanyuan City God Temple's bedroom hall as 'double-eave hip-and-gable, 17.25m tall.'",
-    "examples": "西安鼓楼、三原城隍庙寝殿、韩城城隍庙广荐殿",
-    "related": [
-      "庑殿顶",
-      "攒尖顶",
-      "硬山顶"
-    ]
-  },
-  {
-    "id": 6,
-    "category": "建筑结构",
-    "cn": "庑殿顶",
-    "en": "Hip Roof (Wudianding)",
-    "def_zh": "庑殿顶是中国古建筑最高等级屋顶，由一条正脊和四条垂脊组成，又称四阿顶。书中记载华阴西岳庙灏灵殿为重檐庑殿顶，体现西岳庙作为祭祀西岳华山的皇家庙宇的崇高等级。",
-    "def_en": "The hip roof is the highest-ranking ancient Chinese roof, with one main and four vertical ridges (four-slope roof). The book records Huayin Xiyue Temple's Haoling Hall as having a double-eave hip roof, reflecting the temple's lofty status as a royal temple for sacrificing to Mount Hua.",
-    "examples": "华阴西岳庙灏灵殿",
-    "related": [
-      "歇山顶",
-      "重檐",
-      "琉璃瓦"
-    ]
-  },
-  {
-    "id": 7,
-    "category": "建筑结构",
-    "cn": "攒尖顶",
-    "en": "Pyramidal Roof (Cuanjianding)",
-    "def_zh": "攒尖顶屋面在顶部交汇于一点，上置宝顶，有三角、四角、六角、八角、圆形等形式。书中记载西安钟楼为'三重檐四角攒尖顶，屋面为琉璃瓦，置鎏金宝瓶刹'，城固钟楼'屋顶为六角，攒尖盔顶，宝顶为铁铸宝珠'。",
-    "def_en": "Pyramidal roofs converge at a top point with a finial, in triangular, square, hexagonal, octagonal, and circular forms. The book records Xi'an Bell Tower as 'triple-eave square pyramidal with glazed tiles and gilded bottle finial,' and Chenggu Bell Tower as 'hexagonal pyramidal helmet roof with cast-iron jewel finial.'",
-    "examples": "西安钟楼、城固钟楼、户县钟楼",
-    "related": [
-      "宝顶",
-      "塔刹",
-      "楼阁式塔"
-    ]
-  },
-  {
-    "id": 8,
-    "category": "建筑结构",
-    "cn": "楼阁式塔",
-    "en": "Tower-Style Pagoda (Lougeshi Ta)",
-    "def_zh": "楼阁式塔源于中国传统楼阁，塔身分层，每层有塔檐、平座、门窗，可登临。书中记载大慈恩寺大雁塔为唐代楼阁式砖塔代表，塔身用砖，仿木结构，每层有砖砌柱、枋、斗拱，是西安的标志性建筑。",
-    "def_en": "Tower-style pagodas derive from traditional Chinese towers, with layered bodies, each with eaves, balconies, doors, and windows for climbing. The book records the Great Wild Goose Pagoda at Dacien Temple as a representative Tang brick pagoda, using brick to imitate timber structure with brick columns, tie beams, and dougong on each layer—a Xi'an landmark.",
-    "examples": "大雁塔、富县柏山寺塔",
-    "related": [
-      "密檐式塔",
-      "塔刹",
-      "平座"
-    ]
-  },
-  {
-    "id": 9,
-    "category": "建筑结构",
-    "cn": "密檐式塔",
-    "en": "Multi-Eaved Pagoda (Miyanshi Ta)",
-    "def_zh": "密檐式塔第一层较高，以上各层塔檐紧密重叠，多为实心不可登临。书中记载荐福寺小雁塔为唐代密檐式砖塔代表，原有15层，现存13层，塔身砖砌，每层叠涩出檐，是唐代密檐塔的杰作。",
-    "def_en": "Multi-eaved pagodas have a tall first story with closely overlapping eaves above, mostly solid and not climbable. The book records Jianfu Temple's Small Wild Goose Pagoda as a representative Tang multi-eaved brick pagoda, originally 15 stories, now 13, with brick body and corbelled eaves on each layer—a Tang masterpiece.",
-    "examples": "小雁塔、香积寺善导塔",
-    "related": [
-      "楼阁式塔",
-      "塔刹",
-      "叠涩"
-    ]
-  },
-  {
-    "id": 10,
-    "category": "建筑结构",
-    "cn": "塔刹",
-    "en": "Pagoda Finial (Tasha)",
-    "def_zh": "塔刹是佛塔顶部的装饰和收束构件，由基座、覆钵、相轮、宝盖、宝珠等组成。书中记载泾阳崇文宝塔塔刹为铜制鎏金，高8.52米，是中国现存最高的塔刹之一；城固钟楼宝顶为铁铸宝珠，各层老角梁下原有风铃。",
-    "def_en": "The pagoda finial is the decorative terminal component at a pagoda's top, consisting of base, inverted bowl, phase wheels, canopy, and jewel. The book records Jingyang Chongwen Pagoda's finial as gilded bronze, 8.52m tall—one of China's tallest surviving finials; Chenggu Bell Tower's finial is cast iron with wind bells under old corner beams.",
-    "examples": "泾阳崇文宝塔、城固钟楼",
-    "related": [
-      "相轮",
-      "覆钵",
-      "宝顶"
-    ]
-  },
-  {
-    "id": 11,
-    "category": "建筑结构",
-    "cn": "摩崖造像",
-    "en": "Cliff Carving (Moya Zaoxiang)",
-    "def_zh": "摩崖造像是在山崖壁面雕刻的佛教造像。书中记载彬县大佛寺石窟始凿于唐贞观二年（628年），大佛高20米，是陕西最大的摩崖造像；慈善寺石窟、富县石泓寺石窟、米脂万佛洞均有精美摩崖造像。",
-    "def_en": "Cliff carvings are Buddhist statues carved on cliff faces. The book records Bin County Great Buddha Temple Grottoes, first carved in 628 CE (Tang Zhenguan 2), with a 20m Great Buddha—the largest in Shaanxi. Cishansi, Shihongsi, and Mizhi Wanfo Cave also have exquisite cliff carvings.",
-    "examples": "彬县大佛寺石窟、慈善寺石窟、米脂万佛洞",
-    "related": [
-      "石窟",
-      "佛塔",
-      "佛教建筑"
-    ]
-  },
-  {
-    "id": 12,
-    "category": "建筑结构",
-    "cn": "地宫",
-    "en": "Underground Palace (Digong)",
-    "def_zh": "地宫是佛塔基下埋藏舍利、佛经和宝物的地下空间。书中记载扶风法门寺地宫于1987年发掘，出土佛指舍利和大量唐代金银器、瓷器、丝织品，是中国迄今发现的最大、等级最高的佛塔地宫。",
-    "def_en": "The underground palace is the subterranean space beneath a pagoda base for burying relics, scriptures, and treasures. The book records Famen Temple's underground palace, excavated in 1987, yielding a Buddha finger relic and大量 Tang gold/silver vessels, porcelain, and textiles—the largest and highest-ranking pagoda underground palace discovered in China.",
-    "examples": "扶风法门寺地宫",
-    "related": [
-      "佛塔",
-      "舍利",
-      "塔基"
-    ]
-  },
-  {
-    "id": 13,
-    "category": "建筑类型",
-    "cn": "帝陵",
-    "en": "Imperial Mausoleum (Diling)",
-    "def_zh": "帝陵是古代帝王陵墓，由封土、陵园、寝殿、陪葬墓等组成。书中记载陕西是中国帝陵最集中地区，有黄帝陵、秦始皇陵、西汉十一陵、唐十八陵。秦始皇陵封土高达64米，是中国古代最大的坟丘；唐昭陵、乾陵为因山为陵。",
-    "def_en": "Imperial mausoleums consist of mounds, enclosures, sacrifice halls, and satellite tombs. The book records Shaanxi as China's most concentrated region of imperial mausoleums, including Yellow Emperor, Qin Shi Huang, eleven Western Han, and eighteen Tang mausoleums. Qin Shi Huang's mound reaches 64m—the largest ancient Chinese tumulus; Tang Zhao and Qian Mausoleums are mountain-carved.",
-    "examples": "秦始皇陵、汉茂陵、唐昭陵、唐乾陵",
-    "related": [
-      "因山为陵",
-      "封土",
-      "陵园"
-    ]
-  },
-  {
-    "id": 14,
-    "category": "建筑类型",
-    "cn": "因山为陵",
-    "en": "Mountain-Carved Mausoleum (Yinshan Weiling)",
-    "def_zh": "因山为陵是唐代帝陵主要形制，将墓室开凿在自然山体中，以山为封土。书中记载唐昭陵（唐太宗）是第一座因山为陵的帝陵，位于礼泉九嵕山；唐乾陵（唐高宗与武则天合葬）位于乾县梁山，是唐十八陵中保存最完整的一座，陵园有石狮、石人、述圣纪碑、无字碑等。",
-    "def_en": "Mountain-carved mausoleums are the main Tang imperial form, with chambers excavated into natural mountains. The book records Zhao Mausoleum (Emperor Taizong) as the first, at Jiuzong Mountain in Liquan; Qian Mausoleum (joint burial of Gaozong and Wu Zetian) at Liang Mountain in Qian County—the best-preserved of eighteen Tang mausoleums, with stone lions, figures, and steles.",
-    "examples": "唐昭陵、唐乾陵、唐泰陵",
-    "related": [
-      "帝陵",
-      "封土",
-      "陵园"
-    ]
-  },
-  {
-    "id": 15,
-    "category": "建筑类型",
-    "cn": "清真寺",
-    "en": "Mosque (Qingzhensi)",
-    "def_zh": "清真寺是伊斯兰教宗教建筑。书中记载西安化觉巷清真寺始建于唐天宝元年（742年），是中国四大清真寺之一，采用中国传统建筑形式，有照壁、牌楼、礼拜殿、省心楼、沐浴室等；大学习巷清真寺（西大寺）坐西朝东，二进院落，礼拜殿可容500多人同时礼拜。",
-    "def_en": "Mosques are Islamic religious buildings. The book records Xi'an Huajue Lane Mosque, founded in 742 CE (Tang Tianbao 1), one of China's four great mosques, using traditional Chinese forms with screen walls, archways, prayer halls, minarets, and ablution rooms. Daxuexi Lane Mosque faces east with two courtyards, its prayer hall holding over 500 worshippers.",
-    "examples": "西安化觉巷清真寺、大学习巷清真寺、西乡鹿龄寺",
-    "related": [
-      "礼拜殿",
-      "省心楼",
-      "照壁"
-    ]
-  },
-  {
-    "id": 16,
-    "category": "建筑类型",
-    "cn": "文庙",
-    "en": "Confucian Temple (Wenmiao)",
-    "def_zh": "文庙是祭祀孔子的祠庙。书中记载韩城文庙始建于明洪武四年（1371年），是文庙现存年代较早的建筑，有棂星门、泮池、大成殿、明伦堂、尊经阁等；西安府文庙（今碑林博物馆）始建于北宋，是陕西最早的文庙。",
-    "def_en": "Confucian temples are shrines for sacrificing to Confucius. The book records Hancheng Confucian Temple, founded in 1371 CE (Ming Hongwu 4), one of the earliest surviving, with lattice star gate, pan pond, Dacheng Hall, Minglun Hall, and scripture tower. Xi'an Fu Confucian Temple (now Beilin Museum) was founded in the Northern Song, Shaanxi's earliest.",
-    "examples": "韩城文庙、西安府文庙、咸阳文庙",
-    "related": [
-      "棂星门",
-      "大成殿",
-      "泮池"
-    ]
-  },
-  {
-    "id": 17,
-    "category": "建筑类型",
-    "cn": "城隍庙",
-    "en": "City God Temple (Chenghuangmiao)",
-    "def_zh": "城隍庙是祭祀城隍神的祠庙。书中记载三原城隍庙始建于明洪武八年（1375年），中轴线从南到北依次布置照壁、牌坊门、山门、木牌坊、石牌坊、戏楼、拜殿、寝殿，是陕西保存最完整的明代城隍庙建筑群；西安都城隍庙为府级城隍庙。",
-    "def_en": "City God temples sacrifice to the City God. The book records Sanyuan City God Temple, founded in 1375 CE (Ming Hongwu 8), with a central axis from south to north: screen wall, archway gate, mountain gate, wooden archway, stone archway, theater stage, worship hall, and bedroom hall—the best-preserved Ming City God temple complex in Shaanxi.",
-    "examples": "三原城隍庙、西安都城隍庙、韩城城隍庙",
-    "related": [
-      "戏楼",
-      "拜殿",
-      "牌坊"
-    ]
-  },
-  {
-    "id": 18,
-    "category": "建筑类型",
-    "cn": "会馆",
-    "en": "Guild Hall (Huiguan)",
-    "def_zh": "会馆是明清同乡或同业在异地建立的聚会场所。书中记载丹凤船帮会馆（明王宫）戏楼最为著名，入口为砖砌三间五楼式牌坊门，额刻'明王宫'，乐楼为戏台，高15米，两侧有楼可供戏班换装；山阳骡帮会馆有北方雄伟粗犷和南方俊丽清秀的建筑风格。",
-    "def_en": "Guild halls were gathering places for same-hometown or same-trade people in the Ming-Qing. The book records Danfeng Boatmen's Guild Hall (Mingwang Palace) with its famous theater stage: entrance is a brick three-bay five-story archway gate inscribed 'Mingwang Palace,' the performance tower is 15m tall with side towers for costume changes. Shanyang Mule-Team Guild Hall blends northern grandeur and southern delicacy.",
-    "examples": "丹凤船帮会馆、山阳骡帮会馆、紫阳北五省会馆",
-    "related": [
-      "戏楼",
-      "牌坊",
-      "砖雕"
-    ]
-  },
-  {
-    "id": 19,
-    "category": "建筑类型",
-    "cn": "书院",
-    "en": "Academy (Shuyuan)",
-    "def_zh": "书院是中国古代教育机构。书中记载关中书院始建于明万历三十七年（1609年），是明清陕西最高学府，为西北四大书院之首，总体布局严格遵循儒家礼制思想，采用中轴对称模式，中轴线上有五重院落；眉县横渠书院为纪念张载而建。",
-    "def_en": "Academies were ancient Chinese educational institutions. The book records Guanzhong Academy, founded in 1609 CE (Ming Wanli 37), the highest institution of Ming-Qing Shaanxi and head of the four northwestern academies. Its layout strictly follows Confucian ritual with central axis symmetry and five courtyard layers. Meixian Hengqu Academy was built to commemorate Zhang Zai.",
-    "examples": "关中书院、眉县横渠书院",
-    "related": [
-      "考院",
-      "大成殿",
-      "泮池"
-    ]
-  },
-  {
-    "id": 20,
-    "category": "建筑类型",
-    "cn": "钟鼓楼",
-    "en": "Bell and Drum Tower (Zhonggulou)",
-    "def_zh": "钟鼓楼是古代城市报时建筑。书中记载西安钟楼始建于明洪武十七年（1384年），通高36米，基座每边长35.5米，是中国现存规模最大、保存最完整的钟楼；西安鼓楼始建于明洪武十三年（1380年），通高33米，是国内现存最大的鼓楼建筑。",
-    "def_en": "Bell and drum towers were ancient city timekeeping buildings. The book records Xi'an Bell Tower, founded in 1384 CE (Ming Hongwu 17), 36m total height with 35.5m square base—the largest and best-preserved surviving bell tower in China. Xi'an Drum Tower, founded in 1380 CE, 33m tall—the largest surviving drum tower in China.",
-    "examples": "西安钟楼、西安鼓楼、城固钟楼",
-    "related": [
-      "古城墙",
-      "攒尖顶",
-      "歇山顶"
-    ]
-  },
-  {
-    "id": 21,
-    "category": "建筑类型",
-    "cn": "古城墙",
-    "en": "Ancient City Wall (Guchengqiang)",
-    "def_zh": "古城墙是古代城市防御建筑。书中记载西安古城墙始建于明洪武三年（1370年），在唐长安城皇城基础上扩建，周长13.74公里，墙高12米，底宽18米，顶宽15米，是中国现存最完整的古代州府级城墙；府谷府州城山河襟带，平面呈曲尺形，周长2320米。",
-    "def_en": "Ancient city walls are defensive structures. The book records Xi'an Ancient City Wall, founded in 1370 CE (Ming Hongwu 3), expanded on the Tang Chang'an imperial city, 13.74km circumference, 12m tall, 18m base width, 15m top width—the most complete surviving ancient prefectural-level city wall in China. Fugu Fuzhou City follows rivers and mountains with a carpenter's-square plan, 2320m circumference.",
-    "examples": "西安古城墙、府谷府州城、吴堡石城",
-    "related": [
-      "瓮城",
-      "马面",
-      "垛口"
-    ]
-  },
-  {
-    "id": 22,
-    "category": "建筑类型",
-    "cn": "瓮城",
-    "en": "Barbican Entrance (Wengcheng)",
-    "def_zh": "瓮城是城门外的护门小城，敌人攻入后可关闭城门形成'瓮中捉鳖'。书中记载西安古城墙四座城门外均有瓮城，四城门楼内左侧各有一处登城'马道'，沿城墙设6处登城马道，是中国古代城防建筑的杰作。",
-    "def_en": "A barbican entrance is a protective small city outside a gate; after enemies enter, gates can be closed to 'catch turtles in a jar.' The book records all four gates of Xi'an Ancient City Wall have barbican entrances, with 'horse ramps' for climbing inside each gate tower and six ramps along the wall—masterpieces of ancient Chinese city defense.",
-    "examples": "西安古城墙永宁门瓮城",
-    "related": [
-      "古城墙",
-      "马面",
-      "城门楼"
-    ]
-  },
-  {
-    "id": 23,
-    "category": "建筑类型",
-    "cn": "佛塔",
-    "en": "Buddhist Pagoda (Fota)",
-    "def_zh": "佛塔是佛教建筑重要类型，源于印度窣堵坡。书中记载陕西佛塔数量众多，有楼阁式、密檐式、覆钵式等，大雁塔、小雁塔是唐代佛塔代表；泾阳崇文宝塔高87米，是中国现存最高的砖塔；法门寺塔因地宫出土佛指舍利而闻名。",
-    "def_en": "Buddhist pagodas are important Buddhist architecture derived from Indian stupas. The book records Shaanxi's numerous pagodas in tower-style, multi-eaved, and stupa forms. The Great and Small Wild Goose Pagodas are Tang representatives; Jingyang Chongwen Pagoda at 87m is China's tallest surviving brick pagoda; Famen Temple Pagoda is famous for the Buddha finger relic from its underground palace.",
-    "examples": "大雁塔、小雁塔、泾阳崇文宝塔、法门寺塔",
-    "related": [
-      "楼阁式塔",
-      "密檐式塔",
-      "塔刹"
-    ]
-  },
-  {
-    "id": 24,
-    "category": "建筑类型",
-    "cn": "石窟",
-    "en": "Grotto (Shiku)",
-    "def_zh": "石窟是在山崖壁面开凿的佛教建筑。书中记载陕西石窟以晚期石窟为主，共发现北魏至明清石窟350余处，彬县大佛寺石窟最为重要，始凿于唐贞观二年（628年），大佛高20米；此外有慈善寺石窟、富县石泓寺石窟、米脂万佛洞等。",
-    "def_en": "Grottoes are Buddhist buildings excavated into cliff faces. The book records Shaanxi grottoes as mainly late-period, with over 350 sites from Northern Wei to Ming-Qing. Bin County Great Buddha Temple Grottoes are most important, first carved in 628 CE with a 20m Great Buddha; others include Cishansi, Shihongsi in Fu County, and Wanfo Cave in Mizhi.",
-    "examples": "彬县大佛寺石窟、慈善寺石窟、富县石泓寺石窟",
-    "related": [
-      "摩崖造像",
-      "佛塔",
-      "佛教建筑"
-    ]
-  },
-  {
-    "id": 25,
-    "category": "建筑装饰",
-    "cn": "砖雕",
-    "en": "Brick Carving (Zhuandiao)",
-    "def_zh": "砖雕是在青砖上雕刻图案的装饰艺术。书中记载旬邑唐家宅院砖雕精美，有'凤凰牡丹'、'海水朝阳'等图案；丹凤船帮会馆戏楼砖雕精美；韩城党家村门楼、照壁砖雕是关中民居砖雕的代表，内容包括人物故事、花鸟瑞兽。",
-    "def_en": "Brick carving is decorative art on blue bricks. The book records Xunyi Tang Family Residence with exquisite brick carvings including 'phoenix and peony' and 'sea and sunrise'; Danfeng Boatmen's Guild Hall theater stage has fine brick carving; Hancheng Dangjia Village gate towers and screen walls represent Guanzhong residential brick carving with figure stories, flowers, birds, and auspicious animals.",
-    "examples": "旬邑唐家宅院、丹凤船帮会馆、韩城党家村",
-    "related": [
-      "木雕",
-      "石雕",
-      "照壁"
-    ]
-  },
-  {
-    "id": 26,
-    "category": "建筑装饰",
-    "cn": "木雕",
-    "en": "Wood Carving (Mudiao)",
-    "def_zh": "木雕是在木材上雕刻图案的装饰艺术。书中记载西安化觉巷清真寺木雕精美，采用浮雕、透雕技法；山阳骡帮会馆戏楼'梁柱、门窗雕工精致，主题涉及高山河谷、野渡江帆、亭台楼阁、车马仪仗、鸟兽虫鱼、树木花草，尤以人物雕刻而闻名，因此当地人们称之为花戏楼'。",
-    "def_en": "Wood carving is decorative art on wood. The book records Xi'an Huajue Lane Mosque with exquisite relief and openwork wood carving; Shanyang Mule-Team Guild Hall theater stage has 'exquisitely carved beams, columns, doors, and windows with themes of mountains, rivers, boats, pavilions, processions, birds, beasts, and flowers—especially famous for figure carving, hence locally called the Flower Theater.'",
-    "examples": "西安化觉巷清真寺、山阳骡帮会馆戏楼",
-    "related": [
-      "砖雕",
-      "石雕",
-      "雀替"
-    ]
-  },
-  {
-    "id": 27,
-    "category": "建筑装饰",
-    "cn": "石雕",
-    "en": "Stone Carving (Shidiao)",
-    "def_zh": "石雕是在石材上雕刻图案的装饰艺术。书中记载唐乾陵石狮、石人、述圣纪碑、无字碑是唐代石雕艺术的巅峰；韩城司马迁祠、勉县武侯祠的碑刻和石狮最为著名；旬邑唐家宅院柱础石雕有'凤凰牡丹'等精美图案。",
-    "def_en": "Stone carving is decorative art on stone. The book records Tang Qian Mausoleum's stone lions, figures, and steles as the peak of Tang stone carving; Hancheng Sima Qian Shrine and Mianxian Wuhou Shrine are famous for steles and stone lions; Xunyi Tang Family Residence column bases have exquisite 'phoenix and peony' stone carvings.",
-    "examples": "唐乾陵石刻、韩城司马迁祠、旬邑唐家宅院",
-    "related": [
-      "砖雕",
-      "木雕",
-      "柱础"
-    ]
-  },
-  {
-    "id": 28,
-    "category": "建筑装饰",
-    "cn": "琉璃瓦",
-    "en": "Glazed Tile (Liuliwa)",
-    "def_zh": "琉璃瓦是表面施釉的陶瓦，有黄、绿、蓝等颜色，是高级屋面材料。书中记载西安钟楼'屋面为琉璃瓦，置鎏金宝瓶刹'；三原城隍庙寝殿'屋顶布琉璃筒瓦'；韩城城隍庙广荐殿'布琉璃筒瓦，脊吻，次间脊上增饰楼阁'。",
-    "def_en": "Glazed tiles are glazed ceramic tiles in yellow, green, and blue, premium roofing material. The book records Xi'an Bell Tower's 'glazed tile roof with gilded bottle finial'; Sanyuan City God Temple bedroom hall's 'roof covered with glazed tubular tiles'; Hancheng City God Temple's Guangjian Hall 'glazed tubular tiles with ridge ornaments and added pavilions on secondary ridges.'",
-    "examples": "西安钟楼、三原城隍庙、韩城城隍庙",
-    "related": [
-      "筒瓦",
-      "板瓦",
-      "正吻"
-    ]
-  },
-  {
-    "id": 29,
-    "category": "建筑装饰",
-    "cn": "彩画",
-    "en": "Painted Decoration (Caihua)",
-    "def_zh": "彩画是古建筑木构件表面的绘画装饰。书中记载西安东岳庙大殿东西两壁、后壁棋盘门两侧之上满布大幅彩色道教壁画，面积达158平方米，绘制于清康熙五十四年（1715年），是陕西境内现存宫观壁画中单体面积最大的，内容主要为山水、楼阁、人物、花卉。",
-    "def_en": "Painted decorations are painted ornaments on wooden components. The book records Xi'an Dongyue Temple's main hall with large Taoist murals on east/west walls and above the back paneled doors, totaling 158 sq m, painted in 1715 CE (Qing Kangxi 54)—the largest single-area surviving temple mural in Shaanxi, mainly depicting landscapes, pavilions, figures, and flowers.",
-    "examples": "西安东岳庙大殿壁画",
-    "related": [
-      "和玺彩画",
-      "旋子彩画",
-      "藻井"
-    ]
-  },
-  {
-    "id": 30,
-    "category": "建筑装饰",
-    "cn": "照壁",
-    "en": "Screen Wall (Zhaobi)",
-    "def_zh": "照壁是大门内或外的屏蔽建筑。书中记载大学习巷清真寺大照壁在寺东侧，砖砌高10米，长15米，照壁中心有三大幅圆形砖雕图案，上部有著名的'四马砖雕'；三原城隍庙中轴线最南端为照壁，水磨青砖砌筑。",
-    "def_en": "Screen walls are shielding buildings inside or outside gates. The book records Daxuexi Lane Mosque's large screen wall on the east side, 10m tall and 15m long brick wall with three large circular brick-carved patterns and famous 'four-horse brick carving' on top; Sanyuan City God Temple's southernmost axis point is a screen wall of polished blue brick.",
-    "examples": "大学习巷清真寺照壁、三原城隍庙照壁",
-    "related": [
-      "砖雕",
-      "门楼",
-      "四合院"
-    ]
-  },
-  {
-    "id": 31,
-    "category": "建筑装饰",
-    "cn": "雀替",
-    "en": "Spandrel (Queti)",
-    "def_zh": "雀替是梁枋与柱交接处的装饰构件。书中记载勉县武侯墓山门'前檐梁下皆施有牛腿装饰，柱间施花板，枋上施如意斗拱'；西安化觉巷清真寺雀替雕刻精美，是清真寺建筑装饰的重要组成部分。",
-    "def_en": "Spandrels are decorative components at beam-column junctions. The book records Mianxian Wuhou Tomb's mountain gate with 'bracket-like decorations under front eaves, patterned panels between columns, and ruyi dougong on tie beams'; Xi'an Huajue Lane Mosque has exquisite spandrel carvings, an important part of mosque decoration.",
-    "examples": "勉县武侯墓山门、西安化觉巷清真寺",
-    "related": [
-      "木雕",
-      "梁枋",
-      "斗拱"
-    ]
-  },
-  {
-    "id": 32,
-    "category": "建筑装饰",
-    "cn": "藻井",
-    "en": "Caisson Ceiling (Zaojing)",
-    "def_zh": "藻井是古建筑天花板上的凹入装饰。书中记载三原城隍庙大殿'殿内设有平棊天花，直接安放在檐檩之上，绘制有花鸟等图案'；西安东岳庙大殿保留有精美的明代彩画和藻井，是陕西古建筑彩画艺术的重要实例。",
-    "def_en": "Caisson ceilings are sunken ceiling decorations. The book records Sanyuan City God Temple's main hall with 'flat coffered ceiling placed directly on eaves purlins, painted with flowers and birds'; Xi'an Dongyue Temple main hall preserves exquisite Ming painted decorations and caisson ceilings, an important example of Shaanxi architectural painting art.",
-    "examples": "三原城隍庙大殿、西安东岳庙",
-    "related": [
-      "彩画",
-      "斗拱",
-      "殿堂"
-    ]
-  },
-  {
-    "id": 33,
-    "category": "建筑装饰",
-    "cn": "正吻",
-    "en": "Main Ridge Ornament (Zhengwen)",
-    "def_zh": "正吻是正脊两端的装饰构件，多为龙形或兽形。书中记载韩城城隍庙广荐殿'布琉璃筒瓦，脊吻，次间脊上增饰楼阁'；三原城隍庙戏楼'屋顶为庑殿顶，戏台内中顶装八边八层藻井'，正吻是古建筑等级的重要标志。",
-    "def_en": "Main ridge ornaments are decorative components at both ends of the main ridge, mostly dragon or beast forms. The book records Hancheng City God Temple's Guangjian Hall with 'glazed tubular tiles, ridge ornaments, and added pavilions on secondary ridges'; Sanyuan City God Temple's theater stage has a 'hip roof with octagonal eight-layer caisson at the interior top'—ridge ornaments are important rank indicators.",
-    "examples": "韩城城隍庙、三原城隍庙",
-    "related": [
-      "正脊",
-      "垂兽",
-      "走兽"
-    ]
-  },
-  {
-    "id": 34,
-    "category": "建筑装饰",
-    "cn": "柱础",
-    "en": "Column Base (Zhuchu)",
-    "def_zh": "柱础是柱下的石质基座，起防潮、承重和装饰作用。书中记载西安东岳庙大殿'前檐8根柱子柱础刻有精美的二龙戏珠浮雕图案，其他柱石皆雕花卉'；旬邑唐家宅院柱础石雕精美，是关中民居建筑装饰的代表。",
-    "def_en": "Column bases are stone pedestals under columns for moisture protection, load bearing, and decoration. The book records Xi'an Dongyue Temple main hall's '8 front-eave column bases carved with exquisite 'two dragons playing with pearl' relief, other column stones carved with flowers'; Xunyi Tang Family Residence column bases are fine examples of Guanzhong residential decoration.",
-    "examples": "西安东岳庙大殿、旬邑唐家宅院",
-    "related": [
-      "石雕",
-      "台基",
-      "柱子"
-    ]
-  },
-  {
-    "id": 35,
-    "category": "建筑材料",
-    "cn": "青砖",
-    "en": "Blue Brick (Qingzhuan)",
-    "def_zh": "青砖是古建筑主要墙体材料。书中记载西安古城墙'明隆庆二年（1568年）对城墙外壁包砌青砖'，墙内夯土，外墙砌以砖石，上设垛堞；府谷府州城'城墙内夯黄土，外以石砌'；陕北锢窑用石块旋垒砌而成。",
-    "def_en": "Blue bricks are the main wall material. The book records Xi'an Ancient City Wall's 'outer wall faced with blue brick in 1568 CE (Ming Longqing 2),' with rammed earth inside and brick/stone outside with battlements; Fugu Fuzhou City's 'walls rammed with yellow loess inside, stone outside'; northern Shaanxi stone caves built with stone vaulting.",
-    "examples": "西安古城墙、府谷府州城、陕北锢窑",
-    "related": [
-      "小青瓦",
-      "石材",
-      "夯土"
-    ]
-  },
-  {
-    "id": 36,
-    "category": "建筑材料",
-    "cn": "小青瓦",
-    "en": "Small Gray Tile (Xiaoqingwa)",
-    "def_zh": "小青瓦是古建筑传统屋面材料。书中记载韩城党家村民居屋面多为小灰瓦，硬山式建筑；勉县武侯墓山门'屋面筒瓦，镂雕行龙纹脊'；西乡鹿龄寺'屋顶覆盖灰色筒瓦，屋脊设有精美砖雕，中央设圆形塔式脊刹'。",
-    "def_en": "Small gray tiles are traditional roofing material. The book records Hancheng Dangjia Village residences mostly using small gray tiles with gable roofs; Mianxian Wuhou Tomb mountain gate has 'tubular tiles with openwork dragon-pattern ridge'; Xixiang Luling Temple's 'roof covered with gray tubular tiles, exquisite brick-carved ridge with central circular pagoda-style ridge finial.'",
-    "examples": "韩城党家村、西乡鹿龄寺",
-    "related": [
-      "青砖",
-      "琉璃瓦",
-      "筒瓦"
-    ]
-  },
-  {
-    "id": 37,
-    "category": "建筑材料",
-    "cn": "黄土",
-    "en": "Loess (Huangtu)",
-    "def_zh": "黄土是西北黄土高原主要土壤，有直立性，适合挖掘窑洞。书中记载陕西是中国黄土分布最广的省份之一，陕北和关中窑洞民居利用黄土直立性建造；秦咸阳城'城墙基宽约5.5-7.6米，最厚4.6米'，为夯土筑成；秦始皇陵封土为夯土筑成，高达64米。",
-    "def_en": "Loess is the main soil of the northwest Loess Plateau with vertical stability, suitable for cave excavation. The book records Shaanxi as one of China's provinces with widest loess distribution; northern and central Shaanxi cave dwellings use loess vertical stability; Qin Xianyang City walls '5.5-7.6m base width, 4.6m thickest' of rammed earth; Qin Shi Huang's mound is rammed earth, 64m tall.",
-    "examples": "陕北窑洞、秦咸阳城、秦始皇陵封土",
-    "related": [
-      "窑洞",
-      "地坑院",
-      "夯土"
-    ]
-  },
-  {
-    "id": 38,
-    "category": "建筑材料",
-    "cn": "石材",
-    "en": "Stone (Shicai)",
-    "def_zh": "石材是古建筑重要材料，用于台基、柱础、栏杆、碑碣、造像等。书中记载唐乾陵石狮、石人是唐代石雕巅峰；彬县大佛寺石窟大佛高20米，为石刻造像；府谷府州城'城墙内夯黄土，外以石砌'；吴堡石城全部用石头砌筑。",
-    "def_en": "Stone is an important building material for platforms, column bases, railings, steles, and statues. The book records Tang Qian Mausoleum stone lions and figures as the peak of Tang stone carving; Bin County Great Buddha Temple's 20m Great Buddha is stone carving; Fugu Fuzhou City walls 'rammed loess inside, stone outside'; Wubao Stone City is entirely built of stone.",
-    "examples": "唐乾陵石刻、彬县大佛寺、吴堡石城",
-    "related": [
-      "石雕",
-      "柱础",
-      "台基"
-    ]
-  },
-  {
-    "id": 39,
-    "category": "建筑材料",
-    "cn": "木材",
-    "en": "Timber (Mucai)",
-    "def_zh": "木材是古建筑主要结构材料。书中记载西安钟楼'二层结构用通柱，攒尖顶构架采用抹角梁和井口枋'；榆林万佛楼'基座上建有二层木结构楼阁，14根廊柱环宇'；三原城隍庙大殿'梁架为彻上明造，抬梁式构架，五架梁上用瓜柱、角背'。",
-    "def_en": "Timber is the main structural material. The book records Xi'an Bell Tower's 'second story using continuous columns, pyramidal frame using mitered beams and well-frame tie beams'; Yulin Wanfo Tower's 'two-story wooden pavilion on base with 14 surrounding columns'; Sanyuan City God Temple main hall's 'exposed beam-lifting frame with five-rafter beams using瓜柱 and角背.'",
-    "examples": "西安钟楼、榆林万佛楼、三原城隍庙",
-    "related": [
-      "抬梁式",
-      "斗拱",
-      "彻上明造"
-    ]
-  },
-  {
-    "id": 40,
-    "category": "文化背景",
-    "cn": "周秦汉唐",
-    "en": "Zhou-Qin-Han-Tang Culture",
-    "def_zh": "陕西是周、秦、汉、唐四个强盛王朝建都之地，13个王朝在此建都，历时1100多年。书中前言记载'从公元前11世纪开始，陕西就是当时中国社会、文化发展的核心区域'，西周的都城丰镐、秦都咸阳、西汉长安、隋唐长安都是当时中国政治、经济、文化的中心。",
-    "def_en": "Shaanxi was the capital of four powerful dynasties—Zhou, Qin, Han, and Tang—with 13 dynasties establishing capitals here over 1,100 years. The book's preface records 'from the 11th century BCE, Shaanxi was the core region of Chinese social and cultural development,' with Western Zhou Fenghao, Qin Xianyang, Western Han Chang'an, and Sui-Tang Chang'an all serving as political, economic, and cultural centers.",
-    "examples": "丰镐遗址、秦咸阳城、汉长安城、唐长安城",
-    "related": [
-      "帝陵",
-      "古城墙",
-      "丝绸之路"
-    ]
-  },
-  {
-    "id": 41,
-    "category": "文化背景",
-    "cn": "丝绸之路",
-    "en": "Silk Road",
-    "def_zh": "丝绸之路起点为长安（今西安）。书中记载唐代长安是当时世界贸易的中心和'丝绸之路'的出发地，佛教沿丝绸之路传入中国，大慈恩寺是玄奘翻译佛经的场所，大雁塔为存放玄奘取回的佛经而建。2014年丝绸之路'长安-天山廊道'被列入世界文化遗产。",
-    "def_en": "The Silk Road started from Chang'an (today's Xi'an). The book records Tang Chang'an as the world trade center and departure point of the Silk Road; Buddhism entered China along it; Dacien Temple was where Xuanzang translated scriptures, and the Great Wild Goose Pagoda was built to store them. In 2014, the Silk Road 'Chang'an-Tianshan Corridor' was listed as UNESCO World Heritage.",
-    "examples": "大雁塔、大慈恩寺、兴教寺",
-    "related": [
-      "佛教建筑",
-      "佛塔",
-      "石窟"
-    ]
-  },
-  {
-    "id": 42,
-    "category": "文化背景",
-    "cn": "佛教文化",
-    "en": "Buddhist Culture",
-    "def_zh": "佛教自汉代沿丝绸之路传入中国，陕西是佛教中国化的重要地区。书中记载唐代长安是全国佛教中心，有大慈恩寺、大兴善寺、荐福寺、香积寺等著名寺院，玄奘在大慈恩寺翻译佛经；陕西现存佛教寺塔280余座，其中著名的有唐代风格大雁塔、小雁塔。",
-    "def_en": "Buddhism entered China along the Silk Road from the Han, and Shaanxi was an important region for its sinicization. The book records Tang Chang'an as the national Buddhist center with Dacien, Daxingshan, Jianfu, and Xiangji Temples; Xuanzang translated scriptures at Dacien Temple. Shaanxi preserves over 280 Buddhist pagodas, including the famous Tang-style Great and Small Wild Goose Pagodas.",
-    "examples": "大慈恩寺、大雁塔、大兴善寺、法门寺",
-    "related": [
-      "佛塔",
-      "石窟",
-      "摩崖造像"
-    ]
-  },
-  {
-    "id": 43,
-    "category": "文化背景",
-    "cn": "道教文化",
-    "en": "Taoist Culture",
-    "def_zh": "道教是中国本土宗教，陕西是道教重要发源地。书中记载周至楼观台是道教最早的宫观之一，相传老子在此讲经；西安八仙庵、华阴玉泉院、佳县白云观、宝鸡金台观等都是著名道教建筑。金台观始建于元朝末年，因明代道士张三丰在此修道而闻名。",
-    "def_en": "Taoism is China's indigenous religion, and Shaanxi is an important birthplace. The book records Zhouzhi Louguan Terrace as one of the earliest Taoist palaces, where Laozi is said to have lectured; Xi'an Baxian Temple, Huayin Yuquan Courtyard, Jiaxian Baiyun Temple, and Baoji Jintai Temple are famous Taoist buildings. Jintai Temple was founded in the late Yuan, famous for Ming Taoist Zhang Sanfeng's cultivation here.",
-    "examples": "周至楼观台、西安八仙庵、宝鸡金台观",
-    "related": [
-      "道教宫观",
-      "佛教建筑",
-      "祠庙"
-    ]
-  },
-  {
-    "id": 44,
-    "category": "文化背景",
-    "cn": "伊斯兰文化",
-    "en": "Islamic Culture",
-    "def_zh": "伊斯兰教自唐代沿丝绸之路传入中国，陕西是伊斯兰教传播的重要地区。书中记载西安化觉巷清真寺是中国四大清真寺之一，始建于唐天宝元年（742年）；大学习巷清真寺在唐中宗时已赐名'清教寺'，唐玄宗朝复改唐明寺，元中统年间又赐名回回万善寺。",
-    "def_en": "Islam entered China along the Silk Road from the Tang, and Shaanxi was an important region for its spread. The book records Xi'an Huajue Lane Mosque as one of China's four great mosques, founded in 742 CE (Tang Tianbao 1); Daxuexi Lane Mosque was already named 'Qingjiao Temple' in Emperor Zhongzong's reign, renamed Tangming Temple in Xuanzong's reign, and Huihui Wanshan Temple in the Yuan Zhongtong era.",
-    "examples": "西安化觉巷清真寺、大学习巷清真寺",
-    "related": [
-      "清真寺",
-      "礼拜殿",
-      "丝绸之路"
-    ]
-  },
-  {
-    "id": 45,
-    "category": "文化背景",
-    "cn": "儒家文化",
-    "en": "Confucian Culture",
-    "def_zh": "儒家文化是中国传统文化核心，陕西文庙和书院是其重要载体。书中记载西安府文庙（今碑林博物馆）始建于北宋，是陕西最早的文庙；韩城文庙始建于明洪武四年（1371年），是文庙现存年代较早的建筑；关中书院是明清陕西最高学府，为西北四大书院之首。",
-    "def_en": "Confucian culture is the core of traditional Chinese culture, and Shaanxi Confucian temples and academies are its important carriers. The book records Xi'an Fu Confucian Temple (now Beilin Museum) founded in the Northern Song, Shaanxi's earliest; Hancheng Confucian Temple founded in 1371 CE, one of the earliest surviving; Guanzhong Academy was the highest Ming-Qing Shaanxi institution and head of the four northwestern academies.",
-    "examples": "西安府文庙、韩城文庙、关中书院",
-    "related": [
-      "文庙",
-      "书院",
-      "大成殿"
-    ]
-  },
-  {
-    "id": 46,
-    "category": "文化背景",
-    "cn": "世界文化遗产",
-    "en": "World Cultural Heritage",
-    "def_zh": "陕西有多处世界文化遗产。书中涉及的秦始皇陵及兵马俑坑于1987年列入；丝绸之路'长安-天山廊道'于2014年列入，含大雁塔、小雁塔、兴教寺塔、大明宫遗址等。这些遗产是陕西古建筑的精华，也是全人类共同的文化财富。",
-    "def_en": "Shaanxi has multiple UNESCO World Heritage sites. The book covers Qin Shi Huang Mausoleum and Terracotta Army (listed 1987); the Silk Road 'Chang'an-Tianshan Corridor' (listed 2014), including Great Wild Goose Pagoda, Small Wild Goose Pagoda, Xingjiao Temple Pagoda, and Daming Palace ruins. These are the essence of Shaanxi ancient architecture and shared cultural wealth of all humanity.",
-    "examples": "秦始皇陵、大雁塔、小雁塔、兴教寺塔",
-    "related": [
-      "帝陵",
-      "佛塔",
-      "丝绸之路"
-    ]
-  },
-  {
-    "id": 47,
-    "category": "文化背景",
-    "cn": "黄土高原",
-    "en": "Loess Plateau",
-    "def_zh": "黄土高原横跨陕西、山西、甘肃等省，是中华文明发源地之一。书中记载陕北和关中位于黄土高原，独特的黄土地貌孕育了窑洞、地坑院等独特民居形式；陕北建筑以窑洞、古城、古寨为特色，榆林卫城、吴堡石城、高家堡古城是陕北古城的代表。",
-    "def_en": "The Loess Plateau spans Shaanxi, Shanxi, and Gansu, one of the birthplaces of Chinese civilization. The book records northern and central Shaanxi on the Loess Plateau, whose unique landforms nurtured cave dwellings and sunken courtyards; northern Shaanxi architecture features caves, ancient cities, and fortresses, with Yulin Garrison City, Wubao Stone City, and Gaojiabao as representatives.",
-    "examples": "陕北窑洞、榆林卫城、米脂姜氏庄园",
-    "related": [
-      "窑洞",
-      "地坑院",
-      "黄土"
-    ]
-  },
-  {
-    "id": 48,
-    "category": "文化背景",
-    "cn": "关中平原",
-    "en": "Guanzhong Plain",
-    "def_zh": "关中平原位于陕西中部，是渭河冲积平原，有'八百里秦川'之称。书中记载关中是周秦汉唐建都之地，西安、咸阳等城市保留大量古建筑；关中民居以四合院、砖木结构为特色，韩城党家村是关中民居的代表，有'民居瑰宝'之誉。",
-    "def_en": "The Guanzhong Plain in central Shaanxi is a Wei River alluvial plain known as '800 li of Qinchuan.' The book records Guanzhong as the capital region of Zhou, Qin, Han, and Tang, with Xi'an and Xianyang preserving大量 ancient buildings; Guanzhong residences feature courtyard houses and brick-wood structures, with Hancheng Dangjia Village as a representative known as 'residential treasure.'",
-    "examples": "西安古城、韩城党家村、三原城隍庙",
-    "related": [
-      "四合院",
-      "砖木结构",
-      "周秦汉唐"
-    ]
-  },
-  {
-    "id": 49,
-    "category": "文化背景",
-    "cn": "陕北高原",
-    "en": "Northern Shaanxi Plateau",
-    "def_zh": "陕北高原是黄土高原核心区域，包括榆林、延安等地。书中记载陕北建筑以窑洞、古城、古寨为特色，榆林卫城为明长城九边重镇之一，吴堡石城全部用石头砌筑，米脂姜氏庄园是陕北民居的精华，杨家沟扶风古寨有新院和马宅，融合了中西建筑风格。",
-    "def_en": "The Northern Shaanxi Plateau is the core of the Loess Plateau, including Yulin and Yan'an. The book records northern Shaanxi architecture featuring caves, ancient cities, and fortresses; Yulin Garrison City was one of the nine strategic towns of the Ming Great Wall; Wubuo Stone City is entirely stone-built; Mizhi Jiang's Manor is the essence of northern Shaanxi residences; Yangjiagou Fufeng Ancient Fortress has new and horse courtyards blending Chinese and Western styles.",
-    "examples": "榆林卫城、吴堡石城、米脂姜氏庄园",
-    "related": [
-      "窑洞",
-      "古城墙",
-      "黄土高原"
-    ]
-  },
-  {
-    "id": 50,
-    "category": "文化背景",
-    "cn": "陕南地区",
-    "en": "Southern Shaanxi Region",
-    "def_zh": "陕南地区包括汉中、安康、商洛，北依秦岭，南靠大巴山，气候湿润，建筑风格融合关中、巴蜀和荆楚文化。书中记载陕南古建筑以会馆、书院、古镇为特色，宁强青木川古镇回龙场老街是陕甘川三省交界最繁荣的商业文化交流场所，丹凤船帮会馆、紫阳北五省会馆是陕南会馆的代表。",
-    "def_en": "Southern Shaanxi includes Hanzhong, Ankang, and Shangluo, with Qinling to the north and Daba Mountains to the south, humid climate, blending Guanzhong, Ba-Shu, and Jing-Chu cultures. The book records southern Shaanxi architecture featuring guild halls, academies, and ancient towns; Ningqiang Qingmuchuan's Huilong Old Street was the most prosperous commercial and cultural exchange hub at the Shaanxi-Gansu-Sichuan border; Danfeng Boatmen's and Ziyang Five Northern Provinces Guild Halls are representatives.",
-    "examples": "宁强青木川古镇、丹凤船帮会馆、紫阳北五省会馆",
-    "related": [
-      "会馆",
-      "古镇",
-      "四合院"
-    ]
-  }
+ {
+ "id": 1,
+ "category": "建筑结构",
+ "cn": "窑洞",
+ "en": "Cave Dwelling (Yaodong)",
+ "def_zh": "窑洞是中国西北黄土高原特有的传统民居，利用黄土直立性在山坡或平地挖掘拱形洞穴。书中记载陕西窑洞有靠崖窑、地坑院（下沉式）和锢窑（独立式）三种类型。陕北窑洞平面呈L形，底层为回廊，廊下墁砖，上下层均有排水设施，是适应黄土高原干旱气候的智慧结晶。",
+ "def_en": "Cave dwellings are traditional residences unique to the Loess Plateau, using loess vertical stability to excavate arched caves. The book records three types: cliff-side, sunken courtyard, and free-standing stone caves. Northern Shaanxi caves have L-shaped plans with ground-floor corridors paved with brick and drainage on both levels—wisdom adapted to the arid plateau climate.",
+ "examples": "米脂杨家沟扶风寨、延安窑洞、三原柏社村地坑院",
+ "related": [
+ "地坑院",
+ "锢窑",
+ "黄土高原"
+ ]
+ },
+ {
+ "id": 2,
+ "category": "建筑结构",
+ "cn": "地坑院",
+ "en": "Sunken Courtyard (Dikengyuan)",
+ "def_zh": "地坑院又称下沉式窑洞，在平坦黄土地面向下挖掘方形深坑，再在坑壁四周挖掘窑洞形成地下院落。书中记载三原柏社村保留有完整的地坑院群落，被誉为'地平线下古村落，民居史上活化石'。",
+ "def_en": "Sunken courtyards are underground dwellings formed by excavating a square pit on flat loess ground, then digging caves around the pit walls. The book records that Sanyuan Baishe Village preserves a complete cluster, known as 'ancient villages below the horizon, living fossils in residential history.'",
+ "examples": "三原柏社村",
+ "related": [
+ "窑洞",
+ "锢窑",
+ "黄土高原"
+ ]
+ },
+ {
+ "id": 3,
+ "category": "建筑结构",
+ "cn": "抬梁式",
+ "en": "Beam-Lifting Frame (Tailiangshi)",
+ "def_zh": "抬梁式是中国古建筑主要木构架形式，柱上抬梁，梁上安短柱，短柱上再抬梁，层层叠叠形成屋架。书中记载三原城隍庙大殿为'彻上明造，抬梁式构架，五架梁上用瓜柱、角背'，西安钟楼、鼓楼均采用抬梁式结构，可获得较大室内空间。",
+ "def_en": "The beam-lifting frame is a main timber framing form with beams on columns, short columns on beams, layered to form roof trusses. The book records Sanyuan City God Temple's main hall as 'exposed construction, beam-lifting frame with five-rafter beams using瓜柱 and角背.' Xi'an Bell and Drum Towers use this frame for large interior spaces.",
+ "examples": "三原城隍庙大殿、西安钟楼、西安鼓楼",
+ "related": [
+ "穿斗式",
+ "斗拱",
+ "彻上明造"
+ ]
+ },
+ {
+ "id": 4,
+ "category": "建筑结构",
+ "cn": "斗拱",
+ "en": "Dougong (Bracket Set)",
+ "def_zh": "斗拱是中国古建筑特有构件，由方形斗、升和弓形拱、昂组成，位于柱与梁枋之间。书中记载西安钟楼'下檐斗拱为三踩单昂，上檐斗拱为五踩双昂'，榆林万佛楼'外檐斗拱布置疏朗，升棋做法正规'，韩城城隍庙戏楼'如意斗拱'是明代建筑特征。",
+ "def_en": "Dougong are unique bracket sets consisting of square blocks and bow-shaped arms between columns and beams. The book records Xi'an Bell Tower's 'lower eaves with three-step single ang, upper eaves with five-step double ang,' Yulin Wanfo Tower's 'sparse outer-eave dougong with regular sheng-qi method,' and Hancheng City God Temple's 'ruyi dougong' as Ming features.",
+ "examples": "西安钟楼、榆林万佛楼、韩城城隍庙戏楼",
+ "related": [
+ "昂",
+ "华拱",
+ "坐斗"
+ ]
+ },
+ {
+ "id": 5,
+ "category": "建筑结构",
+ "cn": "歇山顶",
+ "en": "Hip-and-Gable Roof (Xieshanding)",
+ "def_zh": "歇山顶由一条正脊、四条垂脊和四条戗脊组成，又称九脊顶，有单檐和重檐之分。书中记载西安鼓楼为'重檐三滴水歇山顶的阁楼式建筑'，三原城隍庙寝殿'重檐歇山顶，高17.25米'，勉县武侯墓山门'硬山式建筑，抬梁式三架梁'。",
+ "def_en": "The hip-and-gable roof has one main ridge, four vertical ridges, and four diagonal ridges (nine ridges total), with single and double eave variants. The book records Xi'an Drum Tower as a 'double-eave three-water-drop hip-and-gable tower,' Sanyuan City God Temple's bedroom hall as 'double-eave hip-and-gable, 17.25m tall.'",
+ "examples": "西安鼓楼、三原城隍庙寝殿、韩城城隍庙广荐殿",
+ "related": [
+ "庑殿顶",
+ "攒尖顶",
+ "硬山顶"
+ ]
+ },
+ {
+ "id": 6,
+ "category": "建筑结构",
+ "cn": "庑殿顶",
+ "en": "Hip Roof (Wudianding)",
+ "def_zh": "庑殿顶是中国古建筑最高等级屋顶，由一条正脊和四条垂脊组成，又称四阿顶。书中记载华阴西岳庙灏灵殿为重檐庑殿顶，体现西岳庙作为祭祀西岳华山的皇家庙宇的崇高等级。",
+ "def_en": "The hip roof is the highest-ranking ancient Chinese roof, with one main and four vertical ridges (four-slope roof). The book records Huayin Xiyue Temple's Haoling Hall as having a double-eave hip roof, reflecting the temple's lofty status as a royal temple for sacrificing to Mount Hua.",
+ "examples": "华阴西岳庙灏灵殿",
+ "related": [
+ "歇山顶",
+ "重檐",
+ "琉璃瓦"
+ ]
+ },
+ {
+ "id": 7,
+ "category": "建筑结构",
+ "cn": "攒尖顶",
+ "en": "Pyramidal Roof (Cuanjianding)",
+ "def_zh": "攒尖顶屋面在顶部交汇于一点，上置宝顶，有三角、四角、六角、八角、圆形等形式。书中记载西安钟楼为'三重檐四角攒尖顶，屋面为琉璃瓦，置鎏金宝瓶刹'，城固钟楼'屋顶为六角，攒尖盔顶，宝顶为铁铸宝珠'。",
+ "def_en": "Pyramidal roofs converge at a top point with a finial, in triangular, square, hexagonal, octagonal, and circular forms. The book records Xi'an Bell Tower as 'triple-eave square pyramidal with glazed tiles and gilded bottle finial,' and Chenggu Bell Tower as 'hexagonal pyramidal helmet roof with cast-iron jewel finial.'",
+ "examples": "西安钟楼、城固钟楼、户县钟楼",
+ "related": [
+ "宝顶",
+ "塔刹",
+ "楼阁式塔"
+ ]
+ },
+ {
+ "id": 8,
+ "category": "建筑结构",
+ "cn": "楼阁式塔",
+ "en": "Tower-Style Pagoda (Lougeshi Ta)",
+ "def_zh": "楼阁式塔源于中国传统楼阁，塔身分层，每层有塔檐、平座、门窗，可登临。书中记载大慈恩寺大雁塔为唐代楼阁式砖塔代表，塔身用砖，仿木结构，每层有砖砌柱、枋、斗拱，是西安的标志性建筑。",
+ "def_en": "Tower-style pagodas derive from traditional Chinese towers, with layered bodies, each with eaves, balconies, doors, and windows for climbing. The book records the Great Wild Goose Pagoda at Dacien Temple as a representative Tang brick pagoda, using brick to imitate timber structure with brick columns, tie beams, and dougong on each layer—a Xi'an landmark.",
+ "examples": "大雁塔、富县柏山寺塔",
+ "related": [
+ "密檐式塔",
+ "塔刹",
+ "平座"
+ ]
+ },
+ {
+ "id": 9,
+ "category": "建筑结构",
+ "cn": "密檐式塔",
+ "en": "Multi-Eaved Pagoda (Miyanshi Ta)",
+ "def_zh": "密檐式塔第一层较高，以上各层塔檐紧密重叠，多为实心不可登临。书中记载荐福寺小雁塔为唐代密檐式砖塔代表，原有15层，现存13层，塔身砖砌，每层叠涩出檐，是唐代密檐塔的杰作。",
+ "def_en": "Multi-eaved pagodas have a tall first story with closely overlapping eaves above, mostly solid and not climbable. The book records Jianfu Temple's Small Wild Goose Pagoda as a representative Tang multi-eaved brick pagoda, originally 15 stories, now 13, with brick body and corbelled eaves on each layer—a Tang masterpiece.",
+ "examples": "小雁塔、香积寺善导塔",
+ "related": [
+ "楼阁式塔",
+ "塔刹",
+ "叠涩"
+ ]
+ },
+ {
+ "id": 10,
+ "category": "建筑结构",
+ "cn": "塔刹",
+ "en": "Pagoda Finial (Tasha)",
+ "def_zh": "塔刹是佛塔顶部的装饰和收束构件，由基座、覆钵、相轮、宝盖、宝珠等组成。书中记载泾阳崇文宝塔塔刹为铜制鎏金，高8.52米，是中国现存最高的塔刹之一；城固钟楼宝顶为铁铸宝珠，各层老角梁下原有风铃。",
+ "def_en": "The pagoda finial is the decorative terminal component at a pagoda's top, consisting of base, inverted bowl, phase wheels, canopy, and jewel. The book records Jingyang Chongwen Pagoda's finial as gilded bronze, 8.52m tall—one of China's tallest surviving finials; Chenggu Bell Tower's finial is cast iron with wind bells under old corner beams.",
+ "examples": "泾阳崇文宝塔、城固钟楼",
+ "related": [
+ "相轮",
+ "覆钵",
+ "宝顶"
+ ]
+ },
+ {
+ "id": 11,
+ "category": "建筑结构",
+ "cn": "摩崖造像",
+ "en": "Cliff Carving (Moya Zaoxiang)",
+ "def_zh": "摩崖造像是在山崖壁面雕刻的佛教造像。书中记载彬县大佛寺石窟始凿于唐贞观二年（628年），大佛高20米，是陕西最大的摩崖造像；慈善寺石窟、富县石泓寺石窟、米脂万佛洞均有精美摩崖造像。",
+ "def_en": "Cliff carvings are Buddhist statues carved on cliff faces. The book records Bin County Great Buddha Temple Grottoes, first carved in 628 CE (Tang Zhenguan 2), with a 20m Great Buddha—the largest in Shaanxi. Cishansi, Shihongsi, and Mizhi Wanfo Cave also have exquisite cliff carvings.",
+ "examples": "彬县大佛寺石窟、慈善寺石窟、米脂万佛洞",
+ "related": [
+ "石窟",
+ "佛塔",
+ "佛教建筑"
+ ]
+ },
+ {
+ "id": 12,
+ "category": "建筑结构",
+ "cn": "地宫",
+ "en": "Underground Palace (Digong)",
+ "def_zh": "地宫是佛塔基下埋藏舍利、佛经和宝物的地下空间。书中记载扶风法门寺地宫于1987年发掘，出土佛指舍利和大量唐代金银器、瓷器、丝织品，是中国迄今发现的最大、等级最高的佛塔地宫。",
+ "def_en": "The underground palace is the subterranean space beneath a pagoda base for burying relics, scriptures, and treasures. The book records Famen Temple's underground palace, excavated in 1987, yielding a Buddha finger relic and大量 Tang gold/silver vessels, porcelain, and textiles—the largest and highest-ranking pagoda underground palace discovered in China.",
+ "examples": "扶风法门寺地宫",
+ "related": [
+ "佛塔",
+ "舍利",
+ "塔基"
+ ]
+ },
+ {
+ "id": 13,
+ "category": "建筑类型",
+ "cn": "帝陵",
+ "en": "Imperial Mausoleum (Diling)",
+ "def_zh": "帝陵是古代帝王陵墓，由封土、陵园、寝殿、陪葬墓等组成。书中记载陕西是中国帝陵最集中地区，有黄帝陵、秦始皇陵、西汉十一陵、唐十八陵。秦始皇陵封土高达64米，是中国古代最大的坟丘；唐昭陵、乾陵为因山为陵。",
+ "def_en": "Imperial mausoleums consist of mounds, enclosures, sacrifice halls, and satellite tombs. The book records Shaanxi as China's most concentrated region of imperial mausoleums, including Yellow Emperor, Qin Shi Huang, eleven Western Han, and eighteen Tang mausoleums. Qin Shi Huang's mound reaches 64m—the largest ancient Chinese tumulus; Tang Zhao and Qian Mausoleums are mountain-carved.",
+ "examples": "秦始皇陵、汉茂陵、唐昭陵、唐乾陵",
+ "related": [
+ "因山为陵",
+ "封土",
+ "陵园"
+ ]
+ },
+ {
+ "id": 14,
+ "category": "建筑类型",
+ "cn": "因山为陵",
+ "en": "Mountain-Carved Mausoleum (Yinshan Weiling)",
+ "def_zh": "因山为陵是唐代帝陵主要形制，将墓室开凿在自然山体中，以山为封土。书中记载唐昭陵（唐太宗）是第一座因山为陵的帝陵，位于礼泉九嵕山；唐乾陵（唐高宗与武则天合葬）位于乾县梁山，是唐十八陵中保存最完整的一座，陵园有石狮、石人、述圣纪碑、无字碑等。",
+ "def_en": "Mountain-carved mausoleums are the main Tang imperial form, with chambers excavated into natural mountains. The book records Zhao Mausoleum (Emperor Taizong) as the first, at Jiuzong Mountain in Liquan; Qian Mausoleum (joint burial of Gaozong and Wu Zetian) at Liang Mountain in Qian County—the best-preserved of eighteen Tang mausoleums, with stone lions, figures, and steles.",
+ "examples": "唐昭陵、唐乾陵、唐泰陵",
+ "related": [
+ "帝陵",
+ "封土",
+ "陵园"
+ ]
+ },
+ {
+ "id": 15,
+ "category": "建筑类型",
+ "cn": "清真寺",
+ "en": "Mosque (Qingzhensi)",
+ "def_zh": "清真寺是伊斯兰教宗教建筑。书中记载西安化觉巷清真寺始建于唐天宝元年（742年），是中国四大清真寺之一，采用中国传统建筑形式，有照壁、牌楼、礼拜殿、省心楼、沐浴室等；大学习巷清真寺（西大寺）坐西朝东，二进院落，礼拜殿可容500多人同时礼拜。",
+ "def_en": "Mosques are Islamic religious buildings. The book records Xi'an Huajue Lane Mosque, founded in 742 CE (Tang Tianbao 1), one of China's four great mosques, using traditional Chinese forms with screen walls, archways, prayer halls, minarets, and ablution rooms. Daxuexi Lane Mosque faces east with two courtyards, its prayer hall holding over 500 worshippers.",
+ "examples": "西安化觉巷清真寺、大学习巷清真寺、西乡鹿龄寺",
+ "related": [
+ "礼拜殿",
+ "省心楼",
+ "照壁"
+ ]
+ },
+ {
+ "id": 16,
+ "category": "建筑类型",
+ "cn": "文庙",
+ "en": "Confucian Temple (Wenmiao)",
+ "def_zh": "文庙是祭祀孔子的祠庙。书中记载韩城文庙始建于明洪武四年（1371年），是文庙现存年代较早的建筑，有棂星门、泮池、大成殿、明伦堂、尊经阁等；西安府文庙（今碑林博物馆）始建于北宋，是陕西最早的文庙。",
+ "def_en": "Confucian temples are shrines for sacrificing to Confucius. The book records Hancheng Confucian Temple, founded in 1371 CE (Ming Hongwu 4), one of the earliest surviving, with lattice star gate, pan pond, Dacheng Hall, Minglun Hall, and scripture tower. Xi'an Fu Confucian Temple (now Beilin Museum) was founded in the Northern Song, Shaanxi's earliest.",
+ "examples": "韩城文庙、西安府文庙、咸阳文庙",
+ "related": [
+ "棂星门",
+ "大成殿",
+ "泮池"
+ ]
+ },
+ {
+ "id": 17,
+ "category": "建筑类型",
+ "cn": "城隍庙",
+ "en": "City God Temple (Chenghuangmiao)",
+ "def_zh": "城隍庙是祭祀城隍神的祠庙。书中记载三原城隍庙始建于明洪武八年（1375年），中轴线从南到北依次布置照壁、牌坊门、山门、木牌坊、石牌坊、戏楼、拜殿、寝殿，是陕西保存最完整的明代城隍庙建筑群；西安都城隍庙为府级城隍庙。",
+ "def_en": "City God temples sacrifice to the City God. The book records Sanyuan City God Temple, founded in 1375 CE (Ming Hongwu 8), with a central axis from south to north: screen wall, archway gate, mountain gate, wooden archway, stone archway, theater stage, worship hall, and bedroom hall—the best-preserved Ming City God temple complex in Shaanxi.",
+ "examples": "三原城隍庙、西安都城隍庙、韩城城隍庙",
+ "related": [
+ "戏楼",
+ "拜殿",
+ "牌坊"
+ ]
+ },
+ {
+ "id": 18,
+ "category": "建筑类型",
+ "cn": "会馆",
+ "en": "Guild Hall (Huiguan)",
+ "def_zh": "会馆是明清同乡或同业在异地建立的聚会场所。书中记载丹凤船帮会馆（明王宫）戏楼最为著名，入口为砖砌三间五楼式牌坊门，额刻'明王宫'，乐楼为戏台，高15米，两侧有楼可供戏班换装；山阳骡帮会馆有北方雄伟粗犷和南方俊丽清秀的建筑风格。",
+ "def_en": "Guild halls were gathering places for same-hometown or same-trade people in the Ming-Qing. The book records Danfeng Boatmen's Guild Hall (Mingwang Palace) with its famous theater stage: entrance is a brick three-bay five-story archway gate inscribed 'Mingwang Palace,' the performance tower is 15m tall with side towers for costume changes. Shanyang Mule-Team Guild Hall blends northern grandeur and southern delicacy.",
+ "examples": "丹凤船帮会馆、山阳骡帮会馆、紫阳北五省会馆",
+ "related": [
+ "戏楼",
+ "牌坊",
+ "砖雕"
+ ]
+ },
+ {
+ "id": 19,
+ "category": "建筑类型",
+ "cn": "书院",
+ "en": "Academy (Shuyuan)",
+ "def_zh": "书院是中国古代教育机构。书中记载关中书院始建于明万历三十七年（1609年），是明清陕西最高学府，为西北四大书院之首，总体布局严格遵循儒家礼制思想，采用中轴对称模式，中轴线上有五重院落；眉县横渠书院为纪念张载而建。",
+ "def_en": "Academies were ancient Chinese educational institutions. The book records Guanzhong Academy, founded in 1609 CE (Ming Wanli 37), the highest institution of Ming-Qing Shaanxi and head of the four northwestern academies. Its layout strictly follows Confucian ritual with central axis symmetry and five courtyard layers. Meixian Hengqu Academy was built to commemorate Zhang Zai.",
+ "examples": "关中书院、眉县横渠书院",
+ "related": [
+ "考院",
+ "大成殿",
+ "泮池"
+ ]
+ },
+ {
+ "id": 20,
+ "category": "建筑类型",
+ "cn": "钟鼓楼",
+ "en": "Bell and Drum Tower (Zhonggulou)",
+ "def_zh": "钟鼓楼是古代城市报时建筑。书中记载西安钟楼始建于明洪武十七年（1384年），通高36米，基座每边长35.5米，是中国现存规模最大、保存最完整的钟楼；西安鼓楼始建于明洪武十三年（1380年），通高33米，是国内现存最大的鼓楼建筑。",
+ "def_en": "Bell and drum towers were ancient city timekeeping buildings. The book records Xi'an Bell Tower, founded in 1384 CE (Ming Hongwu 17), 36m total height with 35.5m square base—the largest and best-preserved surviving bell tower in China. Xi'an Drum Tower, founded in 1380 CE, 33m tall—the largest surviving drum tower in China.",
+ "examples": "西安钟楼、西安鼓楼、城固钟楼",
+ "related": [
+ "古城墙",
+ "攒尖顶",
+ "歇山顶"
+ ]
+ },
+ {
+ "id": 21,
+ "category": "建筑类型",
+ "cn": "古城墙",
+ "en": "Ancient City Wall (Guchengqiang)",
+ "def_zh": "古城墙是古代城市防御建筑。书中记载西安古城墙始建于明洪武三年（1370年），在唐长安城皇城基础上扩建，周长13.74公里，墙高12米，底宽18米，顶宽15米，是中国现存最完整的古代州府级城墙；府谷府州城山河襟带，平面呈曲尺形，周长2320米。",
+ "def_en": "Ancient city walls are defensive structures. The book records Xi'an Ancient City Wall, founded in 1370 CE (Ming Hongwu 3), expanded on the Tang Chang'an imperial city, 13.74km circumference, 12m tall, 18m base width, 15m top width—the most complete surviving ancient prefectural-level city wall in China. Fugu Fuzhou City follows rivers and mountains with a carpenter's-square plan, 2320m circumference.",
+ "examples": "西安古城墙、府谷府州城、吴堡石城",
+ "related": [
+ "瓮城",
+ "马面",
+ "垛口"
+ ]
+ },
+ {
+ "id": 22,
+ "category": "建筑类型",
+ "cn": "瓮城",
+ "en": "Barbican Entrance (Wengcheng)",
+ "def_zh": "瓮城是城门外的护门小城，敌人攻入后可关闭城门形成'瓮中捉鳖'。书中记载西安古城墙四座城门外均有瓮城，四城门楼内左侧各有一处登城'马道'，沿城墙设6处登城马道，是中国古代城防建筑的杰作。",
+ "def_en": "A barbican entrance is a protective small city outside a gate; after enemies enter, gates can be closed to 'catch turtles in a jar.' The book records all four gates of Xi'an Ancient City Wall have barbican entrances, with 'horse ramps' for climbing inside each gate tower and six ramps along the wall—masterpieces of ancient Chinese city defense.",
+ "examples": "西安古城墙永宁门瓮城",
+ "related": [
+ "古城墙",
+ "马面",
+ "城门楼"
+ ]
+ },
+ {
+ "id": 23,
+ "category": "建筑类型",
+ "cn": "佛塔",
+ "en": "Buddhist Pagoda (Fota)",
+ "def_zh": "佛塔是佛教建筑重要类型，源于印度窣堵坡。书中记载陕西佛塔数量众多，有楼阁式、密檐式、覆钵式等，大雁塔、小雁塔是唐代佛塔代表；泾阳崇文宝塔高87米，是中国现存最高的砖塔；法门寺塔因地宫出土佛指舍利而闻名。",
+ "def_en": "Buddhist pagodas are important Buddhist architecture derived from Indian stupas. The book records Shaanxi's numerous pagodas in tower-style, multi-eaved, and stupa forms. The Great and Small Wild Goose Pagodas are Tang representatives; Jingyang Chongwen Pagoda at 87m is China's tallest surviving brick pagoda; Famen Temple Pagoda is famous for the Buddha finger relic from its underground palace.",
+ "examples": "大雁塔、小雁塔、泾阳崇文宝塔、法门寺塔",
+ "related": [
+ "楼阁式塔",
+ "密檐式塔",
+ "塔刹"
+ ]
+ },
+ {
+ "id": 24,
+ "category": "建筑类型",
+ "cn": "石窟",
+ "en": "Grotto (Shiku)",
+ "def_zh": "石窟是在山崖壁面开凿的佛教建筑。书中记载陕西石窟以晚期石窟为主，共发现北魏至明清石窟350余处，彬县大佛寺石窟最为重要，始凿于唐贞观二年（628年），大佛高20米；此外有慈善寺石窟、富县石泓寺石窟、米脂万佛洞等。",
+ "def_en": "Grottoes are Buddhist buildings excavated into cliff faces. The book records Shaanxi grottoes as mainly late-period, with over 350 sites from Northern Wei to Ming-Qing. Bin County Great Buddha Temple Grottoes are most important, first carved in 628 CE with a 20m Great Buddha; others include Cishansi, Shihongsi in Fu County, and Wanfo Cave in Mizhi.",
+ "examples": "彬县大佛寺石窟、慈善寺石窟、富县石泓寺石窟",
+ "related": [
+ "摩崖造像",
+ "佛塔",
+ "佛教建筑"
+ ]
+ },
+ {
+ "id": 25,
+ "category": "建筑装饰",
+ "cn": "砖雕",
+ "en": "Brick Carving (Zhuandiao)",
+ "def_zh": "砖雕是在青砖上雕刻图案的装饰艺术。书中记载旬邑唐家宅院砖雕精美，有'凤凰牡丹'、'海水朝阳'等图案；丹凤船帮会馆戏楼砖雕精美；韩城党家村门楼、照壁砖雕是关中民居砖雕的代表，内容包括人物故事、花鸟瑞兽。",
+ "def_en": "Brick carving is decorative art on blue bricks. The book records Xunyi Tang Family Residence with exquisite brick carvings including 'phoenix and peony' and 'sea and sunrise'; Danfeng Boatmen's Guild Hall theater stage has fine brick carving; Hancheng Dangjia Village gate towers and screen walls represent Guanzhong residential brick carving with figure stories, flowers, birds, and auspicious animals.",
+ "examples": "旬邑唐家宅院、丹凤船帮会馆、韩城党家村",
+ "related": [
+ "木雕",
+ "石雕",
+ "照壁"
+ ]
+ },
+ {
+ "id": 26,
+ "category": "建筑装饰",
+ "cn": "木雕",
+ "en": "Wood Carving (Mudiao)",
+ "def_zh": "木雕是在木材上雕刻图案的装饰艺术。书中记载西安化觉巷清真寺木雕精美，采用浮雕、透雕技法；山阳骡帮会馆戏楼'梁柱、门窗雕工精致，主题涉及高山河谷、野渡江帆、亭台楼阁、车马仪仗、鸟兽虫鱼、树木花草，尤以人物雕刻而闻名，因此当地人们称之为花戏楼'。",
+ "def_en": "Wood carving is decorative art on wood. The book records Xi'an Huajue Lane Mosque with exquisite relief and openwork wood carving; Shanyang Mule-Team Guild Hall theater stage has 'exquisitely carved beams, columns, doors, and windows with themes of mountains, rivers, boats, pavilions, processions, birds, beasts, and flowers—especially famous for figure carving, hence locally called the Flower Theater.'",
+ "examples": "西安化觉巷清真寺、山阳骡帮会馆戏楼",
+ "related": [
+ "砖雕",
+ "石雕",
+ "雀替"
+ ]
+ },
+ {
+ "id": 27,
+ "category": "建筑装饰",
+ "cn": "石雕",
+ "en": "Stone Carving (Shidiao)",
+ "def_zh": "石雕是在石材上雕刻图案的装饰艺术。书中记载唐乾陵石狮、石人、述圣纪碑、无字碑是唐代石雕艺术的巅峰；韩城司马迁祠、勉县武侯祠的碑刻和石狮最为著名；旬邑唐家宅院柱础石雕有'凤凰牡丹'等精美图案。",
+ "def_en": "Stone carving is decorative art on stone. The book records Tang Qian Mausoleum's stone lions, figures, and steles as the peak of Tang stone carving; Hancheng Sima Qian Shrine and Mianxian Wuhou Shrine are famous for steles and stone lions; Xunyi Tang Family Residence column bases have exquisite 'phoenix and peony' stone carvings.",
+ "examples": "唐乾陵石刻、韩城司马迁祠、旬邑唐家宅院",
+ "related": [
+ "砖雕",
+ "木雕",
+ "柱础"
+ ]
+ },
+ {
+ "id": 28,
+ "category": "建筑装饰",
+ "cn": "琉璃瓦",
+ "en": "Glazed Tile (Liuliwa)",
+ "def_zh": "琉璃瓦是表面施釉的陶瓦，有黄、绿、蓝等颜色，是高级屋面材料。书中记载西安钟楼'屋面为琉璃瓦，置鎏金宝瓶刹'；三原城隍庙寝殿'屋顶布琉璃筒瓦'；韩城城隍庙广荐殿'布琉璃筒瓦，脊吻，次间脊上增饰楼阁'。",
+ "def_en": "Glazed tiles are glazed ceramic tiles in yellow, green, and blue, premium roofing material. The book records Xi'an Bell Tower's 'glazed tile roof with gilded bottle finial'; Sanyuan City God Temple bedroom hall's 'roof covered with glazed tubular tiles'; Hancheng City God Temple's Guangjian Hall 'glazed tubular tiles with ridge ornaments and added pavilions on secondary ridges.'",
+ "examples": "西安钟楼、三原城隍庙、韩城城隍庙",
+ "related": [
+ "筒瓦",
+ "板瓦",
+ "正吻"
+ ]
+ },
+ {
+ "id": 29,
+ "category": "建筑装饰",
+ "cn": "彩画",
+ "en": "Painted Decoration (Caihua)",
+ "def_zh": "彩画是古建筑木构件表面的绘画装饰。书中记载西安东岳庙大殿东西两壁、后壁棋盘门两侧之上满布大幅彩色道教壁画，面积达158平方米，绘制于清康熙五十四年（1715年），是陕西境内现存宫观壁画中单体面积最大的，内容主要为山水、楼阁、人物、花卉。",
+ "def_en": "Painted decorations are painted ornaments on wooden components. The book records Xi'an Dongyue Temple's main hall with large Taoist murals on east/west walls and above the back paneled doors, totaling 158 sq m, painted in 1715 CE (Qing Kangxi 54)—the largest single-area surviving temple mural in Shaanxi, mainly depicting landscapes, pavilions, figures, and flowers.",
+ "examples": "西安东岳庙大殿壁画",
+ "related": [
+ "和玺彩画",
+ "旋子彩画",
+ "藻井"
+ ]
+ },
+ {
+ "id": 30,
+ "category": "建筑装饰",
+ "cn": "照壁",
+ "en": "Screen Wall (Zhaobi)",
+ "def_zh": "照壁是大门内或外的屏蔽建筑。书中记载大学习巷清真寺大照壁在寺东侧，砖砌高10米，长15米，照壁中心有三大幅圆形砖雕图案，上部有著名的'四马砖雕'；三原城隍庙中轴线最南端为照壁，水磨青砖砌筑。",
+ "def_en": "Screen walls are shielding buildings inside or outside gates. The book records Daxuexi Lane Mosque's large screen wall on the east side, 10m tall and 15m long brick wall with three large circular brick-carved patterns and famous 'four-horse brick carving' on top; Sanyuan City God Temple's southernmost axis point is a screen wall of polished blue brick.",
+ "examples": "大学习巷清真寺照壁、三原城隍庙照壁",
+ "related": [
+ "砖雕",
+ "门楼",
+ "四合院"
+ ]
+ },
+ {
+ "id": 31,
+ "category": "建筑装饰",
+ "cn": "雀替",
+ "en": "Spandrel (Queti)",
+ "def_zh": "雀替是梁枋与柱交接处的装饰构件。书中记载勉县武侯墓山门'前檐梁下皆施有牛腿装饰，柱间施花板，枋上施如意斗拱'；西安化觉巷清真寺雀替雕刻精美，是清真寺建筑装饰的重要组成部分。",
+ "def_en": "Spandrels are decorative components at beam-column junctions. The book records Mianxian Wuhou Tomb's mountain gate with 'bracket-like decorations under front eaves, patterned panels between columns, and ruyi dougong on tie beams'; Xi'an Huajue Lane Mosque has exquisite spandrel carvings, an important part of mosque decoration.",
+ "examples": "勉县武侯墓山门、西安化觉巷清真寺",
+ "related": [
+ "木雕",
+ "梁枋",
+ "斗拱"
+ ]
+ },
+ {
+ "id": 32,
+ "category": "建筑装饰",
+ "cn": "藻井",
+ "en": "Caisson Ceiling (Zaojing)",
+ "def_zh": "藻井是古建筑天花板上的凹入装饰。书中记载三原城隍庙大殿'殿内设有平棊天花，直接安放在檐檩之上，绘制有花鸟等图案'；西安东岳庙大殿保留有精美的明代彩画和藻井，是陕西古建筑彩画艺术的重要实例。",
+ "def_en": "Caisson ceilings are sunken ceiling decorations. The book records Sanyuan City God Temple's main hall with 'flat coffered ceiling placed directly on eaves purlins, painted with flowers and birds'; Xi'an Dongyue Temple main hall preserves exquisite Ming painted decorations and caisson ceilings, an important example of Shaanxi architectural painting art.",
+ "examples": "三原城隍庙大殿、西安东岳庙",
+ "related": [
+ "彩画",
+ "斗拱",
+ "殿堂"
+ ]
+ },
+ {
+ "id": 33,
+ "category": "建筑装饰",
+ "cn": "正吻",
+ "en": "Main Ridge Ornament (Zhengwen)",
+ "def_zh": "正吻是正脊两端的装饰构件，多为龙形或兽形。书中记载韩城城隍庙广荐殿'布琉璃筒瓦，脊吻，次间脊上增饰楼阁'；三原城隍庙戏楼'屋顶为庑殿顶，戏台内中顶装八边八层藻井'，正吻是古建筑等级的重要标志。",
+ "def_en": "Main ridge ornaments are decorative components at both ends of the main ridge, mostly dragon or beast forms. The book records Hancheng City God Temple's Guangjian Hall with 'glazed tubular tiles, ridge ornaments, and added pavilions on secondary ridges'; Sanyuan City God Temple's theater stage has a 'hip roof with octagonal eight-layer caisson at the interior top'—ridge ornaments are important rank indicators.",
+ "examples": "韩城城隍庙、三原城隍庙",
+ "related": [
+ "正脊",
+ "垂兽",
+ "走兽"
+ ]
+ },
+ {
+ "id": 34,
+ "category": "建筑装饰",
+ "cn": "柱础",
+ "en": "Column Base (Zhuchu)",
+ "def_zh": "柱础是柱下的石质基座，起防潮、承重和装饰作用。书中记载西安东岳庙大殿'前檐8根柱子柱础刻有精美的二龙戏珠浮雕图案，其他柱石皆雕花卉'；旬邑唐家宅院柱础石雕精美，是关中民居建筑装饰的代表。",
+ "def_en": "Column bases are stone pedestals under columns for moisture protection, load bearing, and decoration. The book records Xi'an Dongyue Temple main hall's '8 front-eave column bases carved with exquisite 'two dragons playing with pearl' relief, other column stones carved with flowers'; Xunyi Tang Family Residence column bases are fine examples of Guanzhong residential decoration.",
+ "examples": "西安东岳庙大殿、旬邑唐家宅院",
+ "related": [
+ "石雕",
+ "台基",
+ "柱子"
+ ]
+ },
+ {
+ "id": 35,
+ "category": "建筑材料",
+ "cn": "青砖",
+ "en": "Blue Brick (Qingzhuan)",
+ "def_zh": "青砖是古建筑主要墙体材料。书中记载西安古城墙'明隆庆二年（1568年）对城墙外壁包砌青砖'，墙内夯土，外墙砌以砖石，上设垛堞；府谷府州城'城墙内夯黄土，外以石砌'；陕北锢窑用石块旋垒砌而成。",
+ "def_en": "Blue bricks are the main wall material. The book records Xi'an Ancient City Wall's 'outer wall faced with blue brick in 1568 CE (Ming Longqing 2),' with rammed earth inside and brick/stone outside with battlements; Fugu Fuzhou City's 'walls rammed with yellow loess inside, stone outside'; northern Shaanxi stone caves built with stone vaulting.",
+ "examples": "西安古城墙、府谷府州城、陕北锢窑",
+ "related": [
+ "小青瓦",
+ "石材",
+ "夯土"
+ ]
+ },
+ {
+ "id": 36,
+ "category": "建筑材料",
+ "cn": "小青瓦",
+ "en": "Small Gray Tile (Xiaoqingwa)",
+ "def_zh": "小青瓦是古建筑传统屋面材料。书中记载韩城党家村民居屋面多为小灰瓦，硬山式建筑；勉县武侯墓山门'屋面筒瓦，镂雕行龙纹脊'；西乡鹿龄寺'屋顶覆盖灰色筒瓦，屋脊设有精美砖雕，中央设圆形塔式脊刹'。",
+ "def_en": "Small gray tiles are traditional roofing material. The book records Hancheng Dangjia Village residences mostly using small gray tiles with gable roofs; Mianxian Wuhou Tomb mountain gate has 'tubular tiles with openwork dragon-pattern ridge'; Xixiang Luling Temple's 'roof covered with gray tubular tiles, exquisite brick-carved ridge with central circular pagoda-style ridge finial.'",
+ "examples": "韩城党家村、西乡鹿龄寺",
+ "related": [
+ "青砖",
+ "琉璃瓦",
+ "筒瓦"
+ ]
+ },
+ {
+ "id": 37,
+ "category": "建筑材料",
+ "cn": "黄土",
+ "en": "Loess (Huangtu)",
+ "def_zh": "黄土是西北黄土高原主要土壤，有直立性，适合挖掘窑洞。书中记载陕西是中国黄土分布最广的省份之一，陕北和关中窑洞民居利用黄土直立性建造；秦咸阳城'城墙基宽约5.5-7.6米，最厚4.6米'，为夯土筑成；秦始皇陵封土为夯土筑成，高达64米。",
+ "def_en": "Loess is the main soil of the northwest Loess Plateau with vertical stability, suitable for cave excavation. The book records Shaanxi as one of China's provinces with widest loess distribution; northern and central Shaanxi cave dwellings use loess vertical stability; Qin Xianyang City walls '5.5-7.6m base width, 4.6m thickest' of rammed earth; Qin Shi Huang's mound is rammed earth, 64m tall.",
+ "examples": "陕北窑洞、秦咸阳城、秦始皇陵封土",
+ "related": [
+ "窑洞",
+ "地坑院",
+ "夯土"
+ ]
+ },
+ {
+ "id": 38,
+ "category": "建筑材料",
+ "cn": "石材",
+ "en": "Stone (Shicai)",
+ "def_zh": "石材是古建筑重要材料，用于台基、柱础、栏杆、碑碣、造像等。书中记载唐乾陵石狮、石人是唐代石雕巅峰；彬县大佛寺石窟大佛高20米，为石刻造像；府谷府州城'城墙内夯黄土，外以石砌'；吴堡石城全部用石头砌筑。",
+ "def_en": "Stone is an important building material for platforms, column bases, railings, steles, and statues. The book records Tang Qian Mausoleum stone lions and figures as the peak of Tang stone carving; Bin County Great Buddha Temple's 20m Great Buddha is stone carving; Fugu Fuzhou City walls 'rammed loess inside, stone outside'; Wubao Stone City is entirely built of stone.",
+ "examples": "唐乾陵石刻、彬县大佛寺、吴堡石城",
+ "related": [
+ "石雕",
+ "柱础",
+ "台基"
+ ]
+ },
+ {
+ "id": 39,
+ "category": "建筑材料",
+ "cn": "木材",
+ "en": "Timber (Mucai)",
+ "def_zh": "木材是古建筑主要结构材料。书中记载西安钟楼'二层结构用通柱，攒尖顶构架采用抹角梁和井口枋'；榆林万佛楼'基座上建有二层木结构楼阁，14根廊柱环宇'；三原城隍庙大殿'梁架为彻上明造，抬梁式构架，五架梁上用瓜柱、角背'。",
+ "def_en": "Timber is the main structural material. The book records Xi'an Bell Tower's 'second story using continuous columns, pyramidal frame using mitered beams and well-frame tie beams'; Yulin Wanfo Tower's 'two-story wooden pavilion on base with 14 surrounding columns'; Sanyuan City God Temple main hall's 'exposed beam-lifting frame with five-rafter beams using瓜柱 and角背.'",
+ "examples": "西安钟楼、榆林万佛楼、三原城隍庙",
+ "related": [
+ "抬梁式",
+ "斗拱",
+ "彻上明造"
+ ]
+ },
+ {
+ "id": 40,
+ "category": "文化背景",
+ "cn": "周秦汉唐",
+ "en": "Zhou-Qin-Han-Tang Culture",
+ "def_zh": "陕西是周、秦、汉、唐四个强盛王朝建都之地，13个王朝在此建都，历时1100多年。书中前言记载'从公元前11世纪开始，陕西就是当时中国社会、文化发展的核心区域'，西周的都城丰镐、秦都咸阳、西汉长安、隋唐长安都是当时中国政治、经济、文化的中心。",
+ "def_en": "Shaanxi was the capital of four powerful dynasties—Zhou, Qin, Han, and Tang—with 13 dynasties establishing capitals here over 1,100 years. The book's preface records 'from the 11th century BCE, Shaanxi was the core region of Chinese social and cultural development,' with Western Zhou Fenghao, Qin Xianyang, Western Han Chang'an, and Sui-Tang Chang'an all serving as political, economic, and cultural centers.",
+ "examples": "丰镐遗址、秦咸阳城、汉长安城、唐长安城",
+ "related": [
+ "帝陵",
+ "古城墙",
+ "丝绸之路"
+ ]
+ },
+ {
+ "id": 41,
+ "category": "文化背景",
+ "cn": "丝绸之路",
+ "en": "Silk Road",
+ "def_zh": "丝绸之路起点为长安（今西安）。书中记载唐代长安是当时世界贸易的中心和'丝绸之路'的出发地，佛教沿丝绸之路传入中国，大慈恩寺是玄奘翻译佛经的场所，大雁塔为存放玄奘取回的佛经而建。2014年丝绸之路'长安-天山廊道'被列入世界文化遗产。",
+ "def_en": "The Silk Road started from Chang'an (today's Xi'an). The book records Tang Chang'an as the world trade center and departure point of the Silk Road; Buddhism entered China along it; Dacien Temple was where Xuanzang translated scriptures, and the Great Wild Goose Pagoda was built to store them. In 2014, the Silk Road 'Chang'an-Tianshan Corridor' was listed as UNESCO World Heritage.",
+ "examples": "大雁塔、大慈恩寺、兴教寺",
+ "related": [
+ "佛教建筑",
+ "佛塔",
+ "石窟"
+ ]
+ },
+ {
+ "id": 42,
+ "category": "文化背景",
+ "cn": "佛教文化",
+ "en": "Buddhist Culture",
+ "def_zh": "佛教自汉代沿丝绸之路传入中国，陕西是佛教中国化的重要地区。书中记载唐代长安是全国佛教中心，有大慈恩寺、大兴善寺、荐福寺、香积寺等著名寺院，玄奘在大慈恩寺翻译佛经；陕西现存佛教寺塔280余座，其中著名的有唐代风格大雁塔、小雁塔。",
+ "def_en": "Buddhism entered China along the Silk Road from the Han, and Shaanxi was an important region for its sinicization. The book records Tang Chang'an as the national Buddhist center with Dacien, Daxingshan, Jianfu, and Xiangji Temples; Xuanzang translated scriptures at Dacien Temple. Shaanxi preserves over 280 Buddhist pagodas, including the famous Tang-style Great and Small Wild Goose Pagodas.",
+ "examples": "大慈恩寺、大雁塔、大兴善寺、法门寺",
+ "related": [
+ "佛塔",
+ "石窟",
+ "摩崖造像"
+ ]
+ },
+ {
+ "id": 43,
+ "category": "文化背景",
+ "cn": "道教文化",
+ "en": "Taoist Culture",
+ "def_zh": "道教是中国本土宗教，陕西是道教重要发源地。书中记载周至楼观台是道教最早的宫观之一，相传老子在此讲经；西安八仙庵、华阴玉泉院、佳县白云观、宝鸡金台观等都是著名道教建筑。金台观始建于元朝末年，因明代道士张三丰在此修道而闻名。",
+ "def_en": "Taoism is China's indigenous religion, and Shaanxi is an important birthplace. The book records Zhouzhi Louguan Terrace as one of the earliest Taoist palaces, where Laozi is said to have lectured; Xi'an Baxian Temple, Huayin Yuquan Courtyard, Jiaxian Baiyun Temple, and Baoji Jintai Temple are famous Taoist buildings. Jintai Temple was founded in the late Yuan, famous for Ming Taoist Zhang Sanfeng's cultivation here.",
+ "examples": "周至楼观台、西安八仙庵、宝鸡金台观",
+ "related": [
+ "道教宫观",
+ "佛教建筑",
+ "祠庙"
+ ]
+ },
+ {
+ "id": 44,
+ "category": "文化背景",
+ "cn": "伊斯兰文化",
+ "en": "Islamic Culture",
+ "def_zh": "伊斯兰教自唐代沿丝绸之路传入中国，陕西是伊斯兰教传播的重要地区。书中记载西安化觉巷清真寺是中国四大清真寺之一，始建于唐天宝元年（742年）；大学习巷清真寺在唐中宗时已赐名'清教寺'，唐玄宗朝复改唐明寺，元中统年间又赐名回回万善寺。",
+ "def_en": "Islam entered China along the Silk Road from the Tang, and Shaanxi was an important region for its spread. The book records Xi'an Huajue Lane Mosque as one of China's four great mosques, founded in 742 CE (Tang Tianbao 1); Daxuexi Lane Mosque was already named 'Qingjiao Temple' in Emperor Zhongzong's reign, renamed Tangming Temple in Xuanzong's reign, and Huihui Wanshan Temple in the Yuan Zhongtong era.",
+ "examples": "西安化觉巷清真寺、大学习巷清真寺",
+ "related": [
+ "清真寺",
+ "礼拜殿",
+ "丝绸之路"
+ ]
+ },
+ {
+ "id": 45,
+ "category": "文化背景",
+ "cn": "儒家文化",
+ "en": "Confucian Culture",
+ "def_zh": "儒家文化是中国传统文化核心，陕西文庙和书院是其重要载体。书中记载西安府文庙（今碑林博物馆）始建于北宋，是陕西最早的文庙；韩城文庙始建于明洪武四年（1371年），是文庙现存年代较早的建筑；关中书院是明清陕西最高学府，为西北四大书院之首。",
+ "def_en": "Confucian culture is the core of traditional Chinese culture, and Shaanxi Confucian temples and academies are its important carriers. The book records Xi'an Fu Confucian Temple (now Beilin Museum) founded in the Northern Song, Shaanxi's earliest; Hancheng Confucian Temple founded in 1371 CE, one of the earliest surviving; Guanzhong Academy was the highest Ming-Qing Shaanxi institution and head of the four northwestern academies.",
+ "examples": "西安府文庙、韩城文庙、关中书院",
+ "related": [
+ "文庙",
+ "书院",
+ "大成殿"
+ ]
+ },
+ {
+ "id": 46,
+ "category": "文化背景",
+ "cn": "世界文化遗产",
+ "en": "World Cultural Heritage",
+ "def_zh": "陕西有多处世界文化遗产。书中涉及的秦始皇陵及兵马俑坑于1987年列入；丝绸之路'长安-天山廊道'于2014年列入，含大雁塔、小雁塔、兴教寺塔、大明宫遗址等。这些遗产是陕西古建筑的精华，也是全人类共同的文化财富。",
+ "def_en": "Shaanxi has multiple UNESCO World Heritage sites. The book covers Qin Shi Huang Mausoleum and Terracotta Army (listed 1987); the Silk Road 'Chang'an-Tianshan Corridor' (listed 2014), including Great Wild Goose Pagoda, Small Wild Goose Pagoda, Xingjiao Temple Pagoda, and Daming Palace ruins. These are the essence of Shaanxi ancient architecture and shared cultural wealth of all humanity.",
+ "examples": "秦始皇陵、大雁塔、小雁塔、兴教寺塔",
+ "related": [
+ "帝陵",
+ "佛塔",
+ "丝绸之路"
+ ]
+ },
+ {
+ "id": 47,
+ "category": "文化背景",
+ "cn": "黄土高原",
+ "en": "Loess Plateau",
+ "def_zh": "黄土高原横跨陕西、山西、甘肃等省，是中华文明发源地之一。书中记载陕北和关中位于黄土高原，独特的黄土地貌孕育了窑洞、地坑院等独特民居形式；陕北建筑以窑洞、古城、古寨为特色，榆林卫城、吴堡石城、高家堡古城是陕北古城的代表。",
+ "def_en": "The Loess Plateau spans Shaanxi, Shanxi, and Gansu, one of the birthplaces of Chinese civilization. The book records northern and central Shaanxi on the Loess Plateau, whose unique landforms nurtured cave dwellings and sunken courtyards; northern Shaanxi architecture features caves, ancient cities, and fortresses, with Yulin Garrison City, Wubao Stone City, and Gaojiabao as representatives.",
+ "examples": "陕北窑洞、榆林卫城、米脂姜氏庄园",
+ "related": [
+ "窑洞",
+ "地坑院",
+ "黄土"
+ ]
+ },
+ {
+ "id": 48,
+ "category": "文化背景",
+ "cn": "关中平原",
+ "en": "Guanzhong Plain",
+ "def_zh": "关中平原位于陕西中部，是渭河冲积平原，有'八百里秦川'之称。书中记载关中是周秦汉唐建都之地，西安、咸阳等城市保留大量古建筑；关中民居以四合院、砖木结构为特色，韩城党家村是关中民居的代表，有'民居瑰宝'之誉。",
+ "def_en": "The Guanzhong Plain in central Shaanxi is a Wei River alluvial plain known as '800 li of Qinchuan.' The book records Guanzhong as the capital region of Zhou, Qin, Han, and Tang, with Xi'an and Xianyang preserving大量 ancient buildings; Guanzhong residences feature courtyard houses and brick-wood structures, with Hancheng Dangjia Village as a representative known as 'residential treasure.'",
+ "examples": "西安古城、韩城党家村、三原城隍庙",
+ "related": [
+ "四合院",
+ "砖木结构",
+ "周秦汉唐"
+ ]
+ },
+ {
+ "id": 49,
+ "category": "文化背景",
+ "cn": "陕北高原",
+ "en": "Northern Shaanxi Plateau",
+ "def_zh": "陕北高原是黄土高原核心区域，包括榆林、延安等地。书中记载陕北建筑以窑洞、古城、古寨为特色，榆林卫城为明长城九边重镇之一，吴堡石城全部用石头砌筑，米脂姜氏庄园是陕北民居的精华，杨家沟扶风古寨有新院和马宅，融合了中西建筑风格。",
+ "def_en": "The Northern Shaanxi Plateau is the core of the Loess Plateau, including Yulin and Yan'an. The book records northern Shaanxi architecture featuring caves, ancient cities, and fortresses; Yulin Garrison City was one of the nine strategic towns of the Ming Great Wall; Wubuo Stone City is entirely stone-built; Mizhi Jiang's Manor is the essence of northern Shaanxi residences; Yangjiagou Fufeng Ancient Fortress has new and horse courtyards blending Chinese and Western styles.",
+ "examples": "榆林卫城、吴堡石城、米脂姜氏庄园",
+ "related": [
+ "窑洞",
+ "古城墙",
+ "黄土高原"
+ ]
+ },
+ {
+ "id": 50,
+ "category": "文化背景",
+ "cn": "陕南地区",
+ "en": "Southern Shaanxi Region",
+ "def_zh": "陕南地区包括汉中、安康、商洛，北依秦岭，南靠大巴山，气候湿润，建筑风格融合关中、巴蜀和荆楚文化。书中记载陕南古建筑以会馆、书院、古镇为特色，宁强青木川古镇回龙场老街是陕甘川三省交界最繁荣的商业文化交流场所，丹凤船帮会馆、紫阳北五省会馆是陕南会馆的代表。",
+ "def_en": "Southern Shaanxi includes Hanzhong, Ankang, and Shangluo, with Qinling to the north and Daba Mountains to the south, humid climate, blending Guanzhong, Ba-Shu, and Jing-Chu cultures. The book records southern Shaanxi architecture featuring guild halls, academies, and ancient towns; Ningqiang Qingmuchuan's Huilong Old Street was the most prosperous commercial and cultural exchange hub at the Shaanxi-Gansu-Sichuan border; Danfeng Boatmen's and Ziyang Five Northern Provinces Guild Halls are representatives.",
+ "examples": "宁强青木川古镇、丹凤船帮会馆、紫阳北五省会馆",
+ "related": [
+ "会馆",
+ "古镇",
+ "四合院"
+ ]
+ }
 ]

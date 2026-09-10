@@ -1,784 +1,784 @@
 {
-  "title": "四川重庆古建筑术语数据库",
-  "title_en": "Glossary of Historical Architecture in Sichuan and Chongqing",
-  "source": "《四川重庆古建筑地图》青锋等编著",
-  "total_terms": 84,
-  "categories": {
-    "建筑类型": [
-      "古城墙",
-      "石阙",
-      "砖石塔",
-      "摩崖造像",
-      "会馆",
-      "祠堂",
-      "民居",
-      "桥梁",
-      "堡垒",
-      "宗教建筑",
-      "牌坊",
-      "照壁",
-      "经幢",
-      "碉楼",
-      "羌寨",
-      "藏式建筑",
-      "彝族建筑",
-      "吊脚楼",
-      "干栏式"
-    ],
-    "建筑构件": [
-      "斗拱",
-      "台基",
-      "柱础",
-      "雀替",
-      "额枋",
-      "宝顶",
-      "塔刹",
-      "地宫",
-      "龛窟"
-    ],
-    "屋顶形式": [
-      "歇山顶",
-      "悬山顶",
-      "硬山顶",
-      "庑殿顶",
-      "攒尖顶",
-      "重檐",
-      "翼角起翘",
-      "出檐"
-    ],
-    "结构形式": [
-      "抬梁式",
-      "穿斗式",
-      "穿斗结构",
-      "楼阁式塔",
-      "密檐式塔",
-      "四合院",
-      "举折",
-      "侧脚",
-      "卷杀"
-    ],
-    "斗拱细部": [
-      "一斗三升",
-      "如意斗拱",
-      "鸳鸯交手拱",
-      "转角铺作",
-      "补间铺作",
-      "柱头铺作"
-    ],
-    "装饰工艺": [
-      "琉璃瓦",
-      "浮雕",
-      "圆雕",
-      "彩绘",
-      "碑刻",
-      "封火墙",
-      "马头墙"
-    ],
-    "佛教造像": [
-      "圆雕佛像",
-      "水月观音",
-      "释迦牟尼",
-      "弥勒佛",
-      "文殊菩萨",
-      "普贤菩萨",
-      "地藏菩萨",
-      "十八罗汉"
-    ],
-    "宗教文化": [
-      "道教",
-      "佛教",
-      "禅宗",
-      "密宗"
-    ],
-    "历史背景": [
-      "国家级文物保护单位",
-      "市级文物保护单位",
-      "山城防御体系",
-      "巴蜀文化",
-      "湖广填四川",
-      "抗蒙战争",
-      "三峡工程",
-      "鲁班",
-      "风水",
-      "天井",
-      "须弥座",
-      "覆盆式柱础",
-      "瓮城",
-      "城垛"
-    ]
-  },
-  "terms": [
-    {
-      "term_zh": "桥梁",
-      "term_en": "Bridge",
-      "definition": "跨越河流沟壑的交通建筑，有石拱桥、梁桥、索桥等多种形式。",
-      "frequency_zh": 5,
-      "frequency_en": 172,
-      "total_frequency": 177
-    },
-    {
-      "term_zh": "牌坊",
-      "term_en": "Memorial Archway",
-      "definition": "中国传统纪念性建筑，由柱、枋、楼组成，表彰功德、节孝等。",
-      "frequency_zh": 149,
-      "frequency_en": 16,
-      "total_frequency": 165
-    },
-    {
-      "term_zh": "会馆",
-      "term_en": "Guild Hall",
-      "definition": "明清时期外地商人按籍贯在经商地设立的同乡组织建筑，兼具聚会、祭祀、住宿功能。",
-      "frequency_zh": 61,
-      "frequency_en": 51,
-      "total_frequency": 112
-    },
-    {
-      "term_zh": "歇山顶",
-      "term_en": "Xieshan Roof (Overhanging Gable Roof)",
-      "definition": "中国传统屋顶形式之一，九脊式，上半部悬山、下半部庑殿，常用于重要建筑。",
-      "frequency_zh": 103,
-      "frequency_en": 0,
-      "total_frequency": 103
-    },
-    {
-      "term_zh": "斗拱",
-      "term_en": "Dougong (Bracket Set)",
-      "definition": "中国木构建筑特有的承重与装饰构件，由斗、拱、昂等组成，兼具力学与美学价值。",
-      "frequency_zh": 96,
-      "frequency_en": 0,
-      "total_frequency": 96
-    },
-    {
-      "term_zh": "佛教",
-      "term_en": "Buddhism",
-      "definition": "起源于古印度的世界三大宗教之一，汉代传入中国，深刻影响中国文化。",
-      "frequency_zh": 70,
-      "frequency_en": 26,
-      "total_frequency": 96
-    },
-    {
-      "term_zh": "碉楼",
-      "term_en": "Watchtower",
-      "definition": "兼具居住与防御功能的高层建筑，四川羌族、藏族地区常见。",
-      "frequency_zh": 52,
-      "frequency_en": 39,
-      "total_frequency": 91
-    },
-    {
-      "term_zh": "抬梁式",
-      "term_en": "Beam-Lifting Frame",
-      "definition": "中国木构建筑主要结构形式之一，柱上抬梁，梁上承檩，适用于较大空间。",
-      "frequency_zh": 73,
-      "frequency_en": 8,
-      "total_frequency": 81
-    },
-    {
-      "term_zh": "重檐",
-      "term_en": "Double Eave",
-      "definition": "两层或多层屋檐的建筑形式，增加建筑庄重感，用于高等级建筑。",
-      "frequency_zh": 74,
-      "frequency_en": 4,
-      "total_frequency": 78
-    },
-    {
-      "term_zh": "堡垒",
-      "term_en": "Fortress",
-      "definition": "依山势而建的军事防御据点，南宋抗蒙山城防御体系的核心建筑类型。",
-      "frequency_zh": 5,
-      "frequency_en": 69,
-      "total_frequency": 74
-    },
-    {
-      "term_zh": "摩崖造像",
-      "term_en": "Cliffside Statues",
-      "definition": "在山崖岩壁上直接雕凿的佛教或道教造像，是中国石窟艺术的重要形式。",
-      "frequency_zh": 34,
-      "frequency_en": 30,
-      "total_frequency": 64
-    },
-    {
-      "term_zh": "穿斗式",
-      "term_en": "Column-and-Tie Frame",
-      "definition": "中国木构建筑主要结构形式之一，柱柱落地，穿枋串联，经济实用，南方民居常用。",
-      "frequency_zh": 47,
-      "frequency_en": 0,
-      "total_frequency": 47
-    },
-    {
-      "term_zh": "民居",
-      "term_en": "Folk Residence",
-      "definition": "民间居住建筑，反映地域文化、气候条件和建造技术的特色。",
-      "frequency_zh": 45,
-      "frequency_en": 1,
-      "total_frequency": 46
-    },
-    {
-      "term_zh": "浮雕",
-      "term_en": "Relief Carving",
-      "definition": "在平面上凸起的雕刻形式，介于圆雕与绘画之间。",
-      "frequency_zh": 38,
-      "frequency_en": 7,
-      "total_frequency": 45
-    },
-    {
-      "term_zh": "台基",
-      "term_en": "Platform Base",
-      "definition": "建筑下部的基座，抬高建筑主体，兼具防潮与等级象征功能。",
-      "frequency_zh": 26,
-      "frequency_en": 18,
-      "total_frequency": 44
-    },
-    {
-      "term_zh": "弥勒佛",
-      "term_en": "Maitreya",
-      "definition": "佛教中的未来佛，通常以笑口常开的大肚形象出现。",
-      "frequency_zh": 14,
-      "frequency_en": 28,
-      "total_frequency": 42
-    },
-    {
-      "term_zh": "四合院",
-      "term_en": "Siheyuan (Courtyard House)",
-      "definition": "中国传统院落式布局，四面房屋围合中央天井，体现宗法秩序。",
-      "frequency_zh": 40,
-      "frequency_en": 0,
-      "total_frequency": 40
-    },
-    {
-      "term_zh": "道教",
-      "term_en": "Daoism",
-      "definition": "中国本土宗教，以道为最高信仰，追求长生久视与自然和谐。",
-      "frequency_zh": 27,
-      "frequency_en": 13,
-      "total_frequency": 40
-    },
-    {
-      "term_zh": "风水",
-      "term_en": "Fengshui",
-      "definition": "中国传统环境选择理论，讲究建筑与自然山水的协调关系。",
-      "frequency_zh": 15,
-      "frequency_en": 14,
-      "total_frequency": 29
-    },
-    {
-      "term_zh": "古城墙",
-      "term_en": "Ancient City Wall",
-      "definition": "中国古代城市防御性建筑，由砖石夯土筑成，环绕城市四周，设有城门、城楼、瓮城等设施。",
-      "frequency_zh": 15,
-      "frequency_en": 13,
-      "total_frequency": 28
-    },
-    {
-      "term_zh": "琉璃瓦",
-      "term_en": "Glazed Tile",
-      "definition": "表面施釉的陶质瓦件，色彩丰富，防水耐用，用于高等级建筑屋顶。",
-      "frequency_zh": 14,
-      "frequency_en": 14,
-      "total_frequency": 28
-    },
-    {
-      "term_zh": "照壁",
-      "term_en": "Screen Wall",
-      "definition": "大门内外的独立墙体，屏蔽视线并装饰空间，常刻吉祥图案。",
-      "frequency_zh": 15,
-      "frequency_en": 13,
-      "total_frequency": 28
-    },
-    {
-      "term_zh": "彩绘",
-      "term_en": "Painted Decoration",
-      "definition": "建筑木构件上的彩色绘画，装饰并保护木材。",
-      "frequency_zh": 28,
-      "frequency_en": 0,
-      "total_frequency": 28
-    },
-    {
-      "term_zh": "额枋",
-      "term_en": "Architrave",
-      "definition": "柱子之间横向联系的木构件，常施彩绘，是建筑装饰重点。",
-      "frequency_zh": 7,
-      "frequency_en": 14,
-      "total_frequency": 21
-    },
-    {
-      "term_zh": "塔刹",
-      "term_en": "Pagoda Finial",
-      "definition": "佛塔顶部的金属或石质装饰，由相轮、宝珠、仰月等组成。",
-      "frequency_zh": 13,
-      "frequency_en": 8,
-      "total_frequency": 21
-    },
-    {
-      "term_zh": "宝顶",
-      "term_en": "Precious Top",
-      "definition": "塔、殿等建筑顶部的装饰性构件，常为宝珠、葫芦等形状。",
-      "frequency_zh": 15,
-      "frequency_en": 5,
-      "total_frequency": 20
-    },
-    {
-      "term_zh": "碑刻",
-      "term_en": "Stele Inscription",
-      "definition": "刻在石碑上的文字或图案，是重要的历史文献资料。",
-      "frequency_zh": 10,
-      "frequency_en": 9,
-      "total_frequency": 19
-    },
-    {
-      "term_zh": "祠堂",
-      "term_en": "Ancestral Hall",
-      "definition": "祭祀祖先或先贤的礼制建筑，是中国传统宗法制度的物质载体。",
-      "frequency_zh": 7,
-      "frequency_en": 11,
-      "total_frequency": 18
-    },
-    {
-      "term_zh": "悬山顶",
-      "term_en": "Xuanshan Roof (Overhanging Gable Roof)",
-      "definition": "中国传统屋顶形式之一，两山挑出，民居常用。",
-      "frequency_zh": 18,
-      "frequency_en": 0,
-      "total_frequency": 18
-    },
-    {
-      "term_zh": "柱础",
-      "term_en": "Column Base",
-      "definition": "柱子下端的石质基座，传递荷载并防潮，常雕刻纹饰。",
-      "frequency_zh": 9,
-      "frequency_en": 9,
-      "total_frequency": 18
-    },
-    {
-      "term_zh": "瓮城",
-      "term_en": "Barbican",
-      "definition": "城门外的半圆形或方形护门小城，增强城门防御能力。",
-      "frequency_zh": 9,
-      "frequency_en": 9,
-      "total_frequency": 18
-    },
-    {
-      "term_zh": "释迦牟尼",
-      "term_en": "Sakyamuni",
-      "definition": "佛教创始人，原名乔达摩·悉达多，公元前6世纪古印度人。",
-      "frequency_zh": 13,
-      "frequency_en": 5,
-      "total_frequency": 18
-    },
-    {
-      "term_zh": "天井",
-      "term_en": "Courtyard (Tianjing)",
-      "definition": "南方民居中四面房屋围合的露天小庭院，采光通风并聚水。",
-      "frequency_zh": 16,
-      "frequency_en": 1,
-      "total_frequency": 17
-    },
-    {
-      "term_zh": "攒尖顶",
-      "term_en": "Pyramidal Roof",
-      "definition": "中国传统屋顶形式之一，屋顶聚于一点，常用于亭、塔、阁。",
-      "frequency_zh": 6,
-      "frequency_en": 8,
-      "total_frequency": 14
-    },
-    {
-      "term_zh": "密宗",
-      "term_en": "Tantric Buddhism",
-      "definition": "佛教宗派之一，以秘密仪轨为特征，唐代传入汉地和西藏。",
-      "frequency_zh": 14,
-      "frequency_en": 0,
-      "total_frequency": 14
-    },
-    {
-      "term_zh": "砖石塔",
-      "term_en": "Brick-Stone Pagoda",
-      "definition": "以砖、石为主要材料建造的佛塔或风水塔，有楼阁式、密檐式、覆钵式等多种形制。",
-      "frequency_zh": 6,
-      "frequency_en": 6,
-      "total_frequency": 12
-    },
-    {
-      "term_zh": "禅宗",
-      "term_en": "Chan (Zen) Buddhism",
-      "definition": "佛教中国化的重要宗派，主张不立文字、教外别传、直指人心、见性成佛。",
-      "frequency_zh": 12,
-      "frequency_en": 0,
-      "total_frequency": 12
-    },
-    {
-      "term_zh": "出檐",
-      "term_en": "Eave Projection",
-      "definition": "屋檐挑出墙面的距离，保护木构件免受雨水侵蚀。",
-      "frequency_zh": 9,
-      "frequency_en": 2,
-      "total_frequency": 11
-    },
-    {
-      "term_zh": "普贤菩萨",
-      "term_en": "Samantabhadra",
-      "definition": "佛教中行愿的象征，通常骑六牙白象。",
-      "frequency_zh": 4,
-      "frequency_en": 7,
-      "total_frequency": 11
-    },
-    {
-      "term_zh": "硬山顶",
-      "term_en": "Yingshan Roof (Flush Gable Roof)",
-      "definition": "中国传统屋顶形式之一，两山与山墙齐平，防火性能好。",
-      "frequency_zh": 10,
-      "frequency_en": 0,
-      "total_frequency": 10
-    },
-    {
-      "term_zh": "楼阁式塔",
-      "term_en": "Pavilion-Style Pagoda",
-      "definition": "佛塔形式之一，仿木构楼阁，层层收缩，可登临远眺。",
-      "frequency_zh": 5,
-      "frequency_en": 5,
-      "total_frequency": 10
-    },
-    {
-      "term_zh": "如意斗拱",
-      "term_en": "Ruyi Bracket Set",
-      "definition": "造型华丽、装饰性强的斗拱形式，明清南方建筑常用。",
-      "frequency_zh": 5,
-      "frequency_en": 5,
-      "total_frequency": 10
-    },
-    {
-      "term_zh": "圆雕",
-      "term_en": "Round Carving",
-      "definition": "三维立体雕刻，可从多角度观赏。",
-      "frequency_zh": 7,
-      "frequency_en": 2,
-      "total_frequency": 9
-    },
-    {
-      "term_zh": "龛窟",
-      "term_en": "Niche and Cave",
-      "definition": "岩壁上开凿的供奉佛像的小空间，大的为窟，小的为龛。",
-      "frequency_zh": 9,
-      "frequency_en": 0,
-      "total_frequency": 9
-    },
-    {
-      "term_zh": "文殊菩萨",
-      "term_en": "Manjushri",
-      "definition": "佛教中智慧的象征，通常骑狮子，持智慧剑。",
-      "frequency_zh": 2,
-      "frequency_en": 7,
-      "total_frequency": 9
-    },
-    {
-      "term_zh": "十八罗汉",
-      "term_en": "Eighteen Arhats",
-      "definition": "佛教中十八位护持佛法的阿罗汉，造像常各具神态。",
-      "frequency_zh": 5,
-      "frequency_en": 4,
-      "total_frequency": 9
-    },
-    {
-      "term_zh": "羌寨",
-      "term_en": "Qiang Village",
-      "definition": "羌族聚居的村寨，以石砌碉楼和碉房为特色。",
-      "frequency_zh": 6,
-      "frequency_en": 3,
-      "total_frequency": 9
-    },
-    {
-      "term_zh": "庑殿顶",
-      "term_en": "Wudian Roof (Hip Roof)",
-      "definition": "中国传统屋顶最高等级形式，四坡五脊，仅用于最高等级建筑。",
-      "frequency_zh": 7,
-      "frequency_en": 0,
-      "total_frequency": 7
-    },
-    {
-      "term_zh": "雀替",
-      "term_en": "Queti (Spandrel Bracket)",
-      "definition": "柱与梁交接处的装饰性构件，形似双翼，增强节点并美化建筑。",
-      "frequency_zh": 7,
-      "frequency_en": 0,
-      "total_frequency": 7
-    },
-    {
-      "term_zh": "地藏菩萨",
-      "term_en": "Ksitigarbha",
-      "definition": "佛教中救度地狱众生的菩萨，通常持锡杖、宝珠。",
-      "frequency_zh": 0,
-      "frequency_en": 7,
-      "total_frequency": 7
-    },
-    {
-      "term_zh": "藏式建筑",
-      "term_en": "Tibetan Architecture",
-      "definition": "藏族地区的建筑风格，以石砌墙体、平顶、色彩鲜艳为特征。",
-      "frequency_zh": 5,
-      "frequency_en": 2,
-      "total_frequency": 7
-    },
-    {
-      "term_zh": "石阙",
-      "term_en": "Stone Que (Gate Tower)",
-      "definition": "汉代成对矗立在祠庙、陵墓前的标志性石建筑，由阙基、阙身、阙顶组成，象征威仪等级。",
-      "frequency_zh": 6,
-      "frequency_en": 0,
-      "total_frequency": 6
-    },
-    {
-      "term_zh": "须弥座",
-      "term_en": "Sumeru Pedestal",
-      "definition": "源自佛教的多层线脚台基形式，用于高等级建筑或佛像基座。",
-      "frequency_zh": 5,
-      "frequency_en": 1,
-      "total_frequency": 6
-    },
-    {
-      "term_zh": "一斗三升",
-      "term_en": "One-Bucket-Three-Capital",
-      "definition": "斗拱的基本组合形式，一个斗上承三个升（小斗）。",
-      "frequency_zh": 3,
-      "frequency_en": 3,
-      "total_frequency": 6
-    },
-    {
-      "term_zh": "鲁班",
-      "term_en": "Lu Ban",
-      "definition": "中国古代传说中的建筑工匠祖师，被后世木工匠人奉为行业神。",
-      "frequency_zh": 6,
-      "frequency_en": 0,
-      "total_frequency": 6
-    },
-    {
-      "term_zh": "封火墙",
-      "term_en": "Firewall",
-      "definition": "即封火墙，防止火灾蔓延的高出屋顶的墙体。",
-      "frequency_zh": 5,
-      "frequency_en": 0,
-      "total_frequency": 5
-    },
-    {
-      "term_zh": "经幢",
-      "term_en": "Jingchuang (Stone Pillar)",
-      "definition": "刻有佛教经文的石质多棱柱形建筑，唐代盛行。",
-      "frequency_zh": 5,
-      "frequency_en": 0,
-      "total_frequency": 5
-    },
-    {
-      "term_zh": "国家级文物保护单位",
-      "term_en": "National Cultural Relics Protection Unit",
-      "definition": "中国文物保护最高等级，由国务院核定公布。",
-      "frequency_zh": 4,
-      "frequency_en": 1,
-      "total_frequency": 5
-    },
-    {
-      "term_zh": "密檐式塔",
-      "term_en": "Multi-Eaved Pagoda",
-      "definition": "佛塔形式之一，塔身以上密布短檐，不可登临，多为实心。",
-      "frequency_zh": 2,
-      "frequency_en": 2,
-      "total_frequency": 4
-    },
-    {
-      "term_zh": "三峡工程",
-      "term_en": "Three Gorges Project",
-      "definition": "长江三峡水利枢纽工程，导致大量文物古迹搬迁或淹没。",
-      "frequency_zh": 2,
-      "frequency_en": 2,
-      "total_frequency": 4
-    },
-    {
-      "term_zh": "鸳鸯交手拱",
-      "term_en": "Mandarin-Duck Hand-in-Hand Bracket",
-      "definition": "两拱相交于中心的特殊斗拱形式，装饰性强。",
-      "frequency_zh": 2,
-      "frequency_en": 2,
-      "total_frequency": 4
-    },
-    {
-      "term_zh": "转角铺作",
-      "term_en": "Corner Bracket Set",
-      "definition": "建筑转角处的斗拱，结构复杂，承托两个方向的屋檐。",
-      "frequency_zh": 2,
-      "frequency_en": 2,
-      "total_frequency": 4
-    },
-    {
-      "term_zh": "补间铺作",
-      "term_en": "Inter-columnar Bracket Set",
-      "definition": "两柱之间额枋上的斗拱，均匀分布，辅助承重。",
-      "frequency_zh": 3,
-      "frequency_en": 1,
-      "total_frequency": 4
-    },
-    {
-      "term_zh": "侧脚",
-      "term_en": "Cejiao (Column Inclination)",
-      "definition": "柱子向建筑中心微微倾斜的做法，增强结构稳定性。",
-      "frequency_zh": 3,
-      "frequency_en": 0,
-      "total_frequency": 3
-    },
-    {
-      "term_zh": "宗教建筑",
-      "term_en": "Religious Architecture",
-      "definition": "佛教、道教等宗教活动场所，包括寺、观、庙、殿等。",
-      "frequency_zh": 2,
-      "frequency_en": 0,
-      "total_frequency": 2
-    },
-    {
-      "term_zh": "城垛",
-      "term_en": "Merlon",
-      "definition": "城墙顶部锯齿状防御设施，掩护守城士兵。",
-      "frequency_zh": 1,
-      "frequency_en": 1,
-      "total_frequency": 2
-    },
-    {
-      "term_zh": "市级文物保护单位",
-      "term_en": "Municipal Cultural Relics Protection Unit",
-      "definition": "由市级政府核定公布的文物保护等级。",
-      "frequency_zh": 1,
-      "frequency_en": 1,
-      "total_frequency": 2
-    },
-    {
-      "term_zh": "翼角起翘",
-      "term_en": "Upturned Wing Corner",
-      "definition": "建筑屋檐角部向上翘起的处理，南方建筑尤为明显，增加灵动之感。",
-      "frequency_zh": 1,
-      "frequency_en": 1,
-      "total_frequency": 2
-    },
-    {
-      "term_zh": "圆雕佛像",
-      "term_en": "Round-Carved Buddha",
-      "definition": "三维立体雕刻的佛像，可从多角度观赏。",
-      "frequency_zh": 1,
-      "frequency_en": 1,
-      "total_frequency": 2
-    },
-    {
-      "term_zh": "水月观音",
-      "term_en": "Water-Moon Guanyin",
-      "definition": "观音菩萨的一种造像形式，坐于水边观月，姿态闲适优美。",
-      "frequency_zh": 1,
-      "frequency_en": 1,
-      "total_frequency": 2
-    },
-    {
-      "term_zh": "湖广填四川",
-      "term_en": "Huguang Fills Sichuan",
-      "definition": "明清时期大规模移民运动，湖广等地民众迁入四川，深刻影响四川文化。",
-      "frequency_zh": 1,
-      "frequency_en": 0,
-      "total_frequency": 1
-    },
-    {
-      "term_zh": "举折",
-      "term_en": "Ju-Zhe (Roof Curvature)",
-      "definition": "中国古建筑屋顶曲面的形成方法，通过举高和折腰使屋顶呈柔和曲线。",
-      "frequency_zh": 1,
-      "frequency_en": 0,
-      "total_frequency": 1
-    },
-    {
-      "term_zh": "卷杀",
-      "term_en": "Juansha (Column Entasis)",
-      "definition": "柱子端部或构件端部做弧线收分的处理，使造型柔和。",
-      "frequency_zh": 1,
-      "frequency_en": 0,
-      "total_frequency": 1
-    },
-    {
-      "term_zh": "山城防御体系",
-      "term_en": "Mountain City Defense System",
-      "definition": "南宋余玠创建的以山为城、以江为池的抗蒙防御体系，包含钓鱼城等数十座山城。",
-      "frequency_zh": 0,
-      "frequency_en": 0,
-      "total_frequency": 0
-    },
-    {
-      "term_zh": "巴蜀文化",
-      "term_en": "Bashu Culture",
-      "definition": "四川盆地古代巴国与蜀国文化的合称，具有独特的地域特征。",
-      "frequency_zh": 0,
-      "frequency_en": 0,
-      "total_frequency": 0
-    },
-    {
-      "term_zh": "抗蒙战争",
-      "term_en": "Anti-Mongol War",
-      "definition": "南宋时期四川军民抵抗蒙古军队入侵的战争，持续近半个世纪。",
-      "frequency_zh": 0,
-      "frequency_en": 0,
-      "total_frequency": 0
-    },
-    {
-      "term_zh": "穿斗结构",
-      "term_en": "Column-and-Tie Structure",
-      "definition": "即穿斗式，南方民居常用结构体系，柱柱落地，穿枋串联。",
-      "frequency_zh": 0,
-      "frequency_en": 0,
-      "total_frequency": 0
-    },
-    {
-      "term_zh": "覆盆式柱础",
-      "term_en": "Inverted-Basin Column Base",
-      "definition": "形似倒扣盆子的柱础形式，宋代常见。",
-      "frequency_zh": 0,
-      "frequency_en": 0,
-      "total_frequency": 0
-    },
-    {
-      "term_zh": "柱头铺作",
-      "term_en": "Column-Head Bracket Set",
-      "definition": "柱子正上方的斗拱，主要承重构件。",
-      "frequency_zh": 0,
-      "frequency_en": 0,
-      "total_frequency": 0
-    },
-    {
-      "term_zh": "地宫",
-      "term_en": "Underground Palace",
-      "definition": "佛塔基座下埋藏舍利、经卷的地下空间。",
-      "frequency_zh": 0,
-      "frequency_en": 0,
-      "total_frequency": 0
-    },
-    {
-      "term_zh": "马头墙",
-      "term_en": "Horse-Head Wall",
-      "definition": "封火墙的一种形式，顶部形似马头，徽派建筑标志性元素。",
-      "frequency_zh": 0,
-      "frequency_en": 0,
-      "total_frequency": 0
-    },
-    {
-      "term_zh": "吊脚楼",
-      "term_en": "Stilted House",
-      "definition": "南方山地常见的干栏式民居，部分楼层悬空，适应坡地地形。",
-      "frequency_zh": 0,
-      "frequency_en": 0,
-      "total_frequency": 0
-    },
-    {
-      "term_zh": "干栏式",
-      "term_en": "Pile-Dwelling Style",
-      "definition": "建筑下部架空的居住形式，适应湿热气候，防蛇虫潮湿。",
-      "frequency_zh": 0,
-      "frequency_en": 0,
-      "total_frequency": 0
-    },
-    {
-      "term_zh": "彝族建筑",
-      "term_en": "Yi Architecture",
-      "definition": "彝族地区的建筑风格，以土掌房、石板房为特色。",
-      "frequency_zh": 0,
-      "frequency_en": 0,
-      "total_frequency": 0
-    }
-  ]
+ "title": "四川重庆古建筑术语数据库",
+ "title_en": "Glossary of Historical Architecture in Sichuan and Chongqing",
+ "source": "《四川重庆古建筑地图》青锋等编著",
+ "total_terms": 84,
+ "categories": {
+ "建筑类型": [
+ "古城墙",
+ "石阙",
+ "砖石塔",
+ "摩崖造像",
+ "会馆",
+ "祠堂",
+ "民居",
+ "桥梁",
+ "堡垒",
+ "宗教建筑",
+ "牌坊",
+ "照壁",
+ "经幢",
+ "碉楼",
+ "羌寨",
+ "藏式建筑",
+ "彝族建筑",
+ "吊脚楼",
+ "干栏式"
+ ],
+ "建筑构件": [
+ "斗拱",
+ "台基",
+ "柱础",
+ "雀替",
+ "额枋",
+ "宝顶",
+ "塔刹",
+ "地宫",
+ "龛窟"
+ ],
+ "屋顶形式": [
+ "歇山顶",
+ "悬山顶",
+ "硬山顶",
+ "庑殿顶",
+ "攒尖顶",
+ "重檐",
+ "翼角起翘",
+ "出檐"
+ ],
+ "结构形式": [
+ "抬梁式",
+ "穿斗式",
+ "穿斗结构",
+ "楼阁式塔",
+ "密檐式塔",
+ "四合院",
+ "举折",
+ "侧脚",
+ "卷杀"
+ ],
+ "斗拱细部": [
+ "一斗三升",
+ "如意斗拱",
+ "鸳鸯交手拱",
+ "转角铺作",
+ "补间铺作",
+ "柱头铺作"
+ ],
+ "装饰工艺": [
+ "琉璃瓦",
+ "浮雕",
+ "圆雕",
+ "彩绘",
+ "碑刻",
+ "封火墙",
+ "马头墙"
+ ],
+ "佛教造像": [
+ "圆雕佛像",
+ "水月观音",
+ "释迦牟尼",
+ "弥勒佛",
+ "文殊菩萨",
+ "普贤菩萨",
+ "地藏菩萨",
+ "十八罗汉"
+ ],
+ "宗教文化": [
+ "道教",
+ "佛教",
+ "禅宗",
+ "密宗"
+ ],
+ "历史背景": [
+ "国家级文物保护单位",
+ "市级文物保护单位",
+ "山城防御体系",
+ "巴蜀文化",
+ "湖广填四川",
+ "抗蒙战争",
+ "三峡工程",
+ "鲁班",
+ "风水",
+ "天井",
+ "须弥座",
+ "覆盆式柱础",
+ "瓮城",
+ "城垛"
+ ]
+ },
+ "terms": [
+ {
+ "term_zh": "桥梁",
+ "term_en": "Bridge",
+ "definition": "跨越河流沟壑的交通建筑，有石拱桥、梁桥、索桥等多种形式。",
+ "frequency_zh": 5,
+ "frequency_en": 172,
+ "total_frequency": 177
+ },
+ {
+ "term_zh": "牌坊",
+ "term_en": "Memorial Archway",
+ "definition": "中国传统纪念性建筑，由柱、枋、楼组成，表彰功德、节孝等。",
+ "frequency_zh": 149,
+ "frequency_en": 16,
+ "total_frequency": 165
+ },
+ {
+ "term_zh": "会馆",
+ "term_en": "Guild Hall",
+ "definition": "明清时期外地商人按籍贯在经商地设立的同乡组织建筑，兼具聚会、祭祀、住宿功能。",
+ "frequency_zh": 61,
+ "frequency_en": 51,
+ "total_frequency": 112
+ },
+ {
+ "term_zh": "歇山顶",
+ "term_en": "Xieshan Roof (Overhanging Gable Roof)",
+ "definition": "中国传统屋顶形式之一，九脊式，上半部悬山、下半部庑殿，常用于重要建筑。",
+ "frequency_zh": 103,
+ "frequency_en": 0,
+ "total_frequency": 103
+ },
+ {
+ "term_zh": "斗拱",
+ "term_en": "Dougong (Bracket Set)",
+ "definition": "中国木构建筑特有的承重与装饰构件，由斗、拱、昂等组成，兼具力学与美学价值。",
+ "frequency_zh": 96,
+ "frequency_en": 0,
+ "total_frequency": 96
+ },
+ {
+ "term_zh": "佛教",
+ "term_en": "Buddhism",
+ "definition": "起源于古印度的世界三大宗教之一，汉代传入中国，深刻影响中国文化。",
+ "frequency_zh": 70,
+ "frequency_en": 26,
+ "total_frequency": 96
+ },
+ {
+ "term_zh": "碉楼",
+ "term_en": "Watchtower",
+ "definition": "兼具居住与防御功能的高层建筑，四川羌族、藏族地区常见。",
+ "frequency_zh": 52,
+ "frequency_en": 39,
+ "total_frequency": 91
+ },
+ {
+ "term_zh": "抬梁式",
+ "term_en": "Beam-Lifting Frame",
+ "definition": "中国木构建筑主要结构形式之一，柱上抬梁，梁上承檩，适用于较大空间。",
+ "frequency_zh": 73,
+ "frequency_en": 8,
+ "total_frequency": 81
+ },
+ {
+ "term_zh": "重檐",
+ "term_en": "Double Eave",
+ "definition": "两层或多层屋檐的建筑形式，增加建筑庄重感，用于高等级建筑。",
+ "frequency_zh": 74,
+ "frequency_en": 4,
+ "total_frequency": 78
+ },
+ {
+ "term_zh": "堡垒",
+ "term_en": "Fortress",
+ "definition": "依山势而建的军事防御据点，南宋抗蒙山城防御体系的核心建筑类型。",
+ "frequency_zh": 5,
+ "frequency_en": 69,
+ "total_frequency": 74
+ },
+ {
+ "term_zh": "摩崖造像",
+ "term_en": "Cliffside Statues",
+ "definition": "在山崖岩壁上直接雕凿的佛教或道教造像，是中国石窟艺术的重要形式。",
+ "frequency_zh": 34,
+ "frequency_en": 30,
+ "total_frequency": 64
+ },
+ {
+ "term_zh": "穿斗式",
+ "term_en": "Column-and-Tie Frame",
+ "definition": "中国木构建筑主要结构形式之一，柱柱落地，穿枋串联，经济实用，南方民居常用。",
+ "frequency_zh": 47,
+ "frequency_en": 0,
+ "total_frequency": 47
+ },
+ {
+ "term_zh": "民居",
+ "term_en": "Folk Residence",
+ "definition": "民间居住建筑，反映地域文化、气候条件和建造技术的特色。",
+ "frequency_zh": 45,
+ "frequency_en": 1,
+ "total_frequency": 46
+ },
+ {
+ "term_zh": "浮雕",
+ "term_en": "Relief Carving",
+ "definition": "在平面上凸起的雕刻形式，介于圆雕与绘画之间。",
+ "frequency_zh": 38,
+ "frequency_en": 7,
+ "total_frequency": 45
+ },
+ {
+ "term_zh": "台基",
+ "term_en": "Platform Base",
+ "definition": "建筑下部的基座，抬高建筑主体，兼具防潮与等级象征功能。",
+ "frequency_zh": 26,
+ "frequency_en": 18,
+ "total_frequency": 44
+ },
+ {
+ "term_zh": "弥勒佛",
+ "term_en": "Maitreya",
+ "definition": "佛教中的未来佛，通常以笑口常开的大肚形象出现。",
+ "frequency_zh": 14,
+ "frequency_en": 28,
+ "total_frequency": 42
+ },
+ {
+ "term_zh": "四合院",
+ "term_en": "Siheyuan (Courtyard House)",
+ "definition": "中国传统院落式布局，四面房屋围合中央天井，体现宗法秩序。",
+ "frequency_zh": 40,
+ "frequency_en": 0,
+ "total_frequency": 40
+ },
+ {
+ "term_zh": "道教",
+ "term_en": "Daoism",
+ "definition": "中国本土宗教，以道为最高信仰，追求长生久视与自然和谐。",
+ "frequency_zh": 27,
+ "frequency_en": 13,
+ "total_frequency": 40
+ },
+ {
+ "term_zh": "风水",
+ "term_en": "Fengshui",
+ "definition": "中国传统环境选择理论，讲究建筑与自然山水的协调关系。",
+ "frequency_zh": 15,
+ "frequency_en": 14,
+ "total_frequency": 29
+ },
+ {
+ "term_zh": "古城墙",
+ "term_en": "Ancient City Wall",
+ "definition": "中国古代城市防御性建筑，由砖石夯土筑成，环绕城市四周，设有城门、城楼、瓮城等设施。",
+ "frequency_zh": 15,
+ "frequency_en": 13,
+ "total_frequency": 28
+ },
+ {
+ "term_zh": "琉璃瓦",
+ "term_en": "Glazed Tile",
+ "definition": "表面施釉的陶质瓦件，色彩丰富，防水耐用，用于高等级建筑屋顶。",
+ "frequency_zh": 14,
+ "frequency_en": 14,
+ "total_frequency": 28
+ },
+ {
+ "term_zh": "照壁",
+ "term_en": "Screen Wall",
+ "definition": "大门内外的独立墙体，屏蔽视线并装饰空间，常刻吉祥图案。",
+ "frequency_zh": 15,
+ "frequency_en": 13,
+ "total_frequency": 28
+ },
+ {
+ "term_zh": "彩绘",
+ "term_en": "Painted Decoration",
+ "definition": "建筑木构件上的彩色绘画，装饰并保护木材。",
+ "frequency_zh": 28,
+ "frequency_en": 0,
+ "total_frequency": 28
+ },
+ {
+ "term_zh": "额枋",
+ "term_en": "Architrave",
+ "definition": "柱子之间横向联系的木构件，常施彩绘，是建筑装饰重点。",
+ "frequency_zh": 7,
+ "frequency_en": 14,
+ "total_frequency": 21
+ },
+ {
+ "term_zh": "塔刹",
+ "term_en": "Pagoda Finial",
+ "definition": "佛塔顶部的金属或石质装饰，由相轮、宝珠、仰月等组成。",
+ "frequency_zh": 13,
+ "frequency_en": 8,
+ "total_frequency": 21
+ },
+ {
+ "term_zh": "宝顶",
+ "term_en": "Precious Top",
+ "definition": "塔、殿等建筑顶部的装饰性构件，常为宝珠、葫芦等形状。",
+ "frequency_zh": 15,
+ "frequency_en": 5,
+ "total_frequency": 20
+ },
+ {
+ "term_zh": "碑刻",
+ "term_en": "Stele Inscription",
+ "definition": "刻在石碑上的文字或图案，是重要的历史文献资料。",
+ "frequency_zh": 10,
+ "frequency_en": 9,
+ "total_frequency": 19
+ },
+ {
+ "term_zh": "祠堂",
+ "term_en": "Ancestral Hall",
+ "definition": "祭祀祖先或先贤的礼制建筑，是中国传统宗法制度的物质载体。",
+ "frequency_zh": 7,
+ "frequency_en": 11,
+ "total_frequency": 18
+ },
+ {
+ "term_zh": "悬山顶",
+ "term_en": "Xuanshan Roof (Overhanging Gable Roof)",
+ "definition": "中国传统屋顶形式之一，两山挑出，民居常用。",
+ "frequency_zh": 18,
+ "frequency_en": 0,
+ "total_frequency": 18
+ },
+ {
+ "term_zh": "柱础",
+ "term_en": "Column Base",
+ "definition": "柱子下端的石质基座，传递荷载并防潮，常雕刻纹饰。",
+ "frequency_zh": 9,
+ "frequency_en": 9,
+ "total_frequency": 18
+ },
+ {
+ "term_zh": "瓮城",
+ "term_en": "Barbican",
+ "definition": "城门外的半圆形或方形护门小城，增强城门防御能力。",
+ "frequency_zh": 9,
+ "frequency_en": 9,
+ "total_frequency": 18
+ },
+ {
+ "term_zh": "释迦牟尼",
+ "term_en": "Sakyamuni",
+ "definition": "佛教创始人，原名乔达摩·悉达多，公元前6世纪古印度人。",
+ "frequency_zh": 13,
+ "frequency_en": 5,
+ "total_frequency": 18
+ },
+ {
+ "term_zh": "天井",
+ "term_en": "Courtyard (Tianjing)",
+ "definition": "南方民居中四面房屋围合的露天小庭院，采光通风并聚水。",
+ "frequency_zh": 16,
+ "frequency_en": 1,
+ "total_frequency": 17
+ },
+ {
+ "term_zh": "攒尖顶",
+ "term_en": "Pyramidal Roof",
+ "definition": "中国传统屋顶形式之一，屋顶聚于一点，常用于亭、塔、阁。",
+ "frequency_zh": 6,
+ "frequency_en": 8,
+ "total_frequency": 14
+ },
+ {
+ "term_zh": "密宗",
+ "term_en": "Tantric Buddhism",
+ "definition": "佛教宗派之一，以秘密仪轨为特征，唐代传入汉地和西藏。",
+ "frequency_zh": 14,
+ "frequency_en": 0,
+ "total_frequency": 14
+ },
+ {
+ "term_zh": "砖石塔",
+ "term_en": "Brick-Stone Pagoda",
+ "definition": "以砖、石为主要材料建造的佛塔或风水塔，有楼阁式、密檐式、覆钵式等多种形制。",
+ "frequency_zh": 6,
+ "frequency_en": 6,
+ "total_frequency": 12
+ },
+ {
+ "term_zh": "禅宗",
+ "term_en": "Chan (Zen) Buddhism",
+ "definition": "佛教中国化的重要宗派，主张不立文字、教外别传、直指人心、见性成佛。",
+ "frequency_zh": 12,
+ "frequency_en": 0,
+ "total_frequency": 12
+ },
+ {
+ "term_zh": "出檐",
+ "term_en": "Eave Projection",
+ "definition": "屋檐挑出墙面的距离，保护木构件免受雨水侵蚀。",
+ "frequency_zh": 9,
+ "frequency_en": 2,
+ "total_frequency": 11
+ },
+ {
+ "term_zh": "普贤菩萨",
+ "term_en": "Samantabhadra",
+ "definition": "佛教中行愿的象征，通常骑六牙白象。",
+ "frequency_zh": 4,
+ "frequency_en": 7,
+ "total_frequency": 11
+ },
+ {
+ "term_zh": "硬山顶",
+ "term_en": "Yingshan Roof (Flush Gable Roof)",
+ "definition": "中国传统屋顶形式之一，两山与山墙齐平，防火性能好。",
+ "frequency_zh": 10,
+ "frequency_en": 0,
+ "total_frequency": 10
+ },
+ {
+ "term_zh": "楼阁式塔",
+ "term_en": "Pavilion-Style Pagoda",
+ "definition": "佛塔形式之一，仿木构楼阁，层层收缩，可登临远眺。",
+ "frequency_zh": 5,
+ "frequency_en": 5,
+ "total_frequency": 10
+ },
+ {
+ "term_zh": "如意斗拱",
+ "term_en": "Ruyi Bracket Set",
+ "definition": "造型华丽、装饰性强的斗拱形式，明清南方建筑常用。",
+ "frequency_zh": 5,
+ "frequency_en": 5,
+ "total_frequency": 10
+ },
+ {
+ "term_zh": "圆雕",
+ "term_en": "Round Carving",
+ "definition": "三维立体雕刻，可从多角度观赏。",
+ "frequency_zh": 7,
+ "frequency_en": 2,
+ "total_frequency": 9
+ },
+ {
+ "term_zh": "龛窟",
+ "term_en": "Niche and Cave",
+ "definition": "岩壁上开凿的供奉佛像的小空间，大的为窟，小的为龛。",
+ "frequency_zh": 9,
+ "frequency_en": 0,
+ "total_frequency": 9
+ },
+ {
+ "term_zh": "文殊菩萨",
+ "term_en": "Manjushri",
+ "definition": "佛教中智慧的象征，通常骑狮子，持智慧剑。",
+ "frequency_zh": 2,
+ "frequency_en": 7,
+ "total_frequency": 9
+ },
+ {
+ "term_zh": "十八罗汉",
+ "term_en": "Eighteen Arhats",
+ "definition": "佛教中十八位护持佛法的阿罗汉，造像常各具神态。",
+ "frequency_zh": 5,
+ "frequency_en": 4,
+ "total_frequency": 9
+ },
+ {
+ "term_zh": "羌寨",
+ "term_en": "Qiang Village",
+ "definition": "羌族聚居的村寨，以石砌碉楼和碉房为特色。",
+ "frequency_zh": 6,
+ "frequency_en": 3,
+ "total_frequency": 9
+ },
+ {
+ "term_zh": "庑殿顶",
+ "term_en": "Wudian Roof (Hip Roof)",
+ "definition": "中国传统屋顶最高等级形式，四坡五脊，仅用于最高等级建筑。",
+ "frequency_zh": 7,
+ "frequency_en": 0,
+ "total_frequency": 7
+ },
+ {
+ "term_zh": "雀替",
+ "term_en": "Queti (Spandrel Bracket)",
+ "definition": "柱与梁交接处的装饰性构件，形似双翼，增强节点并美化建筑。",
+ "frequency_zh": 7,
+ "frequency_en": 0,
+ "total_frequency": 7
+ },
+ {
+ "term_zh": "地藏菩萨",
+ "term_en": "Ksitigarbha",
+ "definition": "佛教中救度地狱众生的菩萨，通常持锡杖、宝珠。",
+ "frequency_zh": 0,
+ "frequency_en": 7,
+ "total_frequency": 7
+ },
+ {
+ "term_zh": "藏式建筑",
+ "term_en": "Tibetan Architecture",
+ "definition": "藏族地区的建筑风格，以石砌墙体、平顶、色彩鲜艳为特征。",
+ "frequency_zh": 5,
+ "frequency_en": 2,
+ "total_frequency": 7
+ },
+ {
+ "term_zh": "石阙",
+ "term_en": "Stone Que (Gate Tower)",
+ "definition": "汉代成对矗立在祠庙、陵墓前的标志性石建筑，由阙基、阙身、阙顶组成，象征威仪等级。",
+ "frequency_zh": 6,
+ "frequency_en": 0,
+ "total_frequency": 6
+ },
+ {
+ "term_zh": "须弥座",
+ "term_en": "Sumeru Pedestal",
+ "definition": "源自佛教的多层线脚台基形式，用于高等级建筑或佛像基座。",
+ "frequency_zh": 5,
+ "frequency_en": 1,
+ "total_frequency": 6
+ },
+ {
+ "term_zh": "一斗三升",
+ "term_en": "One-Bucket-Three-Capital",
+ "definition": "斗拱的基本组合形式，一个斗上承三个升（小斗）。",
+ "frequency_zh": 3,
+ "frequency_en": 3,
+ "total_frequency": 6
+ },
+ {
+ "term_zh": "鲁班",
+ "term_en": "Lu Ban",
+ "definition": "中国古代传说中的建筑工匠祖师，被后世木工匠人奉为行业神。",
+ "frequency_zh": 6,
+ "frequency_en": 0,
+ "total_frequency": 6
+ },
+ {
+ "term_zh": "封火墙",
+ "term_en": "Firewall",
+ "definition": "即封火墙，防止火灾蔓延的高出屋顶的墙体。",
+ "frequency_zh": 5,
+ "frequency_en": 0,
+ "total_frequency": 5
+ },
+ {
+ "term_zh": "经幢",
+ "term_en": "Jingchuang (Stone Pillar)",
+ "definition": "刻有佛教经文的石质多棱柱形建筑，唐代盛行。",
+ "frequency_zh": 5,
+ "frequency_en": 0,
+ "total_frequency": 5
+ },
+ {
+ "term_zh": "国家级文物保护单位",
+ "term_en": "National Cultural Relics Protection Unit",
+ "definition": "中国文物保护最高等级，由国务院核定公布。",
+ "frequency_zh": 4,
+ "frequency_en": 1,
+ "total_frequency": 5
+ },
+ {
+ "term_zh": "密檐式塔",
+ "term_en": "Multi-Eaved Pagoda",
+ "definition": "佛塔形式之一，塔身以上密布短檐，不可登临，多为实心。",
+ "frequency_zh": 2,
+ "frequency_en": 2,
+ "total_frequency": 4
+ },
+ {
+ "term_zh": "三峡工程",
+ "term_en": "Three Gorges Project",
+ "definition": "长江三峡水利枢纽工程，导致大量文物古迹搬迁或淹没。",
+ "frequency_zh": 2,
+ "frequency_en": 2,
+ "total_frequency": 4
+ },
+ {
+ "term_zh": "鸳鸯交手拱",
+ "term_en": "Mandarin-Duck Hand-in-Hand Bracket",
+ "definition": "两拱相交于中心的特殊斗拱形式，装饰性强。",
+ "frequency_zh": 2,
+ "frequency_en": 2,
+ "total_frequency": 4
+ },
+ {
+ "term_zh": "转角铺作",
+ "term_en": "Corner Bracket Set",
+ "definition": "建筑转角处的斗拱，结构复杂，承托两个方向的屋檐。",
+ "frequency_zh": 2,
+ "frequency_en": 2,
+ "total_frequency": 4
+ },
+ {
+ "term_zh": "补间铺作",
+ "term_en": "Inter-columnar Bracket Set",
+ "definition": "两柱之间额枋上的斗拱，均匀分布，辅助承重。",
+ "frequency_zh": 3,
+ "frequency_en": 1,
+ "total_frequency": 4
+ },
+ {
+ "term_zh": "侧脚",
+ "term_en": "Cejiao (Column Inclination)",
+ "definition": "柱子向建筑中心微微倾斜的做法，增强结构稳定性。",
+ "frequency_zh": 3,
+ "frequency_en": 0,
+ "total_frequency": 3
+ },
+ {
+ "term_zh": "宗教建筑",
+ "term_en": "Religious Architecture",
+ "definition": "佛教、道教等宗教活动场所，包括寺、观、庙、殿等。",
+ "frequency_zh": 2,
+ "frequency_en": 0,
+ "total_frequency": 2
+ },
+ {
+ "term_zh": "城垛",
+ "term_en": "Merlon",
+ "definition": "城墙顶部锯齿状防御设施，掩护守城士兵。",
+ "frequency_zh": 1,
+ "frequency_en": 1,
+ "total_frequency": 2
+ },
+ {
+ "term_zh": "市级文物保护单位",
+ "term_en": "Municipal Cultural Relics Protection Unit",
+ "definition": "由市级政府核定公布的文物保护等级。",
+ "frequency_zh": 1,
+ "frequency_en": 1,
+ "total_frequency": 2
+ },
+ {
+ "term_zh": "翼角起翘",
+ "term_en": "Upturned Wing Corner",
+ "definition": "建筑屋檐角部向上翘起的处理，南方建筑尤为明显，增加灵动之感。",
+ "frequency_zh": 1,
+ "frequency_en": 1,
+ "total_frequency": 2
+ },
+ {
+ "term_zh": "圆雕佛像",
+ "term_en": "Round-Carved Buddha",
+ "definition": "三维立体雕刻的佛像，可从多角度观赏。",
+ "frequency_zh": 1,
+ "frequency_en": 1,
+ "total_frequency": 2
+ },
+ {
+ "term_zh": "水月观音",
+ "term_en": "Water-Moon Guanyin",
+ "definition": "观音菩萨的一种造像形式，坐于水边观月，姿态闲适优美。",
+ "frequency_zh": 1,
+ "frequency_en": 1,
+ "total_frequency": 2
+ },
+ {
+ "term_zh": "湖广填四川",
+ "term_en": "Huguang Fills Sichuan",
+ "definition": "明清时期大规模移民运动，湖广等地民众迁入四川，深刻影响四川文化。",
+ "frequency_zh": 1,
+ "frequency_en": 0,
+ "total_frequency": 1
+ },
+ {
+ "term_zh": "举折",
+ "term_en": "Ju-Zhe (Roof Curvature)",
+ "definition": "中国古建筑屋顶曲面的形成方法，通过举高和折腰使屋顶呈柔和曲线。",
+ "frequency_zh": 1,
+ "frequency_en": 0,
+ "total_frequency": 1
+ },
+ {
+ "term_zh": "卷杀",
+ "term_en": "Juansha (Column Entasis)",
+ "definition": "柱子端部或构件端部做弧线收分的处理，使造型柔和。",
+ "frequency_zh": 1,
+ "frequency_en": 0,
+ "total_frequency": 1
+ },
+ {
+ "term_zh": "山城防御体系",
+ "term_en": "Mountain City Defense System",
+ "definition": "南宋余玠创建的以山为城、以江为池的抗蒙防御体系，包含钓鱼城等数十座山城。",
+ "frequency_zh": 0,
+ "frequency_en": 0,
+ "total_frequency": 0
+ },
+ {
+ "term_zh": "巴蜀文化",
+ "term_en": "Bashu Culture",
+ "definition": "四川盆地古代巴国与蜀国文化的合称，具有独特的地域特征。",
+ "frequency_zh": 0,
+ "frequency_en": 0,
+ "total_frequency": 0
+ },
+ {
+ "term_zh": "抗蒙战争",
+ "term_en": "Anti-Mongol War",
+ "definition": "南宋时期四川军民抵抗蒙古军队入侵的战争，持续近半个世纪。",
+ "frequency_zh": 0,
+ "frequency_en": 0,
+ "total_frequency": 0
+ },
+ {
+ "term_zh": "穿斗结构",
+ "term_en": "Column-and-Tie Structure",
+ "definition": "即穿斗式，南方民居常用结构体系，柱柱落地，穿枋串联。",
+ "frequency_zh": 0,
+ "frequency_en": 0,
+ "total_frequency": 0
+ },
+ {
+ "term_zh": "覆盆式柱础",
+ "term_en": "Inverted-Basin Column Base",
+ "definition": "形似倒扣盆子的柱础形式，宋代常见。",
+ "frequency_zh": 0,
+ "frequency_en": 0,
+ "total_frequency": 0
+ },
+ {
+ "term_zh": "柱头铺作",
+ "term_en": "Column-Head Bracket Set",
+ "definition": "柱子正上方的斗拱，主要承重构件。",
+ "frequency_zh": 0,
+ "frequency_en": 0,
+ "total_frequency": 0
+ },
+ {
+ "term_zh": "地宫",
+ "term_en": "Underground Palace",
+ "definition": "佛塔基座下埋藏舍利、经卷的地下空间。",
+ "frequency_zh": 0,
+ "frequency_en": 0,
+ "total_frequency": 0
+ },
+ {
+ "term_zh": "马头墙",
+ "term_en": "Horse-Head Wall",
+ "definition": "封火墙的一种形式，顶部形似马头，徽派建筑标志性元素。",
+ "frequency_zh": 0,
+ "frequency_en": 0,
+ "total_frequency": 0
+ },
+ {
+ "term_zh": "吊脚楼",
+ "term_en": "Stilted House",
+ "definition": "南方山地常见的干栏式民居，部分楼层悬空，适应坡地地形。",
+ "frequency_zh": 0,
+ "frequency_en": 0,
+ "total_frequency": 0
+ },
+ {
+ "term_zh": "干栏式",
+ "term_en": "Pile-Dwelling Style",
+ "definition": "建筑下部架空的居住形式，适应湿热气候，防蛇虫潮湿。",
+ "frequency_zh": 0,
+ "frequency_en": 0,
+ "total_frequency": 0
+ },
+ {
+ "term_zh": "彝族建筑",
+ "term_en": "Yi Architecture",
+ "definition": "彝族地区的建筑风格，以土掌房、石板房为特色。",
+ "frequency_zh": 0,
+ "frequency_en": 0,
+ "total_frequency": 0
+ }
+ ]
 }

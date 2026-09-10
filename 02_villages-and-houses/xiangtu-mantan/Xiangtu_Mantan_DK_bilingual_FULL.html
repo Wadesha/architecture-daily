@@ -42,8 +42,52 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 .footer { background: #5D3A1A; color: white; text-align: center; padding: 35px; margin-top: 50px; }
 .footer p { opacity: 0.8; font-size: 0.9em; margin-bottom: 5px; }
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="header">
 <h1>乡土漫谈</h1>
 <div class="subtitle">Vernacular Chat · DK Style Bilingual Edition</div>
@@ -2518,8 +2562,8 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p class="en-text">The child-carrying woman hurriedly asks old gentleman if he saw the child's grandfather. Old gentleman probably answers "no"; woman about to leave, when from the street comes a tall, red-faced man with heavy steps; woman turns and slips out, taking him away. Bright top reflects a few跳动 red patches on wet bluestone road. Landlady watches their backs, softly praises: "What a fine woman!"</p>
 <p class="en-text">Lunchtime. Landlady stretches, hands on table, slowly stands. I help old Mr. Gong out; he lives next door, turn left and home. Rain still falling steadily; <strong>roof</strong> eaves wide, eaves water dripping below steps; old gentleman's doorway has a dry patch. His enthusiasm not spent, pulls a small bamboo chair for me, wants to tell me some bandit "切口" (argot).</p>
 <p class="en-text">I just sit, he suddenly calls me "Lao Yan." I'm baffled; he laughs, chokes on air; after recovering, says Guizhou and Sichuan people, to friends, have affectionate special names — replacing friend's surname with a somewhat related word.</p>
-<p class="en-text">"Lao Yan" is "Chen." Luo called Lao Xiang (echo), Bo called Lao Fei (fly), Tang called Lao Mi (honey), Zhong called Lao Zhuang (collision). Yang called Lao Mi (cat), probably Yang homophone of sheep (yang) → cat (mi). Du called Lao Cheng (撑/propping), from Du联想到 belly (du), full belly propped.</p>
-<p class="en-text">Liu called Lao Shun (顺/obedient), first Liu homophone of willow (liu), then willow branches → obedient. Gu called Lao Beng (绷/taut), from Gu联想到 drum (gu), then drum taut. Some names impossible to infer: He called Lao Hui (ash), Wei called Lao Quan (circle), Zeng called Lao Ban (boss), Wang called Lao Huan (return). Mr.</p>
+<p class="en-text">"Lao Yan" is "Chen." Luo called Lao Xiang (echo), Bo called Lao Fei (fly), Tang called Lao Mi (honey), Zhong called Lao Zhuang (collision). Yang called Lao Mi (cat), probably Yang homophone of sheep (yang)， cat (mi). Du called Lao Cheng (撑/propping), from Du联想到 belly (du), full belly propped.</p>
+<p class="en-text">Liu called Lao Shun (顺/obedient), first Liu homophone of willow (liu), then willow branches， obedient. Gu called Lao Beng (绷/taut), from Gu联想到 drum (gu), then drum taut. Some names impossible to infer: He called Lao Hui (ash), Wei called Lao Quan (circle), Zeng called Lao Ban (boss), Wang called Lao Huan (return). Mr.</p>
 <p class="en-text">Gong一口气 says twenty or thirty surname names. I ask, is this bandit argot? "No," he answers. His elder daughter, visiting from Hejiang city, washing vegetables, hearing this, mutters: "If not bandit argot, it's Paoge slang." Old gentleman waves hands: "No, no!"</p>
 <p class="en-text">But he wants to tell me bandit argot; I wait. He composes himself, finally speaks: bandits robbing a market, called "赶混子" (chasing chaos) or "打混子" (beating chaos). Robbing gentry's home called "打窑子" (hitting the kiln).</p>
 <p class="en-text">Rice called "粉子" (powder), eating called "吊粉子" (hanging powder), bowl called "莲花" (lotus), spoon called "耍子" (plaything), chopsticks called "划签" (drawing slips), cloth called "闭子" (closer), clothes called "大衫" (big robe), straw sandals called "划勾" (drawing hook).</p>
@@ -2559,7 +2603,7 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <div class="content-block">
 <span class="lang-label">中文</span>
 <p class="zh-text">走好，<strong>福宝场</strong></p>
-<p class="zh-text">回龙街八十二号龚在书先生家的后院里，有一座古坟，荒圮已久，还看得出来是圆形的，直径有四米左右。环周本来砌一圈石条，现在只剩下正面左边大约两米长的一段了。正面朝西偏南，还很整齐，可惜石条下部被土埋没，有几个字也埋在里面了。式样大致是，上、下各有比较长的水平石条，夹住四根竖立的石条，石条之间填<strong>石板</strong>，形成一个三<strong>开间</strong>的构图。正中一间上面出<strong>楼</strong>，<strong>楼</strong>顶压一块石檐口。<strong>楼</strong>正面刻四个字"寝陵伟观"。最靠边的两根石条上刻一副对联，上联"山山水水常呈□□"，下联"子子孙孙永□□□"。</p>
+<p class="zh-text">回龙街八十二号龚在书先生家的后院里，有一座古坟，荒圮已久，还看得出来是圆形的，直径有四米左右。环周本来砌一圈石条，现在只剩下正面左边大约两米长的一段了。正面朝西偏南，还很整齐，可惜石条下部被土埋没，有几个字也埋在里面了。式样大致是，上、下各有比较长的水平石条，夹住四根竖立的石条，石条之间填<strong>石板</strong>，形成一个三<strong>开间</strong>的构图。正中一间上面出<strong>楼</strong>，<strong>楼</strong>顶压一块石檐口。<strong>楼</strong>正面刻四个字"寝陵伟观"。最靠边的两根石条上刻一副对联，上联"山山水水常呈"，下联"子子孙孙永"。</p>
 <p class="zh-text">上面的石条有精致的浮雕，已经风化剥蚀得很厉害了。中央的<strong>石板</strong>上，左上角雕日，右上角雕月。正中竖刻"皇清待赠诰曾祖……"，下款为"<strong>乾隆</strong>三十年……"。这座老坟，当年在镇上算得上体制宏大了。</p>
 <p class="zh-text">坟的前面紧挨明月山西坡，很陡。半坡上斜着一幢房屋，看<strong>屋顶</strong>尺度很大，这是王氏<strong>宗祠</strong>。我们查《王氏族谱》，有十四世王瑗，"葬福宝王氏祠后，有碑，寅山申向"。从位置和朝向看，这座大坟大体可确定为王瑗的墓。王姓福宝祠始祖王宣为第九世，<strong>崇祯</strong>十四年（1641）以后迁来，照世代排比，也大致相合。不过现在福宝的王姓人氏都不知道这墓主的名字，只知道是他们的祖先，清明节还来供一炷香。我们打算把墓前的淤土挖一挖，看看这位曾祖的名字，但找不到可以负责的人，终于不敢挖。</p>
 <p class="zh-text">我们从刘家巷绕到王氏<strong>宗祠</strong>正面，一看这房子现状还不错，又是个"长五间"，通<strong>面阔</strong>十四点五米，金柱直径三十厘米。住着五户人家，王本国先生就住在左梢间。他说，原本前面有院墙，正中立一个有瓦檐的木构院门。现在墙和门都没有了，不过前面是白色溪谷地，谷地对岸便是双河街新区，景色开阔，倒也很好。我正在张望，忽然发现脚下有一块残碑，还剩四个字，右边上下两个是"讳瑗"，左边上下两个是"蒲氏"，那么，这很可能是王瑗夫妇的墓碑。于是又引起了一个问题，它和祠后的那座墓有什么关系呢？</p>
@@ -2602,7 +2646,7 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p class="en-text">Fare<strong>well</strong>, Fubao Market Town</p>
 <p class="en-text">In the backyard of Mr. Gong Zaishu's home at No. 82 Huilong Street, there is an ancient tomb, long abandoned; still visible as circular, about four meters in diameter. Originally surrounded by a ring of stone strips, now only a section about two meters long on the left front remains.</p>
 <p class="en-text">The front faces west-south, still neat; unfortunately the lower part of the stone strips is buried in soil, several characters also buried. The design is roughly: upper and lower each have relatively long horizontal stone strips, clamping four vertical stone strips, with stone slabs filling between them, <strong>form</strong>ing a three-bay composition.</p>
-<p class="en-text">The central bay has a tower above, topped by a stone eave. The tower front bears four characters "Qinling Weiguan" (Magnificent Mausoleum View). On the two outermost stone strips is carved a couplet: upper line "mountains and waters always present □□", lower line "descendants forever □□□".</p>
+<p class="en-text">The central bay has a tower above, topped by a stone eave. The tower front bears four characters "Qinling Weiguan" (Magnificent Mausoleum View). On the two outermost stone strips is carved a couplet: upper line "mountains and waters always present ", lower line "descendants forever ".</p>
 <p class="en-text">The upper stone strips have exquisite relief <strong>carving</strong>s, badly weathered and eroded. On the central slab, upper left carved sun, upper right carved moon. Center vertically carved "Imperial Qing awaiting bestowal, great-great-grandfather...", lower signature "<strong>Qianlong</strong> 30th year...". This old tomb, in its day, was grand in scale for the town.</p>
 <p class="en-text">Directly before the tomb, against the west slope of Mingyue Mountain, very steep. Halfway up the slope leans a building; judging by <strong>roof</strong> scale, large — this is the Wang <strong>ancestral hall</strong>.</p>
 <p class="en-text">We checked "Wang <strong>clan</strong> Genealogy": 14th generation Wang Yuan, "buried behind Fubao Wang <strong>ancestral hall</strong>, has stele, yin mountain shen orientation." From position and orientation, this large tomb can generally be identified as Wang Yuan's.</p>
@@ -3624,5 +3668,26 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p>Vernacular Chat · Bilingual Reconstructed Edition · Dorling Kindersley Style</p>
 <p>基于原文逐页提取 · 全文重构级别处理 · 术语准确 · 排版优化</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

@@ -48,8 +48,52 @@ body { font-family: "Microsoft YaHei", "PingFang SC", "Segoe UI", sans-serif; ba
 .footer p { opacity: 0.8; font-size: 0.9em; }
 strong { color: #c0392b; }
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="book-cover">
 <h1>福建古建筑地图</h1>
 <div class="subtitle">Historical Architectural Map of Fujian · DK中英双语完整版</div>
@@ -117,7 +161,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -161,7 +205,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -199,7 +243,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -240,7 +284,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -277,7 +321,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -312,7 +356,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -354,7 +398,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -394,7 +438,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -443,7 +487,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -486,7 +530,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -525,7 +569,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -566,7 +610,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -613,7 +657,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -652,7 +696,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -696,7 +740,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -742,7 +786,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -789,7 +833,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -833,7 +877,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -876,7 +920,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -921,7 +965,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -970,7 +1014,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1015,7 +1059,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1062,7 +1106,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1110,7 +1154,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1156,7 +1200,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1193,7 +1237,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1234,7 +1278,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1275,7 +1319,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1319,7 +1363,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1365,7 +1409,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1399,7 +1443,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1450,7 +1494,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1475,7 +1519,7 @@ strong { color: #c0392b; }
 <p>全长<strong>33米</strong>、宽<strong>4.3米</strong>。以峭壁巨岩为桥堍，上架由圆杉木穿插而成的木拱架，再顺铺圆木为梁，上横铺木板为桥面，其上建廊屋。</p>
 <p>廊屋<strong>歇山顶</strong>，<strong>抬梁式</strong>木架构，<strong>面阔</strong><strong>11间</strong>，<strong>进深</strong>4柱。桥两旁置长凳和直棂栏杆。<strong>明</strong>间北部设神龛，主祀玄天上帝，并保存有<strong>明</strong>代<strong>木雕</strong>神像。</p>
 <p>梁架衔接处施以大量精巧的<strong>斗拱</strong>，<strong>明</strong>显有别于其他的<strong>廊桥</strong>。</p>
-<p>桥东南侧近处有高<strong>1.2米</strong>、宽<strong>1.8米</strong>的天然山岩，上有<strong>宋</strong>绍定<strong>元</strong>年（1228）楷书摩崖题刻一段，曰："古田县长官陈□/舍财结东畔道头乞/保合家平安者/绍定<strong>元</strong>年立"，字径<strong>0.12米</strong>。</p>
+<p>桥东南侧近处有高<strong>1.2米</strong>、宽<strong>1.8米</strong>的天然山岩，上有<strong>宋</strong>绍定<strong>元</strong>年（1228）楷书摩崖题刻一段，曰："古田县长官陈/舍财结东畔道头乞/保合家平安者/绍定<strong>元</strong>年立"，字径<strong>0.12米</strong>。</p>
 <p>该桥修建年代有<strong>明</strong>确纪年，是研究<strong>木拱<strong>廊桥</strong></strong>发展史的重要实物资料。龙津桥的一大奇怪之处是该桥不是两边畅通的，桥的一端几乎被岩石堵住，只在侧面留有仅容一人通过的狭窄通道。</p>
 <p>看来当初耗费如此人力的庞然大物，并非用于舟车之便，而只是供行人通过的村际桥梁而已，那人们耗费钱财，聘请高<strong>明</strong>的师傅修建此桥的初衷到底是什么呢？如果单纯的作为交通设施，是否有些浪费，有些大材小用？如果不是，那么这个桥的其他用途甚至说更重要的功能是什么呢？跋山涉水之余，坐在桥中小憩，饱览这一片山水，难免要感谢修桥人的绸缪周至。</p>
 
@@ -1501,7 +1545,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1544,7 +1588,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1587,7 +1631,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1634,7 +1678,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1686,7 +1730,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1729,7 +1773,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1773,7 +1817,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1827,7 +1871,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1869,7 +1913,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1909,7 +1953,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1948,7 +1992,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -1997,7 +2041,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2042,7 +2086,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2104,7 +2148,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2153,7 +2197,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2194,7 +2238,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2233,7 +2277,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2276,7 +2320,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2321,7 +2365,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2369,7 +2413,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2428,7 +2472,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2472,7 +2516,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 </div>
 <div class="region-section" id="region_1">
@@ -2524,7 +2568,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2579,7 +2623,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2621,7 +2665,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2666,7 +2710,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2711,7 +2755,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2750,7 +2794,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2790,7 +2834,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2835,7 +2879,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2902,7 +2946,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -2948,7 +2992,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3002,7 +3046,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3050,7 +3094,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3097,7 +3141,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3141,7 +3185,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3198,7 +3242,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3235,7 +3279,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3282,7 +3326,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3326,7 +3370,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3370,7 +3414,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3416,7 +3460,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3454,7 +3498,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3497,7 +3541,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3531,7 +3575,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3580,7 +3624,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3627,7 +3671,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3668,7 +3712,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3727,7 +3771,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3771,7 +3815,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3818,7 +3862,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3872,7 +3916,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3931,7 +3975,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -3970,7 +4014,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4017,7 +4061,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4059,7 +4103,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4104,7 +4148,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4160,7 +4204,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4212,7 +4256,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4255,7 +4299,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4301,7 +4345,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4350,7 +4394,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4395,7 +4439,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4445,7 +4489,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4488,7 +4532,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4535,7 +4579,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4584,7 +4628,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4631,7 +4675,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4679,7 +4723,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4723,7 +4767,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4775,7 +4819,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4828,7 +4872,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4867,7 +4911,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4916,7 +4960,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -4965,7 +5009,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5005,7 +5049,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 </div>
 <div class="region-section" id="region_2">
@@ -5060,7 +5104,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5110,7 +5154,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5157,7 +5201,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5197,7 +5241,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5261,7 +5305,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5311,7 +5355,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5370,7 +5414,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5426,7 +5470,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5473,7 +5517,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5518,7 +5562,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5564,7 +5608,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5621,7 +5665,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5674,7 +5718,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5719,7 +5763,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5765,7 +5809,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5816,7 +5860,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5852,7 +5896,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5895,7 +5939,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5946,7 +5990,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -5991,7 +6035,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 </div>
 <div class="region-section" id="region_3">
@@ -6043,7 +6087,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6088,7 +6132,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6128,7 +6172,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6172,7 +6216,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6208,7 +6252,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6248,7 +6292,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6291,7 +6335,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6336,7 +6380,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6377,7 +6421,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6425,7 +6469,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6473,7 +6517,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6509,7 +6553,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6549,7 +6593,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6595,7 +6639,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6636,7 +6680,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6672,7 +6716,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6712,7 +6756,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6750,7 +6794,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6790,7 +6834,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6839,7 +6883,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6898,7 +6942,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -6942,7 +6986,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 </div>
 <div class="region-section" id="region_4">
@@ -6986,7 +7030,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7033,7 +7077,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7081,7 +7125,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7119,7 +7163,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7167,7 +7211,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7210,7 +7254,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7261,7 +7305,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7301,7 +7345,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7351,7 +7395,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7397,7 +7441,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7443,7 +7487,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7493,7 +7537,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7544,7 +7588,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7580,7 +7624,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7628,7 +7672,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7676,7 +7720,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7721,7 +7765,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7777,7 +7821,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7821,7 +7865,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7857,7 +7901,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7901,7 +7945,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7945,7 +7989,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -7983,7 +8027,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8025,7 +8069,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8064,7 +8108,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 </div>
 <div class="region-section" id="region_5">
@@ -8111,7 +8155,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8158,7 +8202,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8205,7 +8249,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8253,7 +8297,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8290,7 +8334,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8343,7 +8387,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8381,7 +8425,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8432,7 +8476,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8484,7 +8528,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8531,7 +8575,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8586,7 +8630,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8629,7 +8673,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8672,7 +8716,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8712,7 +8756,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8754,7 +8798,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8801,7 +8845,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8849,7 +8893,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8887,7 +8931,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8938,7 +8982,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -8982,7 +9026,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9029,7 +9073,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9081,7 +9125,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9131,7 +9175,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9179,7 +9223,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9218,7 +9262,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9263,7 +9307,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9311,7 +9355,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9362,7 +9406,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9411,7 +9455,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9456,7 +9500,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9503,7 +9547,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 </div>
 <div class="region-section" id="region_6">
@@ -9547,7 +9591,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9597,7 +9641,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9644,7 +9688,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9691,7 +9735,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9735,7 +9779,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9788,7 +9832,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9834,7 +9878,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9883,7 +9927,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9944,7 +9988,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -9986,7 +10030,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10039,7 +10083,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10079,7 +10123,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10127,7 +10171,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10175,7 +10219,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10221,7 +10265,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10272,7 +10316,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10313,7 +10357,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10358,7 +10402,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10404,7 +10448,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10452,7 +10496,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10495,7 +10539,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10544,7 +10588,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10600,7 +10644,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10647,7 +10691,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10691,7 +10735,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10740,7 +10784,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10781,7 +10825,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10823,7 +10867,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10863,7 +10907,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10887,7 +10931,7 @@ strong { color: #c0392b; }
 <p>既殁，乡人庙祀之，后倾圮，故地犹存，<strong>明</strong>洪武二十一年重造之。"这样便形成了"青山王"信仰，又叫"惠安境主"或"灵安王"，而且随着<strong>明</strong><strong>清</strong>之际惠安人远渡谋生而在台湾、东南亚一带广泛传播，还对当地的宗教建筑和雕刻、泥塑、<strong>彩绘</strong>技艺产生了深远的影响。</p>
 <p>这里的青山祖宫由灵安尊王庙、文昌阁、英烈祠几个建筑群组成。主庙是灵安王庙，坐北朝南，呈台阶状层层抬高，由山门、两廊、<strong>天井</strong>、<strong>前殿</strong>、拱亭和<strong>后殿</strong>沿中轴线布置。</p>
 <p>山门与庙前石埕存在显著高差，<strong>五开间</strong>，中门三间与边门组合屋顶，屋面八兽，泥塑<strong>彩绘</strong>双龙戏珠，飞檐翘脊，轮廓丰富。山门之内，回廊围合<strong>天井</strong>，左右道教题材壁画彩塑。<strong>前殿</strong>继续抬高，<strong>面阔</strong>五间，而尺度紧凑。</p>
-<p>保存有"同治五年西湖铺后蔡黄□□敬修"题记。前<strong>后殿</strong>之间有拱亭，实为<strong>天井</strong>加盖屋顶所成。<strong>后殿</strong><strong>面阔</strong>五间、<strong>进深</strong>四间，供奉灵安尊王及文武判官。建筑因山就势，<strong>后殿</strong>地面高度相当于山门的屋脊。</p>
+<p>保存有"同治五年西湖铺后蔡黄敬修"题记。前<strong>后殿</strong>之间有拱亭，实为<strong>天井</strong>加盖屋顶所成。<strong>后殿</strong><strong>面阔</strong>五间、<strong>进深</strong>四间，供奉灵安尊王及文武判官。建筑因山就势，<strong>后殿</strong>地面高度相当于山门的屋脊。</p>
 <p>文昌阁在灵安尊王庙东，并排而建，坐北朝南，由放生池、石埕、大门、前厅、<strong>天井</strong>、<strong>明</strong>台和正殿组成。前厅<strong>面阔</strong>三间，经左右回廊过<strong>天井</strong>、<strong>明</strong>台直达正殿。<strong>天井</strong>中有800年树龄的古槐树。</p>
 <p>正殿<strong>面阔</strong>、<strong>进深</strong>各三间。单体建筑抬梁<strong>穿斗式</strong>混合木架构，硬山式屋顶。正殿内供奉文昌帝君及惠安首任知县崔知节塑像。<strong>后殿</strong>保留墨书"咸丰五年乙卯起盖……"等语。</p>
 <p>英烈祠，在灵安尊王庙西南，坐西北向东南，<strong>面阔</strong>三间，<strong>进深</strong>一间，<strong>抬梁式</strong>木结构，硬山式屋顶。中祀张悃部将英烈侯，右祀土地神，左祀司马爷公、骏马及天兵神将。</p>
@@ -10923,7 +10967,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -10960,7 +11004,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11002,7 +11046,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11063,7 +11107,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11113,7 +11157,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11155,7 +11199,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11191,7 +11235,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11232,7 +11276,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11274,7 +11318,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11322,7 +11366,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11364,7 +11408,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11409,7 +11453,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11455,7 +11499,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 </div>
 <div class="region-section" id="region_7">
@@ -11499,7 +11543,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11545,7 +11589,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11597,7 +11641,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11641,7 +11685,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11683,7 +11727,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11729,7 +11773,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11773,7 +11817,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11809,7 +11853,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11851,7 +11895,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 </div>
 <div class="region-section" id="region_8">
@@ -11894,7 +11938,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11952,7 +11996,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -11992,7 +12036,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12034,7 +12078,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12077,7 +12121,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12142,7 +12186,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12189,7 +12233,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12230,7 +12274,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12277,7 +12321,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12338,7 +12382,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12384,7 +12428,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12424,7 +12468,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12467,7 +12511,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12504,7 +12548,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12550,7 +12594,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12589,7 +12633,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12631,7 +12675,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12671,7 +12715,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12713,7 +12757,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12758,7 +12802,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12800,7 +12844,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12855,7 +12899,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12900,7 +12944,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12947,7 +12991,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -12983,7 +13027,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13025,7 +13069,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13074,7 +13118,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13121,7 +13165,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13163,7 +13207,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13215,7 +13259,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13266,7 +13310,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13317,7 +13361,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13361,7 +13405,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13406,7 +13450,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13445,7 +13489,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13495,7 +13539,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13568,7 +13612,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13606,7 +13650,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13647,7 +13691,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13690,7 +13734,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13728,7 +13772,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13773,7 +13817,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13809,7 +13853,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13852,7 +13896,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13912,7 +13956,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -13954,7 +13998,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -14001,7 +14045,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -14052,7 +14096,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -14094,7 +14138,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -14135,7 +14179,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -14176,7 +14220,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -14214,7 +14258,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 <div class="building-card">
 <div class="building-header">
@@ -14258,7 +14302,7 @@ strong { color: #c0392b; }
 
 </div>
 </div>
-<div class="recommendation"><strong>推荐级别：</strong>★★★</div>
+<div class="recommendation"><strong>推荐级别：</strong></div>
 </div>
 </div>
 </div>
@@ -14267,5 +14311,26 @@ strong { color: #c0392b; }
 <p>Historical Architectural Map of Fujian · DK Bilingual Full Edition</p>
 <p>全书 310 处建筑 · 9 个地区 · 90 个专业术语</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

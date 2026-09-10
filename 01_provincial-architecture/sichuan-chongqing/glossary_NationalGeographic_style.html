@@ -26,8 +26,52 @@ body{font-family:Georgia,"Times New Roman","Microsoft YaHei",serif;background:#f
 .entry .meta span{margin-right:20px}
 .footer{background:#2c3e50;color:#bdc3c7;text-align:center;padding:40px 20px;margin-top:60px;font-size:0.9em}
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="hero">
 <h1>四川重庆古建筑</h1>
 <div class="sub">The Living Architecture of Sichuan & Chongqing · A National Geographic Exploration</div>
@@ -43,84 +87,84 @@ body{font-family:Georgia,"Times New Roman","Microsoft YaHei",serif;background:#f
 <div class="en-term">Watchtower (Diaolou)</div>
 <p class="zh-text">碉楼是四川西部藏族、羌族地区的独特高层建筑形式，以石块或土坯砌筑，高可达数十米，有四角、六角、八角等多种平面形式。碉楼具有防御、瞭望、居住等多种功能，是嘉绒藏族和羌族建筑文化的代表。丹巴古碉群、直波碉楼、日斯满巴碉房等是四川碉楼的杰出代表，其中丹巴碉楼被誉为'千碉之国'。碉楼的建造不用图纸，全凭工匠口传心授，是中国古代石构建筑的奇迹。</p>
 <p class="en-text">Watchtowers (diaolou) are unique high-rise architectural forms in Tibetan and Qiang areas of western Sichuan, built of stone blocks or adobe, reaching heights of tens of meters, with square, hexagonal, octagonal and other plan forms. Serving multiple functions including defense, observation, and residence, they represent the architectural culture of the Jiarong Tibetan and Qiang peoples. The Danba ancient watchtower cluster, Zhibo watchtowers, and Risimanba watchtower house are outstanding representatives; Danba is known as the 'Country of a Thousand Watchtowers.' Built without blueprints, relying entirely on craftsmen's oral transmission, watchtowers are miracles of ancient Chinese stone architecture.</p>
-<div class="meta"><span>📍 实例: 丹巴古碉群、直波碉楼、日斯满巴碉房、乡城碉楼群</span><span>🔗 关联: 羌寨, 土司官寨, 藏传佛教建筑, 石构建筑</span></div>
+<div class="meta"><span> 实例: 丹巴古碉群、直波碉楼、日斯满巴碉房、乡城碉楼群</span><span> 关联: 羌寨, 土司官寨, 藏传佛教建筑, 石构建筑</span></div>
 </div>
 <div class="entry">
 <h3>穿斗式</h3>
 <div class="en-term">Column-and-Tie Structure (Chuandoushi)</div>
 <p class="zh-text">穿斗式是四川地区传统建筑最主要的木结构形式，以柱子直接承檩，柱子之间用穿枋串联，形成整体框架。与北方抬梁式不同，穿斗式不用大梁，柱子较密，结构轻巧，适合四川多雨潮湿的气候和山地地形。四川民居、寺庙、会馆等普遍采用穿斗式结构，望江楼明确记载'采用穿斗式梁架，是川渝地区常见的梁架构造之一'。穿斗式结构是川派建筑的核心技术特征。</p>
 <p class="en-text">Column-and-tie structure (chuandoushi) is the main wooden structural form of traditional Sichuan architecture, with columns directly supporting purlins and columns connected by tie beams to form an integral frame. Unlike northern post-and-lintel style, column-and-tie structure uses no large beams, has denser columns, and is lightweight—suited to Sichuan's rainy humid climate and mountainous terrain. Sichuan residences, temples, and guildhalls universally use column-and-tie structure; Wangjiang Tower explicitly records 'using column-and-tie beam framing, one of the common beam structures in the Sichuan-Chongqing region.' Column-and-tie structure is the core technical feature of Sichuan-style architecture.</p>
-<div class="meta"><span>📍 实例: 望江楼、成都民居、洛带会馆、四川各地民居</span><span>🔗 关联: 川派建筑, 悬山顶, 小青瓦, 抬梁式</span></div>
+<div class="meta"><span> 实例: 望江楼、成都民居、洛带会馆、四川各地民居</span><span> 关联: 川派建筑, 悬山顶, 小青瓦, 抬梁式</span></div>
 </div>
 <div class="entry">
 <h3>悬山顶</h3>
 <div class="en-term">Overhanging Gable Roof (Xuanshanding)</div>
 <p class="zh-text">悬山顶是四川传统建筑最常见的屋顶形式，屋面有一条正脊和四条垂脊，两侧山面的檩木伸出山墙之外，形成悬挑。悬山顶有利于排水和保护山墙，适合四川多雨的气候。四川民居、寺庙、会馆普遍采用悬山顶，与北方的硬山顶形成对比。悬山顶的出檐深远，屋脊常有灰塑和剪粘装饰，是川派建筑的显著特征。</p>
 <p class="en-text">Overhanging gable roof (xuanshanding) is the most common roof form of traditional Sichuan architecture, with one main ridge and four vertical ridges, and the purlins on both gable sides extending beyond the gable wall to form an overhang. Overhanging gable roofs facilitate drainage and protect gable walls, suited to Sichuan's rainy climate. Sichuan residences, temples, and guildhalls universally use overhanging gable roofs, contrasting with northern flat-gable roofs. With deep eaves and ridge decorations of gray plaster and cut-and-paste porcelain, overhanging gable roofs are a distinctive feature of Sichuan-style architecture.</p>
-<div class="meta"><span>📍 实例: 四川各地民居、洛带会馆、平武报恩寺</span><span>🔗 关联: 穿斗式, 小青瓦, 川派建筑, 硬山顶</span></div>
+<div class="meta"><span> 实例: 四川各地民居、洛带会馆、平武报恩寺</span><span> 关联: 穿斗式, 小青瓦, 川派建筑, 硬山顶</span></div>
 </div>
 <div class="entry">
 <h3>汉阙</h3>
 <div class="en-term">Han Dynasty Gate (Han Que)</div>
 <p class="zh-text">汉阙是汉代宫殿、祠庙、陵墓前的标志性建筑，通常左右成对，中间为通道，具有标识等级和装饰功能。四川是中国汉阙保存最多的省份，有'中国汉阙之乡'之称，著名的有雅安高颐阙、芦山樊敏阙、渠县冯焕阙、沈府君阙、绵阳平阳府君阙、李业阙、乐山杨公阙等。汉阙以石材建造，仿木结构，雕刻精美，是研究汉代建筑和雕刻艺术的重要实物。</p>
 <p class="en-text">Han dynasty gates (han que) are landmark buildings in front of Han palaces, temples, and tombs, usually in left-right pairs with a passage between, serving grade-marking and decorative functions. Sichuan is the province with the most surviving Han que in China, known as the 'Hometown of Chinese Han Que,' with famous examples including Gao Yi Que in Ya'an, Fan Min Que in Lushan, Feng Huan Que and Shen Fujun Que in Qu County, Pingyang Fujun Que and Li Ye Que in Mianyang, and Yang Gong Que in Leshan. Built of stone imitating wooden structure with exquisite carvings, Han que are important artifacts for studying Han architecture and carving art.</p>
-<div class="meta"><span>📍 实例: 高颐阙、樊敏阙、冯焕阙、沈府君阙、平阳府君阙</span><span>🔗 关联: 汉代建筑, 石雕, 陵墓建筑, 牌坊</span></div>
+<div class="meta"><span> 实例: 高颐阙、樊敏阙、冯焕阙、沈府君阙、平阳府君阙</span><span> 关联: 汉代建筑, 石雕, 陵墓建筑, 牌坊</span></div>
 </div>
 <div class="entry">
 <h3>摩崖造像</h3>
 <div class="en-term">Cliff Carvings (Moya Zaoxiang)</div>
 <p class="zh-text">摩崖造像是在山崖壁面上雕刻的佛教、道教造像，是四川石窟艺术的主要形式。四川摩崖造像数量众多，规模宏大，著名的有大足宝顶山和北山摩崖造像、广元千佛崖、皇泽寺、巴中南龛、水宁寺、资阳毗佛寺、安岳卧佛院、眉山牛角寨、能仁寺等。四川摩崖造像始于南北朝，盛于唐宋，是中国石窟艺术的重要组成部分，与敦煌、云冈、龙门石窟并称。</p>
 <p class="en-text">Cliff carvings (moya zaoxiang) are Buddhist and Taoist statues carved on cliff faces, the main form of Sichuan cave art. Sichuan has numerous and large-scale cliff carvings, with famous examples including the Baodingshan and Beishan carvings at Dazu, Qianfo Cliff and Huangze Temple in Guangyuan, Nankan and Shuining Temple in Bazhong, Pifo Temple in Ziyang, Wofo Temple in Anyue, Niujiaozhai and Nengren Temple in Meishan. Sichuan cliff carvings began in the Northern and Southern Dynasties and flourished in the Tang-Song, an important component of Chinese cave art, ranked with Dunhuang, Yungang, and Longmen grottoes.</p>
-<div class="meta"><span>📍 实例: 大足宝顶山、北山摩崖造像、广元千佛崖、巴中南龛</span><span>🔗 关联: 石窟寺, 佛教建筑, 唐代建筑, 宋代建筑</span></div>
+<div class="meta"><span> 实例: 大足宝顶山、北山摩崖造像、广元千佛崖、巴中南龛</span><span> 关联: 石窟寺, 佛教建筑, 唐代建筑, 宋代建筑</span></div>
 </div>
 <div class="entry">
 <h3>会馆</h3>
 <div class="en-term">Guild Hall (Huiguan)</div>
 <p class="zh-text">会馆是明清时期同乡或同业在异地建立的社会组织建筑，具有聚会、议事、祭祀、商业等功能。四川会馆数量众多，是清代'湖广填四川'移民文化的产物，著名的有重庆湖广会馆、自贡西秦会馆、成都洛带会馆（广东会馆、江西会馆、湖广会馆、川北会馆）等。四川会馆建筑融合了原籍和四川本地建筑风格，多为院落式布局，有戏楼、正殿、厢房等，装饰精美，是研究清代移民文化和建筑艺术的重要实物。</p>
 <p class="en-text">Guild halls (huiguan) are social organization buildings established by same-hometown or same-trade groups in other places during the Ming-Qing, serving assembly, discussion, worship, and commercial functions. Sichuan has numerous guild halls, a product of the Qing 'Huguang fills Sichuan' immigration culture, with famous examples including Chongqing Huguang Guild Hall, Zigong Xiqin Guild Hall, and Chengdu Luodai Guild Halls (Guangdong, Jiangxi, Huguang, and North Sichuan guild halls). Sichuan guild hall architecture blends hometown and local Sichuan styles, mostly in courtyard layouts with theater stages, main halls, and wing rooms with exquisite decoration—important for studying Qing immigration culture and architectural art.</p>
-<div class="meta"><span>📍 实例: 重庆湖广会馆、自贡西秦会馆、洛带会馆</span><span>🔗 关联: 移民文化, 戏楼, 川派建筑, 院落式布局</span></div>
+<div class="meta"><span> 实例: 重庆湖广会馆、自贡西秦会馆、洛带会馆</span><span> 关联: 移民文化, 戏楼, 川派建筑, 院落式布局</span></div>
 </div>
 <div class="entry">
 <h3>土司官寨</h3>
 <div class="en-term">Tusi Official Fortress (Tusi Guanzhai)</div>
 <p class="zh-text">土司官寨是元明清时期西南少数民族地区土司（世袭地方统治者）的官邸和衙署，具有政治、军事、居住等多种功能。四川土司官寨主要分布在阿坝、甘孜等藏羌地区，著名的有马尔康卓克基土司官寨、小金沃日土司官寨经楼与碉楼等。土司官寨融合了藏族、羌族和汉族建筑风格，多为石木结构，有碉楼、经堂、官署、住宅等，是研究中国土司制度和藏羌建筑的重要实物。</p>
 <p class="en-text">Tusi official fortresses (tusi guanzhai) are the residences and government offices of tusi (hereditary local rulers) in southwestern minority areas during the Yuan-Ming-Qing, serving political, military, and residential functions. Sichuan tusi fortresses are mainly distributed in Tibetan and Qiang areas such as Aba and Ganzi, with famous examples including Zhuokeji Tusi Fortress in Maerkang and the Woju Tusi Fortress scripture hall and watchtower in Xiaojin. Blending Tibetan, Qiang, and Han architectural styles, mostly in stone-wood structure with watchtowers, scripture halls, government offices, and residences, they are important for studying China's tusi system and Tibetan-Qiang architecture.</p>
-<div class="meta"><span>📍 实例: 卓克基土司官寨、沃日土司官寨经楼与碉楼</span><span>🔗 关联: 碉楼, 羌寨, 藏传佛教建筑, 土司制度</span></div>
+<div class="meta"><span> 实例: 卓克基土司官寨、沃日土司官寨经楼与碉楼</span><span> 关联: 碉楼, 羌寨, 藏传佛教建筑, 土司制度</span></div>
 </div>
 <div class="entry">
 <h3>羌寨</h3>
 <div class="en-term">Qiang Village (Qiangzhai)</div>
 <p class="zh-text">羌寨是羌族的传统村落，以石砌房屋和碉楼为主要建筑形式，依山而建，错落有致。羌族建筑以片石和黄泥砌筑，不用绘图和吊线，全凭经验和目测，房屋为平顶，多层，底层养牲畜，中层住人，顶层晒粮。著名的羌寨有理县桃坪羌寨、萝卜寨等。桃坪羌寨始建于汉代，有2000多年历史，保存有完整的地下水网和碉楼，被誉为'羌族建筑艺术活化石'。</p>
 <p class="en-text">Qiang villages (qiangzhai) are traditional villages of the Qiang people, with stone houses and watchtowers as main architectural forms, built along hillsides in a staggered arrangement. Qiang architecture is built of flagstones and yellow mud without drawings or plumb lines, relying entirely on experience and visual estimation; houses are flat-roofed and multi-story, with livestock on the ground floor, residents on the middle floor, and grain drying on the top floor. Famous Qiang villages include Taoping Qiang Village and Luobo Village in Li County. Taoping Qiang Village, founded in the Han dynasty with over 2,000 years of history, preserves a complete underground water network and watchtowers, known as the 'living fossil of Qiang architectural art.'</p>
-<div class="meta"><span>📍 实例: 桃坪羌寨、萝卜寨</span><span>🔗 关联: 碉楼, 碉房, 羌族, 石构建筑</span></div>
+<div class="meta"><span> 实例: 桃坪羌寨、萝卜寨</span><span> 关联: 碉楼, 碉房, 羌族, 石构建筑</span></div>
 </div>
 <div class="entry">
 <h3>藏传佛教建筑</h3>
 <div class="en-term">Tibetan Buddhist Architecture</div>
 <p class="zh-text">藏传佛教建筑是四川甘孜、阿坝地区的主要建筑类型，包括寺院、经堂、佛塔、印经院等。四川藏传佛教建筑融合了西藏、青海和本地建筑风格，多为石木结构，墙体厚实，窗户较小，屋顶有金顶、法轮、祥麟等装饰。著名的有德格印经院、八邦寺、白玉噶陀寺、长青春科尔寺、达扎寺、草登寺、木里大寺等。德格印经院是中国最大的藏文印经院，被誉为'藏文化大百科全书'。</p>
 <p class="en-text">Tibetan Buddhist architecture is the main building type in Ganzi and Aba regions of Sichuan, including monasteries, scripture halls, pagodas, and printing houses. Sichuan Tibetan Buddhist architecture blends Tibetan, Qinghai, and local styles, mostly in stone-wood structure with thick walls, small windows, and roof decorations of golden roofs, Dharma wheels, and auspicious deer. Famous examples include Dege Printing House, Bangong Temple, Baiyu Gatuo Temple, Changqing Chunkeer Temple, Dazha Temple, Caodeng Temple, and Muli Temple. Dege Printing House is China's largest Tibetan scripture printing house, known as the 'Encyclopedia of Tibetan Culture.'</p>
-<div class="meta"><span>📍 实例: 德格印经院、八邦寺、长青春科尔寺、达扎寺</span><span>🔗 关联: 印经院, 经堂, 土司官寨, 碉楼</span></div>
+<div class="meta"><span> 实例: 德格印经院、八邦寺、长青春科尔寺、达扎寺</span><span> 关联: 印经院, 经堂, 土司官寨, 碉楼</span></div>
 </div>
 <div class="entry">
 <h3>印经院</h3>
 <div class="en-term">Scripture Printing House (Yinjingyuan)</div>
 <p class="zh-text">印经院是藏传佛教地区印刷藏文经典的专门建筑，以木刻雕版印刷为主要工艺。四川德格印经院是中国最大、最著名的藏文印经院，始建于清雍正七年（1729年），保存有书版20余万块，涵盖佛教经典、医学、历算、文学、艺术等内容。印经院建筑为藏式石木结构，有经版库、印刷室、裁纸室、装订室等，是研究藏族印刷文化和建筑的重要实物。</p>
 <p class="en-text">Scripture printing houses (yinjingyuan) are specialized buildings for printing Tibetan scriptures in Tibetan Buddhist areas, using woodblock printing as the main technique. Sichuan's Dege Printing House is China's largest and most famous Tibetan scripture printing house, founded in the seventh year of Yongzheng of the Qing (1729 CE), preserving over 200,000 woodblocks covering Buddhist scriptures, medicine, astronomy, literature, and art. In Tibetan stone-wood structure with woodblock storehouses, printing rooms, paper cutting rooms, and binding rooms, printing houses are important for studying Tibetan printing culture and architecture.</p>
-<div class="meta"><span>📍 实例: 德格印经院</span><span>🔗 关联: 藏传佛教建筑, 经堂, 藏族文化, 木刻雕版</span></div>
+<div class="meta"><span> 实例: 德格印经院</span><span> 关联: 藏传佛教建筑, 经堂, 藏族文化, 木刻雕版</span></div>
 </div>
 <div class="entry">
 <h3>戏楼</h3>
 <div class="en-term">Theater Stage (Xilou)</div>
 <p class="zh-text">戏楼是四川会馆、祠堂、寺庙中常见的建筑，用于演出川剧等地方戏曲。四川戏楼多为木结构，悬山顶，台口面向正殿或院落，有上下场门、后台、化妆室等。戏楼的装饰精美，梁枋、雀替、斗拱常有木雕和彩画。四川著名的戏楼有重庆湖广会馆戏楼、自贡西秦会馆戏楼、洛带会馆戏楼等，是研究清代戏曲文化和建筑装饰的重要实物。</p>
 <p class="en-text">Theater stages (xilou) are common buildings in Sichuan guild halls, ancestral halls, and temples, used for performing Sichuan opera and other local dramas. Sichuan theater stages are mostly wooden structures with overhanging gable roofs, the stage opening facing the main hall or courtyard, with entrance/exit doors, backstage, and dressing rooms. Exquisitely decorated, the beams, spandrels, and bracket sets often have wood carvings and painted decorations. Famous Sichuan theater stages include those at Chongqing Huguang Guild Hall, Zigong Xiqin Guild Hall, and Luodai Guild Hall—important for studying Qing drama culture and architectural decoration.</p>
-<div class="meta"><span>📍 实例: 重庆湖广会馆戏楼、自贡西秦会馆戏楼、洛带会馆戏楼</span><span>🔗 关联: 会馆, 祠堂, 川派建筑, 木雕</span></div>
+<div class="meta"><span> 实例: 重庆湖广会馆戏楼、自贡西秦会馆戏楼、洛带会馆戏楼</span><span> 关联: 会馆, 祠堂, 川派建筑, 木雕</span></div>
 </div>
 <div class="entry">
 <h3>天井</h3>
 <div class="en-term">Courtyard/Light Well (Tianjing)</div>
 <p class="zh-text">天井是四川传统民居和会馆中常见的院落空间，面积较小，四面房屋相连，具有采光、通风、排水的功能。与北方四合院的宽敞不同，四川天井较为狭小，适应了四川多雨潮湿的气候和密集的城市布局。天井中常有水缸、花台、鱼缸等，既防火又装饰。天井是川派民居的核心空间，体现了四川人对自然和生活的理解。</p>
 <p class="en-text">Courtyards/light wells (tianjing) are common courtyard spaces in traditional Sichuan residences and guild halls, small in area with connected houses on all sides, serving lighting, ventilation, and drainage functions. Unlike the spacious northern courtyard houses, Sichuan courtyards are smaller, adapting to Sichuan's rainy humid climate and dense urban layout. Courtyards often contain water vats, flower beds, and fish tanks for both fire prevention and decoration. The courtyard is the core space of Sichuan-style residences, reflecting Sichuan people's understanding of nature and life.</p>
-<div class="meta"><span>📍 实例: 四川各地民居、洛带会馆、自贡西秦会馆</span><span>🔗 关联: 川派建筑, 院落式布局, 穿斗式, 悬山顶</span></div>
+<div class="meta"><span> 实例: 四川各地民居、洛带会馆、自贡西秦会馆</span><span> 关联: 川派建筑, 院落式布局, 穿斗式, 悬山顶</span></div>
 </div>
 </div>
 <div class="section">
@@ -130,91 +174,91 @@ body{font-family:Georgia,"Times New Roman","Microsoft YaHei",serif;background:#f
 <div class="en-term">Sichuan Style Architecture (Chuanpai Jianzhu)</div>
 <p class="zh-text">川派建筑是四川地区传统建筑的统称，融合了中原、江南、湖广、藏羌等多种建筑文化，形成了独特的地方风格。川派建筑以穿斗式木结构、悬山顶、小青瓦、深出檐为主要特征，布局灵活，适应山地地形。川派建筑包括民居、寺庙、会馆、祠堂、园林、桥梁等多种类型，是中国地域建筑的重要流派。四川盆地的气候、地形和移民文化共同塑造了川派建筑的独特面貌。</p>
 <p class="en-text">Sichuan style architecture (chuanpai jianzhu) is a general term for traditional architecture in Sichuan, blending Central Plains, Jiangnan, Huguang, Tibetan-Qiang and other architectural cultures to form a unique local style. Characterized by column-and-tie wooden structure, overhanging gable roofs, small grey tiles, and deep eaves, with flexible layouts adapting to mountain terrain. Sichuan style architecture includes residences, temples, guild halls, ancestral halls, gardens, and bridges—an important school of Chinese regional architecture. Sichuan Basin's climate, terrain, and immigration culture jointly shaped the unique face of Sichuan style architecture.</p>
-<div class="meta"><span>📍 实例: 望江楼、洛带会馆、四川各地民居、平武报恩寺</span><span>🔗 关联: 穿斗式, 悬山顶, 小青瓦, 会馆</span></div>
+<div class="meta"><span> 实例: 望江楼、洛带会馆、四川各地民居、平武报恩寺</span><span> 关联: 穿斗式, 悬山顶, 小青瓦, 会馆</span></div>
 </div>
 <div class="entry">
 <h3>地主庄园</h3>
 <div class="en-term">Landlord Manor (Dizhu Zhuangyuan)</div>
 <p class="zh-text">地主庄园是四川近代大地主的住宅建筑群，规模宏大，融合了传统民居和近代建筑风格。四川著名的地主庄园有大邑刘氏庄园、泸县屈氏庄园、南充丁氏庄园等。大邑刘氏庄园是四川最大的地主庄园，占地7万余平方米，有房屋350余间，保存有完整的庄园建筑和大量文物，是研究中国近代地主经济和社会生活的重要实物。</p>
 <p class="en-text">Landlord manors (dizhu zhuangyuan) are residential building complexes of large modern landlords in Sichuan, grand in scale, blending traditional residence and modern architectural styles. Famous Sichuan landlord manors include the Liu Family Manor in Dayi, Qu Family Manor in Luxian, and Ding Family Manor in Nanchong. The Liu Family Manor in Dayi is Sichuan's largest landlord manor, covering over 70,000 sq m with more than 350 rooms, preserving complete manor architecture and numerous cultural relics—important for studying modern Chinese landlord economy and social life.</p>
-<div class="meta"><span>📍 实例: 大邑刘氏庄园、泸县屈氏庄园、南充丁氏庄园</span><span>🔗 关联: 民居, 近代建筑, 川派建筑, 院落式布局</span></div>
+<div class="meta"><span> 实例: 大邑刘氏庄园、泸县屈氏庄园、南充丁氏庄园</span><span> 关联: 民居, 近代建筑, 川派建筑, 院落式布局</span></div>
 </div>
 <div class="entry">
 <h3>教堂</h3>
 <div class="en-term">Church (Jiaotang)</div>
 <p class="zh-text">教堂是近代西方传教士在四川建立的宗教建筑，融合了西方建筑风格和中国传统建筑技术。四川著名的教堂有成都平安桥天主教堂（拜占庭风格）、彭州领报修院（法式修道院）等。平安桥天主教堂建于1897年，由法国籍骆书雅主教主持修建，历时七年，是由大小经堂、圣母无染原罪堂、主教公署组成的拜占庭风格建筑群，108根楠木廊柱气势恢宏。教堂建筑是四川近代中西文化交流的重要见证。</p>
 <p class="en-text">Churches (jiaotang) are religious buildings built by Western missionaries in modern Sichuan, blending Western architectural styles with traditional Chinese building techniques. Famous Sichuan churches include Chengdu Ping'anqiao Catholic Church (Byzantine style) and Pengzhou Lingbao Seminary (French monastery). Ping'anqiao Catholic Church, built in 1897 under the direction of French Bishop Louis Marsot over seven years, is a Byzantine-style complex consisting of large and small chapels, the Immaculate Conception Church, and the bishop's office, with 108 nanmu colonnades of grand momentum. Church architecture is an important witness to modern Sichuan-Western cultural exchange.</p>
-<div class="meta"><span>📍 实例: 成都平安桥天主教堂、彭州领报修院</span><span>🔗 关联: 近代建筑, 中西合璧, 宗教建筑, 楠木</span></div>
+<div class="meta"><span> 实例: 成都平安桥天主教堂、彭州领报修院</span><span> 关联: 近代建筑, 中西合璧, 宗教建筑, 楠木</span></div>
 </div>
 <div class="entry">
 <h3>盐井建筑</h3>
 <div class="en-term">Salt Well Architecture (Yanjing Jianzhu)</div>
 <p class="zh-text">盐井建筑是四川自贡地区独特的盐业生产建筑，包括天车（井架）、碓房、大车房、灶房、柜房等。自贡是中国井盐的主要产地，有2000多年的盐业历史，燊海井是世界上第一口超千米的深井，凿成于清道光十五年（1835年），深1001.42米。自贡盐井建筑以天车最为壮观，天车由数百根杉木绑扎而成，高达数十米，是中国古代钻井技术的奇迹。自贡西秦会馆、桓侯宫、王爷庙等也与盐业文化密切相关。</p>
 <p class="en-text">Salt well architecture is a unique salt production architecture in Zigong, Sichuan, including derricks (tianche), pounding rooms, winch rooms, boiling rooms, and offices. Zigong is China's main well-salt producer with over 2,000 years of salt history; Shenhai Well, drilled to 1,001.42m in the 15th year of Daoguang of the Qing (1835 CE), was the world's first well exceeding 1,000m. The most spectacular salt well architecture is the derrick, built by binding hundreds of fir logs, reaching tens of meters high—a miracle of ancient Chinese drilling technology. Zigong's Xiqin Guild Hall, Huanhou Palace, and Wangye Temple are also closely related to salt culture.</p>
-<div class="meta"><span>📍 实例: 自贡燊海井、自贡西秦会馆、自贡王爷庙</span><span>🔗 关联: 天车, 会馆, 近代建筑, 自贡</span></div>
+<div class="meta"><span> 实例: 自贡燊海井、自贡西秦会馆、自贡王爷庙</span><span> 关联: 天车, 会馆, 近代建筑, 自贡</span></div>
 </div>
 <div class="entry">
 <h3>天车</h3>
 <div class="en-term">Derrick (Tianche)</div>
 <p class="zh-text">天车是四川自贡盐井的井架，由数百根杉木用竹篾绑扎而成，高达数十米，是中国古代木结构高层建筑的杰出代表。天车用于钻井和汲卤，是自贡盐业生产的核心设备。天车的建造不用一钉一铆，全凭竹篾绑扎，结构稳固，体现了古代工匠的高超技术。自贡曾有天车数百座，被誉为'东方的埃菲尔铁塔'，现存天车已不多，是珍贵的工业遗产。</p>
 <p class="en-text">Derricks (tianche) are the well frames of Zigong salt wells in Sichuan, built by binding hundreds of fir logs with bamboo strips, reaching tens of meters high—outstanding representatives of ancient Chinese wooden high-rise architecture. Used for drilling and brine extraction, derricks were the core equipment of Zigong salt production. Built without a single nail or rivet, relying entirely on bamboo binding with stable structure, derricks reflect ancient craftsmen's superb technology. Zigong once had hundreds of derricks, known as the 'Eiffel Tower of the East'; few survive today, making them precious industrial heritage.</p>
-<div class="meta"><span>📍 实例: 自贡燊海井天车、自贡盐业历史博物馆</span><span>🔗 关联: 盐井建筑, 自贡, 木结构, 工业遗产</span></div>
+<div class="meta"><span> 实例: 自贡燊海井天车、自贡盐业历史博物馆</span><span> 关联: 盐井建筑, 自贡, 木结构, 工业遗产</span></div>
 </div>
 <div class="entry">
 <h3>石牌坊</h3>
 <div class="en-term">Stone Archway (Shipaifang)</div>
 <p class="zh-text">石牌坊是四川地区常见的纪念性和标识性建筑，以石材建造，有三间四柱五楼、三间四柱三楼等多种形制。四川石牌坊数量众多，著名的有隆昌石牌坊群（17座）、雅安九襄石牌坊、芦山飞仙关南界牌坊、眉山双堡牌坊、开江牌坊、重庆何氏百岁坊、朝元寺牌坊等。石牌坊的雕刻精美，内容包括人物故事、花鸟瑞兽、文字匾额等，是研究中国古代石雕艺术和社会制度的重要实物。隆昌石牌坊群是中国最大的石牌坊群，被誉为'中国石牌坊之乡'。</p>
 <p class="en-text">Stone archways (shipaifang) are common commemorative and landmark buildings in Sichuan, built of stone in various forms such as three-bay four-column five-roof and three-bay four-column three-roof. Sichuan has numerous stone archways, with famous examples including the Longchang Stone Archway Cluster (17 arches), Jiuxiang Stone Archway in Ya'an, Feixianguan Nanjie Archway in Lushan, Shuangbao Archways in Meishan, Kaijiang Archways, and the He Family Centenarian Archway and Chaoyuan Temple Archway in Chongqing. With exquisite carvings of figure stories, flowers, birds, auspicious animals, and inscribed plaques, stone archways are important for studying ancient Chinese stone carving art and social institutions. The Longchang cluster is China's largest, known as the 'Hometown of Chinese Stone Archways.'</p>
-<div class="meta"><span>📍 实例: 隆昌石牌坊群、九襄石牌坊、双堡牌坊</span><span>🔗 关联: 石雕, 汉代建筑, 汉阙, 纪念建筑</span></div>
+<div class="meta"><span> 实例: 隆昌石牌坊群、九襄石牌坊、双堡牌坊</span><span> 关联: 石雕, 汉代建筑, 汉阙, 纪念建筑</span></div>
 </div>
 <div class="entry">
 <h3>古城墙</h3>
 <div class="en-term">Ancient City Wall (Guchengqiang)</div>
 <p class="zh-text">古城墙是四川地区古代城市的防御建筑，以砖石砌筑，有城门、城楼、瓮城、马面等设施。四川著名的古城墙有成都城墙（仅存少量）、松潘古城墙、泸州城垣、三台潼川古城墙、昭化古城、白帝城、磐石城、天生城、龙崖城、钓鱼城等。钓鱼城是南宋抗蒙的重要城址，坚守36年，被誉为'上帝折鞭之处'。四川古城墙体现了古代城市防御体系和建筑技术。</p>
 <p class="en-text">Ancient city walls (guchengqiang) are defensive buildings of ancient cities in Sichuan, built of brick and stone with gates, towers, barbicans, and merlons. Famous Sichuan ancient city walls include Chengdu City Wall (only small sections survive), Songpan Ancient City Wall, Luzhou City Wall, Santai Tongchuan Ancient City Wall, Zhaohua Ancient City, Baidicheng, Panshi City, Tiansheng City, Longya City, and Diaoyu City. Diaoyu City, an important Southern Song anti-Mongol fortress that held out for 36 years, is known as 'the place where God's whip was broken.' Sichuan ancient city walls reflect ancient urban defense systems and building technology.</p>
-<div class="meta"><span>📍 实例: 松潘古城墙、昭化古城、钓鱼城、白帝城</span><span>🔗 关联: 古城, 城楼, 防御建筑, 宋代建筑</span></div>
+<div class="meta"><span> 实例: 松潘古城墙、昭化古城、钓鱼城、白帝城</span><span> 关联: 古城, 城楼, 防御建筑, 宋代建筑</span></div>
 </div>
 <div class="entry">
 <h3>古驿道</h3>
 <div class="en-term">Ancient Post Road (Guyidao)</div>
 <p class="zh-text">古驿道是四川地区古代的交通道路，沿线有驿站、驿铺、关隘、桥梁等设施。四川最著名的古驿道是剑门蜀道，从陕西汉中到四川成都，全长约1000公里，是古代川陕交通的要道，始建于西周，有'蜀道难，难于上青天'之誉。剑门蜀道沿线有剑门关、觉苑寺、鹤鸣山道教石窟寺等古迹。四川古驿道是研究古代交通、军事和文化交流的重要实物。</p>
 <p class="en-text">Ancient post roads (guyidao) are ancient transportation roads in Sichuan, with post stations, relay stations, passes, and bridges along the route. Sichuan's most famous ancient post road is the Jianmen Shu Road, from Hanzhong in Shaanxi to Chengdu in Sichuan, about 1,000km long, the ancient Sichuan-Shaanxi transportation artery, founded in the Western Zhou, praised as 'the Shu road is harder than climbing to heaven.' Along the Jianmen Shu Road are historic sites including Jianmen Pass, Jueyuan Temple, and Hemingshan Taoist Cave Temple. Sichuan ancient post roads are important for studying ancient transportation, military, and cultural exchange.</p>
-<div class="meta"><span>📍 实例: 剑门蜀道、剑门关、觉苑寺</span><span>🔗 关联: 古城墙, 关隘, 桥梁, 古代交通</span></div>
+<div class="meta"><span> 实例: 剑门蜀道、剑门关、觉苑寺</span><span> 关联: 古城墙, 关隘, 桥梁, 古代交通</span></div>
 </div>
 <div class="entry">
 <h3>文庙</h3>
 <div class="en-term">Confucian Temple (Wenmiao)</div>
 <p class="zh-text">文庙是祭祀孔子的礼制建筑，也是古代官学的所在地。四川文庙数量众多，著名的有德阳文庙、犍为文庙、富顺文庙、资中文庙、名山文庙、西充文庙等。四川文庙多为院落式布局，有万仞宫墙、泮池、棂星门、大成门、大成殿、崇圣祠等建筑。德阳文庙是四川保存最完整的文庙，始建于南宋，现存建筑为清代重建，占地2.08万平方米，有'德阳文庙甲川西'之誉。</p>
 <p class="en-text">Confucian temples (wenmiao) are ritual buildings for worshipping Confucius and the sites of ancient official schools. Sichuan has numerous Confucian temples, with famous examples including Deyang Confucian Temple, Qianwei Confucian Temple, Fushun Confucian Temple, Zizhong Confucian Temple, Mingshan Confucian Temple, and Xichong Confucian Temple. Mostly in courtyard layouts with Wanren Palace Wall, Pan Pond, Lingxing Gate, Dacheng Gate, Dacheng Hall, and Chongsheng Shrine. Deyang Confucian Temple is Sichuan's best-preserved, founded in the Southern Song with existing buildings rebuilt in the Qing, covering 20,800 sq m, known as 'Deyang Confucian Temple is the best in western Sichuan.'</p>
-<div class="meta"><span>📍 实例: 德阳文庙、犍为文庙、富顺文庙、资中文庙</span><span>🔗 关联: 礼制建筑, 院落式布局, 官式建筑, 清代建筑</span></div>
+<div class="meta"><span> 实例: 德阳文庙、犍为文庙、富顺文庙、资中文庙</span><span> 关联: 礼制建筑, 院落式布局, 官式建筑, 清代建筑</span></div>
 </div>
 <div class="entry">
 <h3>寺庙</h3>
 <div class="en-term">Buddhist/Taoist Temple (Simiao)</div>
 <p class="zh-text">四川寺庙建筑融合了中原传统和地方特色，既有平武报恩寺这样的明代官式木构珍品，也有峨眉山、青城山等名山的宗教建筑群。四川寺庙多为院落式布局，有山门、天王殿、大雄宝殿、法堂等，屋顶多为悬山顶或歇山顶，穿斗式结构。四川著名寺庙有文殊院、宝光寺、昭觉寺、峨眉山古建筑群、青城山古建筑群、平武报恩寺、重庆华岩寺、双桂堂等。平武报恩寺始建于明正统五年（1440年），是中国保存最完整的明代宫殿式佛教建筑群。</p>
 <p class="en-text">Sichuan temple architecture blends Central Plains traditions with local characteristics, ranging from Ming official wooden treasures like Pingwu Bao'en Temple to religious building complexes on famous mountains such as Emei and Qingcheng. Mostly in courtyard layouts with gates, Heavenly Kings Halls, Mahavira Halls, and Dharma Halls, with overhanging gable or hip-and-gable roofs and column-and-tie structure. Famous Sichuan temples include Wenshu Monastery, Baoguang Temple, Zhaojue Temple, the Emei Mountain Ancient Building Complex, the Qingcheng Mountain Ancient Building Complex, Pingwu Bao'en Temple, Chongqing Huayan Temple, and Shuanggui Hall. Pingwu Bao'en Temple, founded in the fifth year of Zhengtong of the Ming (1440 CE), is China's best-preserved Ming palace-style Buddhist building complex.</p>
-<div class="meta"><span>📍 实例: 平武报恩寺、文殊院、宝光寺、峨眉山古建筑群</span><span>🔗 关联: 川派建筑, 穿斗式, 悬山顶, 院落式布局</span></div>
+<div class="meta"><span> 实例: 平武报恩寺、文殊院、宝光寺、峨眉山古建筑群</span><span> 关联: 川派建筑, 穿斗式, 悬山顶, 院落式布局</span></div>
 </div>
 <div class="entry">
 <h3>祠堂</h3>
 <div class="en-term">Ancestral Hall (Citang)</div>
 <p class="zh-text">祠堂是四川地区祭祀祖先或先贤的建筑，有宗祠、专祠、会馆祠堂等多种类型。四川著名的祠堂有成都武侯祠（君臣合庙）、望丛祠、姜孝祠、眉山三苏祠等。武侯祠是中国唯一的君臣合庙，始建于5世纪，清康熙十一年（1672年）重建，有大门、二门、刘备殿、过厅、诸葛亮殿五重建筑，占地3.7万平方米。四川祠堂建筑融合了礼制建筑和民居风格，是研究中国宗法制度和建筑文化的重要实物。</p>
 <p class="en-text">Ancestral halls (citang) are buildings for worshipping ancestors or sages in Sichuan, with various types including clan halls, dedicated halls, and guild hall shrines. Famous Sichuan ancestral halls include Chengdu Wuhou Shrine (combined ruler-minister temple), Wangcong Shrine, Jiangxiao Shrine, and Meishan Sansu Shrine. Wuhou Shrine is China's only combined ruler-minister temple, founded in the 5th century and rebuilt in the 11th year of Kangxi of the Qing (1672 CE), with five layers of buildings including the gate, second gate, Liu Bei Hall, passage hall, and Zhuge Liang Hall, covering 37,000 sq m. Sichuan ancestral hall architecture blends ritual architecture and residence styles, important for studying Chinese patriarchal systems and architectural culture.</p>
-<div class="meta"><span>📍 实例: 武侯祠、望丛祠、三苏祠、姜孝祠</span><span>🔗 关联: 礼制建筑, 院落式布局, 川派建筑, 园林</span></div>
+<div class="meta"><span> 实例: 武侯祠、望丛祠、三苏祠、姜孝祠</span><span> 关联: 礼制建筑, 院落式布局, 川派建筑, 园林</span></div>
 </div>
 <div class="entry">
 <h3>园林</h3>
 <div class="en-term">Garden (Yuanlin)</div>
 <p class="zh-text">四川园林是中国古典园林的重要流派，以杜甫草堂、望江楼公园、罨画池、新繁东湖等为代表。四川园林融合了江南园林的秀丽和北方园林的雄浑，注重自然山水和人文景观的结合。杜甫草堂是后人为纪念诗人杜甫而修建的园林，有大廨、诗史堂、柴门、工部祠等建筑，小桥流水、梅园竹林交错。望江楼公园是全国最大的竹类公园，有'锦城竹园'之称。四川园林体现了巴蜀文化的审美情趣。</p>
 <p class="en-text">Sichuan gardens are an important school of Chinese classical gardens, represented by Du Fu Thatched Cottage, Wangjiang Tower Park, Yanhua Pond, and Xinfan East Lake. Blending the elegance of Jiangnan gardens with the grandeur of northern gardens, Sichuan gardens emphasize the combination of natural landscapes and cultural scenery. Du Fu Thatched Cottage is a garden built by later generations to commemorate the poet Du Fu, with buildings including the Great Hall, Poetry History Hall, Firewood Gate, and Ministry of Works Hall, with small bridges, flowing water, plum gardens, and bamboo groves interwoven. Wangjiang Tower Park is China's largest bamboo park, known as the 'Brocade City Bamboo Garden.' Sichuan gardens reflect the aesthetic taste of Ba-Shu culture.</p>
-<div class="meta"><span>📍 实例: 杜甫草堂、望江楼公园、罨画池</span><span>🔗 关联: 名人故居, 川派建筑, 竹文化, 诗歌文化</span></div>
+<div class="meta"><span> 实例: 杜甫草堂、望江楼公园、罨画池</span><span> 关联: 名人故居, 川派建筑, 竹文化, 诗歌文化</span></div>
 </div>
 <div class="entry">
 <h3>名人故居</h3>
 <div class="en-term">Famous Person's Former Residence (Mingren Guju)</div>
 <p class="zh-text">四川名人故居是纪念历史名人的建筑，包括杜甫草堂、李白故居、三苏祠（苏轼）、郭沫若故居、杨升庵祠等。四川名人故居多为园林式布局，融合了纪念性和居住性建筑的特点。杜甫草堂是唐代诗人杜甫流寓成都时的故居，唐乾元二年（759年）杜甫因安史之乱来到成都，在浣花溪修建茅屋，寓居四年写下247首诗。现存建筑为清嘉庆十六年（1811年）重建。名人故居是研究中国历史文化和名人生活的重要实物。</p>
 <p class="en-text">Famous person's former residences (mingren guju) in Sichuan are buildings commemorating historical figures, including Du Fu Thatched Cottage, Li Bai's Former Residence, Sansu Shrine (Su Shi), Guo Moruo's Former Residence, and Yang Shengan Shrine. Mostly in garden-style layouts, blending commemorative and residential architectural features. Du Fu Thatched Cottage was the residence of Tang poet Du Fu during his exile in Chengdu; in the second year of Qianyuan of the Tang (759 CE), Du Fu came to Chengdu due to the An Lushan Rebellion, built a thatched cottage by Huanhua Stream, and wrote 247 poems during his four-year stay. The existing buildings were rebuilt in the 16th year of Jiaqing of the Qing (1811 CE). Former residences are important for studying Chinese history, culture, and famous figures' lives.</p>
-<div class="meta"><span>📍 实例: 杜甫草堂、李白故居、三苏祠、郭沫若故居</span><span>🔗 关联: 园林, 祠堂, 川派建筑, 诗歌文化</span></div>
+<div class="meta"><span> 实例: 杜甫草堂、李白故居、三苏祠、郭沫若故居</span><span> 关联: 园林, 祠堂, 川派建筑, 诗歌文化</span></div>
 </div>
 </div>
 <div class="section">
@@ -224,70 +268,70 @@ body{font-family:Georgia,"Times New Roman","Microsoft YaHei",serif;background:#f
 <div class="en-term">Wood Carving (Mudiao)</div>
 <p class="zh-text">四川木雕是中国木雕艺术的重要流派，以成都、自贡、绵阳等地的木雕最为著名。四川木雕多用于建筑的梁枋、雀替、门窗、神龛、戏楼等部位，技法包括浮雕、透雕、圆雕、镂雕等，题材丰富，工艺精湛。四川木雕融合了湖广、江西等移民原籍的雕刻风格和本地传统，形成了独特的地方特色。自贡西秦会馆的木雕是四川木雕的代表作，内容包括人物故事、花鸟瑞兽等，精美绝伦。</p>
 <p class="en-text">Sichuan wood carving is an important school of Chinese wood carving art, with the most famous examples in Chengdu, Zigong, and Mianyang. Mostly used on beams, spandrels, doors, windows, shrines, and theater stages in buildings, techniques include relief, openwork, round, and hollow carving with rich subjects and exquisite craftsmanship. Sichuan wood carving blends carving styles from immigrant hometowns such as Huguang and Jiangxi with local traditions to form unique local characteristics. The wood carvings at Zigong's Xiqin Guild Hall are representative works of Sichuan wood carving, with content including figure stories, flowers, birds, and auspicious animals of exquisite beauty.</p>
-<div class="meta"><span>📍 实例: 自贡西秦会馆、洛带会馆、重庆湖广会馆</span><span>🔗 关联: 戏楼, 会馆, 雀替, 川派建筑</span></div>
+<div class="meta"><span> 实例: 自贡西秦会馆、洛带会馆、重庆湖广会馆</span><span> 关联: 戏楼, 会馆, 雀替, 川派建筑</span></div>
 </div>
 <div class="entry">
 <h3>石雕</h3>
 <div class="en-term">Stone Carving (Shidiao)</div>
 <p class="zh-text">四川石雕历史悠久，以汉阙、摩崖造像、石牌坊、石狮、柱础等最为著名。四川石雕始于汉代，盛于唐宋，技艺精湛，题材丰富。汉阙是四川石雕的早期代表，高颐阙、樊敏阙等的雕刻精美；摩崖造像是四川石雕的高峰，大足石刻被誉为'石窟艺术的最后一座丰碑'；石牌坊是四川明清石雕的代表，隆昌石牌坊群雕刻精美。四川石雕是研究中国古代雕刻艺术的重要实物。</p>
 <p class="en-text">Sichuan stone carving has a long history, with the most famous examples being Han que, cliff carvings, stone archways, stone lions, and column bases. Beginning in the Han and flourishing in the Tang-Song, Sichuan stone carving has exquisite technique and rich subjects. Han que are early representatives, with exquisite carvings at Gao Yi Que and Fan Min Que; cliff carvings represent the peak, with Dazu stone carvings known as 'the last monument of cave art'; stone archways represent Ming-Qing stone carving, with the Longchang cluster's exquisite carvings. Sichuan stone carving is important for studying ancient Chinese carving art.</p>
-<div class="meta"><span>📍 实例: 大足石刻、高颐阙、隆昌石牌坊</span><span>🔗 关联: 汉阙, 摩崖造像, 石牌坊, 石窟寺</span></div>
+<div class="meta"><span> 实例: 大足石刻、高颐阙、隆昌石牌坊</span><span> 关联: 汉阙, 摩崖造像, 石牌坊, 石窟寺</span></div>
 </div>
 <div class="entry">
 <h3>灰塑</h3>
 <div class="en-term">Gray Plaster Sculpture (Huisu)</div>
 <p class="zh-text">灰塑是四川传统建筑中常见的装饰工艺，以石灰为主要材料，掺入红糖、糯米汁等，在屋脊、山花、门楣等部位塑造各种图案。四川灰塑题材丰富，包括人物故事、花鸟瑞兽、博古图案等，色彩鲜艳，工艺精湛。四川会馆、寺庙、祠堂的屋脊和山墙常有精美的灰塑装饰，望江楼'每层的屋脊、雀替都饰有精美的禽兽泥塑和人物雕刻'。灰塑是川派建筑装饰的重要组成部分。</p>
 <p class="en-text">Gray plaster sculpture (huisu) is a common decorative craft in traditional Sichuan architecture, using lime as the main material mixed with brown sugar and glutinous rice juice to mold various patterns on ridges, gables, and lintels. With rich subjects including figure stories, flowers, birds, auspicious animals, and antique patterns in bright colors and exquisite craftsmanship. The ridges and gables of Sichuan guild halls, temples, and ancestral halls often have exquisite gray plaster decorations; Wangjiang Tower 'each layer's ridge and spandrel are decorated with exquisite animal clay sculptures and figure carvings.' Gray plaster sculpture is an important component of Sichuan-style architectural decoration.</p>
-<div class="meta"><span>📍 实例: 望江楼、洛带会馆、四川各地寺庙</span><span>🔗 关联: 木雕, 石雕, 川派建筑, 屋脊</span></div>
+<div class="meta"><span> 实例: 望江楼、洛带会馆、四川各地寺庙</span><span> 关联: 木雕, 石雕, 川派建筑, 屋脊</span></div>
 </div>
 <div class="entry">
 <h3>彩画</h3>
 <div class="en-term">Painted Decoration (Caihua)</div>
 <p class="zh-text">彩画是四川古代建筑木构件上的绘画装饰，包括官式彩画和民间彩画。四川官式彩画以平武报恩寺为代表，保留了明代官式彩画的特征，色彩绚丽，工艺精湛。民间彩画则更为自由，多绘于会馆、祠堂、民居的梁枋、天花板等部位，题材包括人物故事、花鸟山水、吉祥图案等。四川彩画融合了中原和地方风格，是研究中国古代建筑装饰的重要实物。</p>
 <p class="en-text">Painted decoration (caihua) is painted decoration on wooden components of ancient Sichuan architecture, including official-style and folk paintings. Sichuan official-style painted decoration is represented by Pingwu Bao'en Temple, preserving Ming official features with brilliant colors and exquisite craftsmanship. Folk painted decoration is freer, mostly painted on beams and ceilings of guild halls, ancestral halls, and residences, with subjects including figure stories, flowers, birds, landscapes, and auspicious patterns. Blending Central Plains and local styles, Sichuan painted decoration is important for studying ancient Chinese architectural decoration.</p>
-<div class="meta"><span>📍 实例: 平武报恩寺、自贡西秦会馆、洛带会馆</span><span>🔗 关联: 官式建筑, 木雕, 川派建筑, 明代建筑</span></div>
+<div class="meta"><span> 实例: 平武报恩寺、自贡西秦会馆、洛带会馆</span><span> 关联: 官式建筑, 木雕, 川派建筑, 明代建筑</span></div>
 </div>
 <div class="entry">
 <h3>琉璃瓦</h3>
 <div class="en-term">Glazed Tile (Liuliwa)</div>
 <p class="zh-text">琉璃瓦是表面施釉的陶瓦，四川地区的琉璃瓦以官式建筑和重要寺庙使用为主，颜色有黄、绿、蓝等。平武报恩寺、成都武侯祠、峨眉山金顶等使用琉璃瓦，体现了建筑的等级。四川民间建筑则多使用小青瓦，与官式建筑的琉璃瓦形成对比。琉璃瓦是中国古代建筑等级制度的重要标志。</p>
 <p class="en-text">Glazed tiles are ceramic tiles with a glazed surface, mainly used in official buildings and important temples in Sichuan, in colors including yellow, green, and blue. Pingwu Bao'en Temple, Chengdu Wuhou Shrine, and the Golden Summit of Emei Mountain use glazed tiles, reflecting the building's grade. Sichuan folk buildings mostly use small grey tiles, contrasting with the glazed tiles of official buildings. Glazed tiles are an important symbol of the hierarchical system of ancient Chinese architecture.</p>
-<div class="meta"><span>📍 实例: 平武报恩寺、武侯祠、峨眉山金顶</span><span>🔗 关联: 官式建筑, 小青瓦, 川派建筑, 等级制度</span></div>
+<div class="meta"><span> 实例: 平武报恩寺、武侯祠、峨眉山金顶</span><span> 关联: 官式建筑, 小青瓦, 川派建筑, 等级制度</span></div>
 </div>
 <div class="entry">
 <h3>雀替</h3>
 <div class="en-term">Spandrel (Queti)</div>
 <p class="zh-text">雀替是中国古代建筑中柱子与梁枋交接处的装饰构件，具有承重和装饰双重功能。四川建筑的雀替多为木雕，题材丰富，包括花卉、卷草、人物、瑞兽等，工艺精湛。望江楼'每层的屋脊、雀替都饰有精美的禽兽泥塑和人物雕刻'。四川雀替融合了湖广、江西等移民风格和本地传统，是川派建筑装饰的重要组成部分。</p>
 <p class="en-text">Spandrels (queti) are decorative components at the junction of columns and beams in ancient Chinese architecture, serving both load-bearing and decorative functions. Sichuan building spandrels are mostly wood-carved with rich subjects including flowers, scrolling vines, figures, and auspicious animals in exquisite craftsmanship. Wangjiang Tower 'each layer's ridge and spandrel are decorated with exquisite animal clay sculptures and figure carvings.' Blending immigrant styles from Huguang, Jiangxi and local traditions, Sichuan spandrels are an important component of Sichuan-style architectural decoration.</p>
-<div class="meta"><span>📍 实例: 望江楼、自贡西秦会馆、洛带会馆</span><span>🔗 关联: 木雕, 穿斗式, 川派建筑, 梁枋</span></div>
+<div class="meta"><span> 实例: 望江楼、自贡西秦会馆、洛带会馆</span><span> 关联: 木雕, 穿斗式, 川派建筑, 梁枋</span></div>
 </div>
 <div class="entry">
 <h3>屋脊装饰</h3>
 <div class="en-term">Ridge Decoration (Wuji Zhuangshi)</div>
 <p class="zh-text">屋脊装饰是四川传统建筑屋顶正脊和垂脊上的装饰，包括灰塑、剪粘、砖雕等工艺，题材有龙凤、花鸟、人物故事、瑞兽等。四川建筑的屋脊装饰丰富多样，官式建筑多用琉璃脊兽，民间建筑多用灰塑和砖雕。望江楼'屋面盖以绿色琉璃瓦，金光耀目。翘角飞檐，雕梁画栋'，屋脊装饰是川派建筑的显著特征之一。</p>
 <p class="en-text">Ridge decorations are decorations on the main and vertical ridges of traditional Sichuan building roofs, including gray plaster, cut-and-paste porcelain, and brick carving techniques, with subjects including dragons, phoenixes, flowers, birds, figure stories, and auspicious animals. Diverse and rich, official buildings mostly use glazed ridge beasts, while folk buildings use gray plaster and brick carving. Wangjiang Tower 'roof covered with green glazed tiles, dazzling gold. Flying eaves, painted beams and carved rafters'—ridge decoration is one of the distinctive features of Sichuan-style architecture.</p>
-<div class="meta"><span>📍 实例: 望江楼、四川各地会馆、寺庙</span><span>🔗 关联: 灰塑, 琉璃瓦, 川派建筑, 悬山顶</span></div>
+<div class="meta"><span> 实例: 望江楼、四川各地会馆、寺庙</span><span> 关联: 灰塑, 琉璃瓦, 川派建筑, 悬山顶</span></div>
 </div>
 <div class="entry">
 <h3>砖雕</h3>
 <div class="en-term">Brick Carving (Zhuandiao)</div>
 <p class="zh-text">砖雕是在青砖上雕刻图案的装饰工艺，四川砖雕多用于门楣、窗楣、照壁、山墙等部位。四川砖雕受湖广、江西移民文化影响，题材包括人物故事、花鸟虫鱼、博古图案等，工艺精细。四川著名的砖雕有自贡西秦会馆、洛带会馆、重庆湖广会馆等的砖雕装饰。砖雕是川派建筑装饰的重要组成部分。</p>
 <p class="en-text">Brick carving is a decorative technique of carving patterns on grey bricks, mostly used on door and window lintels, screen walls, and gables in Sichuan. Influenced by Huguang and Jiangxi immigrant culture, subjects include figure stories, flowers, birds, insects, fish, and antique patterns with fine craftsmanship. Famous Sichuan brick carvings include those at Zigong Xiqin Guild Hall, Luodai Guild Hall, and Chongqing Huguang Guild Hall. Brick carving is an important component of Sichuan-style architectural decoration.</p>
-<div class="meta"><span>📍 实例: 自贡西秦会馆、洛带会馆、重庆湖广会馆</span><span>🔗 关联: 木雕, 石雕, 灰塑, 会馆</span></div>
+<div class="meta"><span> 实例: 自贡西秦会馆、洛带会馆、重庆湖广会馆</span><span> 关联: 木雕, 石雕, 灰塑, 会馆</span></div>
 </div>
 <div class="entry">
 <h3>照壁</h3>
 <div class="en-term">Screen Wall (Zhaobi)</div>
 <p class="zh-text">照壁是四川传统建筑中位于大门内或外的遮挡墙体，具有遮挡视线、装饰和风水的功能。四川照壁形式多样，有一字照壁、八字照壁等，多以砖雕、石雕、灰塑装饰。武侯祠入口处的'汉昭烈庙'照壁是四川照壁的代表。照壁是川派建筑院落布局的重要组成部分。</p>
 <p class="en-text">Screen walls (zhaobi) are blocking walls inside or outside the main gate in traditional Sichuan architecture, with functions of blocking views, decoration, and fengshui. Sichuan screen walls have diverse forms including straight and eight-shaped, mostly decorated with brick carving, stone carving, and gray plaster sculpture. The 'Han Zhaolie Temple' screen wall at the entrance of Wuhou Shrine is a representative Sichuan screen wall. Screen walls are an important component of Sichuan-style courtyard layouts.</p>
-<div class="meta"><span>📍 实例: 武侯祠照壁、四川各地会馆、祠堂</span><span>🔗 关联: 砖雕, 石雕, 灰塑, 院落式布局</span></div>
+<div class="meta"><span> 实例: 武侯祠照壁、四川各地会馆、祠堂</span><span> 关联: 砖雕, 石雕, 灰塑, 院落式布局</span></div>
 </div>
 <div class="entry">
 <h3>门楣装饰</h3>
 <div class="en-term">Lintel Decoration (Menmei Zhuangshi)</div>
 <p class="zh-text">门楣装饰是四川传统建筑大门上方的装饰，包括匾额、门簪、雀替、花板等。四川建筑的门楣装饰精美，官式建筑和会馆、祠堂的门楣尤为华丽，多有木雕、砖雕、灰塑等装饰。武侯祠大门上挂着'汉昭烈庙'的匾额，两侧有'明良千古'和'业绍高光'等对联。门楣装饰是建筑等级和主人身份的重要标志。</p>
 <p class="en-text">Lintel decorations are decorations above the main gate of traditional Sichuan architecture, including inscribed plaques, door pins, spandrels, and decorative panels. Exquisitely decorated, the lintels of official buildings, guild halls, and ancestral halls are particularly ornate, often with wood carving, brick carving, and gray plaster sculpture. The gate of Wuhou Shrine bears the plaque 'Han Zhaolie Temple' with couplets 'Ming Liang Qian Gu' and 'Ye Shao Gao Guang' on both sides. Lintel decoration is an important marker of building grade and owner status.</p>
-<div class="meta"><span>📍 实例: 武侯祠、自贡西秦会馆、洛带会馆</span><span>🔗 关联: 木雕, 砖雕, 雀替, 匾额</span></div>
+<div class="meta"><span> 实例: 武侯祠、自贡西秦会馆、洛带会馆</span><span> 关联: 木雕, 砖雕, 雀替, 匾额</span></div>
 </div>
 </div>
 <div class="section">
@@ -297,35 +341,35 @@ body{font-family:Georgia,"Times New Roman","Microsoft YaHei",serif;background:#f
 <div class="en-term">Small Grey Tile (Xiaoqingwa)</div>
 <p class="zh-text">小青瓦是四川民间建筑最常用的屋面材料，以黏土烧制而成，呈青灰色，尺寸较小。小青瓦铺设的屋面坡度较缓，重量轻，适合四川多雨的气候。与官式建筑的琉璃瓦不同，小青瓦朴素实用，是川派民居最显著的材料特征。小青瓦与穿斗式木结构、悬山顶配合，形成了四川传统建筑的典型面貌。</p>
 <p class="en-text">Small grey tiles are the most common roofing material in Sichuan folk buildings, fired from clay in blue-grey color with small dimensions. Roofs paved with small grey tiles have gentle slopes and light weight, suited to Sichuan's rainy climate. Unlike the glazed tiles of official buildings, small grey tiles are simple and practical, the most distinctive material feature of Sichuan-style residences. Combined with column-and-tie wooden structure and overhanging gable roofs, small grey tiles form the typical face of traditional Sichuan architecture.</p>
-<div class="meta"><span>📍 实例: 四川各地民居、洛带会馆、平武报恩寺</span><span>🔗 关联: 川派建筑, 穿斗式, 悬山顶, 琉璃瓦</span></div>
+<div class="meta"><span> 实例: 四川各地民居、洛带会馆、平武报恩寺</span><span> 关联: 川派建筑, 穿斗式, 悬山顶, 琉璃瓦</span></div>
 </div>
 <div class="entry">
 <h3>青砖</h3>
 <div class="en-term">Grey Brick (Qingzhuan)</div>
 <p class="zh-text">青砖是四川传统建筑最常用的墙体材料，以黏土烧制而成，呈青灰色，质地坚硬。四川青砖的烧制技术在明清时期达到高峰，成都、自贡、宜宾等地的青砖质量优良。青砖墙体具有良好的保温隔热性能，与小青瓦、木构架配合，形成了川派建筑的典型材料组合。四川会馆、祠堂、地主庄园等大型建筑多使用青砖砌筑。</p>
 <p class="en-text">Grey bricks are the most common wall material in traditional Sichuan architecture, fired from clay in blue-grey color with hard texture. Sichuan grey brick firing technology reached its peak in the Ming-Qing, with high-quality bricks from Chengdu, Zigong, and Yibin. Grey brick walls have excellent thermal insulation, and combined with small grey tiles and wooden frames, form the typical material combination of Sichuan-style architecture. Large buildings such as Sichuan guild halls, ancestral halls, and landlord manors mostly use grey brick masonry.</p>
-<div class="meta"><span>📍 实例: 四川各地民居、会馆、地主庄园</span><span>🔗 关联: 小青瓦, 砖雕, 川派建筑, 穿斗式</span></div>
+<div class="meta"><span> 实例: 四川各地民居、会馆、地主庄园</span><span> 关联: 小青瓦, 砖雕, 川派建筑, 穿斗式</span></div>
 </div>
 <div class="entry">
 <h3>木材</h3>
 <div class="en-term">Timber (Mucai)</div>
 <p class="zh-text">四川森林资源丰富，木材是传统建筑中最重要的材料。四川传统建筑以穿斗式木结构为主，大量使用杉木、柏木、楠木、樟木等。平安桥天主教堂有'108根楠木廊柱气势恢宏'，望江楼为木结构建筑。四川西部藏羌地区的碉楼和官寨也大量使用木材做梁、柱、楼板。木材是川派建筑的核心材料。</p>
 <p class="en-text">Sichuan is rich in forest resources, and timber is the most important material in traditional architecture. Traditional Sichuan architecture is mainly column-and-tie wooden structure, extensively using fir, cypress, nanmu, and camphor. Ping'anqiao Catholic Church has '108 nanmu colonnades of grand momentum,' and Wangjiang Tower is a wooden structure building. Watchtowers and fortresses in western Sichuan's Tibetan-Qiang areas also extensively use timber for beams, columns, and floors. Timber is the core material of Sichuan-style architecture.</p>
-<div class="meta"><span>📍 实例: 平安桥天主教堂、望江楼、四川各地民居</span><span>🔗 关联: 穿斗式, 楠木, 川派建筑, 碉楼</span></div>
+<div class="meta"><span> 实例: 平安桥天主教堂、望江楼、四川各地民居</span><span> 关联: 穿斗式, 楠木, 川派建筑, 碉楼</span></div>
 </div>
 <div class="entry">
 <h3>石材</h3>
 <div class="en-term">Stone (Shicai)</div>
 <p class="zh-text">四川石材资源丰富，花岗岩、砂岩、石灰岩等广泛用于建筑。四川西部的碉楼以片石砌筑，汉阙以石材建造，摩崖造像在崖壁上雕刻，石牌坊以石材建造。四川著名的石构建筑有高颐阙、樊敏阙、隆昌石牌坊、丹巴碉楼等。石材是四川西部和丘陵地区建筑的重要材料，体现了古代工匠对当地材料的巧妙利用。</p>
 <p class="en-text">Sichuan is rich in stone resources, with granite, sandstone, and limestone widely used in construction. Watchtowers in western Sichuan are built of flagstones, Han que of stone, cliff carvings carved on cliff faces, and stone archways of stone. Famous Sichuan stone structures include Gao Yi Que, Fan Min Que, Longchang Stone Archways, and Danba Watchtowers. Stone is an important building material in western Sichuan and hilly areas, reflecting ancient craftsmen's clever use of local materials.</p>
-<div class="meta"><span>📍 实例: 高颐阙、丹巴碉楼、隆昌石牌坊</span><span>🔗 关联: 汉阙, 碉楼, 石牌坊, 摩崖造像</span></div>
+<div class="meta"><span> 实例: 高颐阙、丹巴碉楼、隆昌石牌坊</span><span> 关联: 汉阙, 碉楼, 石牌坊, 摩崖造像</span></div>
 </div>
 <div class="entry">
 <h3>楠木</h3>
 <div class="en-term">Nanmu (Phoebe) (Nanmu)</div>
 <p class="zh-text">楠木是四川地区珍贵的建筑木材，质地坚硬，纹理美观，有香气，耐腐蚀。四川是楠木的主要产地，平安桥天主教堂使用了108根楠木廊柱，平武报恩寺也大量使用楠木。楠木在古代是皇家和重要建筑的专用木材，四川楠木通过长江水道运往全国各地，是明清皇家建筑的重要材料来源。楠木是四川建筑材料中的珍品。</p>
 <p class="en-text">Nanmu (Phoebe) is a precious building timber in Sichuan, hard in texture, beautiful in grain, fragrant, and corrosion-resistant. Sichuan is a main producer of nanmu; Ping'anqiao Catholic Church uses 108 nanmu colonnades, and Pingwu Bao'en Temple also extensively uses nanmu. In ancient times, nanmu was reserved for imperial and important buildings; Sichuan nanmu was transported along the Yangtze to all parts of the country, an important material source for Ming-Qing imperial architecture. Nanmu is a treasure among Sichuan building materials.</p>
-<div class="meta"><span>📍 实例: 平安桥天主教堂、平武报恩寺</span><span>🔗 关联: 木材, 穿斗式, 官式建筑, 教堂</span></div>
+<div class="meta"><span> 实例: 平安桥天主教堂、平武报恩寺</span><span> 关联: 木材, 穿斗式, 官式建筑, 教堂</span></div>
 </div>
 </div>
 <div class="section">
@@ -335,74 +379,95 @@ body{font-family:Georgia,"Times New Roman","Microsoft YaHei",serif;background:#f
 <div class="en-term">Ba-Shu Culture (Bashu Wenhua)</div>
 <p class="zh-text">巴蜀文化是四川地区古代巴国和蜀国创造的地域文化，是中国地域文化的重要组成部分。巴蜀文化以浪漫主义为特色，在建筑上体现为灵巧的布局、精美的装饰、对自然山水的融入。四川园林、民居、会馆、寺庙等都体现了巴蜀文化的审美情趣。巴蜀文化与中原文化、楚文化、秦文化等有密切交流，形成了独特的文化面貌。</p>
 <p class="en-text">Ba-Shu culture is the regional culture created by the ancient Ba and Shu states in Sichuan, an important component of Chinese regional culture. Characterized by romanticism, in architecture it manifests as flexible layouts, exquisite decoration, and integration with natural landscapes. Sichuan gardens, residences, guild halls, and temples all reflect the aesthetic taste of Ba-Shu culture. Ba-Shu culture had close exchanges with Central Plains, Chu, and Qin cultures, forming a unique cultural face.</p>
-<div class="meta"><span>📍 实例: 四川各地古建筑、园林、会馆</span><span>🔗 关联: 川派建筑, 园林, 移民文化, 道教文化</span></div>
+<div class="meta"><span> 实例: 四川各地古建筑、园林、会馆</span><span> 关联: 川派建筑, 园林, 移民文化, 道教文化</span></div>
 </div>
 <div class="entry">
 <h3>移民文化</h3>
 <div class="en-term">Immigration Culture (Yimin Wenhua)</div>
 <p class="zh-text">移民文化是四川近现代文化的重要特征，明末清初的'湖广填四川'大规模移民运动深刻改变了四川的人口结构和文化面貌。来自湖广、江西、广东、福建、陕西等地的移民带来了各自的建筑文化和工艺，与四川本地建筑融合，形成了川派建筑的独特面貌。四川会馆是移民文化的直接产物，洛带会馆（广东、江西、湖广、川北四馆）、重庆湖广会馆、自贡西秦会馆（陕西盐商）等都是移民文化的建筑见证。</p>
 <p class="en-text">Immigration culture is an important feature of modern Sichuan culture; the large-scale 'Huguang fills Sichuan' immigration movement in the late Ming-early Qing profoundly changed Sichuan's population structure and cultural face. Immigrants from Huguang, Jiangxi, Guangdong, Fujian, and Shaanxi brought their own architectural cultures and crafts, merging with local Sichuan architecture to form the unique face of Sichuan-style architecture. Sichuan guild halls are a direct product of immigration culture; Luodai Guild Halls (Guangdong, Jiangxi, Huguang, and North Sichuan), Chongqing Huguang Guild Hall, and Zigong Xiqin Guild Hall (Shaanxi salt merchants) are all architectural witnesses of immigration culture.</p>
-<div class="meta"><span>📍 实例: 洛带会馆、重庆湖广会馆、自贡西秦会馆</span><span>🔗 关联: 会馆, 川派建筑, 木雕, 砖雕</span></div>
+<div class="meta"><span> 实例: 洛带会馆、重庆湖广会馆、自贡西秦会馆</span><span> 关联: 会馆, 川派建筑, 木雕, 砖雕</span></div>
 </div>
 <div class="entry">
 <h3>道教文化</h3>
 <div class="en-term">Taoist Culture (Daojiao Wenhua)</div>
 <p class="zh-text">道教是中国本土宗教，四川是道教的重要发源地，鹤鸣山是道教发源地之一，青城山是道教名山，有'青城天下幽'之誉。四川道教建筑以青城山古建筑群为代表，包括建福宫、天师洞、朝阳洞、上清宫、真武宫等，依山就势，与自然融为一体。四川道教建筑融合了官式和民间风格，是研究中国道教文化和建筑的重要实物。</p>
 <p class="en-text">Taoism is China's native religion; Sichuan is an important birthplace of Taoism, with Heming Mountain as one of the birthplaces and Qingcheng Mountain as a famous Taoist mountain, known as 'Qingcheng is the most secluded under heaven.' Sichuan Taoist architecture is represented by the Qingcheng Mountain Ancient Building Complex, including Jianfu Palace, Tianshi Cave, Chaoyang Cave, Shangqing Palace, and Zhenwu Palace, built according to terrain and integrated with nature. Blending official and folk styles, Sichuan Taoist architecture is important for studying Chinese Taoist culture and architecture.</p>
-<div class="meta"><span>📍 实例: 青城山古建筑群、鹤鸣山道观</span><span>🔗 关联: 寺庙, 川派建筑, 世界文化遗产, 园林</span></div>
+<div class="meta"><span> 实例: 青城山古建筑群、鹤鸣山道观</span><span> 关联: 寺庙, 川派建筑, 世界文化遗产, 园林</span></div>
 </div>
 <div class="entry">
 <h3>藏羌文化</h3>
 <div class="en-term">Tibetan-Qiang Culture (Zangqiang Wenhua)</div>
 <p class="zh-text">藏羌文化是四川西部甘孜、阿坝地区的主要文化，以藏传佛教、碉楼、羌寨、土司制度为特色。藏族建筑以寺院、经堂、佛塔为代表，融合了西藏和本地风格；羌族建筑以碉楼、石砌房屋为代表，有2000多年历史。丹巴古碉群、桃坪羌寨、德格印经院、卓克基土司官寨等是藏羌建筑的杰出代表。藏羌文化是四川多元文化的重要组成部分。</p>
 <p class="en-text">Tibetan-Qiang culture is the main culture of Ganzi and Aba regions in western Sichuan, characterized by Tibetan Buddhism, watchtowers, Qiang villages, and the tusi system. Tibetan architecture is represented by monasteries, scripture halls, and pagodas, blending Tibetan and local styles; Qiang architecture is represented by watchtowers and stone houses with over 2,000 years of history. The Danba Watchtower Cluster, Taoping Qiang Village, Dege Printing House, and Zhuokeji Tusi Fortress are outstanding representatives of Tibetan-Qiang architecture. Tibetan-Qiang culture is an important component of Sichuan's diverse culture.</p>
-<div class="meta"><span>📍 实例: 丹巴古碉群、桃坪羌寨、德格印经院</span><span>🔗 关联: 碉楼, 羌寨, 藏传佛教建筑, 土司官寨</span></div>
+<div class="meta"><span> 实例: 丹巴古碉群、桃坪羌寨、德格印经院</span><span> 关联: 碉楼, 羌寨, 藏传佛教建筑, 土司官寨</span></div>
 </div>
 <div class="entry">
 <h3>世界文化遗产</h3>
 <div class="en-term">World Cultural Heritage</div>
 <p class="zh-text">四川重庆拥有多项世界文化遗产：青城山-都江堰（2000年）、峨眉山-乐山大佛（1996年，文化与自然双重遗产）、大足石刻（1999年）。此外，四川还有九寨沟、黄龙、四川大熊猫栖息地等世界自然遗产。这些遗产是四川重庆古建筑和文化景观的精华，体现了巴蜀文化、道教文化、佛教文化的深厚底蕴。</p>
 <p class="en-text">Sichuan-Chongqing has multiple UNESCO World Cultural Heritage sites: Qingcheng Mountain-Dujiangyan (2000), Emei Mountain-Leshan Giant Buddha (1996, mixed cultural and natural heritage), and Dazu Stone Carvings (1999). In addition, Sichuan has World Natural Heritage sites including Jiuzhaigou, Huanglong, and the Sichuan Giant Panda Habitat. These heritage sites represent the essence of Sichuan-Chongqing ancient architecture and cultural landscapes, reflecting the profound heritage of Ba-Shu culture, Taoist culture, and Buddhist culture.</p>
-<div class="meta"><span>📍 实例: 青城山-都江堰、峨眉山-乐山大佛、大足石刻</span><span>🔗 关联: 道教文化, 佛教建筑, 摩崖造像, 川派建筑</span></div>
+<div class="meta"><span> 实例: 青城山-都江堰、峨眉山-乐山大佛、大足石刻</span><span> 关联: 道教文化, 佛教建筑, 摩崖造像, 川派建筑</span></div>
 </div>
 <div class="entry">
 <h3>三国文化</h3>
 <div class="en-term">Three Kingdoms Culture (Sanguo Wenhua)</div>
 <p class="zh-text">三国文化是四川重要的历史文化资源，蜀汉政权以成都为都城，四川是三国文化的核心区域。四川保存有大量三国文化遗址，成都武侯祠是中国唯一的君臣合庙，德阳白马关、绵阳富乐山、广元剑门关等都是三国文化的重要遗存。武侯祠始建于5世纪，清康熙十一年重建，有刘备殿、诸葛亮殿等建筑，是三国文化的建筑代表。</p>
 <p class="en-text">Three Kingdoms culture is an important historical and cultural resource in Sichuan; the Shu Han regime made Chengdu its capital, making Sichuan the core region of Three Kingdoms culture. Sichuan preserves numerous Three Kingdoms cultural sites; Chengdu Wuhou Shrine is China's only combined ruler-minister temple, and Baima Pass in Deyang, Fule Mountain in Mianyang, and Jianmen Pass in Guangyuan are all important relics of Three Kingdoms culture. Wuhou Shrine, founded in the 5th century and rebuilt in the 11th year of Kangxi of the Qing, has Liu Bei Hall and Zhuge Liang Hall—an architectural representative of Three Kingdoms culture.</p>
-<div class="meta"><span>📍 实例: 武侯祠、剑门关、白马关</span><span>🔗 关联: 祠堂, 古城墙, 川派建筑, 古驿道</span></div>
+<div class="meta"><span> 实例: 武侯祠、剑门关、白马关</span><span> 关联: 祠堂, 古城墙, 川派建筑, 古驿道</span></div>
 </div>
 <div class="entry">
 <h3>诗歌文化</h3>
 <div class="en-term">Poetry Culture (Shige Wenhua)</div>
 <p class="zh-text">四川是中国诗歌文化的重要发源地，司马相如、李白、杜甫、苏轼、杨慎等大诗人都与四川有密切关系。四川保存有大量与诗歌文化相关的建筑，杜甫草堂是杜甫流寓成都时的故居，望江楼是为纪念女诗人薛涛而建，三苏祠纪念苏轼三父子，李白故居在江油。这些建筑多为园林式布局，融合了纪念性和居住性，是中国诗歌文化的建筑见证。</p>
 <p class="en-text">Sichuan is an important birthplace of Chinese poetry culture; great poets such as Sima Xiangru, Li Bai, Du Fu, Su Shi, and Yang Shen all have close ties to Sichuan. Sichuan preserves numerous buildings related to poetry culture; Du Fu Thatched Cottage was Du Fu's residence during his exile in Chengdu, Wangjiang Tower was built to commemorate the poetess Xue Tao, Sansu Shrine commemorates Su Shi and his father and brother, and Li Bai's Former Residence is in Jiangyou. Mostly in garden-style layouts blending commemorative and residential features, these buildings are architectural witnesses of Chinese poetry culture.</p>
-<div class="meta"><span>📍 实例: 杜甫草堂、望江楼、三苏祠、李白故居</span><span>🔗 关联: 名人故居, 园林, 川派建筑, 巴蜀文化</span></div>
+<div class="meta"><span> 实例: 杜甫草堂、望江楼、三苏祠、李白故居</span><span> 关联: 名人故居, 园林, 川派建筑, 巴蜀文化</span></div>
 </div>
 <div class="entry">
 <h3>盐业文化</h3>
 <div class="en-term">Salt Culture (Yanye Wenhua)</div>
 <p class="zh-text">自贡是中国井盐的主要产地，有2000多年的盐业历史，盐业文化深刻影响了自贡的城市格局和建筑。自贡盐井建筑包括天车、碓房、大车房、灶房等，燊海井是世界上第一口超千米深井。盐业致富的盐商修建了精美的会馆和祠堂，西秦会馆（陕西盐商）、桓侯宫、王爷庙等都是盐业文化的建筑代表。自贡盐业建筑是中国古代工业遗产的重要组成部分。</p>
 <p class="en-text">Zigong is China's main well-salt producer with over 2,000 years of salt history; salt culture profoundly influenced Zigong's urban layout and architecture. Zigong salt well architecture includes derricks, pounding rooms, winch rooms, and boiling rooms; Shenhai Well was the world's first well exceeding 1,000m. Salt merchants who grew wealthy from salt built exquisite guild halls and ancestral halls; Xiqin Guild Hall (Shaanxi salt merchants), Huanhou Palace, and Wangye Temple are architectural representatives of salt culture. Zigong salt architecture is an important component of ancient Chinese industrial heritage.</p>
-<div class="meta"><span>📍 实例: 自贡燊海井、西秦会馆、王爷庙</span><span>🔗 关联: 盐井建筑, 天车, 会馆, 近代建筑</span></div>
+<div class="meta"><span> 实例: 自贡燊海井、西秦会馆、王爷庙</span><span> 关联: 盐井建筑, 天车, 会馆, 近代建筑</span></div>
 </div>
 <div class="entry">
 <h3>佛教文化</h3>
 <div class="en-term">Buddhist Culture (Fojiao Wenhua)</div>
 <p class="zh-text">佛教在四川传播历史悠久，峨眉山是中国四大佛教名山之一，大足石刻是中国晚期石窟艺术的代表。四川佛教建筑包括寺庙、摩崖造像、佛塔等，著名的有峨眉山古建筑群、平武报恩寺、成都文殊院、宝光寺、重庆大足石刻、涞滩二佛寺等。平武报恩寺始建于明正统五年，是中国保存最完整的明代宫殿式佛教建筑群。四川佛教文化融合了汉传、藏传和地方特色。</p>
 <p class="en-text">Buddhism has a long history of propagation in Sichuan; Emei Mountain is one of China's four famous Buddhist mountains, and Dazu Stone Carvings represent late Chinese cave art. Sichuan Buddhist architecture includes temples, cliff carvings, and pagodas, with famous examples including the Emei Mountain Ancient Building Complex, Pingwu Bao'en Temple, Chengdu Wenshu Monastery, Baoguang Temple, Chongqing Dazu Stone Carvings, and Laitan Two Buddha Temple. Pingwu Bao'en Temple, founded in the fifth year of Zhengtong of the Ming, is China's best-preserved Ming palace-style Buddhist building complex. Sichuan Buddhist culture blends Han, Tibetan, and local characteristics.</p>
-<div class="meta"><span>📍 实例: 峨眉山古建筑群、平武报恩寺、大足石刻</span><span>🔗 关联: 寺庙, 摩崖造像, 藏传佛教建筑, 世界文化遗产</span></div>
+<div class="meta"><span> 实例: 峨眉山古建筑群、平武报恩寺、大足石刻</span><span> 关联: 寺庙, 摩崖造像, 藏传佛教建筑, 世界文化遗产</span></div>
 </div>
 <div class="entry">
 <h3>近代建筑</h3>
 <div class="en-term">Modern Architecture (Jindai Jianzhu)</div>
 <p class="zh-text">四川近代建筑融合了中西建筑风格，以教堂、领事馆、洋行、教会学校等为代表。成都平安桥天主教堂（拜占庭风格）、彭州领报修院（法式修道院）是四川近代宗教建筑的代表。重庆作为近代开埠城市，保存有大量近代建筑，包括湖广会馆、通远门、东水门及城墙等。四川近代建筑是研究中国近代化进程和中西文化交流的重要实物。</p>
 <p class="en-text">Modern Sichuan architecture blends Chinese and Western styles, represented by churches, consulates, foreign firms, and missionary schools. Chengdu Ping'anqiao Catholic Church (Byzantine style) and Pengzhou Lingbao Seminary (French monastery) are representatives of modern religious architecture in Sichuan. As a modern treaty port, Chongqing preserves numerous modern buildings, including the Huguang Guild Hall, Tongyuan Gate, and Dongshui Gate and City Wall. Modern Sichuan architecture is important for studying China's modernization process and Sichuan-Western cultural exchange.</p>
-<div class="meta"><span>📍 实例: 平安桥天主教堂、领报修院、重庆近代建筑</span><span>🔗 关联: 教堂, 会馆, 中西合璧, 移民文化</span></div>
+<div class="meta"><span> 实例: 平安桥天主教堂、领报修院、重庆近代建筑</span><span> 关联: 教堂, 会馆, 中西合璧, 移民文化</span></div>
 </div>
 </div>
 <div class="footer">
 <p>四川重庆古建筑术语 · National Geographic风格 | 基于《四川重庆古建筑地图》(青锋等) 整理</p>
 <p>Sichuan-Chongqing Ancient Architecture Terms · National Geographic Style</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body></html>

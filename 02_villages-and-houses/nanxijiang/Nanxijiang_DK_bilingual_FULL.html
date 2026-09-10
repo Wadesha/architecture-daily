@@ -42,8 +42,52 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 .footer { background: #1F3A3A; color: white; text-align: center; padding: 35px; margin-top: 50px; }
 .footer p { opacity: 0.8; font-size: 0.9em; margin-bottom: 5px; }
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="header">
 <h1>楠溪江中游</h1>
 <div class="subtitle">Middle Nanxi River · DK Style Bilingual Edition</div>
@@ -711,7 +755,7 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p class="zh-text">（3）<strong>保护</strong>、点缀、增益</p>
 <p class="zh-text"><strong>楠溪江</strong>人，以他们的文化素养感受环境的美，细腻鲜明。《<strong>坦下</strong>陈氏宗谱》载<strong>康熙</strong>时人玠侯先生五言律，描绘<strong><strong>坦下</strong>村</strong>的风景：</p>
 <p class="zh-text">团团一派石，绿竹间青松。沙外溶溶水，门前叠叠峰。</p>
-<p class="zh-text">山花开屿岸，野鸟唤春风。锄犁能读史，□□振飞鹏。</p>
+<p class="zh-text">山花开屿岸，野鸟唤春风。锄犁能读史，振飞鹏。</p>
 <p class="zh-text">经过文人们揣摩品评，<strong>楠溪江</strong>许多<strong>村落</strong>都有"十景"、"八景"之类，宗谱里也多有《名胜》专篇。谢道宁《鹤垟八景诗》之一《锦嶂春晖》：</p>
 <p class="zh-text">万仞屏环仰照临，阳和随见破群阴。岩花呈秀分高下，野树浮光间浅深。</p>
 <p class="zh-text">适兴岂无人蹑屐，寻幽还有客抚琴。西郊只隔疏林外，多少红尘乱扑襟。</p>
@@ -777,7 +821,7 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p class="en-text">(3) <strong>protection</strong>, Embellishment, Enhancement</p>
 <p class="en-text"><strong>Nanxi River</strong> people, with their cultural cultivation, feel environmental beauty delicately and vividly. "Tanxia Chen <strong>clan</strong> Genealogy" records <strong>K<strong>ang</strong>xi</strong>-era Mr. Jiehou's five-character regulated verse describing <strong>tanxia <strong>village</strong></strong> scenery:</p>
 <p class="en-text">Round stretch of rocks, green bamboo interspersed with pine. Beyond sand, flowing water; before door, layered peaks.</p>
-<p class="en-text">Mountain flowers bloom on isle shores, wild birds call in spring breeze. Plow and hoe can read history, □□ soar like rocs.</p>
+<p class="en-text">Mountain flowers bloom on isle shores, wild birds call in spring breeze. Plow and hoe can read history, soar like rocs.</p>
 <p class="en-text">After literati's appreciation and evaluation, many <strong>Nanxi River</strong> <strong>village</strong>s have "Ten Scenes," "Eight Scenes" and the like; genealogies also often have "Scenic Spots" special chapters. Xie Daoning's "Hey<strong>ang</strong> Eight Scenes Poems" one "Brocade Cliff Spring Glory":</p>
 <p class="en-text">Ten-thousand-ren screen surrounds, welcoming light; warmth follows, breaking group shadows. Cliff flowers show beauty high and low; wild trees float light between shallow and deep.</p>
 <p class="en-text">For enjoyment, aren't there people in clogs? Seeking seclusion, still guests play qin. West suburb only separated by sparse forest, how much red dust rushes to collars.</p>
@@ -2306,7 +2350,7 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p class="zh-text">中游盆地的村子，以<strong>岩头</strong>、<strong>苍坡</strong>和<strong>芙蓉</strong>三村为代表，规划<strong><strong>格局</strong></strong>都很整齐；一条主街，几条与主街相垂直的次街，次街之间的小巷。大多数的<strong>住宅</strong>，正门开在次街。这三村的次街都是南北走向。<strong>岩头</strong>和<strong>芙蓉</strong>的次街，间距<strong>50米</strong>左右，本来正相当于一幢三进两院大宅的<strong>进深</strong>。但几经兵火，现有的<strong>住宅</strong>大多是<strong>进深</strong>不到<strong>50米</strong>的中小型<strong>住宅</strong>，只能从小巷里侧面进门，门内是前院，正屋仍然向东。还有一些，是从小巷开一段专用的岔巷，正门开在岔巷里，例如<strong>芙蓉</strong>村的"将军屋"，<strong>岩头</strong>村的"枕琴庐"。</p>
 <p class="zh-text">更有一些简单的长条形小<strong>住宅</strong>，不围<strong>院落</strong>，全面敞开，则从小巷由一些人行步道出入。<strong>岩头</strong>和<strong>芙蓉</strong>两村都有不少在大宅废墟上建造的<strong>住宅</strong>，非常零乱，有造在原来两厢<strong><strong>台基</strong></strong>上的，就朝北、朝南，有造在正屋<strong><strong>台基</strong></strong>上的，就朝东。这些<strong>住宅</strong>，出入的路径很随便，往往很曲折，甚至穿过别家堂屋。<strong>岩头</strong>村浚水街以西，中央街与菊花街之间，都有这样的情况。</p>
 <p class="zh-text"><strong>苍坡</strong>村除了中央部分有东西向的横街外，多数的次街也是走向南北的，但它的<strong>住宅</strong>也都向南，因此，多数<strong>住宅</strong>就从侧面入门。为适应<strong>住宅</strong>的总宽度，两条次街之间的距离只有<strong>40米</strong>。但<strong>住宅</strong>的两侧仍有小小的余地。侧面入门之后，一般是自由<strong>空间</strong>，绕过厢房，才是<strong>住宅</strong>的前院。也有个别<strong>住宅</strong>比较宽，厢房贴邻次街，于是侧门就开在厢房前端的一间，以这一间为门厅。<strong>苍坡</strong>村有一条九间巷，一条三退巷，过去比较大的<strong>住宅</strong>大多集中在这两条巷子里。这两条巷子的名字就夸耀着它们的宅子的规模不同平常。但现在已经没有这样的大宅子了。</p>
-<p class="zh-text">山坡上的村子，如水云村、<strong>埭头</strong>村、<strong>西岸</strong>村等，<strong>住宅</strong>基地狭窄，成<strong>院落</strong>的就少了，大多顺等高线延伸。为了满足<strong><strong>宗法</strong>制</strong>大家庭的需要，有长达15<strong>开间</strong>的。例如水云村中心最高点的一座，咸丰年间造的，有"钦命兵部侍郎右都御史浙江巡抚部院罗□□"题的匾："登崇俊良"。房子主人是贡生陈福。道路也是顺等高线走的，这些<strong>住宅</strong>平行于道路，因此就把整个村子拉长了。它们前后的间距不得不压缩得很小，建筑密度因而很高。但是，只要稍有可能，这些村子里的<strong>住宅</strong>也还是争取成为<strong>院落</strong>式的。</p>
+<p class="zh-text">山坡上的村子，如水云村、<strong>埭头</strong>村、<strong>西岸</strong>村等，<strong>住宅</strong>基地狭窄，成<strong>院落</strong>的就少了，大多顺等高线延伸。为了满足<strong><strong>宗法</strong>制</strong>大家庭的需要，有长达15<strong>开间</strong>的。例如水云村中心最高点的一座，咸丰年间造的，有"钦命兵部侍郎右都御史浙江巡抚部院罗"题的匾："登崇俊良"。房子主人是贡生陈福。道路也是顺等高线走的，这些<strong>住宅</strong>平行于道路，因此就把整个村子拉长了。它们前后的间距不得不压缩得很小，建筑密度因而很高。但是，只要稍有可能，这些村子里的<strong>住宅</strong>也还是争取成为<strong>院落</strong>式的。</p>
 <p class="zh-text">在各种不同地形的村子里，<strong>住宅</strong>有朝东、朝南和朝北的，但没有朝西的。<strong>楠溪江</strong>流域夏季炎热，朝西难耐酷晒。而且，<strong>风水</strong>术也以朝西为不吉。例如《阳宅会要·论福元》里说："宜住坐北向南宅，上上吉。坐南向北宅，上吉。坐西向东宅，亦吉。惟坐东向西宅不宜居。"</p>
 <p class="zh-text"><strong>楠溪江</strong>的建筑虽然大多保留自己形象的独立完整，表现自己的个性特色，但都在统一的<strong>村落</strong>规划里，所以不大以个体来考虑<strong>风水</strong>。不过也有例外。<strong><strong>廊</strong>下</strong>村前街的两幢"<strong><strong>进士</strong>第</strong>"，一幢背对天马山的马头，一幢面对天马山的马鞍。据宋朝王洙等编的《地理新书》，"山如马鞍，主公卿宰辅"，所以有一幢朝向马鞍。而马的首、尾及足都主凶，所以另一幢就背向马头。</p>
 <p class="zh-text">（2）<strong>楠溪江</strong>的<strong>住宅</strong>，以长条形的和<strong>三合院</strong>式的居多。<strong>三合院</strong>式的有一种变体：加一个不大的后院，<strong>平面</strong>呈"H"形。<strong>四合院</strong>和三进两院的大宅，各村几乎都有，但不多。各<strong>村落</strong><strong>住宅</strong>的规模渐小，质量渐差，是因为明末清初以后，<strong>楠溪江</strong>经济文化的大衰退。也因为大<strong>家族</strong>制度逐渐式微。到了民国年间，才有一些在<strong>温州</strong>经商的人，回乡造了些砖<strong>门<strong>楼</strong></strong>的质量比较好的<strong>住宅</strong>。</p>
@@ -2367,7 +2411,7 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p class="en-text">After side entry, generally free <strong>space</strong>, around wing room, then <strong>residence</strong> front <strong>courtyard</strong>. Some individual <strong>residence</strong>s wider, wing adjacent to secondary street, so side door opens in front bay of wing, using this bay as entry hall.</p>
 <p class="en-text"><strong>C<strong>ang</strong>po</strong> <strong>village</strong> has a Nine-Bay Alley and a Three-Retreat Alley; past larger <strong>residence</strong>s mostly concentrated in these two alleys. Their names boast of unusual mansion scale. But now no such mansions remain.</p>
 <p class="en-text">Hillside <strong>village</strong>s, such as Shuiyun, Daitou, Xi'an <strong>village</strong>s etc., residential sites narrow, <strong>courtyard</strong>-type fewer, mostly extend along contour lines. To satisfy patriarchal <strong>clan</strong> large family needs, some up to 15 bays long. E.g.</p>
-<p class="en-text">one at Shuiyun <strong>village</strong> center highest point, built in Xianfeng era, has plaque inscribed by "Imperially appointed Minister of War Right Censor-in-Chief Zheji<strong>ang</strong> Governor Luo □□": "Promote Outstanding Talents." House owner was gongsheng Chen Fu. Roads also follow contour lines; these <strong>residence</strong>s parallel to roads, thus stretching entire <strong>village</strong>.</p>
+<p class="en-text">one at Shuiyun <strong>village</strong> center highest point, built in Xianfeng era, has plaque inscribed by "Imperially appointed Minister of War Right Censor-in-Chief Zheji<strong>ang</strong> Governor Luo ": "Promote Outstanding Talents." House owner was gongsheng Chen Fu. Roads also follow contour lines; these <strong>residence</strong>s parallel to roads, thus stretching entire <strong>village</strong>.</p>
 <p class="en-text">Their front-back spacing不得不 compressed very small, building density therefore high. But whenever slightly possible, these <strong>village</strong>s' <strong>residence</strong>s still strive to become <strong>courtyard</strong>-type.</p>
 <p class="en-text">In <strong>village</strong>s of various terrains, <strong>residence</strong>s face east, south and north, but none face west. <strong>Nanxi River</strong> basin hot in summer, west-facing unbearable scorching. Moreover, <strong>fengshui</strong> also considers west-facing inauspicious. E.g. "Y<strong>ang</strong>zhai Huiyao · On Fortune Origin" says: "Suitable to live north-facing-south <strong>residence</strong>, top-top auspicious.</p>
 <p class="en-text">South-facing-north <strong>residence</strong>, top auspicious. West-facing-east <strong>residence</strong>, also auspicious. Only east-facing-west <strong>residence</strong> not suitable to live."</p>
@@ -4526,10 +4570,10 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p class="zh-text">建筑有等级差别，砖石<strong>做法</strong>上也同样如此。如<strong>祠堂</strong>、<strong>书院</strong>，<strong><strong>台基</strong></strong>虽与<strong>住宅</strong>相同，但室内<strong>铺地</strong>却比较讲究，常用整齐的砖或石。砖有方，有长方。长方形的砖块一般铺成"席"纹，用<strong>方砖</strong>则铺棋盘格，或两行间错开半块砖。这些砖做工细，质量好。如<strong>芙蓉</strong><strong>书院</strong>讲堂、<strong>西岸</strong>村大石<strong>祠堂</strong>、<strong>豫章</strong>村胡氏大<strong>宗祠</strong>等，使用<strong>方砖</strong><strong>铺地</strong>，砖块尺寸<strong>29.5厘米</strong>×<strong>29.5厘米</strong>×<strong>5.0厘米</strong>，砖块排列成45°角。砖墁至<strong><strong>台基</strong></strong>前沿用规整的<strong>阶<strong>条石</strong></strong>收边，内外整齐美观。</p>
 <p class="zh-text"><strong>住宅</strong>中，地面铺设很简单，一般用<strong><strong>夯土</strong>地</strong>，最后在<strong>夯土</strong>面上淋一层<strong>盐卤</strong>，再压实，压光，地面很耐磨。在<strong>廊</strong>步中，地面还有用大小比较整齐的<strong>卵石</strong>镶铺的，甚至也有用稍大一点的<strong>卵石</strong>为材料砌筑<strong>台帮</strong>并取代<strong>阶<strong>条石</strong></strong>的。为了美观还做出一些图案，席纹。</p>
 <p class="zh-text">（2）<strong><strong>台阶</strong></strong>与<strong><strong>台基</strong></strong>的<strong>做法</strong>一般是配套的，最常见的大致有下列几种：</p>
-<p class="zh-text">①<strong>垂带式</strong>。使用很普遍。如<strong>芙蓉</strong>村某<strong>祠堂</strong>，<strong>苍坡</strong><strong>村寨</strong>门。垂带常有变异形式，如作成琴面式略微卷曲，或再在上部做一个小鼓。琴面上常有浅浮雕。</p>
-<p class="zh-text">②<strong>如意式</strong>。这种形式使用不多，有<strong>条石</strong>如意和<strong>卵石</strong>如意。</p>
-<p class="zh-text">③如意、垂带混合式。</p>
-<p class="zh-text">④自由式。多见于<strong>住宅</strong>之中，最简便的是用天然<strong>卵石</strong>叠成。</p>
+<p class="zh-text">(1)<strong>垂带式</strong>。使用很普遍。如<strong>芙蓉</strong>村某<strong>祠堂</strong>，<strong>苍坡</strong><strong>村寨</strong>门。垂带常有变异形式，如作成琴面式略微卷曲，或再在上部做一个小鼓。琴面上常有浅浮雕。</p>
+<p class="zh-text">(2)<strong>如意式</strong>。这种形式使用不多，有<strong>条石</strong>如意和<strong>卵石</strong>如意。</p>
+<p class="zh-text">(3)如意、垂带混合式。</p>
+<p class="zh-text">(4)自由式。多见于<strong>住宅</strong>之中，最简便的是用天然<strong>卵石</strong>叠成。</p>
 </div>
 <hr class="divider">
 <div class="content-block">
@@ -4545,10 +4589,10 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p class="en-text">In <strong>residence</strong>s, floor laying very simple; generally use <strong>rammed-earth floor</strong>; finally on rammed-earth surface sprinkle a layer of <strong>salt brine</strong>, then compact, polish, floor very wear-resistant.</p>
 <p class="en-text">In <strong>corridor</strong> steps, floor also uses relatively neat-sized cobblestones inlaid; even also uses slightly larger cobblestones as material to build <strong><strong>podium</strong> side wall</strong>s and replace <strong>step-edge stone</strong>s. For beauty also makes some patterns, mat pattern.</p>
 <p class="en-text">(2) Steps and <strong>podium</strong> practice generally matching; most common roughly following several:</p>
-<p class="en-text">① <strong>chui-dai style</strong> (with sloped side walls). Use very common. E.g. <strong>Furong</strong> <strong>village</strong>某 <strong>ancestral hall</strong>, <strong>C<strong>ang</strong>po</strong> <strong>village</strong> <strong>stockade gate</strong>. Chui-dai often has variant <strong>form</strong>s, e.g. made lute-face style slightly curled, or again on upper part make a small drum. Lute-face often has low-relief.</p>
-<p class="en-text">② <strong>ruyi style</strong>. This <strong>form</strong> use not much; has strip-stone ruyi and cobblestone ruyi.</p>
-<p class="en-text">③ Ruyi-chui-dai mixed style.</p>
-<p class="en-text">④ Free style. Mostly seen in <strong>residence</strong>s; simplest is using natural cobblestones piled.</p>
+<p class="en-text">(1) <strong>chui-dai style</strong> (with sloped side walls). Use very common. E.g. <strong>Furong</strong> <strong>village</strong>某 <strong>ancestral hall</strong>, <strong>C<strong>ang</strong>po</strong> <strong>village</strong> <strong>stockade gate</strong>. Chui-dai often has variant <strong>form</strong>s, e.g. made lute-face style slightly curled, or again on upper part make a small drum. Lute-face often has low-relief.</p>
+<p class="en-text">(2) <strong>ruyi style</strong>. This <strong>form</strong> use not much; has strip-stone ruyi and cobblestone ruyi.</p>
+<p class="en-text">(3) Ruyi-chui-dai mixed style.</p>
+<p class="en-text">(4) Free style. Mostly seen in <strong>residence</strong>s; simplest is using natural cobblestones piled.</p>
 </div>
 <div class="terms-box">
 <h4>本篇术语 Key Terms</h4>
@@ -4891,5 +4935,26 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p>Middle Nanxi River · Bilingual Reconstructed Edition · Dorling Kindersley Style</p>
 <p>基于原文逐页提取 · 全文重构级别处理 · 术语准确 · 排版优化</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

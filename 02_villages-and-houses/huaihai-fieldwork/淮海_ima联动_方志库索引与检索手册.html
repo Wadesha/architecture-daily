@@ -26,8 +26,52 @@ th{background:#e9dfca;font-weight:700;}
 .small{font-size:12px;color:var(--sub);}
 @media(max-width:640px){.wrap{max-width:100%;}p,li{font-size:13.5px;}}
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body data-page-node-id="Tde4JJr7TLnlTa02U1q9ZQ">
+<body id="top" data-page-node-id="top Tde4JJr7TLnlTa02U1q9ZQ"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="wrap" data-page-node-id="pRYGGK3C5FOUzsEQTZOzka">
 <h1 data-page-node-id="5Qo9O8LBemmPS7dJ7Qn771">淮海 · ima 方志库联动手册</h1>
 <div class="stamp" data-page-node-id="VKLNsuozQQxAha4VC518oh">把本地工作区写作管线（scope + 第一群田野体）接到 ima 里的分省方志/文史库 · 本文件为<b data-page-node-id="c7T0DEjr7cWBCXqvtSppnD">活文档</b> · 2026-09-06 建</div>
@@ -37,7 +81,7 @@ th{background:#e9dfca;font-weight:700;}
 <h2 data-page-node-id="WHmzPl6qFmIGjJIcnlNCSI">一、ima 里到底有什么（本次盘点结论）</h2>
 <p data-page-node-id="FGERpWeoqermBFAtCI1BEA">你的 ima（个人库 + 共享库）不是一个零散收藏，而是一套<b data-page-node-id="W6Ozl7oJKnEHziWVL84J62">全国分省的古籍方志大库</b>（多为成文出版社《中国方志丛书》影印扫描件）+ 分县文史/方法库。规模惊人：浙江 9.5GB/210项、河北 4.1GB/139项、山东 3.6GB/124项、陕西 2.3GB/113项、河南 2.5GB/61项……几乎覆盖全国。对淮海 scope 直接命中的，见下表。</p>
 
-<h2 data-page-node-id="XjHloTWMgjdEiOlTockVl7">二、淮海四省 ↔ ima 方志库对应（核心映射）</h2>
+<h2 data-page-node-id="XjHloTWMgjdEiOlTockVl7">二、淮海四省 ima 方志库对应（核心映射）</h2>
 <table data-page-node-id="1i2aIVTB7pWoShfSIgw7Al">
 <tr data-page-node-id="LtKvJoBNR0Bha6CBiPC7kc"><th style="width:10%" data-page-node-id="PzIgkqNjtVv1taCZIxUUhV">淮海子区</th><th style="width:34%" data-page-node-id="ohomJdebK64ZqLUGQKniNK">scope 目标村</th><th style="width:30%" data-page-node-id="tmOkcd5rG1PFlZOu1Oc1NA">ima 里可用的方志/志书库</th><th data-page-node-id="hjqXw0vCa8Z2jyFHAqhrm4">层</th></tr>
 <tr data-page-node-id="rWYIvQvwSczhZi911YmcGE"><td data-page-node-id="vFhrwMf4OUdYEeB1d6FFZ1"><b data-page-node-id="NgTzOaDrYLICOpOfA3hFGb">鲁南·枣庄</b></td><td data-page-node-id="ylnkqThsTgV0omtpPR7GHR">山亭石板房部落（旧属滕县）</td><td data-page-node-id="yeACGB24DHjQ36karbttON"><b data-page-node-id="gDVJKlWqmbrEoVToj8G7PD">021滕县续志稿</b>、08山东省(滕县周边)</td><td data-page-node-id="LoZfpQK4Rdu4zDwvgCsTVC">L1史实</td></tr>
@@ -64,9 +108,9 @@ th{background:#e9dfca;font-weight:700;}
 <h2 data-page-node-id="7tPKINbV2AmhXmz0ZxXV2J">四、联动规则（怎么用 ima 喂这一篇稿子）</h2>
 <h3 data-page-node-id="xUrjmLTBTRjaio7aih6xhH">4.1 三步取料法</h3>
 <div class="card" data-page-node-id="yBhKSMkMgppOt39O1rXR5R">
-<p data-page-node-id="HeTGLYvpNvxCvaJmYgJlGB"><span class="num" data-page-node-id="tLDbUz3CZJuTNEHUknLMsw"><b data-page-node-id="CLpoLs2q1yES5flwZcTMB3">① 定县志</b></span>按目标村查 §二 映射，确定该村属哪部县志（例：山亭石板房→滕县；倪园→铜山）。</p>
-<p data-page-node-id="hrh7ZMbvCfrQUMTRNkZBgB"><span class="num" data-page-node-id="Vnq3ZmKiyV9vgxQTL1M801"><b data-page-node-id="A51edFKobLer1p73ORikvM">② ima 定向搜</b></span>在对应方志库内，用<b data-page-node-id="6E9Zab67HuYecT9PuvC53B">窄 query</b>（村名/古迹名/关键词）搜——接受整篇返回，人工/我抽需要的建置、古迹、村名沿革段。</p>
-<p data-page-node-id="FsGA7DDwEzlk84q7iG3iqL"><span class="num" data-page-node-id="rGIGI2wWotYSrmCGKFJ5PF"><b data-page-node-id="Uoky6Pxmv7rSSE9Ng0SyfH">③ 与现场合成</b></span>ima 的史实做"骨架"，WebSearch/公众号（王庄的干插房、关顶的齐长城、山亭的现状）做"血肉"，按 §7 虚拟化边界补现场层。</p>
+<p data-page-node-id="HeTGLYvpNvxCvaJmYgJlGB"><span class="num" data-page-node-id="tLDbUz3CZJuTNEHUknLMsw"><b data-page-node-id="CLpoLs2q1yES5flwZcTMB3">(1) 定县志</b></span>按目标村查 §二 映射，确定该村属哪部县志（例：山亭石板房，滕县；倪园，铜山）。</p>
+<p data-page-node-id="hrh7ZMbvCfrQUMTRNkZBgB"><span class="num" data-page-node-id="Vnq3ZmKiyV9vgxQTL1M801"><b data-page-node-id="A51edFKobLer1p73ORikvM">(2) ima 定向搜</b></span>在对应方志库内，用<b data-page-node-id="6E9Zab67HuYecT9PuvC53B">窄 query</b>（村名/古迹名/关键词）搜——接受整篇返回，人工/我抽需要的建置、古迹、村名沿革段。</p>
+<p data-page-node-id="FsGA7DDwEzlk84q7iG3iqL"><span class="num" data-page-node-id="rGIGI2wWotYSrmCGKFJ5PF"><b data-page-node-id="Uoky6Pxmv7rSSE9Ng0SyfH">(3) 与现场合成</b></span>ima 的史实做"骨架"，WebSearch/公众号（王庄的干插房、关顶的齐长城、山亭的现状）做"血肉"，按 §7 虚拟化边界补现场层。</p>
 </div>
 <div class="q warn" data-page-node-id="Q2wyGxP0Ty7A3Dcugtbuu4"><b data-page-node-id="aNqkqAJXu6zFAjnU5bWTTO">写法约束（对齐第一群铁律）：</b>方志给的"村名来源、建置沿革、古迹记载、人物行迹"——<b data-page-node-id="9A8cqTkQ0l7dzYvZVO4i49">可溯源、照实写</b>；方志给的"某某古迹今如何"，属<b data-page-node-id="QGzdHF9wvsKy9HoKGHMcND">古书记载 ≠ 现场现状</b>，现状必须另找或标时间，<b data-page-node-id="hEFNNFgE8DL9BCgfNCFYuI">不得凭方志推测现状</b>。</div>
 
@@ -83,11 +127,32 @@ th{background:#e9dfca;font-weight:700;}
 <h2 data-page-node-id="N1D4PwZ8VstNnLBbu3C8IZ">六、下一步建议</h2>
 <div class="card" data-page-node-id="SsxmX7PkeHUruYX0GqZdJS">
 <p data-page-node-id="vHPxvy737kA9apYkpMmoMS"><b data-page-node-id="dYcgkxSxj79k8vBtoIc2ud">A.</b> 我按 §四 试写首篇（<b data-page-node-id="xJcwzm5IJmriA06iObxmZK">山亭石板房</b>最顺——ima 有滕县志补史实，WebSearch 有现状与营造细节），把联动走通给你看。</p>
-<p data-page-node-id="fwDw5rASvWElCtnDFDRA0U"><b data-page-node-id="WmA4nBrbf4HHRAgatGJIWI">B.</b> 你先在 ima 里建「淮海方志」文件夹并归拢志书，我随后据此建"村→志→卷"索引表。</p>
+<p data-page-node-id="fwDw5rASvWElCtnDFDRA0U"><b data-page-node-id="WmA4nBrbf4HHRAgatGJIWI">B.</b> 你先在 ima 里建「淮海方志」文件夹并归拢志书，我随后据此建"村，志，卷"索引表。</p>
 <p data-page-node-id="x8QrmfLUGgr0MUPgCHdAbR"><b data-page-node-id="LlzJouXmxX69wThamrfkNv">C.</b> 你补充 ima 里还有哪些本 scope 需要的素材（发名字/截图），我更新本表。</p>
 </div>
 
 <div class="small" style="border-top:1px solid var(--line);margin-top:26px;padding-top:10px;" data-page-node-id="zB4XFbH6cKTSAQXL9GuRcK">联动手册第 1 版 | 与《淮海_scope_鲁南底盘与素材发现.html》配套 | 数据来源：ima 库实时盘点 + WebSearch 核实 | 活文档，随 ima 结构调整</div>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

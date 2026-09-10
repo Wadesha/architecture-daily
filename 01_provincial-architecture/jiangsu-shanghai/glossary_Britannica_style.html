@@ -39,8 +39,52 @@ body{font-family:'Times New Roman',Georgia,'SimSun',serif;background:var(--eb-cr
 .footer{background:var(--eb-blue);color:rgba(255,255,255,.7);text-align:center;padding:30px 20px;margin-top:50px;font-size:.85em}
 @media(max-width:900px){.container{grid-template-columns:1fr}.sidebar{display:none}}
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="header"><h1>江苏上海古建筑百科全书</h1><div class="subtitle">江南建筑术语的学术性阐释</div><div class="en">ENCYCLOPAEDIA OF JIANGSU & SHANGHAI ARCHITECTURE</div></div>
 <div class="nav-bar"><div class="container" style="display:block;max-width:1100px"><button class="nav-btn active" onclick="showAll()">全部条目</button><button class="nav-btn" onclick="showCategory('structural')">建筑结构</button><button class="nav-btn" onclick="showCategory('type')">建筑类型</button><button class="nav-btn" onclick="showCategory('decorative')">建筑装饰</button><button class="nav-btn" onclick="showCategory('material')">建筑材料</button><button class="nav-btn" onclick="showCategory('culture')">文化背景</button></div></div>
 <div class="container"><div class="sidebar"><h3>建筑结构</h3><ul><li><a href="#term-1">斗拱</a></li><li><a href="#term-2">卷棚顶</a></li><li><a href="#term-3">马头墙</a></li><li><a href="#term-4">粉墙黛瓦</a></li><li><a href="#term-5">花窗</a></li><li><a href="#term-6">漏窗</a></li><li><a href="#term-7">挂落</a></li><li><a href="#term-8">美人靠</a></li><li><a href="#term-9">须弥座</a></li><li><a href="#term-10">苏式彩画</a></li><li><a href="#term-11">楠木厅</a></li><li><a href="#term-12">叉手</a></li></ul><h3>建筑类型</h3><ul><li><a href="#term-13">江南园林</a></li><li><a href="#term-14">水乡古镇</a></li><li><a href="#term-15">江南民居</a></li><li><a href="#term-16">楼阁式塔</a></li><li><a href="#term-17">密檐式塔</a></li><li><a href="#term-18">寺庙</a></li><li><a href="#term-19">陵墓</a></li><li><a href="#term-20">城墙</a></li><li><a href="#term-21">会馆</a></li><li><a href="#term-22">古桥</a></li><li><a href="#term-23">孔庙</a></li><li><a href="#term-24">私家园林</a></li><li><a href="#term-25">楼阁</a></li></ul><h3>建筑装饰</h3><ul><li><a href="#term-26">砖雕</a></li><li><a href="#term-27">木雕</a></li><li><a href="#term-28">石雕</a></li><li><a href="#term-29">太湖石</a></li><li><a href="#term-30">黄石</a></li><li><a href="#term-31">叠山理水</a></li><li><a href="#term-32">借景</a></li><li><a href="#term-33">框景</a></li><li><a href="#term-34">对景</a></li><li><a href="#term-35">藻井</a></li></ul><h3>建筑材料</h3><ul><li><a href="#term-36">金砖</a></li><li><a href="#term-37">小青瓦</a></li><li><a href="#term-38">金山石</a></li><li><a href="#term-39">琉璃瓦</a></li><li><a href="#term-40">楠木</a></li></ul><h3>文化背景</h3><ul><li><a href="#term-41">世界文化遗产</a></li><li><a href="#term-42">大运河</a></li><li><a href="#term-43">文人园林</a></li><li><a href="#term-44">江南文化</a></li><li><a href="#term-45">金陵文化</a></li><li><a href="#term-46">淮扬文化</a></li><li><a href="#term-47">海派文化</a></li><li><a href="#term-48">盐商建筑</a></li><li><a href="#term-49">经幢</a></li><li><a href="#term-50">牌坊</a></li></ul></div><div class="content">
@@ -102,4 +146,25 @@ body{font-family:'Times New Roman',Georgia,'SimSun',serif;background:var(--eb-cr
 </div></div>
 <div class="footer"><p>江苏上海古建筑百科全书 · 大英百科版 | 50条目 · 中英双语 · 交叉引用</p></div>
 <script>function showAll(){document.querySelectorAll(".toc-entry").forEach(e=>e.style.display="block");document.querySelectorAll(".section-divider").forEach(e=>e.style.display="block");document.querySelectorAll(".nav-btn").forEach(b=>b.classList.remove("active"));event.target.classList.add("active")}function showCategory(c){document.querySelectorAll(".toc-entry").forEach(e=>e.style.display="none");document.querySelectorAll(".section-divider").forEach(e=>e.style.display="none");document.querySelectorAll("."+c).forEach(e=>e.style.display="block");document.getElementById("section-"+c).style.display="block";document.querySelectorAll(".nav-btn").forEach(b=>b.classList.remove("active"));event.target.classList.add("active")}</script>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body></html>

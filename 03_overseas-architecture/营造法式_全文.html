@@ -26,8 +26,52 @@ body{font-family:"Microsoft YaHei","PingFang SC",STKaiti,"KaiTi",serif;backgroun
 .footer{background:#2a1f12;color:#cfc6b4;text-align:center;padding:26px 18px;margin-top:40px;font-size:.82em}
 .intro{background:#faf5e9;border-left:5px solid #a8742d;border-radius:0 8px 8px 0;padding:14px 18px;margin:16px 0;font-size:.95em}
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../index.html">首页</a><span class="dot">·</span>
+  <a href="../index.html#cat-01" class="c1">省建</a>
+  <a href="../index.html#cat-02" class="c2">村落</a>
+  <a href="../index.html#cat-03" class="c3">海外</a>
+  <a href="../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="hero">
 <h1>营造法式 · 全文</h1>
 <div class="sub">北宋 李诫 编修 · 1100 编成 · 1103 刊行 · 全 34 卷 + 序 + 劄子 + 看详</div>
@@ -2786,7 +2830,7 @@ body{font-family:"Microsoft YaHei","PingFang SC",STKaiti,"KaiTi",serif;backgroun
 <p>（四扇开闭的照壁屏风骨）</p>
 <p>凡照壁屏风骨，如作四扇开闭者，其所用立㮇、搏肘[1]，若屏风高一丈，则搏肘方一寸四分；立㮇广二寸，厚一寸六分；如高增一尺，即方及广厚，各加一分；减亦如之。</p>
 <p>&lt;em class=&quot;tag&quot;&gt;【注释】</em></p>
-<p>[1]立㮇：梁注：立㮇是一根垂直的门关，安在上述上下两伏兔之间，从里面将门拦闭。参见上文牙头护缝软门条注③。搏肘：原文为槫肘，梁注本改为搏肘。陈注：改槫肘为搏肘。梁注：搏肘是安在屏风扇背面的转轴。下面卷七的格子门也用搏肘，相当于版门的肘版的上下。其所以不把桯加长为，是因为版门关闭时，门是贴在额、地栿和立颊的里面的，而承托两的鸡栖木和石砧鹅台也是在额和地栿的里面，位置相适应，而屏风扇（以及格子门）则装在额、地栿和槫柱（或立颊）构成的框框之中，所以有必要在背面另加搏肘。</p>
+<p>[1]立㮇：梁注：立㮇是一根垂直的门关，安在上述上下两伏兔之间，从里面将门拦闭。参见上文牙头护缝软门条注(3)。搏肘：原文为槫肘，梁注本改为搏肘。陈注：改槫肘为搏肘。梁注：搏肘是安在屏风扇背面的转轴。下面卷七的格子门也用搏肘，相当于版门的肘版的上下。其所以不把桯加长为，是因为版门关闭时，门是贴在额、地栿和立颊的里面的，而承托两的鸡栖木和石砧鹅台也是在额和地栿的里面，位置相适应，而屏风扇（以及格子门）则装在额、地栿和槫柱（或立颊）构成的框框之中，所以有必要在背面另加搏肘。</p>
 <p>&lt;em class=&quot;tag&quot;&gt;【译文】</em></p>
 <p>凡照壁屏风骨，如果是做成四扇开闭的屏风门形式，其屏风中所用立㮇、搏肘的截面尺寸，是以屏风高1丈时，其搏肘的截面为1.4寸见方；立㮇的截面宽度为2寸，厚为1.6寸计算的；以屏风高1丈时得出的搏肘、立㮇尺寸为一个基数，如果屏风的高度超过1丈，其每增高1尺，搏肘的截面见方尺寸及立㮇的截面广厚尺寸，都会各自增加0.1寸；如果屏风的高度低于1丈，其每减少1尺，搏肘的截面见方尺寸及立㮇的截面广厚尺寸，也会相应各自减少0.1寸。</p>
 <p>隔截横钤立旌</p>
@@ -3003,7 +3047,7 @@ body{font-family:"Microsoft YaHei","PingFang SC",STKaiti,"KaiTi",serif;backgroun
 <p>&lt;em class=&quot;tag&quot;&gt;【注释】</em></p>
 <p>[1]四斜毬文格眼：梁注：格眼基本上只有毬文和方直两种，都用正角相交的条组成。毬文的条则以与水平方向两个相反的45方向相交组成，而且条两侧，各鼓出一个90的弧线正角相交，四个弧线就组成一个毬文（清式称古钱）。由于这样组成的毬文是以45角的斜向排列的，所以称四斜毬文。</p>
 <p>[2]四混：梁注：在构件边、角的处理上，凡断面做成比较宽而扁，近似半个椭圆形的；或角上做成半径比较大的90弧的，都叫做混。四混指其构件表面刻有四条混线。中心出双线：梁注：在构件表面鼓出的比较细的，叫做线或出线。这里说的是在构件表面四条混线的中间，再刻出两条细线，以形成四混中心出双线的做法。</p>
-<p>[3]破瓣：梁注：边或角上向里刻入作L形正角凹槽的，叫做破瓣。⑤通混：梁注：整个断面成一个混的叫做通混。⑥压边线：梁注：两侧在混或线之外留下一道细窄平面的线，比混或线的表面压低一些，叫做压边线。</p>
+<p>[3]破瓣：梁注：边或角上向里刻入作L形正角凹槽的，叫做破瓣。(5)通混：梁注：整个断面成一个混的叫做通混。(6)压边线：梁注：两侧在混或线之外留下一道细窄平面的线，比混或线的表面压低一些，叫做压边线。</p>
 <p>[4]撺(cuān)尖：梁注：横直构件相交处，以斜角相交的，叫做撺尖，以正角相交的，叫做叉瓣。</p>
 <p>[5]方直破瓣：梁注：断面不起混或线，只是边角破瓣的，叫做方直破瓣。</p>
 <p>[6]条(jng)：这里是指构成格子门格眼的条状细木方。，其义与桯近。厚一分二厘：以门桯每高1尺，条厚为0.12寸计；若门桯高1丈，则条的厚度为1.2寸。</p>
@@ -13950,5 +13994,26 @@ body{font-family:"Microsoft YaHei","PingFang SC",STKaiti,"KaiTi",serif;backgroun
 <p>营造法式 · 全文（原文+题解+译文）｜北宋李诫 · 四库全书本</p>
 <p>整理：2026-09-04 · 来源：中华典藏在线阅读逐卷整理（公版古籍）</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../index.html">← 目录</a>
+</nav>
 </body>
 </html>

@@ -23,18 +23,18 @@
 
 ```
 .
-├── index.html              ← GitHub Pages 首页（随机展示+切换）
-├── index.json              ← 完整台账（首页数据源）
-├── _scripts/               ← 维护脚本（不发布）
-│   └── gen_index.js        ← 重新生成台账
-├── 01_provincial-architecture/    ← 省级建筑研究
-│   ├── fujian/ hubei/ jiangsu-shanghai/ ...
-├── 02_villages-and-houses/       ← 村落与民居
-│   ├── songyang/ yanxia/ chuantong-minju/ ...
-├── 03_overseas-architecture/     ← 海外学者研究
-│   └── 营造法式/ 喜龙仁/ 关野贞/ 沙畹/ ...
-└── 04_style-analysis/            ← 写作体风模仿与分析
-    ├── group01-chenzhihua/ group06-wenzhou-dingjunqing/ ...
+|-- index.html： GitHub Pages 首页（随机展示+切换）
+|-- index.json： 完整台账（首页数据源）
+|-- _scripts/： 维护脚本（不发布）
+| +-- gen_index.js： 重新生成台账
+|-- 01_provincial-architecture/： 省级建筑研究
+| |-- fujian/ hubei/ jiangsu-shanghai/ ...
+|-- 02_villages-and-houses/： 村落与民居
+| |-- songyang/ yanxia/ chuantong-minju/ ...
+|-- 03_overseas-architecture/： 海外学者研究
+| +-- 营造法式/ 喜龙仁/ 关野贞/ 沙畹/ ...
++-- 04_style-analysis/： 写作体风模仿与分析
+ |-- group01-chenzhihua/ group06-wenzhou-dingjunqing/ ...
 ```
 
 ## 维护与同步 · Maintenance

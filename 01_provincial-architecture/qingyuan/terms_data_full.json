@@ -1,777 +1,777 @@
 {
-  "book_title": "晋中清源城",
-  "book_title_en": "Qingyuan City of Jinzhong",
-  "authors": "罗德胤、黄靖",
-  "terms_count": 90,
-  "categories": [
-    "商帮",
-    "煤窑类型",
-    "酿醋器具",
-    "文化景观",
-    "文庙建筑",
-    "行会组织",
-    "砖雕装饰",
-    "酿醋工艺",
-    "商业",
-    "煤窑工种",
-    "医疗机构",
-    "历史地名",
-    "金融制度",
-    "商业器具",
-    "民间信仰",
-    "衙署庙宇",
-    "手工业",
-    "典当业",
-    "葡萄种植",
-    "商业建筑",
-    "宗教建筑",
-    "行会制度",
-    "水利设施",
-    "衙署建筑",
-    "民俗活动",
-    "木构特征",
-    "墙体做法",
-    "自然景观",
-    "庙宇建筑",
-    "木构构件",
-    "皮革原料",
-    "产业建筑",
-    "建筑小品",
-    "手工业产品",
-    "金融",
-    "历史人物",
-    "防御建筑",
-    "手工业工具",
-    "教育制度",
-    "旅店类型",
-    "农产品加工",
-    "交通设施",
-    "防御设施",
-    "屋顶形式",
-    "书院制度",
-    "木构做法",
-    "住宅类型"
-  ],
-  "terms": [
-    {
-      "id": 1,
-      "term": "硬山起脊",
-      "term_en": "Gabled Roof with Ridge",
-      "category": "屋顶形式",
-      "definition": "中国传统建筑屋顶形式之一，山墙与屋面齐平或略高于屋面，屋顶两端有正脊和垂脊。清源乡土建筑中最常见的屋顶形式，正殿、正房多采用。",
-      "definition_en": "A traditional Chinese roof form where the gable wall is flush with or slightly above the roof surface, with a main ridge and hip rafters at both ends. The most common roof form in Qingyuan vernacular architecture, used for main halls and houses."
-    },
-    {
-      "id": 2,
-      "term": "硬山卷棚",
-      "term_en": "Gabled Roof without Ridge (Juanshan)",
-      "category": "屋顶形式",
-      "definition": "硬山顶的变体，屋面两坡相交处不做正脊，呈弧形曲面，又称元宝顶。清源城隍庙后院正殿、西关关帝庙厢房采用此形式。",
-      "definition_en": "A variant of the gabled roof where the two slopes meet without a main ridge, forming a curved surface, also called ingot roof. Used in the rear main hall of Qingyuan City God Temple and side halls of Xiguan Guan Yu Temple."
-    },
-    {
-      "id": 3,
-      "term": "歇山顶",
-      "term_en": "Hip-and-Gable Roof (Xieshan)",
-      "category": "屋顶形式",
-      "definition": "中国传统建筑高等级屋顶形式，上半部为悬山，下半部为庑殿，有一条正脊、四条垂脊和四条戗脊。清源文庙大成殿、武庙大门采用单檐歇山顶。",
-      "definition_en": "A high-ranking traditional Chinese roof form, upper half is overhanging gable, lower half is hip roof, with one main ridge, four hip rafters, and four diagonal ridges. Qingyuan Confucian Temple Dacheng Hall and Martial Temple gate use single-eave hip-and-gable roofs."
-    },
-    {
-      "id": 4,
-      "term": "悬山顶",
-      "term_en": "Overhanging Gable Roof (Xuanshan)",
-      "category": "屋顶形式",
-      "definition": "屋顶两端山墙退到屋面之下，屋面挑出山墙之外。清源西关龙王庙厢房采用悬山起脊单坡顶，北营村关帝庙戏台采用悬山顶。",
-      "definition_en": "Roof form where the gable walls recede below the roof surface, which overhangs beyond the walls. Xiguan Dragon King Temple side halls use overhanging gable single-slope roofs; Beiying Village Guan Yu Temple stage uses overhanging gable roof."
-    },
-    {
-      "id": 5,
-      "term": "攒尖顶",
-      "term_en": "Pyramidal Roof (Zanjian)",
-      "category": "屋顶形式",
-      "definition": "屋顶坡面集中于顶部一点，无正脊，常用于楼阁、亭、塔。西关市楼为三重檐攒尖顶楼阁，通高22.4米。",
-      "definition_en": "Roof form where slopes converge at a single top point, no main ridge, commonly used for pavilions, towers. Xiguan market tower is a three-eave pyramidal-roof pavilion, total height 22.4 meters."
-    },
-    {
-      "id": 6,
-      "term": "十字歇山顶",
-      "term_en": "Cross Hip-and-Gable Roof",
-      "category": "屋顶形式",
-      "definition": "两个歇山顶垂直相交形成的屋顶形式，平面呈十字形。西关关帝庙钟鼓楼采用单檐十字歇山顶，四柱承重。",
-      "definition_en": "Roof form formed by two hip-and-gable roofs intersecting perpendicularly, cross-shaped plan. Xiguan Guan Yu Temple bell and drum towers use single-eave cross hip-and-gable roofs with four load-bearing columns."
-    },
-    {
-      "id": 7,
-      "term": "五踩斗拱",
-      "term_en": "Five-Step Bracket Set (Wucai Dougong)",
-      "category": "木构构件",
-      "definition": "斗拱出跳数为五踩（两跳华拱加两跳昂），是清代建筑中较高等级的斗拱。武庙大门檐下施五组五踩斗拱，西关市楼一二层檐下施五踩斗拱。",
-      "definition_en": "Bracket set with five steps (two hua-gong jumps plus two ang jumps), a relatively high-ranking bracket set in Qing architecture. Martial Temple gate has five sets of five-step brackets under eaves; Xiguan market tower first and second floors have five-step brackets."
-    },
-    {
-      "id": 8,
-      "term": "七踩斗拱",
-      "term_en": "Seven-Step Bracket Set (Qicai Dougong)",
-      "category": "木构构件",
-      "definition": "斗拱出跳数为七踩（三跳华拱加三跳昂），等级高于五踩。西关市楼三层檐下施七踩斗拱。",
-      "definition_en": "Bracket set with seven steps (three hua-gong jumps plus three ang jumps), higher rank than five-step. Xiguan market tower third floor has seven-step brackets under eaves."
-    },
-    {
-      "id": 9,
-      "term": "四铺作斗拱",
-      "term_en": "Four-Tier Bracket Set (Sipuzuo Dougong)",
-      "category": "木构构件",
-      "definition": "宋式斗拱称谓，出一跳华拱。清源文庙大成殿四面檐下施四铺作斗拱，柱头一攒，补间各两攒，为金代遗构特征。狐突庙后室檐柱间架普拍枋，枋上施四铺作斗拱。",
-      "definition_en": "Song-style bracket set term, one hua-gong jump. Qingyuan Confucian Temple Dacheng Hall has four-tier brackets on all four sides—one set at column heads, two between columns—a Jin dynasty surviving feature. Hu Tu Temple rear chamber has pu-pai-fang between eave columns with four-tier brackets above."
-    },
-    {
-      "id": 10,
-      "term": "如意斗拱",
-      "term_en": "Ruyi Bracket Set",
-      "category": "木构构件",
-      "definition": "拱头雕成如意云纹或象首形状的装饰性斗拱。武庙大门角部的五踩如意斗拱，拱头雕成象首，象征吉祥。西关龙王庙正殿前檐施四组五踩柱头如意斗拱。",
-      "definition_en": "Decorative bracket set with arch heads carved as ruyi cloud patterns or elephant heads. Martial Temple gate corner five-step ruyi brackets have elephant-head carvings symbolizing auspiciousness. Xiguan Dragon King Temple main hall front eave has four sets of five-step column-head ruyi brackets."
-    },
-    {
-      "id": 11,
-      "term": "彻上露明造",
-      "term_en": "Open-Frame Construction (Che Shang Lu Ming Zao)",
-      "category": "木构做法",
-      "definition": "建筑内部不设天花，梁架结构完全暴露可见的做法。清源文庙大成殿梁架采用彻上露明造，用料粗大，结构清晰。",
-      "definition_en": "Construction method where no ceiling is installed inside, exposing the entire beam frame structure. Qingyuan Confucian Temple Dacheng Hall uses open-frame construction with substantial timber and clear structure."
-    },
-    {
-      "id": 12,
-      "term": "肥梁瘦柱",
-      "term_en": "Fat Beams, Slender Columns",
-      "category": "木构特征",
-      "definition": "清源乡土建筑的一大特点，梁的截面高度约为柱径的两倍，梁显得粗壮而柱子相对细瘦。",
-      "definition_en": "A distinctive feature of Qingyuan vernacular architecture: beam cross-section height is about twice the column diameter, making beams appear stout and columns relatively slender."
-    },
-    {
-      "id": 13,
-      "term": "五花山墙",
-      "term_en": "Five-Pattern Gable Wall",
-      "category": "墙体做法",
-      "definition": "山墙顶部随梁架层数呈阶梯状退台的山墙形式，因有五层退台而得名。清源西关龙王庙厢房山墙为五花山墙。",
-      "definition_en": "Gable wall form where the top steps back in tiers following the beam frame layers, named for its five tiers. Xiguan Dragon King Temple side hall gable walls are five-pattern gable walls."
-    },
-    {
-      "id": 14,
-      "term": "墀头",
-      "term_en": "Chi Tou (Gable Wall Ornament)",
-      "category": "砖雕装饰",
-      "definition": "山墙伸出至檐柱之外的部分，通常有砖雕装饰。武庙墀头大样有一进院厢房、二进院厢房、后殿三种不同样式。",
-      "definition_en": "The portion of the gable wall extending beyond the eave columns, usually with brick carving decoration. Martial Temple chi tou specimens show three different styles for first-courtyard side hall, second-courtyard side hall, and rear hall."
-    },
-    {
-      "id": 15,
-      "term": "跑砖",
-      "term_en": "Running Brick Bond",
-      "category": "墙体做法",
-      "definition": "青砖砌法之一，全用平砖顺砌，用于墙裙。清源富裕人家住宅外墙部分用青砖跑砖砌墙裙。",
-      "definition_en": "A blue brick laying method using only flat bricks laid lengthwise, used for wall plinths. Wealthy Qingyuan residences used running brick bond for wall plinths."
-    },
-    {
-      "id": 16,
-      "term": "裱砖",
-      "term_en": "Side Brick Laying (Biao Zhuan)",
-      "category": "墙体做法",
-      "definition": "青砖砌法之一，用侧砖砌法，分一侧一立、一侧两立、一侧三立等。清源富裕人家住宅角部和柱子位置外墙用裱砖。",
-      "definition_en": "A blue brick laying method using bricks on edge, categorized as one-side-one-stand, one-side-two-stand, one-side-three-stand. Wealthy Qingyuan residences used biao zhuan at corners and column positions on exterior walls."
-    },
-    {
-      "id": 17,
-      "term": "影壁",
-      "term_en": "Screen Wall (Yingbi)",
-      "category": "建筑小品",
-      "definition": "设在大门内或门外的屏蔽性墙体，又称照壁。清源衙署巡廨图中有影壁，森泰大街30号院南厢房西山墙正对大门有砖雕影壁。",
-      "definition_en": "A shielding wall placed inside or outside the main gate, also called zhaobi. Qingyuan yamen illustration includes a screen wall; Sen Tai Street No.30 courtyard south side hall west gable wall facing the gate has a brick-carved screen wall."
-    },
-    {
-      "id": 18,
-      "term": "泮池",
-      "term_en": "Pan Pool (Half-Moon Pond)",
-      "category": "文庙建筑",
-      "definition": "文庙大成门前的半圆形水池，象征周天子设立的辟雍。清源文庙现存泮池，泮池上的桥名为状元桥。",
-      "definition_en": "The semicircular pond in front of the Confucian temple Dacheng Gate, symbolizing the imperial academy (biyong). Qingyuan Confucian Temple preserves its pan pool; the bridge over it is called the Zhuangyuan (Top Scholar) Bridge."
-    },
-    {
-      "id": 19,
-      "term": "棂星门",
-      "term_en": "Lingxing Gate",
-      "category": "文庙建筑",
-      "definition": "文庙的第一道大门，象征尊孔如尊天。清源文庙棂星门在20世纪80年代还是完好的，后拆除。",
-      "definition_en": "The first gate of a Confucian temple, symbolizing reverence for Confucius equal to reverence for Heaven. Qingyuan Confucian Temple lingxing gate was still intact in the 1980s, later demolished."
-    },
-    {
-      "id": 20,
-      "term": "市楼",
-      "term_en": "Market Tower (Shi Lou)",
-      "category": "商业建筑",
-      "definition": "位于商业街中心的楼阁式建筑，是商业繁荣的象征。西关市楼通高22.4米，三重檐攒尖顶，基座内设门券通往四条街道，乾隆五十八年1793年刘梦龄新建文昌阁魁星楼于其上。",
-      "definition_en": "A pavilion-style building at the center of a commercial street, symbolizing commercial prosperity. Xiguan market tower is 22.4 meters tall with three-eave pyramidal roof; base has arched passages to four streets. In 1793 Liu Mengling built Wenchang and Kuixing pavilions atop it."
-    },
-    {
-      "id": 21,
-      "term": "碉楼",
-      "term_en": "Watchtower (Diao Lou)",
-      "category": "防御建筑",
-      "definition": "高耸的防御性建筑。普济寺仅剩后院一间平顶房和一座碉楼。筒子楼正房改为高10米左右碉楼，为防御而建。",
-      "definition_en": "A tall defensive building. Puji Temple retains only one flat-roofed room and a watchtower in its rear courtyard. The tongzilou (tube building) main hall was converted to a 10-meter watchtower for defense."
-    },
-    {
-      "id": 22,
-      "term": "筒子楼",
-      "term_en": "Tube Building (Tongzi Lou)",
-      "category": "住宅类型",
-      "definition": "清源特殊住宅类型，专门为防御而建，厢房倒座房与一般住宅无异，正房改为高10米左右碉楼。",
-      "definition_en": "A special Qingyuan residential type built specifically for defense; side halls and reverse-side hall are like ordinary residences, but the main hall is converted to a 10-meter watchtower."
-    },
-    {
-      "id": 23,
-      "term": "梯儿套檐",
-      "term_en": "Tiered Eave Roof (Tier Tao Yan)",
-      "category": "屋顶形式",
-      "definition": "清源大户人家局部坡顶形式，屋顶后三分之二平顶，前三分之一单坡顶带柱廊。",
-      "definition_en": "A partial pitched roof form in large Qingyuan residences: rear two-thirds flat roof, front one-third single-slope roof with column porch."
-    },
-    {
-      "id": 24,
-      "term": "架火",
-      "term_en": "Jia Huo (Stacked Fireworks Tower)",
-      "category": "民俗活动",
-      "definition": "清源正月十六独特活动，用多张长方形桌子做骨架一层一层叠起来竖成高架，爆竹烟花绑高架上由下至上依次燃放。平常年12层闰年13层，总高可达10米左右。",
-      "definition_en": "A unique Qingyuan activity on the 16th day of the first lunar month: multiple rectangular tables stacked vertically as a frame, with fireworks tied on and lit from bottom to top. 12 layers in normal years, 13 in leap years, total height up to about 10 meters."
-    },
-    {
-      "id": 25,
-      "term": "塔塔火",
-      "term_en": "Ta Ta Huo (Coal Stack Fire)",
-      "category": "民俗活动",
-      "definition": "清源正月十六架火配套活动，用煤块堆成约1米高的火堆，一般设十字路口和大商家门口，起照明、取暖和象征红火的作用。",
-      "definition_en": "A companion activity to Jia Huo on the 16th day of the first lunar month: coal blocks stacked into a fire about 1 meter high, usually at crossroads and large shop entrances, for lighting, warmth, and symbolizing prosperity."
-    },
-    {
-      "id": 26,
-      "term": "熏房",
-      "term_en": "Smoke-Drying House (Xun Fang)",
-      "category": "产业建筑",
-      "definition": "利用厢房或倒座房改造的熏制葡萄干建筑，干燥向阳通风，土坯墙平屋顶。东马峪村找到一处生产队时期熏房，有平面立面剖面测绘图。",
-      "definition_en": "A building converted from side hall or reverse-side hall for smoke-drying grapes, dry, sunny, ventilated, with adobe walls and flat roof. A production-team-era smoke house was found in Dongmayu Village, with surveyed plan, elevation, and section drawings."
-    },
-    {
-      "id": 27,
-      "term": "醋坊",
-      "term_en": "Vinegar Workshop (Cu Fang)",
-      "category": "产业建筑",
-      "definition": "酿醋作坊，清源七坊两窑之首。民国时期酿醋字号30余家，实地调查13家醋坊7家保留部分建筑。规模以淋子数量衡量，聚庆诚鼎盛期12个淋子。",
-      "definition_en": "Vinegar-making workshop, ranked first among Qingyuan's seven workshops and two kilns. Over 30 vinegar brands in the Republic period; field survey found 13 workshops, 7 with partial buildings surviving. Scale measured by number of linzi (leaching vats); Juqingcheng had 12 at its peak."
-    },
-    {
-      "id": 28,
-      "term": "淋子",
-      "term_en": "Lin Zi (Vinegar Leaching Vat)",
-      "category": "酿醋器具",
-      "definition": "醋坊规模衡量单位，三个人应付两个淋子效率最高。制醋工艺流程为糖、酒、醋、熏、淋五步。",
-      "definition_en": "Unit for measuring vinegar workshop scale; three workers handling two linzi is most efficient. Vinegar-making process has five steps: saccharification, alcohol fermentation, acetic fermentation, smoking, and leaching."
-    },
-    {
-      "id": 29,
-      "term": "夏伏晒冬抽冰",
-      "term_en": "Summer Sunning, Winter Ice Draining",
-      "category": "酿醋工艺",
-      "definition": "山西老陈醋陈酿工艺，夏天伏天暴晒，冬天结冰后抽出冰块浓缩醋液。400公斤新醋陈酿后剩120-140公斤。",
-      "definition_en": "Shanxi mature vinegar aging process:暴晒 in summer dog days, draining ice in winter to concentrate the vinegar. 400 kg of new vinegar yields 120-140 kg after aging."
-    },
-    {
-      "id": 30,
-      "term": "粮行",
-      "term_en": "Grain Shop (Liang Hang)",
-      "category": "商业建筑",
-      "definition": "清源城同类聚集型工商业中最发达的，牌楼街察院街是粮行集中街道，当地人称粮店街，总长将近400米。十几家粮行每家面积500-800平方米房间30-50间。",
-      "definition_en": "The most developed clustered commercial industry in Qingyuan; Pailou Street and Chayuan Street formed the grain shop district, locally called Grain Shop Street, nearly 400 meters long. Over a dozen grain shops, each 500-800 square meters with 30-50 rooms."
-    },
-    {
-      "id": 31,
-      "term": "盒儿",
-      "term_en": "He Er (Grain Measure Box)",
-      "category": "商业器具",
-      "definition": "粮行门口摆放的斗状木制容器，高30-40厘米上宽约2米下宽约1米，装高粱大麦草麦豌豆小麦小米绿豆广麦等，按斗量出售。",
-      "definition_en": "A bucket-shaped wooden container placed at grain shop entrances, 30-40 cm high, about 2 meters wide at top and 1 meter at bottom, holding sorghum, barley, wheat, peas, millet, mung beans, etc., sold by the dou."
-    },
-    {
-      "id": 32,
-      "term": "当铺",
-      "term_en": "Pawnshop (Dang Pu)",
-      "category": "商业建筑",
-      "definition": "从事典当业的金融机构。清源留存完整当铺建筑4处，建筑最大特点是封闭性和防御性，墙高墙厚庭院宽，院墙4米左右外墙厚80余厘米。",
-      "definition_en": "Financial institution for pawning. Four complete pawnshop buildings survive in Qingyuan. Their greatest architectural feature is enclosure and defensiveness: tall thick walls, wide courtyards, courtyard walls about 4 meters high, exterior walls over 80 cm thick."
-    },
-    {
-      "id": 33,
-      "term": "天网",
-      "term_en": "Heaven Net (Tian Wang)",
-      "category": "防御设施",
-      "definition": "当铺庭院上方安装的铁丝编成的网，下挂铃铛，一触即响，用于防盗贼抢劫。",
-      "definition_en": "Iron wire net installed above pawnshop courtyards, with hanging bells that ring on contact, used to prevent robbery."
-    },
-    {
-      "id": 34,
-      "term": "车马店",
-      "term_en": "Carriage Inn (Che Ma Dian)",
-      "category": "旅店类型",
-      "definition": "招待赶车运货客人的旅店，以南关小南门外和西关关帝庙附近最集中。同和车马店占地约1300平方米院子停马车最多90辆。",
-      "definition_en": "Inn for carriage-driving freight guests, most concentrated outside Nanguan Small South Gate and near Xiguan Guan Yu Temple. Tonghe Carriage Inn covers about 1,300 square meters, courtyard parking up to 90 carriages."
-    },
-    {
-      "id": 35,
-      "term": "驴驴店",
-      "term_en": "Donkey Inn (Lü Lü Dian)",
-      "category": "旅店类型",
-      "definition": "专门招待古交娄烦山客的旅店，山客养驴比马骡子普遍。有棚舍养驴，住房设大通铺炕，炕边有炉，山客带炒面在炉上烤烤下肚。",
-      "definition_en": "Inn specifically for mountain guests from Gujiao and Loufan, who commonly raise donkeys rather than horses or mules. Has donkey sheds and large shared kang beds with stoves; guests roast their own fried noodles on the stove."
-    },
-    {
-      "id": 36,
-      "term": "骆驼店",
-      "term_en": "Camel Inn (Luo Tuo Dian)",
-      "category": "旅店类型",
-      "definition": "招待骆驼队的旅店，清源2家：南关西门坡外苏黑面槐树店，西关市楼西街西头关帝庙南侧永茂店。长途外运西面吕梁山区北面雁北山路崎岖倚仗骆驼。",
-      "definition_en": "Inn for camel caravans, two in Qingyuan: Huaishu Inn outside Nanguan West Gate Slope, and Yongmao Inn south of Guan Yu Temple at west end of Xiguan Shilou West Street. Long-distance transport to Lüliang Mountains and Yanbei relied on camels due to rough roads."
-    },
-    {
-      "id": 37,
-      "term": "坡道窑",
-      "term_en": "Slope Mine (Po Dao Yao)",
-      "category": "煤窑类型",
-      "definition": "煤窑类型之一，从山坡壁打斜井再打水平巷洞。郭家沟坡道窑只有两口：沙圪咀窑和老平窑。",
-      "definition_en": "A type of coal mine: an inclined shaft dug from the hillside, then horizontal tunnels. Only two slope mines in Guojiagou: Shaguzui Mine and Laoping Mine."
-    },
-    {
-      "id": 38,
-      "term": "筒子窑",
-      "term_en": "Shaft Mine (Tong Zi Yao)",
-      "category": "煤窑类型",
-      "definition": "煤窑类型之一，先挖竖井从井底挖水平巷洞，竖井深度十几丈称作一码。郭家沟其余均筒子窑。",
-      "definition_en": "A type of coal mine: a vertical shaft dug first, then horizontal tunnels from the bottom; shaft depth of over ten zhang is called one code. The remaining Guojiagou mines are all shaft mines."
-    },
-    {
-      "id": 39,
-      "term": "窑黑子",
-      "term_en": "Yao Heizi (Mine Worker)",
-      "category": "煤窑工种",
-      "definition": "煤窑工人的俗称，砍煤拖煤摇滑车三种工种中，砍煤拖煤在地下整天接触煤从头到脚黑黑的。",
-      "definition_en": "Colloquial term for coal mine workers. Of the three trades—coal cutting, coal hauling, and pulley operation—cutters and haulers work underground in constant contact with coal, black from head to toe."
-    },
-    {
-      "id": 40,
-      "term": "土盐",
-      "term_en": "Earth Salt (Tu Yan)",
-      "category": "手工业",
-      "definition": "即碱盐，从盐碱地取土煮制而成，味苦质劣，氯化钠含量低，钡氟硫酸镁含量高，长期食用危害健康。民国十六年1927年熬制土盐长期经营者30多家年产约100万公斤。",
-      "definition_en": "Also called alkaline salt, made by boiling soil from saline-alkali land; bitter taste, poor quality, low sodium chloride, high barium/fluorine/magnesium sulfate, harmful with long-term consumption. In 1927, over 30 long-term operators produced about 1 million kg annually."
-    },
-    {
-      "id": 41,
-      "term": "火硝",
-      "term_en": "Saltpeter (Huo Xiao)",
-      "category": "手工业产品",
-      "definition": "熬制土盐的副产品，盐分高土利于得到，卖给火药坊做烟花爆竹炸药，脱硝盐口感更好价格约一般土盐两倍。东湖西岸熬盐硝户每户每天火硝100来斤超土盐产量。",
-      "definition_en": "Byproduct of earth salt boiling, obtained from high-salt soil; sold to gunpowder workshops for fireworks and explosives. Desalted salt tastes better and costs about twice ordinary earth salt. At East Lake west bank, each saltpeter household produced over 100 jin of saltpeter daily, exceeding earth salt output."
-    },
-    {
-      "id": 42,
-      "term": "圪卤",
-      "term_en": "Ge Lu (Bittern)",
-      "category": "手工业产品",
-      "definition": "熬制土盐剩下的液体，冷却沉到底的块状物，不是废料，可用作农业肥料和点豆腐凝结剂（含氯化镁），后成工业用品太原钢铁厂机车厂大量需要。",
-      "definition_en": "Liquid remaining after earth salt boiling, cooled to form solid blocks at the bottom. Not waste: used as agricultural fertilizer and tofu coagulant (contains magnesium chloride), later became industrial material in high demand by Taiyuan Steel and locomotive factories."
-    },
-    {
-      "id": 43,
-      "term": "火药坊",
-      "term_en": "Gunpowder Workshop (Huo Yao Fang)",
-      "category": "手工业",
-      "definition": "制作烟花爆竹炸药的作坊，清源是少数能生产火药的地方之一。产品三类：炸药、火枪药、烟花爆竹，烟花爆竹是主产品。主要分布南关永定街阁儿、小南门、北门一带。",
-      "definition_en": "Workshop making fireworks, firecrackers, and explosives. Qingyuan was one of the few places producing gunpowder. Three product types: explosives, gunpowder for muskets, and fireworks/firecrackers (main product). Mainly distributed in Nanguan Yongding Street Ge'er, Small South Gate, and North Gate areas."
-    },
-    {
-      "id": 44,
-      "term": "炮车",
-      "term_en": "Cannon Cart (Pao Che)",
-      "category": "手工业工具",
-      "definition": "专门卷炮筒工具，燃放效果取决于火药爆炸威力和纸质炮筒密实程度，凭双手无法卷出足够密实炮筒。大炮车图像钟摆和板凳组合，小炮车用倒放小板凳代替。",
-      "definition_en": "Special tool for rolling firecracker tubes. Effect depends on gunpowder power and paper tube density; bare hands cannot roll sufficiently dense tubes. Large pao che resembles a pendulum and bench combination; small one uses an inverted small bench."
-    },
-    {
-      "id": 45,
-      "term": "炒米社",
-      "term_en": "Fried Rice Guild (Chao Mi She)",
-      "category": "行会组织",
-      "definition": "西关炒米业的行会组织，设在西关龙王庙内，龙王庙实为炒米业之会馆。规定每年开始炒米日期、出售价格、限制各户炒米数量、征收巡斗费等。",
-      "definition_en": "The guild organization of Xiguan's fried rice industry, located inside Xiguan Dragon King Temple, which effectively served as the industry's guild hall. It regulated annual start date, selling prices, production quotas per household, and collected inspection fees."
-    },
-    {
-      "id": 46,
-      "term": "巡斗",
-      "term_en": "Xun Dou (Inspection Measure)",
-      "category": "行会制度",
-      "definition": "炒米社内公造量器，不得私造，炒米论斗卖不论斤卖。征收巡斗费，鼓励技术好工人（米粒炒得膨胀不破碎得到更多斗数）。",
-      "definition_en": "A standard measuring vessel publicly made by the fried rice guild; private making prohibited. Fried rice sold by the dou, not by jin. Inspection fees collected; skilled workers (whose rice puffs without breaking) earned more dou."
-    },
-    {
-      "id": 47,
-      "term": "软式大联棚架",
-      "term_en": "Soft Large Connected Trellis",
-      "category": "葡萄种植",
-      "definition": "传统葡萄架形式，架面不到1米高，现代约1.3米。种葡萄一人最多管3亩，种粮食一人管5亩。",
-      "definition_en": "Traditional grape trellis form, trellis surface less than 1 meter high (modern about 1.3 meters). One person manages at most 3 mu of grapes vs 5 mu of grain."
-    },
-    {
-      "id": 48,
-      "term": "熏葡萄",
-      "term_en": "Smoked Grapes (Xun Pu Tao)",
-      "category": "农产品加工",
-      "definition": "即葡萄干，只有黑鸡心红鸡心零蛋马奶适于做熏葡萄以黑鸡心为主。熏制1斤熏葡萄需5斤鲜葡萄，价格约鲜葡萄七八倍。清末民国销往东北内蒙大宗商品，1970年以来新疆葡萄干取代。",
-      "definition_en": "即 raisins; only Black Chicken Heart, Red Chicken Heart, Lingdan, and Horse Milk varieties suitable, mainly Black Chicken Heart. 1 jin smoked grapes requires 5 jin fresh grapes, price about 7-8 times fresh grapes. A major commodity sold to Northeast China and Inner Mongolia in late Qing/Republic; replaced by Xinjiang raisins since the 1970s."
-    },
-    {
-      "id": 49,
-      "term": "浆葡萄",
-      "term_en": "Pulped Grapes (Jiang Pu Tao)",
-      "category": "农产品加工",
-      "definition": "龙眼葡萄冬天储存通风不良散落，来年立春收未腐烂的，含糖量更高，售价仅葡萄十分之二三。",
-      "definition_en": "Longan grapes stored in winter with poor ventilation become scattered; those not rotten by the following spring's Start of Spring are collected, with higher sugar content, sold at only 20-30% of fresh grape price."
-    },
-    {
-      "id": 50,
-      "term": "柴桥",
-      "term_en": "Firewood Bridge (Chai Qiao)",
-      "category": "交通设施",
-      "definition": "用柳树干做桥桩高粱秆铺桥面的临时桥梁，一般秋收前搭好春天冰融化前拆除。清源乡志记载七座柴桥，一直使用到90年代初才完全淘汰。",
-      "definition_en": "Temporary bridge using willow trunks as piles and sorghum stalks as decking, usually built before autumn harvest and removed before spring ice melt. Gazetteer records seven firewood bridges, used until the early 1990s."
-    },
-    {
-      "id": 51,
-      "term": "白石堰",
-      "term_en": "Baishi Weir",
-      "category": "水利设施",
-      "definition": "明洪武二十四年1391年筑，东西长二里，用于治理白石河洪水。清源人开凿27条引水渠，大多百姓自发开凿维护。",
-      "definition_en": "Built in 1391 (Hongwu 24), two li east-west, for controlling Baishi River floods. Qingyuan people dug 27 irrigation canals, mostly自发 built and maintained by common people."
-    },
-    {
-      "id": 52,
-      "term": "东湖",
-      "term_en": "East Lake",
-      "category": "自然景观",
-      "definition": "清源城内湖泊，占地525亩南北长710米东西宽520米，推测形成于公元1605年前后。1967年挖通1400米引河将白石河引入汾河。",
-      "definition_en": "Lake inside Qingyuan city, covering 525 mu, 710 meters north-south, 520 meters east-west, estimated to have formed around 1605. In 1967, a 1,400-meter diversion canal was dug to channel Baishi River into Fen River."
-    },
-    {
-      "id": 53,
-      "term": "梗阳",
-      "term_en": "Gengyang",
-      "category": "历史地名",
-      "definition": "清源古称，春秋时晋大夫祁氏之邑。南关即故梗阳城，有四个城门五个出口五条主要街道。梗阳书院以此命名。",
-      "definition_en": "Ancient name of Qingyuan, a fief of Jin official Qi clan in Spring and Autumn period. Nanguan was the old Gengyang city with four gates, five exits, and five main streets. Gengyang Academy was named after it."
-    },
-    {
-      "id": 54,
-      "term": "狐突",
-      "term_en": "Hu Tu",
-      "category": "历史人物",
-      "definition": "春秋时期晋国大夫，坚持教子忠臣不事二主遭晋怀王杀害，被神化为祈雨之神。西马峪村狐突庙为国家级文物保护单位，存18通元清石碑和两幅大型壁画。",
-      "definition_en": "Grand master of Jin state in Spring and Autumn period, killed by Duke Huai of Jin for teaching sons that a loyal minister does not serve two masters; deified as a rain-prayer deity. Ximayu Village Hu Tu Temple is a National Cultural Heritage Protection Unit with 18 Yuan-Qing steles and two large murals."
-    },
-    {
-      "id": 55,
-      "term": "献殿",
-      "term_en": "Offering Hall (Xian Dian)",
-      "category": "庙宇建筑",
-      "definition": "祭祀活动时用来陈列供品的地方，又称膳庭。狐突庙献殿面阔七间进深四间，硬山顶琉璃剪边，两山墙绘布雨图和回宫图。",
-      "definition_en": "Hall for displaying offerings during rituals, also called meal hall. Hu Tu Temple offering hall has seven bays width, four bays depth, gabled roof with glazed tile trim, and murals of Rain Distribution and Returning to Palace on both gable walls."
-    },
-    {
-      "id": 56,
-      "term": "无梁殿",
-      "term_en": "Beamless Hall (Wu Liang Dian)",
-      "category": "庙宇建筑",
-      "definition": "不用木梁而用砖拱券承重的殿堂。香岩寺三座主体建筑东殿中殿西殿都是无梁殿，寺之俗名也叫无梁殿。",
-      "definition_en": "Hall using brick arches instead of timber beams for load-bearing. Xiangyan Temple's three main buildings (east, central, west halls) are all beamless halls, hence the temple's common name Beamless Hall Temple."
-    },
-    {
-      "id": 57,
-      "term": "乐楼",
-      "term_en": "Music Tower (Le Lou)",
-      "category": "庙宇建筑",
-      "definition": "庙宇中的戏台。北营村关帝庙道光七年1827年重修乐楼至今仍在，三开间悬山顶，前台三面观开敞，后台封闭保暖。",
-      "definition_en": "Opera stage in a temple. Beiying Village Guan Yu Temple's 1827 music tower still survives, three bays, overhanging gable roof, front stage open on three sides, backstage enclosed for warmth."
-    },
-    {
-      "id": 58,
-      "term": "钟鼓楼",
-      "term_en": "Bell and Drum Towers",
-      "category": "庙宇建筑",
-      "definition": "庙宇中悬挂钟和鼓的楼阁，通常对称分布于大门两侧。武庙大门两侧原先是钟鼓楼（十字歇山顶），西关关帝庙倒座房两侧各为钟楼和鼓楼。",
-      "definition_en": "Towers housing bell and drum in temples, usually symmetrically placed on both sides of the gate. Martial Temple gate originally had bell/drum towers (cross hip-and-gable roof); Xiguan Guan Yu Temple reverse-side hall has bell tower (north) and drum tower (south)."
-    },
-    {
-      "id": 59,
-      "term": "寅宾馆",
-      "term_en": "Guest Lodge (Yin Bin Guan)",
-      "category": "衙署建筑",
-      "definition": "衙署中用于接待来往官员的宾馆。清源衙署大门内东为寅宾馆。",
-      "definition_en": "Lodge in the county yamen for receiving visiting officials. Qingyuan yamen had the guest lodge east of the main gate."
-    },
-    {
-      "id": 60,
-      "term": "申明亭旌善亭",
-      "term_en": "Shenming and Jingshan Pavilions",
-      "category": "衙署建筑",
-      "definition": "衙署大门外的两座旌表性建筑，左申明右旌善，具有较强的景观意义和旌表功能。清源衙署大门外建二亭，申明左，旌善右。",
-      "definition_en": "Two commendation pavilions outside the yamen gate—Shenming (left) and Jingshan (right)—with strong landscape and commendation functions. Qingyuan yamen had two pavilions outside the gate: Shenming left, Jingshan right."
-    },
-    {
-      "id": 61,
-      "term": "戒石",
-      "term_en": "Warning Stone (Jie Shi)",
-      "category": "衙署建筑",
-      "definition": "衙署甬道中立的石碑，刻有戒石铭尔俸尔禄民膏民脂下民易虐上天难欺。清源衙署甬道中立戒石，戒石之北为大堂。",
-      "definition_en": "Stone stele in the yamen path, inscribed with the warning: Your salary and stipend come from the people's flesh and fat; the lower people are easy to oppress, but Heaven is hard to deceive. Qingyuan yamen had a warning stone in the path, north of it the Great Hall."
-    },
-    {
-      "id": 62,
-      "term": "侯庙",
-      "term_en": "Marquis Temple (Hou Miao)",
-      "category": "衙署庙宇",
-      "definition": "衙署中祭祀萧何的庙宇，侯是萧何的封号，他辅佐刘邦夺得天下又制订汉朝律令，是天下官臣的榜样。乾隆二十六年1761年知县吴龙光建。",
-      "definition_en": "Temple in the yamen dedicated to Xiao He, whose title was Marquis; he assisted Liu Bang in conquering the empire and formulated Han dynasty laws, serving as a model for all officials. Built in 1761 by Magistrate Wu Longguang."
-    },
-    {
-      "id": 63,
-      "term": "山长",
-      "term_en": "Mountain Head (Shan Zhang)",
-      "category": "书院制度",
-      "definition": "书院的主讲，除主讲外也总理院务，由地方绅士公议从进士或举人中选定。执掌梗阳书院者不乏名士如清末民初刘文炳。",
-      "definition_en": "Chief lecturer of an academy, who also managed general affairs; chosen by local gentry consensus from jinshi or juren degree holders. Notable scholars led Gengyang Academy, such as late Qing/early Republic Liu Wenbing."
-    },
-    {
-      "id": 64,
-      "term": "社学",
-      "term_en": "Community School (She Xue)",
-      "category": "教育制度",
-      "definition": "比较正规的具有官方背景的学塾，教学内容除四书五经和八股制文外还包括各种礼节。政府支持有限，办学经费主要来自民间。清源西关关帝庙清代时就是一处社学。",
-      "definition_en": "Relatively formal, officially backed elementary school; curriculum included Four Books and Five Classics, eight-legged essays, and various rituals. Government support was limited; funding mainly from the people. Xiguan Guan Yu Temple served as a community school in the Qing dynasty."
-    },
-    {
-      "id": 65,
-      "term": "义学",
-      "term_en": "Charity School (Yi Xue)",
-      "category": "教育制度",
-      "definition": "民间自办的初级学校，很少见于方志记载。清徐县志提到桃园义学在西马峪村，宿儒牛瑞云于清末捐资兴办。",
-      "definition_en": "Privately run elementary school, rarely recorded in gazetteers. Qingxu County Gazetteer mentions Taoyuan Charity School in Ximayu Village, founded by scholar Niu Ruiyun in the late Qing."
-    },
-    {
-      "id": 66,
-      "term": "文昌",
-      "term_en": "Wenchang (God of Literature)",
-      "category": "民间信仰",
-      "definition": "主文运的神灵，俗称文曲星。清源城原有一处文昌宫和多处文昌阁。西关市楼乾隆五十八年1793年新建文昌阁魁星楼，供文昌和魁星。",
-      "definition_en": "Deity governing literary fortune, commonly called Wenqu Star. Qingyuan originally had one Wenchang Palace and multiple Wenchang Pavilions. Xiguan market tower had Wenchang and Kuixing pavilions newly built in 1793."
-    },
-    {
-      "id": 67,
-      "term": "魁星",
-      "term_en": "Kuixing (God of Examinations)",
-      "category": "民间信仰",
-      "definition": "主宰文章兴衰的神，与文昌同供于市楼。乾隆五十八年1793年刘梦龄新建文昌阁魁星楼。",
-      "definition_en": "Deity governing literary success, enshrined with Wenchang in the market tower. In 1793 Liu Mengling built the new Wenchang Pavilion and Kuixing Tower."
-    },
-    {
-      "id": 68,
-      "term": "五道庙",
-      "term_en": "Five-Path Temple (Wu Dao Miao)",
-      "category": "民间信仰",
-      "definition": "村口常见的小型庙宇，供奉五道将军。平泉村有三座五道庙，王亮老先生幼年时见过。",
-      "definition_en": "Small temple commonly found at village entrances, dedicated to the Five-Path General. Pingquan Village had three five-path temples, seen by elderly Wang Liang in his childhood."
-    },
-    {
-      "id": 69,
-      "term": "土地庙",
-      "term_en": "Earth God Temple (Tu Di Miao)",
-      "category": "民间信仰",
-      "definition": "最小的庙宇建筑，供奉土地神。永定街23号院王有德宅照壁上有土地庙，两侧对联为土能生万物地可出黄金。",
-      "definition_en": "The smallest temple building, dedicated to the Earth God. The screen wall of Wang Youde's residence at No.23 Yongding Street has an Earth God Temple with couplet: Earth can produce all things, earth can yield gold."
-    },
-    {
-      "id": 70,
-      "term": "狐突庙会",
-      "term_en": "Hu Tu Temple Fair",
-      "category": "民俗活动",
-      "definition": "每年七月十五日举行，唱戏三天，为所有来上香的信徒提供一顿免费的面汤。戏班利用普照寺后院作临时住房和厨房。",
-      "definition_en": "Held annually on the 15th day of the 7th lunar month, with three days of opera and a free noodle soup meal for all worshippers. Opera troupes used the rear courtyard of Puzhao Temple as temporary housing and kitchen."
-    },
-    {
-      "id": 71,
-      "term": "葡萄庙会",
-      "term_en": "Grape Temple Fair",
-      "category": "民俗活动",
-      "definition": "平泉北营七月初七，东西马峪七月二十九与香岩寺庙会同期，演戏三天六场，戏资东马峪村负责。",
-      "definition_en": "Pingquan Beiying on 7th day of 7th lunar month; Dongmayu/Ximayu on 29th day of 7th lunar month, concurrent with Xiangyan Temple fair, three days six performances, costs borne by Dongmayu Village."
-    },
-    {
-      "id": 72,
-      "term": "清源八景",
-      "term_en": "Eight Sights of Qingyuan",
-      "category": "文化景观",
-      "definition": "清源古代八处著名景观，包括西岭香岩、中隐环青、汾河晚渡等。香岩寺西岭香岩和清泉寺中隐环青均为八景之一。",
-      "definition_en": "Eight famous ancient scenic spots of Qingyuan, including Western Ridge Xiangyan, Central Hidden Mountain Encircled in Green, Fen River Evening Crossing, etc. Xiangyan Temple's Western Ridge Xiangyan and Qingquan Temple's Central Hidden Mountain Encircled in Green are both among the Eight Sights."
-    },
-    {
-      "id": 73,
-      "term": "晋商",
-      "term_en": "Shanxi Merchants (Jin Shang)",
-      "category": "商帮",
-      "definition": "山西商人集团，清源商业发达与晋商密切相关。乔生福生于1925年最后一代晋商；孙铁牛父亲晋商曾和天津老板合办葡萄酒厂；务本生醋坊主人乔万选为汪伪政府司法部次长。",
-      "definition_en": "Shanxi merchant group; Qingyuan's commercial prosperity was closely tied to Shanxi merchants. Qiao Shengfu (born 1925) was the last generation; Sun Tieniu's father was a Shanxi merchant who co-founded a winery with a Tianjin boss; Wu Bensheng vinegar workshop owner Qiao Wanxuan became Vice Minister of Justice under Wang Jingwei regime."
-    },
-    {
-      "id": 74,
-      "term": "钱帖子",
-      "term_en": "Money Note (Qian Tie Zi)",
-      "category": "金融",
-      "definition": "民国初年清源钱庄当铺粮行发行的钱票，可当货币使用。民国十九年1930年晋钞贬值钱庄倒闭甚多。",
-      "definition_en": "Money notes issued by Qingyuan banks, pawnshops, and grain shops in the early Republic period, usable as currency. In 1930, Shanxi banknotes depreciated and many banks collapsed."
-    },
-    {
-      "id": 75,
-      "term": "身股",
-      "term_en": "Personal Share (Shen Gu)",
-      "category": "金融制度",
-      "definition": "当铺高级雇员的技术入股，加入当铺时谈好银股身股比例，三年为期到期结算利润按比例分，身股收入远大于固定工资。",
-      "definition_en": "Technology-based equity for senior pawnshop employees; silver-share and personal-share ratios agreed upon joining, three-year term, profits divided proportionally at settlement; personal-share income far exceeded fixed wages."
-    },
-    {
-      "id": 76,
-      "term": "带东掌柜",
-      "term_en": "Partner Manager (Dai Dong Zhang Gui)",
-      "category": "金融制度",
-      "definition": "东家即掌柜本人，持身股者可不领现银投入银股成带东雇员。",
-      "definition_en": "Where the owner is also the manager; personal-share holders could invest unpaid wages into silver shares to become partner employees."
-    },
-    {
-      "id": 77,
-      "term": "下架货",
-      "term_en": "Unredeemed Goods (Xia Jia Huo)",
-      "category": "典当业",
-      "definition": "过期不赎的抵押物，可直接出售，占抵押物大部分。收抵押物时价格压得很低，利润相当高。当铺收入主要来自出售下架货其次赎当时收利息。",
-      "definition_en": "Overdue unredeemed collateral, sold directly, comprising most collateral. Prices kept very low at acceptance, yielding high profits. Pawnshop income mainly from selling unredeemed goods,其次 interest on redemption."
-    },
-    {
-      "id": 78,
-      "term": "当票",
-      "term_en": "Pawn Ticket (Dang Piao)",
-      "category": "典当业",
-      "definition": "麻纸蓝印分正副两联，写抵押物名称当价，两联间盖各家特有骑缝蓝印，当铺和抵押人各持一联，期满凭票赎当。",
-      "definition_en": "Hemp paper with blue printing, in two copies (original and duplicate), recording collateral name and pawn price; unique blue seal across the perforation between copies, one held by pawnshop and one by pawner; redemption by ticket after term expires."
-    },
-    {
-      "id": 79,
-      "term": "柜头",
-      "term_en": "Counter Head (Gui Tou)",
-      "category": "典当业",
-      "definition": "当铺中收取抵押物评估价值的高级雇员，收抵押物价格压得低多为原物价值三成或更低，不管成色当票描述一律以破旧二字打头。",
-      "definition_en": "Senior pawnshop employee who accepts collateral and assesses value; prices kept low, often 30% or less of original value; regardless of condition, pawn ticket descriptions always begin with worn and old."
-    },
-    {
-      "id": 80,
-      "term": "彩帛行",
-      "term_en": "Fabric Shop (Cai Bo Hang)",
-      "category": "商业",
-      "definition": "即布庄，晚清西方工业化布匹大量涌入价格比农民自织便宜，家庭妇女普遍放弃纺织，布庄成商业城镇重要商店类型。清源南关丰裕庆著名。",
-      "definition_en": "即 cloth shops; in late Qing, Western industrially produced cloth flooded in at lower prices than homespun, women abandoned weaving, cloth shops became important commercial stores. Nanguan Fengyuqing was famous in Qingyuan."
-    },
-    {
-      "id": 81,
-      "term": "皮坊",
-      "term_en": "Leather Workshop (Pi Fang)",
-      "category": "手工业",
-      "definition": "把生羊皮加工成熟羊皮的作坊，三道工序刮沤磨。清源产皮硝是重要原因，交城制皮业最发达带动清源发展。",
-      "definition_en": "Workshop processing raw sheepskin into tanned leather, three steps: scraping, soaking, polishing. Qingyuan's production of leather saltpeter was important; Jiaocheng's most developed leather industry spurred Qingyuan's development."
-    },
-    {
-      "id": 82,
-      "term": "滩羊皮",
-      "term_en": "Ningxia Tan Sheepskin",
-      "category": "皮革原料",
-      "definition": "宁夏滩羊毛长柔软两寸长，经黄河船运至临县碛口镇沿湫水河谷驼运至晋中，比山西本地羊皮质地更柔软更舒服。旧时说法农民穿老羊皮中上等人穿滩羊皮富贵人家穿狐皮。",
-      "definition_en": "Ningxia Tan sheep wool is long and soft (two cun), shipped by Yellow River boat to Linxian Qikou, then camel transport along Qiushui River valley to central Shanxi; softer and more comfortable than local Shanxi sheepskin. Old saying: peasants wear old sheepskin, middle-upper class wear Tan sheepskin, wealthy wear fox fur."
-    },
-    {
-      "id": 83,
-      "term": "毡帽行",
-      "term_en": "Felt Hat Shop (Zhan Mao Hang)",
-      "category": "手工业",
-      "definition": "熟羊皮做毡帽的作坊，40年代清源城两家，全盛号南关永定街三甲前店后厂。毡帽部分清源本地出售更多贴上河北宣化某毡帽行商标运到那销售。",
-      "definition_en": "Workshop making felt hats from tanned sheepskin; two in 1940s Qingyuan, Quansheng Hao at Nanguan Yongding Street Sanjia with front shop rear factory. Some hats sold locally, more affixed with a Hebei Xuanhua felt hat brand label and sold there."
-    },
-    {
-      "id": 84,
-      "term": "翻砂厂",
-      "term_en": "Foundry (Fan Sha Chang)",
-      "category": "手工业",
-      "definition": "传统粗铁铸造作坊，和盐坊关系密切，盐坊熬盐大铁锅放燃料煤炉条都是翻砂厂制作。集中水桥以北旧地名胡家湾，四和砂园为代表。",
-      "definition_en": "Traditional cast-iron foundry, closely related to salt workshops—salt workshop's large iron boiling pots and fuel furnace grates were made by foundries. Concentrated north of Shuiqiao, old place name Hujiawan; Sihe Sha Yuan was representative."
-    },
-    {
-      "id": 85,
-      "term": "木匠业",
-      "term_en": "Carpentry (Mu Jiang Ye)",
-      "category": "手工业",
-      "definition": "分大木小木，大木匠管建造房屋不需要店铺带队伍上门盖房，小木匠制木制用品有固定店铺分柜铺棺材铺车铺小推车铺。",
-      "definition_en": "Divided into large and small carpentry: large carpenters build houses without shops, leading teams on-site; small carpenters make wooden products in fixed shops, including cabinet shops, coffin shops, cart shops, and wheelbarrow shops."
-    },
-    {
-      "id": 86,
-      "term": "柜家铺",
-      "term_en": "Cabinet Shop (Gui Jia Pu)",
-      "category": "手工业",
-      "definition": "做家具箱柜顶柜大柜坑柜太师椅八仙桌等，好木材梨木核桃木榆木，一般柳木杨木。硬木家具不上漆手工反复推光先用粗布擦最后用手推极费人工。",
-      "definition_en": "Shop making furniture—chests, cabinets, top cabinets, large cabinets, kang cabinets, taishi chairs, eight-immortal tables. Fine woods: pear, walnut, elm; ordinary: willow, poplar. Hardwood furniture not lacquered but hand-polished repeatedly—first coarse cloth, finally hand rubbing—very labor-intensive."
-    },
-    {
-      "id": 87,
-      "term": "同德义糕点铺",
-      "term_en": "Tongdeyi Pastry Shop",
-      "category": "商业",
-      "definition": "民国清源城规模最大名气最响的糕点铺，猪市巷南侧今小西门街18号，前后两进院占地约565平方米。东家刘万长身兼大掌柜二掌柜账房先生。",
-      "definition_en": "The largest and most famous pastry shop in Republic-era Qingyuan, south of Zhushi Alley (today No.18 Xiaoximen Street), two courtyards, about 565 square meters. Owner Liu Wanchang served as both head manager, second manager, and accountant."
-    },
-    {
-      "id": 88,
-      "term": "广德堂",
-      "term_en": "Guangde Tang Pharmacy",
-      "category": "商业",
-      "definition": "40年代末清源城6家中药店中规模最大，南关大街东侧靠近南门。另有聚和堂崇德堂协生泰万助成春生广等。",
-      "definition_en": "The largest of six Chinese medicine shops in late 1940s Qingyuan, east side of Nanguan Main Street near South Gate. Others included Juhe Tang, Chongde Tang, Xiesheng Tai, Wanzhu Cheng, Chunsheng Guang."
-    },
-    {
-      "id": 89,
-      "term": "梗阳医院",
-      "term_en": "Gengyang Hospital",
-      "category": "医疗机构",
-      "definition": "清源南门里第一家现代医院，郭鹤仙太谷明贤学校毕业生教会学校自小受西式教育终生笃信西医，七七事变后开，据说警察局长郝兰亭为老板。",
-      "definition_en": "The first modern hospital in Qingyuan, inside South Gate, founded by Guo Hexian (graduate of Taigu Mingxian School, a missionary school, raised with Western education, lifelong believer in Western medicine) after the Marco Polo Bridge Incident; police chief Hao Lanting was reportedly the owner."
-    },
-    {
-      "id": 90,
-      "term": "基督教堂",
-      "term_en": "Christian Church",
-      "category": "宗教建筑",
-      "definition": "清源是天主教和基督教信徒较多之地，西关市楼西街中段以北现有一座建于1994年的基督教堂，前身是民国初年基督教太谷支会康保罗牧师来清源传教时修建的，同期修建的还有一座医院。",
-      "definition_en": "Qingyuan had many Catholic and Protestant believers. North of the middle section of Xiguan Shilou West Street stands a Christian church built in 1994. Its predecessor was built in the early Republic by Pastor Kang Baoluo of the Taigu branch of the Christian Church when he came to Qingyuan to preach; a hospital was built in the same period."
-    }
-  ]
+ "book_title": "晋中清源城",
+ "book_title_en": "Qingyuan City of Jinzhong",
+ "authors": "罗德胤、黄靖",
+ "terms_count": 90,
+ "categories": [
+ "商帮",
+ "煤窑类型",
+ "酿醋器具",
+ "文化景观",
+ "文庙建筑",
+ "行会组织",
+ "砖雕装饰",
+ "酿醋工艺",
+ "商业",
+ "煤窑工种",
+ "医疗机构",
+ "历史地名",
+ "金融制度",
+ "商业器具",
+ "民间信仰",
+ "衙署庙宇",
+ "手工业",
+ "典当业",
+ "葡萄种植",
+ "商业建筑",
+ "宗教建筑",
+ "行会制度",
+ "水利设施",
+ "衙署建筑",
+ "民俗活动",
+ "木构特征",
+ "墙体做法",
+ "自然景观",
+ "庙宇建筑",
+ "木构构件",
+ "皮革原料",
+ "产业建筑",
+ "建筑小品",
+ "手工业产品",
+ "金融",
+ "历史人物",
+ "防御建筑",
+ "手工业工具",
+ "教育制度",
+ "旅店类型",
+ "农产品加工",
+ "交通设施",
+ "防御设施",
+ "屋顶形式",
+ "书院制度",
+ "木构做法",
+ "住宅类型"
+ ],
+ "terms": [
+ {
+ "id": 1,
+ "term": "硬山起脊",
+ "term_en": "Gabled Roof with Ridge",
+ "category": "屋顶形式",
+ "definition": "中国传统建筑屋顶形式之一，山墙与屋面齐平或略高于屋面，屋顶两端有正脊和垂脊。清源乡土建筑中最常见的屋顶形式，正殿、正房多采用。",
+ "definition_en": "A traditional Chinese roof form where the gable wall is flush with or slightly above the roof surface, with a main ridge and hip rafters at both ends. The most common roof form in Qingyuan vernacular architecture, used for main halls and houses."
+ },
+ {
+ "id": 2,
+ "term": "硬山卷棚",
+ "term_en": "Gabled Roof without Ridge (Juanshan)",
+ "category": "屋顶形式",
+ "definition": "硬山顶的变体，屋面两坡相交处不做正脊，呈弧形曲面，又称元宝顶。清源城隍庙后院正殿、西关关帝庙厢房采用此形式。",
+ "definition_en": "A variant of the gabled roof where the two slopes meet without a main ridge, forming a curved surface, also called ingot roof. Used in the rear main hall of Qingyuan City God Temple and side halls of Xiguan Guan Yu Temple."
+ },
+ {
+ "id": 3,
+ "term": "歇山顶",
+ "term_en": "Hip-and-Gable Roof (Xieshan)",
+ "category": "屋顶形式",
+ "definition": "中国传统建筑高等级屋顶形式，上半部为悬山，下半部为庑殿，有一条正脊、四条垂脊和四条戗脊。清源文庙大成殿、武庙大门采用单檐歇山顶。",
+ "definition_en": "A high-ranking traditional Chinese roof form, upper half is overhanging gable, lower half is hip roof, with one main ridge, four hip rafters, and four diagonal ridges. Qingyuan Confucian Temple Dacheng Hall and Martial Temple gate use single-eave hip-and-gable roofs."
+ },
+ {
+ "id": 4,
+ "term": "悬山顶",
+ "term_en": "Overhanging Gable Roof (Xuanshan)",
+ "category": "屋顶形式",
+ "definition": "屋顶两端山墙退到屋面之下，屋面挑出山墙之外。清源西关龙王庙厢房采用悬山起脊单坡顶，北营村关帝庙戏台采用悬山顶。",
+ "definition_en": "Roof form where the gable walls recede below the roof surface, which overhangs beyond the walls. Xiguan Dragon King Temple side halls use overhanging gable single-slope roofs; Beiying Village Guan Yu Temple stage uses overhanging gable roof."
+ },
+ {
+ "id": 5,
+ "term": "攒尖顶",
+ "term_en": "Pyramidal Roof (Zanjian)",
+ "category": "屋顶形式",
+ "definition": "屋顶坡面集中于顶部一点，无正脊，常用于楼阁、亭、塔。西关市楼为三重檐攒尖顶楼阁，通高22.4米。",
+ "definition_en": "Roof form where slopes converge at a single top point, no main ridge, commonly used for pavilions, towers. Xiguan market tower is a three-eave pyramidal-roof pavilion, total height 22.4 meters."
+ },
+ {
+ "id": 6,
+ "term": "十字歇山顶",
+ "term_en": "Cross Hip-and-Gable Roof",
+ "category": "屋顶形式",
+ "definition": "两个歇山顶垂直相交形成的屋顶形式，平面呈十字形。西关关帝庙钟鼓楼采用单檐十字歇山顶，四柱承重。",
+ "definition_en": "Roof form formed by two hip-and-gable roofs intersecting perpendicularly, cross-shaped plan. Xiguan Guan Yu Temple bell and drum towers use single-eave cross hip-and-gable roofs with four load-bearing columns."
+ },
+ {
+ "id": 7,
+ "term": "五踩斗拱",
+ "term_en": "Five-Step Bracket Set (Wucai Dougong)",
+ "category": "木构构件",
+ "definition": "斗拱出跳数为五踩（两跳华拱加两跳昂），是清代建筑中较高等级的斗拱。武庙大门檐下施五组五踩斗拱，西关市楼一二层檐下施五踩斗拱。",
+ "definition_en": "Bracket set with five steps (two hua-gong jumps plus two ang jumps), a relatively high-ranking bracket set in Qing architecture. Martial Temple gate has five sets of five-step brackets under eaves; Xiguan market tower first and second floors have five-step brackets."
+ },
+ {
+ "id": 8,
+ "term": "七踩斗拱",
+ "term_en": "Seven-Step Bracket Set (Qicai Dougong)",
+ "category": "木构构件",
+ "definition": "斗拱出跳数为七踩（三跳华拱加三跳昂），等级高于五踩。西关市楼三层檐下施七踩斗拱。",
+ "definition_en": "Bracket set with seven steps (three hua-gong jumps plus three ang jumps), higher rank than five-step. Xiguan market tower third floor has seven-step brackets under eaves."
+ },
+ {
+ "id": 9,
+ "term": "四铺作斗拱",
+ "term_en": "Four-Tier Bracket Set (Sipuzuo Dougong)",
+ "category": "木构构件",
+ "definition": "宋式斗拱称谓，出一跳华拱。清源文庙大成殿四面檐下施四铺作斗拱，柱头一攒，补间各两攒，为金代遗构特征。狐突庙后室檐柱间架普拍枋，枋上施四铺作斗拱。",
+ "definition_en": "Song-style bracket set term, one hua-gong jump. Qingyuan Confucian Temple Dacheng Hall has four-tier brackets on all four sides—one set at column heads, two between columns—a Jin dynasty surviving feature. Hu Tu Temple rear chamber has pu-pai-fang between eave columns with four-tier brackets above."
+ },
+ {
+ "id": 10,
+ "term": "如意斗拱",
+ "term_en": "Ruyi Bracket Set",
+ "category": "木构构件",
+ "definition": "拱头雕成如意云纹或象首形状的装饰性斗拱。武庙大门角部的五踩如意斗拱，拱头雕成象首，象征吉祥。西关龙王庙正殿前檐施四组五踩柱头如意斗拱。",
+ "definition_en": "Decorative bracket set with arch heads carved as ruyi cloud patterns or elephant heads. Martial Temple gate corner five-step ruyi brackets have elephant-head carvings symbolizing auspiciousness. Xiguan Dragon King Temple main hall front eave has four sets of five-step column-head ruyi brackets."
+ },
+ {
+ "id": 11,
+ "term": "彻上露明造",
+ "term_en": "Open-Frame Construction (Che Shang Lu Ming Zao)",
+ "category": "木构做法",
+ "definition": "建筑内部不设天花，梁架结构完全暴露可见的做法。清源文庙大成殿梁架采用彻上露明造，用料粗大，结构清晰。",
+ "definition_en": "Construction method where no ceiling is installed inside, exposing the entire beam frame structure. Qingyuan Confucian Temple Dacheng Hall uses open-frame construction with substantial timber and clear structure."
+ },
+ {
+ "id": 12,
+ "term": "肥梁瘦柱",
+ "term_en": "Fat Beams, Slender Columns",
+ "category": "木构特征",
+ "definition": "清源乡土建筑的一大特点，梁的截面高度约为柱径的两倍，梁显得粗壮而柱子相对细瘦。",
+ "definition_en": "A distinctive feature of Qingyuan vernacular architecture: beam cross-section height is about twice the column diameter, making beams appear stout and columns relatively slender."
+ },
+ {
+ "id": 13,
+ "term": "五花山墙",
+ "term_en": "Five-Pattern Gable Wall",
+ "category": "墙体做法",
+ "definition": "山墙顶部随梁架层数呈阶梯状退台的山墙形式，因有五层退台而得名。清源西关龙王庙厢房山墙为五花山墙。",
+ "definition_en": "Gable wall form where the top steps back in tiers following the beam frame layers, named for its five tiers. Xiguan Dragon King Temple side hall gable walls are five-pattern gable walls."
+ },
+ {
+ "id": 14,
+ "term": "墀头",
+ "term_en": "Chi Tou (Gable Wall Ornament)",
+ "category": "砖雕装饰",
+ "definition": "山墙伸出至檐柱之外的部分，通常有砖雕装饰。武庙墀头大样有一进院厢房、二进院厢房、后殿三种不同样式。",
+ "definition_en": "The portion of the gable wall extending beyond the eave columns, usually with brick carving decoration. Martial Temple chi tou specimens show three different styles for first-courtyard side hall, second-courtyard side hall, and rear hall."
+ },
+ {
+ "id": 15,
+ "term": "跑砖",
+ "term_en": "Running Brick Bond",
+ "category": "墙体做法",
+ "definition": "青砖砌法之一，全用平砖顺砌，用于墙裙。清源富裕人家住宅外墙部分用青砖跑砖砌墙裙。",
+ "definition_en": "A blue brick laying method using only flat bricks laid lengthwise, used for wall plinths. Wealthy Qingyuan residences used running brick bond for wall plinths."
+ },
+ {
+ "id": 16,
+ "term": "裱砖",
+ "term_en": "Side Brick Laying (Biao Zhuan)",
+ "category": "墙体做法",
+ "definition": "青砖砌法之一，用侧砖砌法，分一侧一立、一侧两立、一侧三立等。清源富裕人家住宅角部和柱子位置外墙用裱砖。",
+ "definition_en": "A blue brick laying method using bricks on edge, categorized as one-side-one-stand, one-side-two-stand, one-side-three-stand. Wealthy Qingyuan residences used biao zhuan at corners and column positions on exterior walls."
+ },
+ {
+ "id": 17,
+ "term": "影壁",
+ "term_en": "Screen Wall (Yingbi)",
+ "category": "建筑小品",
+ "definition": "设在大门内或门外的屏蔽性墙体，又称照壁。清源衙署巡廨图中有影壁，森泰大街30号院南厢房西山墙正对大门有砖雕影壁。",
+ "definition_en": "A shielding wall placed inside or outside the main gate, also called zhaobi. Qingyuan yamen illustration includes a screen wall; Sen Tai Street No.30 courtyard south side hall west gable wall facing the gate has a brick-carved screen wall."
+ },
+ {
+ "id": 18,
+ "term": "泮池",
+ "term_en": "Pan Pool (Half-Moon Pond)",
+ "category": "文庙建筑",
+ "definition": "文庙大成门前的半圆形水池，象征周天子设立的辟雍。清源文庙现存泮池，泮池上的桥名为状元桥。",
+ "definition_en": "The semicircular pond in front of the Confucian temple Dacheng Gate, symbolizing the imperial academy (biyong). Qingyuan Confucian Temple preserves its pan pool; the bridge over it is called the Zhuangyuan (Top Scholar) Bridge."
+ },
+ {
+ "id": 19,
+ "term": "棂星门",
+ "term_en": "Lingxing Gate",
+ "category": "文庙建筑",
+ "definition": "文庙的第一道大门，象征尊孔如尊天。清源文庙棂星门在20世纪80年代还是完好的，后拆除。",
+ "definition_en": "The first gate of a Confucian temple, symbolizing reverence for Confucius equal to reverence for Heaven. Qingyuan Confucian Temple lingxing gate was still intact in the 1980s, later demolished."
+ },
+ {
+ "id": 20,
+ "term": "市楼",
+ "term_en": "Market Tower (Shi Lou)",
+ "category": "商业建筑",
+ "definition": "位于商业街中心的楼阁式建筑，是商业繁荣的象征。西关市楼通高22.4米，三重檐攒尖顶，基座内设门券通往四条街道，乾隆五十八年1793年刘梦龄新建文昌阁魁星楼于其上。",
+ "definition_en": "A pavilion-style building at the center of a commercial street, symbolizing commercial prosperity. Xiguan market tower is 22.4 meters tall with three-eave pyramidal roof; base has arched passages to four streets. In 1793 Liu Mengling built Wenchang and Kuixing pavilions atop it."
+ },
+ {
+ "id": 21,
+ "term": "碉楼",
+ "term_en": "Watchtower (Diao Lou)",
+ "category": "防御建筑",
+ "definition": "高耸的防御性建筑。普济寺仅剩后院一间平顶房和一座碉楼。筒子楼正房改为高10米左右碉楼，为防御而建。",
+ "definition_en": "A tall defensive building. Puji Temple retains only one flat-roofed room and a watchtower in its rear courtyard. The tongzilou (tube building) main hall was converted to a 10-meter watchtower for defense."
+ },
+ {
+ "id": 22,
+ "term": "筒子楼",
+ "term_en": "Tube Building (Tongzi Lou)",
+ "category": "住宅类型",
+ "definition": "清源特殊住宅类型，专门为防御而建，厢房倒座房与一般住宅无异，正房改为高10米左右碉楼。",
+ "definition_en": "A special Qingyuan residential type built specifically for defense; side halls and reverse-side hall are like ordinary residences, but the main hall is converted to a 10-meter watchtower."
+ },
+ {
+ "id": 23,
+ "term": "梯儿套檐",
+ "term_en": "Tiered Eave Roof (Tier Tao Yan)",
+ "category": "屋顶形式",
+ "definition": "清源大户人家局部坡顶形式，屋顶后三分之二平顶，前三分之一单坡顶带柱廊。",
+ "definition_en": "A partial pitched roof form in large Qingyuan residences: rear two-thirds flat roof, front one-third single-slope roof with column porch."
+ },
+ {
+ "id": 24,
+ "term": "架火",
+ "term_en": "Jia Huo (Stacked Fireworks Tower)",
+ "category": "民俗活动",
+ "definition": "清源正月十六独特活动，用多张长方形桌子做骨架一层一层叠起来竖成高架，爆竹烟花绑高架上由下至上依次燃放。平常年12层闰年13层，总高可达10米左右。",
+ "definition_en": "A unique Qingyuan activity on the 16th day of the first lunar month: multiple rectangular tables stacked vertically as a frame, with fireworks tied on and lit from bottom to top. 12 layers in normal years, 13 in leap years, total height up to about 10 meters."
+ },
+ {
+ "id": 25,
+ "term": "塔塔火",
+ "term_en": "Ta Ta Huo (Coal Stack Fire)",
+ "category": "民俗活动",
+ "definition": "清源正月十六架火配套活动，用煤块堆成约1米高的火堆，一般设十字路口和大商家门口，起照明、取暖和象征红火的作用。",
+ "definition_en": "A companion activity to Jia Huo on the 16th day of the first lunar month: coal blocks stacked into a fire about 1 meter high, usually at crossroads and large shop entrances, for lighting, warmth, and symbolizing prosperity."
+ },
+ {
+ "id": 26,
+ "term": "熏房",
+ "term_en": "Smoke-Drying House (Xun Fang)",
+ "category": "产业建筑",
+ "definition": "利用厢房或倒座房改造的熏制葡萄干建筑，干燥向阳通风，土坯墙平屋顶。东马峪村找到一处生产队时期熏房，有平面立面剖面测绘图。",
+ "definition_en": "A building converted from side hall or reverse-side hall for smoke-drying grapes, dry, sunny, ventilated, with adobe walls and flat roof. A production-team-era smoke house was found in Dongmayu Village, with surveyed plan, elevation, and section drawings."
+ },
+ {
+ "id": 27,
+ "term": "醋坊",
+ "term_en": "Vinegar Workshop (Cu Fang)",
+ "category": "产业建筑",
+ "definition": "酿醋作坊，清源七坊两窑之首。民国时期酿醋字号30余家，实地调查13家醋坊7家保留部分建筑。规模以淋子数量衡量，聚庆诚鼎盛期12个淋子。",
+ "definition_en": "Vinegar-making workshop, ranked first among Qingyuan's seven workshops and two kilns. Over 30 vinegar brands in the Republic period; field survey found 13 workshops, 7 with partial buildings surviving. Scale measured by number of linzi (leaching vats); Juqingcheng had 12 at its peak."
+ },
+ {
+ "id": 28,
+ "term": "淋子",
+ "term_en": "Lin Zi (Vinegar Leaching Vat)",
+ "category": "酿醋器具",
+ "definition": "醋坊规模衡量单位，三个人应付两个淋子效率最高。制醋工艺流程为糖、酒、醋、熏、淋五步。",
+ "definition_en": "Unit for measuring vinegar workshop scale; three workers handling two linzi is most efficient. Vinegar-making process has five steps: saccharification, alcohol fermentation, acetic fermentation, smoking, and leaching."
+ },
+ {
+ "id": 29,
+ "term": "夏伏晒冬抽冰",
+ "term_en": "Summer Sunning, Winter Ice Draining",
+ "category": "酿醋工艺",
+ "definition": "山西老陈醋陈酿工艺，夏天伏天暴晒，冬天结冰后抽出冰块浓缩醋液。400公斤新醋陈酿后剩120-140公斤。",
+ "definition_en": "Shanxi mature vinegar aging process:暴晒 in summer dog days, draining ice in winter to concentrate the vinegar. 400 kg of new vinegar yields 120-140 kg after aging."
+ },
+ {
+ "id": 30,
+ "term": "粮行",
+ "term_en": "Grain Shop (Liang Hang)",
+ "category": "商业建筑",
+ "definition": "清源城同类聚集型工商业中最发达的，牌楼街察院街是粮行集中街道，当地人称粮店街，总长将近400米。十几家粮行每家面积500-800平方米房间30-50间。",
+ "definition_en": "The most developed clustered commercial industry in Qingyuan; Pailou Street and Chayuan Street formed the grain shop district, locally called Grain Shop Street, nearly 400 meters long. Over a dozen grain shops, each 500-800 square meters with 30-50 rooms."
+ },
+ {
+ "id": 31,
+ "term": "盒儿",
+ "term_en": "He Er (Grain Measure Box)",
+ "category": "商业器具",
+ "definition": "粮行门口摆放的斗状木制容器，高30-40厘米上宽约2米下宽约1米，装高粱大麦草麦豌豆小麦小米绿豆广麦等，按斗量出售。",
+ "definition_en": "A bucket-shaped wooden container placed at grain shop entrances, 30-40 cm high, about 2 meters wide at top and 1 meter at bottom, holding sorghum, barley, wheat, peas, millet, mung beans, etc., sold by the dou."
+ },
+ {
+ "id": 32,
+ "term": "当铺",
+ "term_en": "Pawnshop (Dang Pu)",
+ "category": "商业建筑",
+ "definition": "从事典当业的金融机构。清源留存完整当铺建筑4处，建筑最大特点是封闭性和防御性，墙高墙厚庭院宽，院墙4米左右外墙厚80余厘米。",
+ "definition_en": "Financial institution for pawning. Four complete pawnshop buildings survive in Qingyuan. Their greatest architectural feature is enclosure and defensiveness: tall thick walls, wide courtyards, courtyard walls about 4 meters high, exterior walls over 80 cm thick."
+ },
+ {
+ "id": 33,
+ "term": "天网",
+ "term_en": "Heaven Net (Tian Wang)",
+ "category": "防御设施",
+ "definition": "当铺庭院上方安装的铁丝编成的网，下挂铃铛，一触即响，用于防盗贼抢劫。",
+ "definition_en": "Iron wire net installed above pawnshop courtyards, with hanging bells that ring on contact, used to prevent robbery."
+ },
+ {
+ "id": 34,
+ "term": "车马店",
+ "term_en": "Carriage Inn (Che Ma Dian)",
+ "category": "旅店类型",
+ "definition": "招待赶车运货客人的旅店，以南关小南门外和西关关帝庙附近最集中。同和车马店占地约1300平方米院子停马车最多90辆。",
+ "definition_en": "Inn for carriage-driving freight guests, most concentrated outside Nanguan Small South Gate and near Xiguan Guan Yu Temple. Tonghe Carriage Inn covers about 1,300 square meters, courtyard parking up to 90 carriages."
+ },
+ {
+ "id": 35,
+ "term": "驴驴店",
+ "term_en": "Donkey Inn (Lü Lü Dian)",
+ "category": "旅店类型",
+ "definition": "专门招待古交娄烦山客的旅店，山客养驴比马骡子普遍。有棚舍养驴，住房设大通铺炕，炕边有炉，山客带炒面在炉上烤烤下肚。",
+ "definition_en": "Inn specifically for mountain guests from Gujiao and Loufan, who commonly raise donkeys rather than horses or mules. Has donkey sheds and large shared kang beds with stoves; guests roast their own fried noodles on the stove."
+ },
+ {
+ "id": 36,
+ "term": "骆驼店",
+ "term_en": "Camel Inn (Luo Tuo Dian)",
+ "category": "旅店类型",
+ "definition": "招待骆驼队的旅店，清源2家：南关西门坡外苏黑面槐树店，西关市楼西街西头关帝庙南侧永茂店。长途外运西面吕梁山区北面雁北山路崎岖倚仗骆驼。",
+ "definition_en": "Inn for camel caravans, two in Qingyuan: Huaishu Inn outside Nanguan West Gate Slope, and Yongmao Inn south of Guan Yu Temple at west end of Xiguan Shilou West Street. Long-distance transport to Lüliang Mountains and Yanbei relied on camels due to rough roads."
+ },
+ {
+ "id": 37,
+ "term": "坡道窑",
+ "term_en": "Slope Mine (Po Dao Yao)",
+ "category": "煤窑类型",
+ "definition": "煤窑类型之一，从山坡壁打斜井再打水平巷洞。郭家沟坡道窑只有两口：沙圪咀窑和老平窑。",
+ "definition_en": "A type of coal mine: an inclined shaft dug from the hillside, then horizontal tunnels. Only two slope mines in Guojiagou: Shaguzui Mine and Laoping Mine."
+ },
+ {
+ "id": 38,
+ "term": "筒子窑",
+ "term_en": "Shaft Mine (Tong Zi Yao)",
+ "category": "煤窑类型",
+ "definition": "煤窑类型之一，先挖竖井从井底挖水平巷洞，竖井深度十几丈称作一码。郭家沟其余均筒子窑。",
+ "definition_en": "A type of coal mine: a vertical shaft dug first, then horizontal tunnels from the bottom; shaft depth of over ten zhang is called one code. The remaining Guojiagou mines are all shaft mines."
+ },
+ {
+ "id": 39,
+ "term": "窑黑子",
+ "term_en": "Yao Heizi (Mine Worker)",
+ "category": "煤窑工种",
+ "definition": "煤窑工人的俗称，砍煤拖煤摇滑车三种工种中，砍煤拖煤在地下整天接触煤从头到脚黑黑的。",
+ "definition_en": "Colloquial term for coal mine workers. Of the three trades—coal cutting, coal hauling, and pulley operation—cutters and haulers work underground in constant contact with coal, black from head to toe."
+ },
+ {
+ "id": 40,
+ "term": "土盐",
+ "term_en": "Earth Salt (Tu Yan)",
+ "category": "手工业",
+ "definition": "即碱盐，从盐碱地取土煮制而成，味苦质劣，氯化钠含量低，钡氟硫酸镁含量高，长期食用危害健康。民国十六年1927年熬制土盐长期经营者30多家年产约100万公斤。",
+ "definition_en": "Also called alkaline salt, made by boiling soil from saline-alkali land; bitter taste, poor quality, low sodium chloride, high barium/fluorine/magnesium sulfate, harmful with long-term consumption. In 1927, over 30 long-term operators produced about 1 million kg annually."
+ },
+ {
+ "id": 41,
+ "term": "火硝",
+ "term_en": "Saltpeter (Huo Xiao)",
+ "category": "手工业产品",
+ "definition": "熬制土盐的副产品，盐分高土利于得到，卖给火药坊做烟花爆竹炸药，脱硝盐口感更好价格约一般土盐两倍。东湖西岸熬盐硝户每户每天火硝100来斤超土盐产量。",
+ "definition_en": "Byproduct of earth salt boiling, obtained from high-salt soil; sold to gunpowder workshops for fireworks and explosives. Desalted salt tastes better and costs about twice ordinary earth salt. At East Lake west bank, each saltpeter household produced over 100 jin of saltpeter daily, exceeding earth salt output."
+ },
+ {
+ "id": 42,
+ "term": "圪卤",
+ "term_en": "Ge Lu (Bittern)",
+ "category": "手工业产品",
+ "definition": "熬制土盐剩下的液体，冷却沉到底的块状物，不是废料，可用作农业肥料和点豆腐凝结剂（含氯化镁），后成工业用品太原钢铁厂机车厂大量需要。",
+ "definition_en": "Liquid remaining after earth salt boiling, cooled to form solid blocks at the bottom. Not waste: used as agricultural fertilizer and tofu coagulant (contains magnesium chloride), later became industrial material in high demand by Taiyuan Steel and locomotive factories."
+ },
+ {
+ "id": 43,
+ "term": "火药坊",
+ "term_en": "Gunpowder Workshop (Huo Yao Fang)",
+ "category": "手工业",
+ "definition": "制作烟花爆竹炸药的作坊，清源是少数能生产火药的地方之一。产品三类：炸药、火枪药、烟花爆竹，烟花爆竹是主产品。主要分布南关永定街阁儿、小南门、北门一带。",
+ "definition_en": "Workshop making fireworks, firecrackers, and explosives. Qingyuan was one of the few places producing gunpowder. Three product types: explosives, gunpowder for muskets, and fireworks/firecrackers (main product). Mainly distributed in Nanguan Yongding Street Ge'er, Small South Gate, and North Gate areas."
+ },
+ {
+ "id": 44,
+ "term": "炮车",
+ "term_en": "Cannon Cart (Pao Che)",
+ "category": "手工业工具",
+ "definition": "专门卷炮筒工具，燃放效果取决于火药爆炸威力和纸质炮筒密实程度，凭双手无法卷出足够密实炮筒。大炮车图像钟摆和板凳组合，小炮车用倒放小板凳代替。",
+ "definition_en": "Special tool for rolling firecracker tubes. Effect depends on gunpowder power and paper tube density; bare hands cannot roll sufficiently dense tubes. Large pao che resembles a pendulum and bench combination; small one uses an inverted small bench."
+ },
+ {
+ "id": 45,
+ "term": "炒米社",
+ "term_en": "Fried Rice Guild (Chao Mi She)",
+ "category": "行会组织",
+ "definition": "西关炒米业的行会组织，设在西关龙王庙内，龙王庙实为炒米业之会馆。规定每年开始炒米日期、出售价格、限制各户炒米数量、征收巡斗费等。",
+ "definition_en": "The guild organization of Xiguan's fried rice industry, located inside Xiguan Dragon King Temple, which effectively served as the industry's guild hall. It regulated annual start date, selling prices, production quotas per household, and collected inspection fees."
+ },
+ {
+ "id": 46,
+ "term": "巡斗",
+ "term_en": "Xun Dou (Inspection Measure)",
+ "category": "行会制度",
+ "definition": "炒米社内公造量器，不得私造，炒米论斗卖不论斤卖。征收巡斗费，鼓励技术好工人（米粒炒得膨胀不破碎得到更多斗数）。",
+ "definition_en": "A standard measuring vessel publicly made by the fried rice guild; private making prohibited. Fried rice sold by the dou, not by jin. Inspection fees collected; skilled workers (whose rice puffs without breaking) earned more dou."
+ },
+ {
+ "id": 47,
+ "term": "软式大联棚架",
+ "term_en": "Soft Large Connected Trellis",
+ "category": "葡萄种植",
+ "definition": "传统葡萄架形式，架面不到1米高，现代约1.3米。种葡萄一人最多管3亩，种粮食一人管5亩。",
+ "definition_en": "Traditional grape trellis form, trellis surface less than 1 meter high (modern about 1.3 meters). One person manages at most 3 mu of grapes vs 5 mu of grain."
+ },
+ {
+ "id": 48,
+ "term": "熏葡萄",
+ "term_en": "Smoked Grapes (Xun Pu Tao)",
+ "category": "农产品加工",
+ "definition": "即葡萄干，只有黑鸡心红鸡心零蛋马奶适于做熏葡萄以黑鸡心为主。熏制1斤熏葡萄需5斤鲜葡萄，价格约鲜葡萄七八倍。清末民国销往东北内蒙大宗商品，1970年以来新疆葡萄干取代。",
+ "definition_en": "即 raisins; only Black Chicken Heart, Red Chicken Heart, Lingdan, and Horse Milk varieties suitable, mainly Black Chicken Heart. 1 jin smoked grapes requires 5 jin fresh grapes, price about 7-8 times fresh grapes. A major commodity sold to Northeast China and Inner Mongolia in late Qing/Republic; replaced by Xinjiang raisins since the 1970s."
+ },
+ {
+ "id": 49,
+ "term": "浆葡萄",
+ "term_en": "Pulped Grapes (Jiang Pu Tao)",
+ "category": "农产品加工",
+ "definition": "龙眼葡萄冬天储存通风不良散落，来年立春收未腐烂的，含糖量更高，售价仅葡萄十分之二三。",
+ "definition_en": "Longan grapes stored in winter with poor ventilation become scattered; those not rotten by the following spring's Start of Spring are collected, with higher sugar content, sold at only 20-30% of fresh grape price."
+ },
+ {
+ "id": 50,
+ "term": "柴桥",
+ "term_en": "Firewood Bridge (Chai Qiao)",
+ "category": "交通设施",
+ "definition": "用柳树干做桥桩高粱秆铺桥面的临时桥梁，一般秋收前搭好春天冰融化前拆除。清源乡志记载七座柴桥，一直使用到90年代初才完全淘汰。",
+ "definition_en": "Temporary bridge using willow trunks as piles and sorghum stalks as decking, usually built before autumn harvest and removed before spring ice melt. Gazetteer records seven firewood bridges, used until the early 1990s."
+ },
+ {
+ "id": 51,
+ "term": "白石堰",
+ "term_en": "Baishi Weir",
+ "category": "水利设施",
+ "definition": "明洪武二十四年1391年筑，东西长二里，用于治理白石河洪水。清源人开凿27条引水渠，大多百姓自发开凿维护。",
+ "definition_en": "Built in 1391 (Hongwu 24), two li east-west, for controlling Baishi River floods. Qingyuan people dug 27 irrigation canals, mostly自发 built and maintained by common people."
+ },
+ {
+ "id": 52,
+ "term": "东湖",
+ "term_en": "East Lake",
+ "category": "自然景观",
+ "definition": "清源城内湖泊，占地525亩南北长710米东西宽520米，推测形成于公元1605年前后。1967年挖通1400米引河将白石河引入汾河。",
+ "definition_en": "Lake inside Qingyuan city, covering 525 mu, 710 meters north-south, 520 meters east-west, estimated to have formed around 1605. In 1967, a 1,400-meter diversion canal was dug to channel Baishi River into Fen River."
+ },
+ {
+ "id": 53,
+ "term": "梗阳",
+ "term_en": "Gengyang",
+ "category": "历史地名",
+ "definition": "清源古称，春秋时晋大夫祁氏之邑。南关即故梗阳城，有四个城门五个出口五条主要街道。梗阳书院以此命名。",
+ "definition_en": "Ancient name of Qingyuan, a fief of Jin official Qi clan in Spring and Autumn period. Nanguan was the old Gengyang city with four gates, five exits, and five main streets. Gengyang Academy was named after it."
+ },
+ {
+ "id": 54,
+ "term": "狐突",
+ "term_en": "Hu Tu",
+ "category": "历史人物",
+ "definition": "春秋时期晋国大夫，坚持教子忠臣不事二主遭晋怀王杀害，被神化为祈雨之神。西马峪村狐突庙为国家级文物保护单位，存18通元清石碑和两幅大型壁画。",
+ "definition_en": "Grand master of Jin state in Spring and Autumn period, killed by Duke Huai of Jin for teaching sons that a loyal minister does not serve two masters; deified as a rain-prayer deity. Ximayu Village Hu Tu Temple is a National Cultural Heritage Protection Unit with 18 Yuan-Qing steles and two large murals."
+ },
+ {
+ "id": 55,
+ "term": "献殿",
+ "term_en": "Offering Hall (Xian Dian)",
+ "category": "庙宇建筑",
+ "definition": "祭祀活动时用来陈列供品的地方，又称膳庭。狐突庙献殿面阔七间进深四间，硬山顶琉璃剪边，两山墙绘布雨图和回宫图。",
+ "definition_en": "Hall for displaying offerings during rituals, also called meal hall. Hu Tu Temple offering hall has seven bays width, four bays depth, gabled roof with glazed tile trim, and murals of Rain Distribution and Returning to Palace on both gable walls."
+ },
+ {
+ "id": 56,
+ "term": "无梁殿",
+ "term_en": "Beamless Hall (Wu Liang Dian)",
+ "category": "庙宇建筑",
+ "definition": "不用木梁而用砖拱券承重的殿堂。香岩寺三座主体建筑东殿中殿西殿都是无梁殿，寺之俗名也叫无梁殿。",
+ "definition_en": "Hall using brick arches instead of timber beams for load-bearing. Xiangyan Temple's three main buildings (east, central, west halls) are all beamless halls, hence the temple's common name Beamless Hall Temple."
+ },
+ {
+ "id": 57,
+ "term": "乐楼",
+ "term_en": "Music Tower (Le Lou)",
+ "category": "庙宇建筑",
+ "definition": "庙宇中的戏台。北营村关帝庙道光七年1827年重修乐楼至今仍在，三开间悬山顶，前台三面观开敞，后台封闭保暖。",
+ "definition_en": "Opera stage in a temple. Beiying Village Guan Yu Temple's 1827 music tower still survives, three bays, overhanging gable roof, front stage open on three sides, backstage enclosed for warmth."
+ },
+ {
+ "id": 58,
+ "term": "钟鼓楼",
+ "term_en": "Bell and Drum Towers",
+ "category": "庙宇建筑",
+ "definition": "庙宇中悬挂钟和鼓的楼阁，通常对称分布于大门两侧。武庙大门两侧原先是钟鼓楼（十字歇山顶），西关关帝庙倒座房两侧各为钟楼和鼓楼。",
+ "definition_en": "Towers housing bell and drum in temples, usually symmetrically placed on both sides of the gate. Martial Temple gate originally had bell/drum towers (cross hip-and-gable roof); Xiguan Guan Yu Temple reverse-side hall has bell tower (north) and drum tower (south)."
+ },
+ {
+ "id": 59,
+ "term": "寅宾馆",
+ "term_en": "Guest Lodge (Yin Bin Guan)",
+ "category": "衙署建筑",
+ "definition": "衙署中用于接待来往官员的宾馆。清源衙署大门内东为寅宾馆。",
+ "definition_en": "Lodge in the county yamen for receiving visiting officials. Qingyuan yamen had the guest lodge east of the main gate."
+ },
+ {
+ "id": 60,
+ "term": "申明亭旌善亭",
+ "term_en": "Shenming and Jingshan Pavilions",
+ "category": "衙署建筑",
+ "definition": "衙署大门外的两座旌表性建筑，左申明右旌善，具有较强的景观意义和旌表功能。清源衙署大门外建二亭，申明左，旌善右。",
+ "definition_en": "Two commendation pavilions outside the yamen gate—Shenming (left) and Jingshan (right)—with strong landscape and commendation functions. Qingyuan yamen had two pavilions outside the gate: Shenming left, Jingshan right."
+ },
+ {
+ "id": 61,
+ "term": "戒石",
+ "term_en": "Warning Stone (Jie Shi)",
+ "category": "衙署建筑",
+ "definition": "衙署甬道中立的石碑，刻有戒石铭尔俸尔禄民膏民脂下民易虐上天难欺。清源衙署甬道中立戒石，戒石之北为大堂。",
+ "definition_en": "Stone stele in the yamen path, inscribed with the warning: Your salary and stipend come from the people's flesh and fat; the lower people are easy to oppress, but Heaven is hard to deceive. Qingyuan yamen had a warning stone in the path, north of it the Great Hall."
+ },
+ {
+ "id": 62,
+ "term": "侯庙",
+ "term_en": "Marquis Temple (Hou Miao)",
+ "category": "衙署庙宇",
+ "definition": "衙署中祭祀萧何的庙宇，侯是萧何的封号，他辅佐刘邦夺得天下又制订汉朝律令，是天下官臣的榜样。乾隆二十六年1761年知县吴龙光建。",
+ "definition_en": "Temple in the yamen dedicated to Xiao He, whose title was Marquis; he assisted Liu Bang in conquering the empire and formulated Han dynasty laws, serving as a model for all officials. Built in 1761 by Magistrate Wu Longguang."
+ },
+ {
+ "id": 63,
+ "term": "山长",
+ "term_en": "Mountain Head (Shan Zhang)",
+ "category": "书院制度",
+ "definition": "书院的主讲，除主讲外也总理院务，由地方绅士公议从进士或举人中选定。执掌梗阳书院者不乏名士如清末民初刘文炳。",
+ "definition_en": "Chief lecturer of an academy, who also managed general affairs; chosen by local gentry consensus from jinshi or juren degree holders. Notable scholars led Gengyang Academy, such as late Qing/early Republic Liu Wenbing."
+ },
+ {
+ "id": 64,
+ "term": "社学",
+ "term_en": "Community School (She Xue)",
+ "category": "教育制度",
+ "definition": "比较正规的具有官方背景的学塾，教学内容除四书五经和八股制文外还包括各种礼节。政府支持有限，办学经费主要来自民间。清源西关关帝庙清代时就是一处社学。",
+ "definition_en": "Relatively formal, officially backed elementary school; curriculum included Four Books and Five Classics, eight-legged essays, and various rituals. Government support was limited; funding mainly from the people. Xiguan Guan Yu Temple served as a community school in the Qing dynasty."
+ },
+ {
+ "id": 65,
+ "term": "义学",
+ "term_en": "Charity School (Yi Xue)",
+ "category": "教育制度",
+ "definition": "民间自办的初级学校，很少见于方志记载。清徐县志提到桃园义学在西马峪村，宿儒牛瑞云于清末捐资兴办。",
+ "definition_en": "Privately run elementary school, rarely recorded in gazetteers. Qingxu County Gazetteer mentions Taoyuan Charity School in Ximayu Village, founded by scholar Niu Ruiyun in the late Qing."
+ },
+ {
+ "id": 66,
+ "term": "文昌",
+ "term_en": "Wenchang (God of Literature)",
+ "category": "民间信仰",
+ "definition": "主文运的神灵，俗称文曲星。清源城原有一处文昌宫和多处文昌阁。西关市楼乾隆五十八年1793年新建文昌阁魁星楼，供文昌和魁星。",
+ "definition_en": "Deity governing literary fortune, commonly called Wenqu Star. Qingyuan originally had one Wenchang Palace and multiple Wenchang Pavilions. Xiguan market tower had Wenchang and Kuixing pavilions newly built in 1793."
+ },
+ {
+ "id": 67,
+ "term": "魁星",
+ "term_en": "Kuixing (God of Examinations)",
+ "category": "民间信仰",
+ "definition": "主宰文章兴衰的神，与文昌同供于市楼。乾隆五十八年1793年刘梦龄新建文昌阁魁星楼。",
+ "definition_en": "Deity governing literary success, enshrined with Wenchang in the market tower. In 1793 Liu Mengling built the new Wenchang Pavilion and Kuixing Tower."
+ },
+ {
+ "id": 68,
+ "term": "五道庙",
+ "term_en": "Five-Path Temple (Wu Dao Miao)",
+ "category": "民间信仰",
+ "definition": "村口常见的小型庙宇，供奉五道将军。平泉村有三座五道庙，王亮老先生幼年时见过。",
+ "definition_en": "Small temple commonly found at village entrances, dedicated to the Five-Path General. Pingquan Village had three five-path temples, seen by elderly Wang Liang in his childhood."
+ },
+ {
+ "id": 69,
+ "term": "土地庙",
+ "term_en": "Earth God Temple (Tu Di Miao)",
+ "category": "民间信仰",
+ "definition": "最小的庙宇建筑，供奉土地神。永定街23号院王有德宅照壁上有土地庙，两侧对联为土能生万物地可出黄金。",
+ "definition_en": "The smallest temple building, dedicated to the Earth God. The screen wall of Wang Youde's residence at No.23 Yongding Street has an Earth God Temple with couplet: Earth can produce all things, earth can yield gold."
+ },
+ {
+ "id": 70,
+ "term": "狐突庙会",
+ "term_en": "Hu Tu Temple Fair",
+ "category": "民俗活动",
+ "definition": "每年七月十五日举行，唱戏三天，为所有来上香的信徒提供一顿免费的面汤。戏班利用普照寺后院作临时住房和厨房。",
+ "definition_en": "Held annually on the 15th day of the 7th lunar month, with three days of opera and a free noodle soup meal for all worshippers. Opera troupes used the rear courtyard of Puzhao Temple as temporary housing and kitchen."
+ },
+ {
+ "id": 71,
+ "term": "葡萄庙会",
+ "term_en": "Grape Temple Fair",
+ "category": "民俗活动",
+ "definition": "平泉北营七月初七，东西马峪七月二十九与香岩寺庙会同期，演戏三天六场，戏资东马峪村负责。",
+ "definition_en": "Pingquan Beiying on 7th day of 7th lunar month; Dongmayu/Ximayu on 29th day of 7th lunar month, concurrent with Xiangyan Temple fair, three days six performances, costs borne by Dongmayu Village."
+ },
+ {
+ "id": 72,
+ "term": "清源八景",
+ "term_en": "Eight Sights of Qingyuan",
+ "category": "文化景观",
+ "definition": "清源古代八处著名景观，包括西岭香岩、中隐环青、汾河晚渡等。香岩寺西岭香岩和清泉寺中隐环青均为八景之一。",
+ "definition_en": "Eight famous ancient scenic spots of Qingyuan, including Western Ridge Xiangyan, Central Hidden Mountain Encircled in Green, Fen River Evening Crossing, etc. Xiangyan Temple's Western Ridge Xiangyan and Qingquan Temple's Central Hidden Mountain Encircled in Green are both among the Eight Sights."
+ },
+ {
+ "id": 73,
+ "term": "晋商",
+ "term_en": "Shanxi Merchants (Jin Shang)",
+ "category": "商帮",
+ "definition": "山西商人集团，清源商业发达与晋商密切相关。乔生福生于1925年最后一代晋商；孙铁牛父亲晋商曾和天津老板合办葡萄酒厂；务本生醋坊主人乔万选为汪伪政府司法部次长。",
+ "definition_en": "Shanxi merchant group; Qingyuan's commercial prosperity was closely tied to Shanxi merchants. Qiao Shengfu (born 1925) was the last generation; Sun Tieniu's father was a Shanxi merchant who co-founded a winery with a Tianjin boss; Wu Bensheng vinegar workshop owner Qiao Wanxuan became Vice Minister of Justice under Wang Jingwei regime."
+ },
+ {
+ "id": 74,
+ "term": "钱帖子",
+ "term_en": "Money Note (Qian Tie Zi)",
+ "category": "金融",
+ "definition": "民国初年清源钱庄当铺粮行发行的钱票，可当货币使用。民国十九年1930年晋钞贬值钱庄倒闭甚多。",
+ "definition_en": "Money notes issued by Qingyuan banks, pawnshops, and grain shops in the early Republic period, usable as currency. In 1930, Shanxi banknotes depreciated and many banks collapsed."
+ },
+ {
+ "id": 75,
+ "term": "身股",
+ "term_en": "Personal Share (Shen Gu)",
+ "category": "金融制度",
+ "definition": "当铺高级雇员的技术入股，加入当铺时谈好银股身股比例，三年为期到期结算利润按比例分，身股收入远大于固定工资。",
+ "definition_en": "Technology-based equity for senior pawnshop employees; silver-share and personal-share ratios agreed upon joining, three-year term, profits divided proportionally at settlement; personal-share income far exceeded fixed wages."
+ },
+ {
+ "id": 76,
+ "term": "带东掌柜",
+ "term_en": "Partner Manager (Dai Dong Zhang Gui)",
+ "category": "金融制度",
+ "definition": "东家即掌柜本人，持身股者可不领现银投入银股成带东雇员。",
+ "definition_en": "Where the owner is also the manager; personal-share holders could invest unpaid wages into silver shares to become partner employees."
+ },
+ {
+ "id": 77,
+ "term": "下架货",
+ "term_en": "Unredeemed Goods (Xia Jia Huo)",
+ "category": "典当业",
+ "definition": "过期不赎的抵押物，可直接出售，占抵押物大部分。收抵押物时价格压得很低，利润相当高。当铺收入主要来自出售下架货其次赎当时收利息。",
+ "definition_en": "Overdue unredeemed collateral, sold directly, comprising most collateral. Prices kept very low at acceptance, yielding high profits. Pawnshop income mainly from selling unredeemed goods,其次 interest on redemption."
+ },
+ {
+ "id": 78,
+ "term": "当票",
+ "term_en": "Pawn Ticket (Dang Piao)",
+ "category": "典当业",
+ "definition": "麻纸蓝印分正副两联，写抵押物名称当价，两联间盖各家特有骑缝蓝印，当铺和抵押人各持一联，期满凭票赎当。",
+ "definition_en": "Hemp paper with blue printing, in two copies (original and duplicate), recording collateral name and pawn price; unique blue seal across the perforation between copies, one held by pawnshop and one by pawner; redemption by ticket after term expires."
+ },
+ {
+ "id": 79,
+ "term": "柜头",
+ "term_en": "Counter Head (Gui Tou)",
+ "category": "典当业",
+ "definition": "当铺中收取抵押物评估价值的高级雇员，收抵押物价格压得低多为原物价值三成或更低，不管成色当票描述一律以破旧二字打头。",
+ "definition_en": "Senior pawnshop employee who accepts collateral and assesses value; prices kept low, often 30% or less of original value; regardless of condition, pawn ticket descriptions always begin with worn and old."
+ },
+ {
+ "id": 80,
+ "term": "彩帛行",
+ "term_en": "Fabric Shop (Cai Bo Hang)",
+ "category": "商业",
+ "definition": "即布庄，晚清西方工业化布匹大量涌入价格比农民自织便宜，家庭妇女普遍放弃纺织，布庄成商业城镇重要商店类型。清源南关丰裕庆著名。",
+ "definition_en": "即 cloth shops; in late Qing, Western industrially produced cloth flooded in at lower prices than homespun, women abandoned weaving, cloth shops became important commercial stores. Nanguan Fengyuqing was famous in Qingyuan."
+ },
+ {
+ "id": 81,
+ "term": "皮坊",
+ "term_en": "Leather Workshop (Pi Fang)",
+ "category": "手工业",
+ "definition": "把生羊皮加工成熟羊皮的作坊，三道工序刮沤磨。清源产皮硝是重要原因，交城制皮业最发达带动清源发展。",
+ "definition_en": "Workshop processing raw sheepskin into tanned leather, three steps: scraping, soaking, polishing. Qingyuan's production of leather saltpeter was important; Jiaocheng's most developed leather industry spurred Qingyuan's development."
+ },
+ {
+ "id": 82,
+ "term": "滩羊皮",
+ "term_en": "Ningxia Tan Sheepskin",
+ "category": "皮革原料",
+ "definition": "宁夏滩羊毛长柔软两寸长，经黄河船运至临县碛口镇沿湫水河谷驼运至晋中，比山西本地羊皮质地更柔软更舒服。旧时说法农民穿老羊皮中上等人穿滩羊皮富贵人家穿狐皮。",
+ "definition_en": "Ningxia Tan sheep wool is long and soft (two cun), shipped by Yellow River boat to Linxian Qikou, then camel transport along Qiushui River valley to central Shanxi; softer and more comfortable than local Shanxi sheepskin. Old saying: peasants wear old sheepskin, middle-upper class wear Tan sheepskin, wealthy wear fox fur."
+ },
+ {
+ "id": 83,
+ "term": "毡帽行",
+ "term_en": "Felt Hat Shop (Zhan Mao Hang)",
+ "category": "手工业",
+ "definition": "熟羊皮做毡帽的作坊，40年代清源城两家，全盛号南关永定街三甲前店后厂。毡帽部分清源本地出售更多贴上河北宣化某毡帽行商标运到那销售。",
+ "definition_en": "Workshop making felt hats from tanned sheepskin; two in 1940s Qingyuan, Quansheng Hao at Nanguan Yongding Street Sanjia with front shop rear factory. Some hats sold locally, more affixed with a Hebei Xuanhua felt hat brand label and sold there."
+ },
+ {
+ "id": 84,
+ "term": "翻砂厂",
+ "term_en": "Foundry (Fan Sha Chang)",
+ "category": "手工业",
+ "definition": "传统粗铁铸造作坊，和盐坊关系密切，盐坊熬盐大铁锅放燃料煤炉条都是翻砂厂制作。集中水桥以北旧地名胡家湾，四和砂园为代表。",
+ "definition_en": "Traditional cast-iron foundry, closely related to salt workshops—salt workshop's large iron boiling pots and fuel furnace grates were made by foundries. Concentrated north of Shuiqiao, old place name Hujiawan; Sihe Sha Yuan was representative."
+ },
+ {
+ "id": 85,
+ "term": "木匠业",
+ "term_en": "Carpentry (Mu Jiang Ye)",
+ "category": "手工业",
+ "definition": "分大木小木，大木匠管建造房屋不需要店铺带队伍上门盖房，小木匠制木制用品有固定店铺分柜铺棺材铺车铺小推车铺。",
+ "definition_en": "Divided into large and small carpentry: large carpenters build houses without shops, leading teams on-site; small carpenters make wooden products in fixed shops, including cabinet shops, coffin shops, cart shops, and wheelbarrow shops."
+ },
+ {
+ "id": 86,
+ "term": "柜家铺",
+ "term_en": "Cabinet Shop (Gui Jia Pu)",
+ "category": "手工业",
+ "definition": "做家具箱柜顶柜大柜坑柜太师椅八仙桌等，好木材梨木核桃木榆木，一般柳木杨木。硬木家具不上漆手工反复推光先用粗布擦最后用手推极费人工。",
+ "definition_en": "Shop making furniture—chests, cabinets, top cabinets, large cabinets, kang cabinets, taishi chairs, eight-immortal tables. Fine woods: pear, walnut, elm; ordinary: willow, poplar. Hardwood furniture not lacquered but hand-polished repeatedly—first coarse cloth, finally hand rubbing—very labor-intensive."
+ },
+ {
+ "id": 87,
+ "term": "同德义糕点铺",
+ "term_en": "Tongdeyi Pastry Shop",
+ "category": "商业",
+ "definition": "民国清源城规模最大名气最响的糕点铺，猪市巷南侧今小西门街18号，前后两进院占地约565平方米。东家刘万长身兼大掌柜二掌柜账房先生。",
+ "definition_en": "The largest and most famous pastry shop in Republic-era Qingyuan, south of Zhushi Alley (today No.18 Xiaoximen Street), two courtyards, about 565 square meters. Owner Liu Wanchang served as both head manager, second manager, and accountant."
+ },
+ {
+ "id": 88,
+ "term": "广德堂",
+ "term_en": "Guangde Tang Pharmacy",
+ "category": "商业",
+ "definition": "40年代末清源城6家中药店中规模最大，南关大街东侧靠近南门。另有聚和堂崇德堂协生泰万助成春生广等。",
+ "definition_en": "The largest of six Chinese medicine shops in late 1940s Qingyuan, east side of Nanguan Main Street near South Gate. Others included Juhe Tang, Chongde Tang, Xiesheng Tai, Wanzhu Cheng, Chunsheng Guang."
+ },
+ {
+ "id": 89,
+ "term": "梗阳医院",
+ "term_en": "Gengyang Hospital",
+ "category": "医疗机构",
+ "definition": "清源南门里第一家现代医院，郭鹤仙太谷明贤学校毕业生教会学校自小受西式教育终生笃信西医，七七事变后开，据说警察局长郝兰亭为老板。",
+ "definition_en": "The first modern hospital in Qingyuan, inside South Gate, founded by Guo Hexian (graduate of Taigu Mingxian School, a missionary school, raised with Western education, lifelong believer in Western medicine) after the Marco Polo Bridge Incident; police chief Hao Lanting was reportedly the owner."
+ },
+ {
+ "id": 90,
+ "term": "基督教堂",
+ "term_en": "Christian Church",
+ "category": "宗教建筑",
+ "definition": "清源是天主教和基督教信徒较多之地，西关市楼西街中段以北现有一座建于1994年的基督教堂，前身是民国初年基督教太谷支会康保罗牧师来清源传教时修建的，同期修建的还有一座医院。",
+ "definition_en": "Qingyuan had many Catholic and Protestant believers. North of the middle section of Xiguan Shilou West Street stands a Christian church built in 1994. Its predecessor was built in the early Republic by Pastor Kang Baoluo of the Taigu branch of the Christian Church when he came to Qingyuan to preach; a hospital was built in the same period."
+ }
+ ]
 }

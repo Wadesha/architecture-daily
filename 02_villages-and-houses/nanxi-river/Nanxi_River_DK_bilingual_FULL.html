@@ -47,8 +47,52 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 strong { color: #2c3e50; }
 .en-content strong { color: #8b6914; }
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="cover">
 <h1>楠溪江中游</h1>
 <div class="divider"></div>
@@ -404,7 +448,7 @@ strong { color: #2c3e50; }
 <p>（3）保护、点缀、增益</p>
 <p><strong>楠溪江</strong>人，以他们的文化素养感受环境的美，细腻鲜明。《坦下陈氏宗谱》载康熙时人阶侯先生五言律，描绘<strong>坦下村</strong>的风景：</p>
 <p>团团一派石，绿竹间青松。沙外溶溶水，门前叠叠峰。</p>
-<p>山花开屿岸，野鸟唤春风。锄犁能读史，□□振飞鹏。</p>
+<p>山花开屿岸，野鸟唤春风。锄犁能读史，振飞鹏。</p>
 <p>经过文人们揣摩品评，<strong>楠溪江</strong>许多<strong>村落</strong>都有"十景"、"八景"之类，宗谱里也多有《名胜》专篇。谢道宁《鹤垟八景诗》之一《锦嶂春晖》：</p>
 <p>万仞屏环仰照临，阳和随见破群阴。岩花呈秀分高下，野树浮光间浅深。</p>
 <p>适兴岂无人蹑屐，寻幽还有客抚琴。西郊只隔疏林外，多少红尘乱扑襟。</p>
@@ -491,7 +535,7 @@ strong { color: #2c3e50; }
 <p>(3) Protection, Embellishment, and Enhancement</p>
 <p>Nanxi River people, with their cultural cultivation, felt environmental beauty delicately and vividly. The "Tanxia Chen Clan Genealogy" records a five-character regulated poem by Mr. Jiehou of the Kangxi period, describing Tanxia Village's scenery:</p>
 <p>Round and round a stretch of stone, green bamboo interspersed with green pine. Beyond the sand flowing water, before the door layered peaks.</p>
-<p>Mountain flowers bloom on the islet bank, wild birds call in the spring breeze. With plow and hoe can read history, □□ soar like rocs.</p>
+<p>Mountain flowers bloom on the islet bank, wild birds call in the spring breeze. With plow and hoe can read history, soar like rocs.</p>
 <p>After literati's appreciation and evaluation, many Nanxi River villages had "Ten Scenes," "Eight Scenes," and genealogies often had special "Scenic Spots" chapters. Xie Daoning's "Heyang Eight Scenery Poems" one of which "Spring Sunshine of Brocade Peak":</p>
 <p>Ten-thousand-ren screen surrounds looking up at the sun, warmth follows breaking the group shade. Rock flowers show beauty in high and low, wild trees float light between shallow and deep.</p>
 <p>For enjoyment how can no one wear walking shoes, seeking seclusion there are still guests playing the qin. The western suburb only separated by sparse forest, how much red dust rushes to the lapel.</p>
@@ -1345,7 +1389,7 @@ strong { color: #2c3e50; }
 <p>虽然住宅屡经翻改，但村子的规划结构基本没有变动，所以住宅与村子的整体之间，大体还保持着原始的关系。</p>
 <p>中游盆地的村子，以岩头、苍坡和芙蓉三村为代表，规划格局都很整齐；一条主街，几条与主街相垂直的次街，次街之间的小巷。大多数的住宅，正门开在次街。这三村的次街都是南北走向。岩头和芙蓉的次街，间距<strong>50米</strong>左右，本来正相当于一幢三进两院大宅的进深。但几经兵火，现有的住宅大多是进深不到<strong>50米</strong>的中小型住宅，只能从小巷里侧面进门，门内是前院，正屋仍然向东。还有一些，是从小巷开一段专用的岔巷，正门开在岔巷里，例如<strong>芙蓉村</strong>的"将军屋"，<strong>岩头村</strong>的"枕琴庐"。更有一些简单的长条形小住宅，不围院落，全面敞开，则从小巷由一些人行步道出入。岩头和芙蓉两村都有不少在大宅废墟上建造的住宅，非常零乱，有造在原来两厢台基上的，就朝北、朝南，有造在正屋台基上的，就朝东。这些住宅，出入的路径很随便，往往很曲折，甚至穿过别家堂屋。<strong>岩头村</strong>浚水街以西，中央街与菊花街之间，都有这样的情况。</p>
 <p><strong>苍坡村</strong>除了中央部分有东西向的横街外，多数的次街也是走向南北的，但它的住宅也都向南，因此，多数住宅就从侧面入门。为适应住宅的总宽度，两条次街之间的距离只有<strong>40米</strong>。但住宅的两侧仍有小小的余地。侧面入门之后，一般是自由空间，绕过厢房，才是住宅的前院。也有个别住宅比较宽，厢房贴邻次街，于是侧门就开在厢房前端的一间，以这一间为门厅。<strong>苍坡村</strong>有一条九间巷，一条三退巷，过去比较大的住宅大多集中在这两条巷子里。这两条巷子的名字就夸耀着它们的宅子的规模不同平常。但现在已经没有这样的大宅子了。</p>
-<p>山坡地上的村子，如<strong>水云村</strong>、<strong>埭头村</strong>、<strong>西岸村</strong>等，住宅基地狭窄，成院落的就少了，大多顺等高线延伸。为了满足宗法制大家庭的需要，有长达<strong>15开间</strong>的。例如<strong>水云村</strong>中心最高点的一座，咸丰年间造的，有"钦命兵部侍郎右都御史浙江巡抚部院罗□□"题的匾："登崇俊良"。房子主人是贡生陈福。道路也是顺等高线走的，这些住宅平行于道路，因此就把整个村子拉长了。它们前后的间距不得不压缩得很小，建筑密度因而很高。但是，只要稍有可能，这些村子里的住宅也还是争取成为院落式的。</p>
+<p>山坡地上的村子，如<strong>水云村</strong>、<strong>埭头村</strong>、<strong>西岸村</strong>等，住宅基地狭窄，成院落的就少了，大多顺等高线延伸。为了满足宗法制大家庭的需要，有长达<strong>15开间</strong>的。例如<strong>水云村</strong>中心最高点的一座，咸丰年间造的，有"钦命兵部侍郎右都御史浙江巡抚部院罗"题的匾："登崇俊良"。房子主人是贡生陈福。道路也是顺等高线走的，这些住宅平行于道路，因此就把整个村子拉长了。它们前后的间距不得不压缩得很小，建筑密度因而很高。但是，只要稍有可能，这些村子里的住宅也还是争取成为院落式的。</p>
 <p>在各种不同地形的村子里，住宅有朝东、朝南和朝北的，但没有朝西的。<strong>楠溪江</strong>流域夏季炎热，朝西难耐酷暑。而且，<strong>风水</strong>术也以朝西为不吉。例如《阳宅会要·论福元》里说："宜住宅坐北向南宅，上上吉。坐南向北宅，上吉。坐西向东宅，亦吉。惟坐东向西宅不宜居。"</p>
 <p><strong>楠溪江</strong>的建筑虽然大多保留自己形象的独立完整，表现自己的个性特色，但都在统一的<strong>村落</strong>规划里，所以不大以个体来考虑<strong>风水</strong>。不过也有例外。<strong>廊下村</strong>前街的两幢"<strong>进士第</strong>"，一幢背对天马山的马头，一幢面对天马山的马鞍。据宋朝王洙等编的《地理新书》，"山如马鞍，主公卿宰辅"，所以有一幢朝向马鞍。而马的首、尾及足都主凶，所以另一幢就背向马头。</p>
 <p>#### （2）住宅的类型</p>
@@ -1433,7 +1477,7 @@ strong { color: #2c3e50; }
 <p>Although residences have been repeatedly renovated, the village's planning structure has basically remained unchanged, so residences generally maintain their original relationship with the village as a whole.</p>
 <p>Villages in the middle basin, represented by Yantou, Cangpo, and Furong, have very neat planning patterns: one main street, several secondary streets perpendicular to the main street, and alleys between secondary streets. Most residences have their main gates opening onto secondary streets. The secondary streets in these three villages all run north-south. In Yantou and Furong, the secondary streets are about <strong>50 m</strong>eters apart, originally corresponding exactly to the depth of a large residence with three halls and two courtyards. But after repeated wars, the existing residences are mostly small and medium-sized with depth less than <strong>50 m</strong>eters,只能 enter from the side through alleys, with a front courtyard inside and the main hall still facing east. Some have dedicated branch lanes from alleys, with main gates opening into the branch lanes, such as the "General's House" in Furong Village and the "Zhenqin Lu" in Yantou Village. Some simple long small residences, without enclosing courtyards and fully open, are accessed through pedestrian paths from alleys. Both Yantou and Furong villages have many residences built on the ruins of large residences, very disorderly: some built on the original side wing platforms face north or south; some built on the main hall platforms face east. These residences have very casual access paths, often very winding, even passing through other families' main halls. West of Junshui Street in Yantou Village, between Central Street and Juhua Street, such situations exist.</p>
 <p>In Cangpo Village, except for the central part with east-west cross streets, most secondary streets also run north-south, but its residences also all face south, so most residences enter from the side. To accommodate the total width of residences, the distance between two secondary streets is only <strong>40 m</strong>eters. But there is still small space on both sides of residences. After side entry, there is generally free space,绕过 the side wing,才 is the residence's front courtyard. Some individual residences are wider, with side wings adjacent to the secondary street, so the side gate opens in the front room of the side wing, using that room as the entrance hall. Cangpo Village has a "Nine-Bay Lane" and a "Three-Retreat Lane"; in the past, relatively large residences were mostly concentrated in these two lanes. The names of these lanes boast the extraordinary scale of their residences. But now there are no such large residences.</p>
-<p>In villages on hillsides, such as Shuiyun, Daitou, and Xi'an villages, residential sites are narrow, so courtyard-type residences are fewer, mostly extending along contour lines. To meet the needs of patriarchal large families, some are as long as <strong>15 bays</strong>. For example, one at the highest point in the center of Shuiyun Village, built during the Xianfeng reign, has a plaque inscribed by "the Ministry of War Right Vice Minister Right Censor-in-Chief Zhejiang Governor Luo □□": "Promote the Outstanding and Talented." The owner was Chen Fu, a provincial graduate. Roads also follow contour lines, and these residences run parallel to the roads, thus stretching the entire village. Their front-to-back spacing has to be compressed very small, so building density is very high. However, whenever possible, residences in these villages still strive to be courtyard-type.</p>
+<p>In villages on hillsides, such as Shuiyun, Daitou, and Xi'an villages, residential sites are narrow, so courtyard-type residences are fewer, mostly extending along contour lines. To meet the needs of patriarchal large families, some are as long as <strong>15 bays</strong>. For example, one at the highest point in the center of Shuiyun Village, built during the Xianfeng reign, has a plaque inscribed by "the Ministry of War Right Vice Minister Right Censor-in-Chief Zhejiang Governor Luo ": "Promote the Outstanding and Talented." The owner was Chen Fu, a provincial graduate. Roads also follow contour lines, and these residences run parallel to the roads, thus stretching the entire village. Their front-to-back spacing has to be compressed very small, so building density is very high. However, whenever possible, residences in these villages still strive to be courtyard-type.</p>
 <p>In villages of various terrains, residences face east, south, and north, but none face west. The Nanxi River basin is hot in summer, and west-facing is unbearable in the heat. Moreover, fengshui also considers west-facing inauspicious. For example, in "Yangzhai Huiyao · On Fortune Yuan": "Suitable residences: sitting north facing south, top auspicious. Sitting south facing north, auspicious. Sitting west facing east, also auspicious. Only sitting east facing west is not suitable for dwelling."</p>
 <p>Although most Nanxi River buildings retain their independent and complete image, expressing their individual characteristics, they are all within unified village planning, so fengshui is rarely considered for individual buildings. But there are exceptions. On the front street of Langxia Village, two "Jinshi Mansions": one has its back to the horse head of Tianma Mountain, the other faces the horse saddle of Tianma Mountain. According to "Geography New Book" compiled by Wang Zhu et al. of the Song dynasty, "A mountain like a horse saddle主 lords and ministers," so one faces the saddle. And the horse's head, tail, and feet all主 misfortune, so the other has its back to the horse head.</p>
 <p>#### (2) Types of Residences</p>
@@ -2812,5 +2856,26 @@ strong { color: #2c3e50; }
 <p>楠溪江中游 · 陈志华著 | DK Style 中英双语全文重构 | 基于原文405页逐页提取</p>
 <p>排版优化：智能分段 · 关键词加粗 · 数字加粗 · 中英文分隔虚线 · 中文首行缩进</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

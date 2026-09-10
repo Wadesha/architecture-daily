@@ -49,8 +49,52 @@ body { font-family: "Microsoft YaHei", "PingFang SC", "Segoe UI", sans-serif; ba
 .footer { background: #5c3a1e; color: white; text-align: center; padding: 40px; margin-top: 50px; }
 .footer p { opacity: 0.8; font-size: 0.9em; margin-bottom: 5px; }
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="book-cover">
 <h1>中国乡土建筑初探</h1>
 <div class="subtitle">A Preliminary Study of Chinese Vernacular Architecture</div>
@@ -3314,7 +3358,7 @@ The standard worship hall's rear eave wall is brick, <strong>central <strong>bay
 <p>Before the <strong>shrine</strong>: <strong>incense</strong> table with <strong>candlestick</strong>s and <strong><strong>incense</strong> burner</strong>.Before the table: kneeling cushions on the floor—solemn atmosphere.</p>
 <p>Shrines may have doors or not; center holds the founding ancestor's large <strong>spirit tablet</strong>, carved with two dragons playing a pearl, flanked by ascending/descending dragon borders.</p>
 <p>Beside it: reverently placed tablets of <strong>merit</strong>orious ancestors.Two <strong>side <strong>bay</strong></strong>s have tiered <strong>platform</strong>s for ancestral tablets, sometimes with <strong>shrine</strong>s.</p>
-<p>More tablets → <strong>platform</strong>s before side gable walls.Even more → convert front courtyard's two wings to chambers, e.g., Lanxi Zhuge Village's main hall.</p>
+<p>More tablets， <strong>platform</strong>s before side gable walls.Even more， convert front courtyard's two wings to chambers, e.g., Lanxi Zhuge Village's main hall.</p>
 <p>A clan settled long with prosperous generations accumulates many tablets; every several years, recent generations' tablets are rewritten, merging ~10 ancestors per tablet to reduce total.</p>
 <p>This ritual is "祧" (<strong>tiao</strong>)—same as households sending great-great-grandfather+ tablets to the hall for merged collective worship.Most main halls arrange founding ancestor and all clan ancestors' tablets by zhao-mu order.A few, e.g.</p>
 <p>, Fu'an Louxia Village's Liu main hall, build separate <strong>shrine</strong>s along both gable walls by branch—one per branch, no separate <strong>branch hall</strong>s.</p>
@@ -6218,7 +6262,7 @@ Although <strong>temple</strong> forms also have certain patterns, they vary mor
 <p>过年、过节、<strong>神诞</strong>、<strong>庙会</strong>、各种祈福禳灾的还愿等等都会演大戏，一演就是几天甚至十几天，碛口镇上几乎天天有戏，有些季节甚至有几台戏同时演出。这样的演戏盛况，对促进碛口镇的市面繁荣大有好处，甚至能把黄河西岸陕西的村民们都吸引过来，因此"<strong>社</strong>"、"会"都乐于承担，它们的费用由街市上的商家支持。</p>
 <p><strong><strong>戏台</strong></strong>多设在<strong>庙宇</strong>（或<strong>宗祠</strong>）里，也有历史原因。首先因为演戏起源于巫术，从傩戏演化出来。浙江省永嘉县的南戏，本来就是为了娱神的。唐代诗人顾况《永嘉》诗写道：东瓯传旧俗，风日江边好，何处乐神声，夷歌出烟岛。乐神的夷歌就是后来戏剧的源头。神是人根据自己的形象和性情造出来的，既然演戏能娱人，必定也能娱神，所以礼神的重要活动之一便是演戏。</p>
 <p>春祈、秋报、<strong>神诞</strong>、<strong>开光</strong>、雩祭、迎神、还愿、新庙落成等各种场合都要办<strong>庙会</strong>演戏。山西省沁水县南瑶村玉皇庙有一块《致祭诸神圣诞条规》碑，记载了山神、土地、高禖、白龙、龙王、五瘟、河伯、马王、牛王、风王、关圣帝君、三蚕圣母等圣诞的日子、所需祭品和摊钱方式，其中"四月初三日致祭玉皇大帝圣诞"，要"戏三台，猪一口，依地亩摊钱"。</p>
-<p>七月初三日又祭一次玉皇大帝，所需和摊钱与四月的相似，再加"蜜食一架，依随神摊钱"而已。半个月之后，"七月二十日致祭风王尊神圣诞，戏三台，猪一口，依烟户摊钱，又面一斤□并水官……（有阙文）"。小小村子一年里一共演三次戏，一次三台。演戏的费用有的由<strong>宗祠</strong>出，有的由民间的"<strong>社</strong>"或"会"出，有的由行业或按地亩分摊，等等。</p>
+<p>七月初三日又祭一次玉皇大帝，所需和摊钱与四月的相似，再加"蜜食一架，依随神摊钱"而已。半个月之后，"七月二十日致祭风王尊神圣诞，戏三台，猪一口，依烟户摊钱，又面一斤并水官……（有阙文）"。小小村子一年里一共演三次戏，一次三台。演戏的费用有的由<strong>宗祠</strong>出，有的由民间的"<strong>社</strong>"或"会"出，有的由行业或按地亩分摊，等等。</p>
 <p>也有的可用"罚没款"，如在<strong>神庙</strong>里赌博，在<strong>神庙</strong>地界里放牧，买卖有欺诈，以及卖淫嫖娼等都要罚款。山西省泽州辛壁村成汤庙有一块民国二十二年（<strong>1933年</strong>）的《弹劾扣款自肥碑记》里面说到一个贪污公款的<strong><strong>社</strong>首</strong>，"令其即行如数退出，……将退出之款演戏三天"。乡土<strong>社</strong>会里，对贪污腐败行为也是深恶痛绝而且严厉处分的。</p>
 <p>江西省婺源县洪村也有类似的规矩：凡村民卖茶质量不好的，一经查出，就要罚出钱演戏。这规定刻石立碑，以保护本村茶叶的市场声誉。浙江省江山县清漾村毛氏<strong>宗谱</strong>里则规定，对外来商贩一定要诚信，否则也要罚戏。这又是<strong>泛神崇拜</strong>的<strong>庙宇</strong>在乡土<strong>社</strong>会中一个重要的功能作用，一个完全世俗化，生活化，人情化的作用。</p>
 <p>大概因为善男信女们挤着看戏，不免"男女杂沓"，又加上各种演出多有"子不语"的怪、力、乱、神和人间情爱，因此惹起"儒者"们的非议，屡屡主张禁止。元代泰定二年（<strong>1325年</strong>）山西省高平县米山宣圣庙内的《米山宣圣庙记》碑一开头就感叹："泽潞里馆岁昵<strong>淫祀</strong>而嬉优伶，才乏俗浇，识者兴叹。</p>
@@ -6248,7 +6292,7 @@ Although <strong>temple</strong> forms also have certain patterns, they vary mor
 <p>"它的主演节目大约是"乱弹"，一种说唱。虽然防范严密，其实，看戏时候，不论楼上还是院心，都是相亲、定情的好场合。楼上的互相遥望，院心的面对面挤来挤去，常常会像<strong><strong>戏台</strong></strong>上一样演出些有趣的故事。陕西省东部，沿黄河岸边的村子，多在村南头有一个<strong>广场</strong>，场西一座<strong>关帝庙</strong>，朝东；场东一座<strong><strong>戏台</strong></strong>，朝西。</p>
 <p>看戏的人们面对河东，看着"坐怀不乱"的关羽的老家，就不会心猿意马、乱了心思，所以不论什么风流的戏都可演可看，"百无禁忌"。乡民们不傻。<strong>庙宇</strong>就在实现它多种多样的用途时，来到人间，卸去神圣的光环，世俗化了，现实化了。这才是中国乡土<strong>社</strong>会中<strong>庙宇</strong>的真正气质。演戏不仅仅是庙里的事，它往往是一个盛大的<strong>迎神赛会</strong>的一部分节目。</p>
 <p>演戏也不仅仅是一座<strong>庙宇</strong>、一个村落的事，它往往是许多村落共同参与的事。<strong>庙宇</strong>在这个场合成了一个相当大范围里的民俗文化狂欢中心，所以这种节日叫"<strong>庙会</strong>"。</p>
-<p>山西省平定县元末至正十三年（<strong>1353年</strong>）的《蒲台山灵赡王庙碑》很生动地记录了这个场面：四月四日□享庙上，前期一日迎神，六村之众具仪仗引导，幢、幡、宝盖、旌旗、金<strong>鼓</strong>与散乐、<strong>社</strong>火，层见叠出，名曰起神。明日牲牢酒醴香纸，既丰且腆，则吹箫击<strong>鼓</strong>，优伶奏技。</p>
+<p>山西省平定县元末至正十三年（<strong>1353年</strong>）的《蒲台山灵赡王庙碑》很生动地记录了这个场面：四月四日享庙上，前期一日迎神，六村之众具仪仗引导，幢、幡、宝盖、旌旗、金<strong>鼓</strong>与散乐、<strong>社</strong>火，层见叠出，名曰起神。明日牲牢酒醴香纸，既丰且腆，则吹箫击<strong>鼓</strong>，优伶奏技。</p>
 <p>而各<strong>社</strong>各有<strong>社</strong>火，或骑或步，或为仙佛，或为鬼神，鱼龙虎豹，喧呼歌叫，如蜡祭之狂。日晡复起，名曰下神。神至之处，日夕供祀惟谨，岁以为常。就在山西省晋东南阳城县润城镇东岳庙里有一块乾隆三十六年（<strong>1771年</strong>）《润城<strong>社</strong>新制神伴仪仗记》的碑，碑文里说的是游行式的演出。迎神祈泽，则大起众庶，<strong>鼓</strong>钲竞响，伞扇麾幢之属夹道而前驰。</p>
 <p>复有贝锦彩装，儿童杂剧，纷纭逐沓，填塞街衢，焜耀闾巷。而衣冠缙绅之族，亦往往相与揖让进退于其间。斯盖一时之盛也。说的是润城镇当年<strong><strong>社</strong>庙</strong><strong>庙会</strong>的盛况。从"众庶"到"缙绅"，从"儿童"到"衣冠"，都热热闹闹忘情地参与进去，很富有群众性。这种敬神大典，其实在各地普遍都有。</p>
 <p>除了蒲台山和润城<strong>社</strong>这两块碑所描述的<strong>香火</strong>盛况之外，商贸活动也是<strong>庙会</strong>的重要内容。届时摊贩林立，出售各种生活用品，供应丰富多彩的小食品。<strong>庙会</strong>期间大多也免不了有各色赌博，放纵几天。山西省临县碛口镇，庙多<strong>庙会</strong>多，附近有些村民就以赶<strong>庙会</strong>做小买卖为生。</p>
@@ -6315,7 +6359,7 @@ Temples are also one of the centers of rural cultural entertainment.</p>
 <p>Yuhuang Temple at Nanyao Village, Qinshui County, Shanxi—has a "Regulations for Sacrificing to Gods' Birthdays" <strong>stele</strong>, recording the birthday dates, required <strong>offering</strong>s, and money-sharing methods for Mountain God, Earth God, Gao Mei, White Dragon, Dragon King, Five Plagues, River God, Horse King, Cow King, Wind King, Guan Sheng Emperor, Three Silkworm Holy Mothers, etc.</p>
 <p>—among them "April 3rd <strong>sacrifice</strong> to Jade Emperor birthday" requires "three <strong>opera stage</strong>s, one pig, money shared by land acreage.</p>
 <p>" July 3rd <strong>sacrifice</strong>s to Jade Emperor again—requirements and money sharing similar to April, plus "one honey food stand, money shared by god followers.</p>
-<p>" Half a month later, "July 20th <strong>sacrifice</strong> to Wind King Honorable God birthday, three <strong>opera stage</strong>s, one pig, money shared by households, plus one jin of flour □ and Water Official… (text missing).</p>
+<p>" Half a month later, "July 20th <strong>sacrifice</strong> to Wind King Honorable God birthday, three <strong>opera stage</strong>s, one pig, money shared by households, plus one jin of flour and Water Official… (text missing).</p>
 <p>" A tiny village performs opera three times a year, three stages each time.Opera performance expenses—some paid by <strong>ancestral hall</strong>s, some by folk "associations" or "societies," some by industries or shared by land acreage, etc.</p>
 <p>Some can use "fines and confiscations"—such as gambling in <strong>temple</strong>s, grazing in <strong>temple</strong> boundaries, fraudulent buying and selling, and prostitution—all require fines.</p>
 <p>Chengtang Temple at Xinbi Village, Zezhou, Shanxi—has a Republic 22nd year (1933) "Stele Record of Impeaching and Deducted Money for Self-Enrichment"—speaking of an association head who embezzled public funds, "ordered him to immediately return the full amount, …use the returned money to perform opera for three days.</p>
@@ -6401,7 +6445,7 @@ A few <strong>temple</strong>s build stages on the other side of the <strong>squ
 <p>" Villagers are not stupid.Temples, in fulfilling their diverse uses, come to the human world, <strong>she</strong>dding their sacred halo—secularized, realized.This is the true temperament of <strong>temple</strong>s in Chinese rural society.</p>
 <p>Opera performance is not only a <strong>temple</strong> matter—it is often part of a grand god-welcoming festival.Opera is also not only one <strong>temple</strong> or one village matter—it is often something many villages participate in together.</p>
 <p>Temples in this occasion become a folk culture carnival center over a fairly large area—so this festival is called "<strong><strong>temple</strong> fair</strong>.</p>
-<p>" The "Putai Mountain Lingdan King Temple Stele" from Pingding County, Shanxi, late Yuan Zhizheng thirteenth year (1353), vividly records this scene: On the fourth day of the fourth month □ at the <strong>temple</strong>, one day before welcoming the god, people of six villages prepare processions to guide—banners, pennants, treasure canopies, flags, gold <strong>drum</strong>s and scattered music, community fire—layer upon layer appearing, called "raising god.</p>
+<p>" The "Putai Mountain Lingdan King Temple Stele" from Pingding County, Shanxi, late Yuan Zhizheng thirteenth year (1353), vividly records this scene: On the fourth day of the fourth month at the <strong>temple</strong>, one day before welcoming the god, people of six villages prepare processions to guide—banners, pennants, treasure canopies, flags, gold <strong>drum</strong>s and scattered music, community fire—layer upon layer appearing, called "raising god.</p>
 <p>" Next day, sacrificial animals, wine, <strong>incense</strong>, paper—both abundant and generous—then playing flutes and beating <strong>drum</strong>s, actors perform skills.</p>
 <p>And each community has its own community fire—some on horseback some on foot, some as <strong>immortal</strong>s and Buddhas, some as ghosts and gods, fish dragons tigers leopards—shouting and singing, like the madness of wax <strong>sacrifice</strong>.</p>
 <p>At dusk rising again, called "lowering god." Wherever the god arrives, day and night worship respectfully, annual custom.</p>
@@ -7165,5 +7209,26 @@ As before—the carpenter sings each line—the mason follows with a "good"!</p>
 <p>A Preliminary Study of Chinese Vernacular Architecture · DK Bilingual Full Edition</p>
 <p>基于原文逐页提取 · 术语准确 · 排版优化</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

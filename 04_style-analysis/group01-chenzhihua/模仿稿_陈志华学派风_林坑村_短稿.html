@@ -23,8 +23,52 @@ p.first{text-indent:0;}
 .footer{margin-top:30px;padding-top:16px;border-top:1px solid var(--line);color:var(--sub);font-size:12px;text-align:center;letter-spacing:.05em;}
 @media(max-width:640px){.wrap{max-width:100%;}p{font-size:15px;}}
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="wrap">
 <div class="titlebar">
 <div class="pen">—— 陈志华乡土建筑学派 · 田野调查体 试写（短稿）——</div>
@@ -63,10 +107,31 @@ p.first{text-indent:0;}
 <p><b>已采用（可交叉验证）：</b>明洪武年间始建、始祖狩猎入谷说、传四十五代约七百年；毛姓聚居；因"三面环山、竹木繁茂、溪多谷深、交通闭塞"得名；二层楼阁式木屋约四十五座、最老逾二百年、原木山石"不见一砖一瓦"；两溪交汇与巨石水声；石拱桥与木廊桥、桥身青苔；无祠堂、无牌坊、无园林、几无院落；赵群力航拍失事与村子的被发现；二〇一二年"中国景观村落"、二〇一九年第五批中国传统村落；二〇〇五年办农家乐、二〇一三年四十八家民宿、后转冷清、"晒秋"二次出圈、二〇二五年为第五届、开幕首日逾五千人。</p>
 <p><b>存疑或未采信：</b>某旅游攻略称村中有"宋代木拱廊桥永安桥（全国重点文保）"——永嘉并无此国保廊桥，判为营销话术，<b>未采用</b>；同篇"明代石拱桥接龙桥""两千平方米晒谷场""毛氏祖屋完整榫卯"等无第二来源，<b>未采用</b>；"《国家地理》盛赞活着的中国农耕文明博物馆"为宣传语，<b>未采用</b>。</p>
 <p><b>数据冲突（未强行统一）：</b>古木屋 45 座 / 47 幢两说；户数 100 余户 / 108 户 411 人 / 128 户 486 人三说；始建来历"狩猎发现"与"避乱自江西吉安迁来"两说；行政隶属黄南乡（一说岩坦镇黄南乡）。</p>
-<p><b>本篇未写（待补）：</b>① 林坑在陈志华《楠溪江中游》中的直接记述（本次未抽到，仅从"上游发育程度低"的总判断推得）；② 民居单体形制数据（开间、进深、举折、出檐）；③ 毛氏源流的宗谱原文；④ 是否有文保身份（仅见"中国景观村落""中国传统村落"两类名录）；⑤ 山地民居与中游村落在梁架做法上的具体差异。</p>
+<p><b>本篇未写（待补）：</b>(1) 林坑在陈志华《楠溪江中游》中的直接记述（本次未抽到，仅从"上游发育程度低"的总判断推得）；(2) 民居单体形制数据（开间、进深、举折、出檐）；(3) 毛氏源流的宗谱原文；(4) 是否有文保身份（仅见"中国景观村落""中国传统村落"两类名录）；(5) 山地民居与中游村落在梁架做法上的具体差异。</p>
 </div>
 
 <div class="footer">模仿稿（短）· 第一群陈志华学派田野调查体 | 素材对象：浙江永嘉楠溪江源头·林坑村 | 按"宁可短、不可编"规则：存疑者一律不写，缺口显式列出</div>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

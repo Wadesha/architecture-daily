@@ -15,66 +15,110 @@
 <link href="/img/style.css?20262" rel="stylesheet" type="text/css" />
 <script src="/img/m.js?20251"></script> 
 
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../index.html">首页</a><span class="dot">·</span>
+  <a href="../index.html#cat-01" class="c1">省建</a>
+  <a href="../index.html#cat-02" class="c2">村落</a>
+  <a href="../index.html#cat-03" class="c3">海外</a>
+  <a href="../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
  <div class="ClassNavi">
  <a href="/shilu/" target="_blank">明清实录</a> | 
-<a  href="https://www.gxdq.com/24shi/">二十四史</a> | <a href="/SiKuQuanShu/">四库全书</a> | <a href="/gjtsjc/"><font >古今图书集成</font></a> | <a href="/renwu/">历史人物</a> | <a href="/ShuoWenJieZi/"><font >说文解字</a></font> | <a href="/chengyu/">成语词典</a> | <a  target="_blank"  href="/jgwhj/"><font >甲骨文合集</font></a> | <a href="/yzjwjc/"><font >殷周金文集成</font></a> | <a href="/xiangxingzi/" target="_blank" ><font >象形字典</font></a> | <a href="/13jing/"><font >十三经索引</font></a> | <a href="/zixing/"><font >字体转换器</font></a> | <a href="/zidian/xz/"><font >篆书识别</font></a> | <a href="/jinfanyi/">近义反义词</a> | <a href="/duilian/">对联大全</a> | <a href="/jiapu/"><font>家谱族谱查询</font></a> | <a href="/hafo/" target="_blank" ><font>哈佛古籍</font></a> 
+<a href="https://www.gxdq.com/24shi/">二十四史</a> | <a href="/SiKuQuanShu/">四库全书</a> | <a href="/gjtsjc/"><font >古今图书集成</font></a> | <a href="/renwu/">历史人物</a> | <a href="/ShuoWenJieZi/"><font >说文解字</a></font> | <a href="/chengyu/">成语词典</a> | <a target="_blank" href="/jgwhj/"><font >甲骨文合集</font></a> | <a href="/yzjwjc/"><font >殷周金文集成</font></a> | <a href="/xiangxingzi/" target="_blank" ><font >象形字典</font></a> | <a href="/13jing/"><font >十三经索引</font></a> | <a href="/zixing/"><font >字体转换器</font></a> | <a href="/zidian/xz/"><font >篆书识别</font></a> | <a href="/jinfanyi/">近义反义词</a> | <a href="/duilian/">对联大全</a> | <a href="/jiapu/"><font>家谱族谱查询</font></a> | <a href="/hafo/" target="_blank" ><font>哈佛古籍</font></a> 
 </div>
 
  <!-- 头部导航开始 -->
 <div class="w1180 head clearfix">
-  <div class="head_logo l"><a title="国学大师官网" href="https://www.gxdq.com/" target="_blank"></a></div>
-  <div class="head_sr l">
-  <div id="head1">
+ <div class="head_logo l"><a title="国学大师官网" href="https://www.gxdq.com/" target="_blank"></a></div>
+ <div class="head_sr l">
+ <div id="head1">
 
-  <a href="/zidian/bujian/" target="_blank" style="margin-right:50px;"><img src="/img/top1.gif" width="88" height="60" border="0" title="部件查字，支持20万汉字"></a>  
+ <a href="/zidian/bujian/" target="_blank" style="margin-right:50px;"><img src="/img/top1.gif" width="88" height="60" border="0" title="部件查字，支持20万汉字"></a> 
  <a href="/help/yingpan.php" target="_blank" ><img src="/img/top230.gif" width="600" height="62" border="0" ></a> 
 
-  </div>
-  <div id="head3"><a href="javascript:" onClick="javascript:window.external.AddFavorite(window.location.href,document.title);">添加收藏</a>
-  <br><a href="/help/setie.php">搜索引擎</a>
-  <br><a href="/help/zanzhu.php">赞助本站</a></div>
-  <div id="head2">
-   
+ </div>
+ <div id="head3"><a href="javascript:" onClick="javascript:window.external.AddFavorite(window.location.href,document.title);">添加收藏</a>
+ <br><a href="/help/setie.php">搜索引擎</a>
+ <br><a href="/help/zanzhu.php">赞助本站</a></div>
+ <div id="head2">
+ 
  <a href="https://www.gujimi.com/" target="_blank"><img src="/img/gujimi.png" width="120" height="62" border="0" style="margin-right:10px;" title="国学迷"></a>
 
 
-  </div>
+ </div>
 </div>
-  <div class="clear"></div>
+ <div class="clear"></div>
 
-  <div class="head_nav"><p><a href="/">首页</a>|<a href="/ShuKu/">国学书库</a>|<a href="https://www.gxdq.com/guji/">影印古籍</a>|<a href="/shici/">诗词宝典</a>|<a   href="https://www.gxdq.com/24shi/">二十四史</a><b>|</b><a href="/zidian/">汉语字典</a>|<a href="/hydcd/">汉语词典</a>|<a href="https://www.gxdq.com/zidian/bujian/"><font  color="#CC0066">部件查字</font></a>|<a href="https://www.sftj.com/" target="_blank" ><font  color="#CC0066">书法图集</font></a>|<a href="https://www.gxdq.com/jgwhj/">甲骨文</a><b>|</b><a href="/renwu/">历史人物</a>|<a href="/diangu/">历史典故</a>|<a href="/shijian/nian-hao/">年号</a>|<a href="/xingshi/">姓氏</a>|<a href="/minzu/">民族</a><b>|</b><a href="https://www.gxdq.com/gjtsjc/">图书集成</a>|<a href="/yinpu/">印谱</a>|<a href="/csfz/">丛书</a>|<a href="http://www.zydcd.com/" target="_blank">中医中药</a>|<a href="https://www.gxdq.com/download/">软件&#x4E0B;载</a>
+ <div class="head_nav"><p><a href="/">首页</a>|<a href="/ShuKu/">国学书库</a>|<a href="https://www.gxdq.com/guji/">影印古籍</a>|<a href="/shici/">诗词宝典</a>|<a href="https://www.gxdq.com/24shi/">二十四史</a><b>|</b><a href="/zidian/">汉语字典</a>|<a href="/hydcd/">汉语词典</a>|<a href="https://www.gxdq.com/zidian/bujian/"><font color="#CC0066">部件查字</font></a>|<a href="https://www.sftj.com/" target="_blank" ><font color="#CC0066">书法图集</font></a>|<a href="https://www.gxdq.com/jgwhj/">甲骨文</a><b>|</b><a href="/renwu/">历史人物</a>|<a href="/diangu/">历史典故</a>|<a href="/shijian/nian-hao/">年号</a>|<a href="/xingshi/">姓氏</a>|<a href="/minzu/">民族</a><b>|</b><a href="https://www.gxdq.com/gjtsjc/">图书集成</a>|<a href="/yinpu/">印谱</a>|<a href="/csfz/">丛书</a>|<a href="http://www.zydcd.com/" target="_blank">中医中药</a>|<a href="https://www.gxdq.com/download/">软件&#x4E0B;载</a>
 </p>
-<p><a href="/yiwen/">译文</a>|<a href="http://www.gxdq.com/siku/" target="_blank">四库全书</a>|<a href="https://www.gxdq.com/search/" target="_blank"><font  color="#CC0066">全文检索</font></a>|<a href="/shumu/">古籍书目</a>|<a   href="/SiKuQuanShu/gxjx.php">国学精选</a><b>|</b><a href="/chengyu/">成语词典</a>|<a href="/kangxi/" title="康熙字典">康熙字典</a>|<a href="https://www.gxdq.com/ShuoWenJieZi/">说文解字</a>|<a href="/zixing/yanbian/">字形演变</a>|<a href="https://www.gxdq.com/yzjwjc/">金　文</a><b>|</b><a href="/diming/">历史地名</a>|<a href="/shijian/">历史事件</a>|<a href="/guanzhi/">官职</a>|<a href="/lishi/">知识</a>|<a href="/shilu/">实录</a><b>|</b><a href="/muzhi/">石刻墓志</a>|<a href="/jiapu/">家谱</a>|<a href="/duilian/">对联</a>|<a href="https://www.gxdq.com/lsditu/">历史地图</a>|<a href="https://www.gxdq.com/user/basic.php" target="_blank" >&#x4F1A;员&#x4E2D;心</a>
+<p><a href="/yiwen/">译文</a>|<a href="http://www.gxdq.com/siku/" target="_blank">四库全书</a>|<a href="https://www.gxdq.com/search/" target="_blank"><font color="#CC0066">全文检索</font></a>|<a href="/shumu/">古籍书目</a>|<a href="/SiKuQuanShu/gxjx.php">国学精选</a><b>|</b><a href="/chengyu/">成语词典</a>|<a href="/kangxi/" title="康熙字典">康熙字典</a>|<a href="https://www.gxdq.com/ShuoWenJieZi/">说文解字</a>|<a href="/zixing/yanbian/">字形演变</a>|<a href="https://www.gxdq.com/yzjwjc/">金　文</a><b>|</b><a href="/diming/">历史地名</a>|<a href="/shijian/">历史事件</a>|<a href="/guanzhi/">官职</a>|<a href="/lishi/">知识</a>|<a href="/shilu/">实录</a><b>|</b><a href="/muzhi/">石刻墓志</a>|<a href="/jiapu/">家谱</a>|<a href="/duilian/">对联</a>|<a href="https://www.gxdq.com/lsditu/">历史地图</a>|<a href="https://www.gxdq.com/user/basic.php" target="_blank" >&#x4F1A;员&#x4E2D;心</a>
 </p>
-  </div>
+ </div>
 </div>
 <!-- 头部导航END --> 
 <!-- 内容区开始 --> 
 <div class="w1180 clearfix">
-  <div class="info l">
-   
+ <div class="info l">
+ 
 <div class="clearfix" style="background:#f5faff;">
 <script src='/img/headersou.js?2025'></script>
 
 </div>
-  <div class="info_tree"><a href="http://www.39017.com">首页</a> > <a href="/guji/">影印古籍</a>
+ <div class="info_tree"><a href="http://www.39017.com">首页</a> > <a href="/guji/">影印古籍</a>
  > <h1>《尚志學會叢書之中國西部考古記_色伽蘭商務民2109國難後第一版》</h1> <!-- 　　　　　　　　下载：【右键另存为】即可 --></div>
-  <div class="info_content clearfix">
+ <div class="info_content clearfix">
  
-<span  style="font-size:16px;">
-  <dl class="clearfix">
-  <dt><strong>【《尚志學會叢書之中國西部考古記_色伽蘭商務民2109國難後第一版》  】</strong></dt>
+<span style="font-size:16px;">
+ <dl class="clearfix">
+ <dt><strong>【《尚志學會叢書之中國西部考古記_色伽蘭商務民2109國難後第一版》 】</strong></dt>
  <dd style="width:900px;margin-top:10px;"><a href="https://pan.quark.cn/s/b7fba671d25d" target="_blank" title="尚志學會叢書之中國西部考古記_色伽蘭商務民2109國難後第一版下载" alt="尚志學會叢書之中國西部考古記_色伽蘭商務民2109國難後第一版">【尚志學會叢書之中國西部考古記_色伽蘭商務民2109國難後第一版】夸克网盘下载 </a></dd>
 
-  
+ 
 </dl>
 
 <br>
 &nbsp;<a href="https://www.39017.com/help/yingpan.php" target="_blank">嫌挨个下载麻烦的、是收藏控的、有条件的可以选择4T硬盘速服务</a>。
 <br>
-<font color="#FF0000">&nbsp;下载方法：【右键另存为】即可。　pdf-djvu-uvz-pdg阅读器下载：<a  target="_blank" href="http://guji.39017.com/gj/pdf-djvu-uvz-pdg阅读器.zip">pdf-djvu-uvz-pdg</a></font>
+<font color="#FF0000">&nbsp;下载方法：【右键另存为】即可。　pdf-djvu-uvz-pdg阅读器下载：<a target="_blank" href="http://guji.39017.com/gj/pdf-djvu-uvz-pdg阅读器.zip">pdf-djvu-uvz-pdg</a></font>
 <br>
 &nbsp;本站上百万册影印古籍pdf、djvu、海量资料，直接从上面的搜索框输入检索即可。<br>
 【<a href="https://www.39017.com/shumu/" target="_blank" >古籍书目检索</a>】可查约百万种古籍，包括宋刻本、明抄本、清抄本、民国版本等。
@@ -273,13 +317,13 @@
 <div class="info_share">
 </div> 
 -->
- <!--info_share--></div>   <!-- end info_content-->
-  </div> <!-- end l-->
+ <!--info_share--></div> <!-- end info_content-->
+ </div> <!-- end l-->
 
-<div class="r">   <!--r-->
+<div class="r"> <!--r-->
 
 
-<div class="sidebar"  style="margin-bottom:2px;">
+<div class="sidebar" style="margin-bottom:2px;">
 
 <div class="sidebar_title">工具类大全</div>
 <div class="sidebar_info">
@@ -309,7 +353,7 @@
 <div class="sidebar_info">
 <table>
 <tr>
-	<td width=160><a href="https://m.gxdq.com/app/" target="_blank"><img src="https://www.gxdq.com/img/gxds-sj.png" width="140"  border="0" alt="国学大师手机版"></a></td>
+	<td width=160><a href="https://m.gxdq.com/app/" target="_blank"><img src="https://www.gxdq.com/img/gxds-sj.png" width="140" border="0" alt="国学大师手机版"></a></td>
 	<td>
 <a href="/download/" target="_blank">app软件&#x4E0B;载专区</a><br>
 <a href="/download/gxds.php" target="_blank">《国学大师》&#x4E0B;载</a><br>
@@ -330,7 +374,7 @@
 </center>
 </div>
 
-<div class="sidebar"  style="margin-bottom:2px;">
+<div class="sidebar" style="margin-bottom:2px;">
 <div class="sidebar_title">网站使用教程</div>
 <div class="sidebar_info">
 <a href="/help/jczici.php" target="_blank">国学大师检索使用教程－字词篇</a><br>
@@ -353,7 +397,7 @@
 <br>
 
 <a href="https://www.gxdq.com/so.php?sokeygx=%E4%B8%9B%E4%B9%A6%E9%9B%86%E6%88%90&submit=&kt=1">丛书集成</a> 
-<a href="https://www.gxdq.com/so.php?sokeygx=%E5%9B%9B%E9%83%A8%E4%B8%9B%E5%88%8A&submit=&kt=1"><strong>四部丛刊</strong></a>  
+<a href="https://www.gxdq.com/so.php?sokeygx=%E5%9B%9B%E9%83%A8%E4%B8%9B%E5%88%8A&submit=&kt=1"><strong>四部丛刊</strong></a> 
 <a href="https://www.gxdq.com/so.php?sokeygx=%E8%AF%B4%E6%96%87%E8%A7%A3%E5%AD%97&submit=&kt=1">說文解字</a> <a href="https://www.gxdq.com/so.php?sokeygx=%E5%85%A8%E4%B8%8A%E5%8F%A4&submit=&kt=1">三国六朝文</a>
 <br><a href="https://www.gxdq.com/so.php?sokeytm=%E6%97%A5%E6%9C%AC%E5%86%85%E9%98%81%E6%96%87%E5%BA%93&submit=&kt=1"><strong>日本内阁文库</strong></a>　<a href="https://www.gxdq.com/so.php?sokeytm=%E5%9B%BD%E5%9B%BE%E6%96%B9%E5%BF%97%E5%90%88%E9%9B%86&ka=100&submit=">国图方志合集</a>　<a href="https://www.gxdq.com/so.php?sokeytm=%E5%90%84%E5%9C%B0%E6%96%B9%E5%BF%97&submit=&kt=1"><strong>各地方志</strong></a>
 
@@ -376,7 +420,7 @@
 </div> 
 </div>
 
-<div class="sidebar"  style="margin-bottom:2px;">
+<div class="sidebar" style="margin-bottom:2px;">
 <div class="sidebar_title">推荐资源</div>
 <div class="sidebar_info" style="width:300px;overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">
 <a href="https://pan.quark.cn/s/e48fcfc6f3d8" target="_blank">推荐：高清古籍PDF (2.5T)</a><br>
@@ -407,34 +451,34 @@
 
 
 </div>
-</div></div>  <!--end r-->
+</div></div> <!--end r-->
 
 </div>
 <!-- 内容区END --> 
 
 <!-- 页脚开始 -->
 <div class="shh hid">
-<a  href="/shumu/gj-2580504ko.html">新鐫許真君玉匣記增補諸家選擇日用通書二卷</a>　<a  href="/shumu/gj-2580505lv.html">新鐫許真君玉匣記增補諸家選擇日用通書五卷</a>　<a  href="/shumu/gj-2580506sa.html">增補參星秘要諏吉便覽一卷諏吉便覽寶鏡圖一卷都天滾盤珠要法一卷</a>　<a  href="/shumu/gj-2580507np.html">參星秘要諏吉便覽一卷諏吉便覽寶鏡圖一卷附都天滾盤珠要法一卷</a>　<a  href="/shumu/gj-2580508ef.html">參星秘要諏吉便覽一卷諏吉便覽寶鏡圖一卷附都天滾盤珠要法一卷</a>　<a  href="/shumu/gj-2580509ak.html">參星秘要諏吉便覽一卷諏吉便覽寶鏡圖一卷附都天滾盤珠要法一卷</a>　<a  href="/shumu/gj-2580510ss.html">參星秘要諏吉便覽一卷諏吉便覽寶鏡圖一卷附都天滾盤珠要法一卷</a>　<a  href="/shumu/gj-2580511dq.html">新鐫曆法便覽象吉備要通書二十九卷</a>　<a  href="/shumu/gj-2580512il.html">通德類情十三卷</a>　<a  href="/shumu/gj-2580513lh.html">太乙數統宗大全四十卷</a>　<a  href="/shumu/gj-2580514xm.html">欽定協紀辨方書三十六卷</a>　<a  href="/shumu/gj-2580515cy.html">欽定協紀辨方書三十六卷</a>　<a  href="/shumu/gj-2580516dt.html">欽定協紀辨方書三十六卷</a>　<a  href="/shumu/gj-2580517rw.html">推背圖說一卷</a>　<a  href="/shumu/gj-2580518ww.html">閱藏知津四十四卷</a>　<a  href="/shumu/gj-2580519qs.html">釋氏十三經合刻十種二十一卷</a>　<a  href="/shumu/gj-2580520lb.html">法苑珠林一百卷</a>　<a  href="/shumu/gj-2580521wy.html">法苑珠林一百卷</a>　<a  href="/shumu/gj-2580522ll.html">法苑珠林一百卷</a>　<a  href="/shumu/gj-2580523ak.html">法苑珠林一百卷</a>　<a  href="/shumu/gj-2580524db.html">一切經音義二十五卷</a>　<a  href="/shumu/gj-2580525ya.html">一切經音義二十五卷</a>　<a  href="/shumu/gj-2580526ft.html">翻譯名義集二十卷</a>　<a  href="/shumu/gj-2580527zs.html">翻譯名義集二十卷</a>　<a  href="/shumu/gj-2580528ww.html">翻譯名義集選一卷</a>　<a  href="/shumu/gj-2580529qi.html">翻譯名義集選一卷</a>　<a  href="/shumu/gj-2580530ft.html">翻譯名義集選一卷</a>　<a  href="/shumu/gj-2580531pi.html">翻譯名義集選一卷</a>　<a  href="/shumu/gj-2580532vz.html">重訂教乘法數十二卷</a>　<a  href="/shumu/gj-2580533jw.html">重訂教乘法數十二卷</a>　<a  href="/shumu/gj-2580534ld.html">佛爾雅八卷</a>　<a  href="/shumu/gj-2580535qq.html">佛爾雅八卷</a>　<a  href="/shumu/gj-2580536sx.html">大方廣佛華嚴經八十卷序一卷普賢行願品一卷</a>　<a  href="/shumu/gj-2580537em.html">漸備一切智德經五卷</a>　<a  href="/shumu/gj-2580538mu.html">大方廣圓覺修多羅了義經二卷</a>　<a  href="/shumu/gj-2580539ka.html">大方廣圓覺修多羅了義經二卷</a>　<a  href="/shumu/gj-2580540pt.html">大方廣圓覺修多羅了義經二卷</a>　<a  href="/shumu/gj-2580541uu.html">大方廣圓覺修多羅了義經二卷</a>　<a  href="/shumu/gj-2580542oj.html">大方廣圓覺修多羅了義經二卷</a>　<a  href="/shumu/gj-2580543vg.html">大方廣圓覺修多羅了義經二卷</a>　<a  href="/shumu/gj-2580544li.html">大方廣佛華嚴經著述集要</a>　<a  href="/shumu/gj-2580545sl.html">大方廣佛華嚴經入不思議解脫境界普賢行願品疏</a>　<a  href="/shumu/gj-2580546wi.html">大方廣佛華嚴經綸貫懺儀序品說科處會安立圖目</a>　<a  href="/shumu/gj-2580547ne.html">大方廣圓覺修多羅了義經直解二卷</a>　<a  href="/shumu/gj-2580548va.html">佛說無量清凈平等覺經三卷</a>　<a  href="/shumu/gj-2580549yw.html">佛說無量壽經二卷</a>　<a  href="/shumu/gj-2580550hd.html">佛說無量壽經二卷</a>　<a  href="/shumu/gj-2580551ml.html">佛說無量壽經二卷</a>　<a  href="/shumu/gj-2580552ri.html">佛說無量壽經二卷</a>　<a  href="/shumu/gj-2580553rw.html">佛說無量壽經二卷</a>　<a  href="/shumu/gj-2580554ya.html">佛說無量壽經二卷</a>　<a  href="/shumu/gj-2580555oz.html">佛說無量壽經二卷</a>　<a  href="/shumu/gj-2580556ck.html">佛說無量壽經二卷</a>　<a  href="/shumu/gj-2580557vl.html">佛說無量壽經二卷</a>　<a  href="/shumu/gj-2580558or.html">佛說無量壽經二卷</a>　<a  href="/shumu/gj-2580559fa.html">佛說無量壽經二卷</a>　<a  href="/shumu/gj-2580560me.html">凈土四經四卷</a>　<a  href="/shumu/gj-2580561nc.html">大方等大集賢護經五卷</a>　<a  href="/shumu/gj-2580562et.html">楞伽阿跋多羅寶經四卷</a>　<a  href="/shumu/gj-2580563dg.html">楞伽阿跋多羅寶經會譯四卷</a>　</div>
+<a href="/shumu/gj-2580504ko.html">新鐫許真君玉匣記增補諸家選擇日用通書二卷</a>　<a href="/shumu/gj-2580505lv.html">新鐫許真君玉匣記增補諸家選擇日用通書五卷</a>　<a href="/shumu/gj-2580506sa.html">增補參星秘要諏吉便覽一卷諏吉便覽寶鏡圖一卷都天滾盤珠要法一卷</a>　<a href="/shumu/gj-2580507np.html">參星秘要諏吉便覽一卷諏吉便覽寶鏡圖一卷附都天滾盤珠要法一卷</a>　<a href="/shumu/gj-2580508ef.html">參星秘要諏吉便覽一卷諏吉便覽寶鏡圖一卷附都天滾盤珠要法一卷</a>　<a href="/shumu/gj-2580509ak.html">參星秘要諏吉便覽一卷諏吉便覽寶鏡圖一卷附都天滾盤珠要法一卷</a>　<a href="/shumu/gj-2580510ss.html">參星秘要諏吉便覽一卷諏吉便覽寶鏡圖一卷附都天滾盤珠要法一卷</a>　<a href="/shumu/gj-2580511dq.html">新鐫曆法便覽象吉備要通書二十九卷</a>　<a href="/shumu/gj-2580512il.html">通德類情十三卷</a>　<a href="/shumu/gj-2580513lh.html">太乙數統宗大全四十卷</a>　<a href="/shumu/gj-2580514xm.html">欽定協紀辨方書三十六卷</a>　<a href="/shumu/gj-2580515cy.html">欽定協紀辨方書三十六卷</a>　<a href="/shumu/gj-2580516dt.html">欽定協紀辨方書三十六卷</a>　<a href="/shumu/gj-2580517rw.html">推背圖說一卷</a>　<a href="/shumu/gj-2580518ww.html">閱藏知津四十四卷</a>　<a href="/shumu/gj-2580519qs.html">釋氏十三經合刻十種二十一卷</a>　<a href="/shumu/gj-2580520lb.html">法苑珠林一百卷</a>　<a href="/shumu/gj-2580521wy.html">法苑珠林一百卷</a>　<a href="/shumu/gj-2580522ll.html">法苑珠林一百卷</a>　<a href="/shumu/gj-2580523ak.html">法苑珠林一百卷</a>　<a href="/shumu/gj-2580524db.html">一切經音義二十五卷</a>　<a href="/shumu/gj-2580525ya.html">一切經音義二十五卷</a>　<a href="/shumu/gj-2580526ft.html">翻譯名義集二十卷</a>　<a href="/shumu/gj-2580527zs.html">翻譯名義集二十卷</a>　<a href="/shumu/gj-2580528ww.html">翻譯名義集選一卷</a>　<a href="/shumu/gj-2580529qi.html">翻譯名義集選一卷</a>　<a href="/shumu/gj-2580530ft.html">翻譯名義集選一卷</a>　<a href="/shumu/gj-2580531pi.html">翻譯名義集選一卷</a>　<a href="/shumu/gj-2580532vz.html">重訂教乘法數十二卷</a>　<a href="/shumu/gj-2580533jw.html">重訂教乘法數十二卷</a>　<a href="/shumu/gj-2580534ld.html">佛爾雅八卷</a>　<a href="/shumu/gj-2580535qq.html">佛爾雅八卷</a>　<a href="/shumu/gj-2580536sx.html">大方廣佛華嚴經八十卷序一卷普賢行願品一卷</a>　<a href="/shumu/gj-2580537em.html">漸備一切智德經五卷</a>　<a href="/shumu/gj-2580538mu.html">大方廣圓覺修多羅了義經二卷</a>　<a href="/shumu/gj-2580539ka.html">大方廣圓覺修多羅了義經二卷</a>　<a href="/shumu/gj-2580540pt.html">大方廣圓覺修多羅了義經二卷</a>　<a href="/shumu/gj-2580541uu.html">大方廣圓覺修多羅了義經二卷</a>　<a href="/shumu/gj-2580542oj.html">大方廣圓覺修多羅了義經二卷</a>　<a href="/shumu/gj-2580543vg.html">大方廣圓覺修多羅了義經二卷</a>　<a href="/shumu/gj-2580544li.html">大方廣佛華嚴經著述集要</a>　<a href="/shumu/gj-2580545sl.html">大方廣佛華嚴經入不思議解脫境界普賢行願品疏</a>　<a href="/shumu/gj-2580546wi.html">大方廣佛華嚴經綸貫懺儀序品說科處會安立圖目</a>　<a href="/shumu/gj-2580547ne.html">大方廣圓覺修多羅了義經直解二卷</a>　<a href="/shumu/gj-2580548va.html">佛說無量清凈平等覺經三卷</a>　<a href="/shumu/gj-2580549yw.html">佛說無量壽經二卷</a>　<a href="/shumu/gj-2580550hd.html">佛說無量壽經二卷</a>　<a href="/shumu/gj-2580551ml.html">佛說無量壽經二卷</a>　<a href="/shumu/gj-2580552ri.html">佛說無量壽經二卷</a>　<a href="/shumu/gj-2580553rw.html">佛說無量壽經二卷</a>　<a href="/shumu/gj-2580554ya.html">佛說無量壽經二卷</a>　<a href="/shumu/gj-2580555oz.html">佛說無量壽經二卷</a>　<a href="/shumu/gj-2580556ck.html">佛說無量壽經二卷</a>　<a href="/shumu/gj-2580557vl.html">佛說無量壽經二卷</a>　<a href="/shumu/gj-2580558or.html">佛說無量壽經二卷</a>　<a href="/shumu/gj-2580559fa.html">佛說無量壽經二卷</a>　<a href="/shumu/gj-2580560me.html">凈土四經四卷</a>　<a href="/shumu/gj-2580561nc.html">大方等大集賢護經五卷</a>　<a href="/shumu/gj-2580562et.html">楞伽阿跋多羅寶經四卷</a>　<a href="/shumu/gj-2580563dg.html">楞伽阿跋多羅寶經會譯四卷</a>　</div>
 
 <div class="w1180" style="margin-top:8px;">
 <center></center>
 </div>
 <div class="w1180 foot">
 <a href="/help/zanzhu.php">关于本站</a> | <a href="javascript:window.external.AddFavorite(document.location.href,document.title);">收藏本站</a> | <a >欢迎投稿</a> | <a >意见建议</a> | <a href="http://gxdq.cc/">手机APP</a><br />
-  Copyright &copy; 国学大师 古典图书集成 All Rights Reserved.<br>
-  
-  <span style="font-size:14px">免责声明：本站非营利性站点，内容均为民国之前的公共版权领域古籍，以方便网友为主，仅供学习研究。<br>内容由热心网友提供和网上收集，不保留版权。若侵犯了您的权益，来信即刪。scp168@qq.com</span>
-  <br />
+ Copyright &copy; 国学大师 古典图书集成 All Rights Reserved.<br>
+ 
+ <span style="font-size:14px">免责声明：本站非营利性站点，内容均为民国之前的公共版权领域古籍，以方便网友为主，仅供学习研究。<br>内容由热心网友提供和网上收集，不保留版权。若侵犯了您的权益，来信即刪。scp168@qq.com</span>
+ <br />
 ICP证：<a href="https://beian.miit.gov.cn" target="_blank">琼ICP备2022019473号-12</a></div>
 <!-- 页脚END --> 
 
 <script>
 var _hmt = _hmt || [];
 (function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?f360f57688a7b531f5ec75f46a7d0a1a";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
+ var hm = document.createElement("script");
+ hm.src = "https://hm.baidu.com/hm.js?f360f57688a7b531f5ec75f46a7d0a1a";
+ var s = document.getElementsByTagName("script")[0]; 
+ s.parentNode.insertBefore(hm, s);
 })();
 </script>
 
@@ -442,15 +486,15 @@ var _hmt = _hmt || [];
 
 <style>
 	.pop *{padding:0px;margin:0px;}
-	.pop {  display: none;  width: 540px; max-width: 90%; height:220px;min-height: 200px;  max-height: 600px;    position: absolute;  top: 0;  left: 0;  bottom: 0;  right: 0;  margin: auto;  padding: 25px;  z-index: 130;  border-radius: 8px;  background-color: #fff;  box-shadow: 0 3px 18px rgba(100, 0, 0, .5);  overflow: hidden;}
-	.pop-top{  height:30px;  width:100%;  border-bottom: 1px #E5E5E5 solid;  }
-	.pop-top h2{ font-size:18px; float: left;  display:black;}
-	.pop-top span{  float: right;  cursor: pointer;  font-weight: bold; display:black}
+	.pop { display: none; width: 540px; max-width: 90%; height:220px;min-height: 200px; max-height: 600px; position: absolute; top: 0; left: 0; bottom: 0; right: 0; margin: auto; padding: 25px; z-index: 130; border-radius: 8px; background-color: #fff; box-shadow: 0 3px 18px rgba(100, 0, 0, .5); overflow: hidden;}
+	.pop-top{ height:30px; width:100%; border-bottom: 1px #E5E5E5 solid; }
+	.pop-top h2{ font-size:18px; float: left; display:black;}
+	.pop-top span{ float: right; cursor: pointer; font-weight: bold; display:black}
 
-	.pop-cancel, .pop-ok {  padding:8px 15px;  margin:15px 5px;  border: none;  border-radius: 5px;  background-color: #337AB7;  color: #fff;  cursor:pointer;  }
-	.pop-cancel {  background-color: #FFF;  border:1px #CECECE solid;  color: #000;  }
+	.pop-cancel, .pop-ok { padding:8px 15px; margin:15px 5px; border: none; border-radius: 5px; background-color: #337AB7; color: #fff; cursor:pointer; }
+	.pop-cancel { background-color: #FFF; border:1px #CECECE solid; color: #000; }
 
-	.pop-content-left{  float: left;  }
+	.pop-content-left{ float: left; }
 	
 	.pop-content table{margin:8px;line-height:26px;vertical-align:top}
 
@@ -459,39 +503,60 @@ var _hmt = _hmt || [];
 
 
 <div class="pop">
-    <div class="pop-top">
-        <h2>网站改名：国学大全</h2>
-        <span class="pop-close"><img src="https://m.guoxuedashi.com/img/al5.png" width="24"  border="0" alt="Ｘ"></span>
-    </div>
+ <div class="pop-top">
+ <h2>网站改名：国学大全</h2>
+ <span class="pop-close"><img src="https://m.guoxuedashi.com/img/al5.png" width="24" border="0" alt="Ｘ"></span>
+ </div>
 
-    <div class="pop-content">
-        <div class="pop-content-left">
+ <div class="pop-content">
+ <div class="pop-content-left">
 
 <table>
 <tr>
 	<td width="140" valign="top"><a href="https://www.gxdq.com/"><img src="https://m.gxdq.com/app/img/gxds.png?20266" width=120 border=0 style="margin-top:4px;"></a></td>
 	<td><a href="https://www.gxdq.com/" style=" color: #000;font-size:16px" >国学大师这个词由于某些原因，决定更换网站域名和名称。<br>
-<span style=" color:#ff0000;">gxdq.com</span>  国学大全，请记住这4个字母，<span style=" color:#ff0000;">gxdq</span> 国学大全的简拼。网址又短又容易记住，和名称完全匹配。请及时更新收藏夹，使用 <span style=" color:#ff0000;">gxdq.com</span> 访问网站。</a></td>
+<span style=" color:#ff0000;">gxdq.com</span> 国学大全，请记住这4个字母，<span style=" color:#ff0000;">gxdq</span> 国学大全的简拼。网址又短又容易记住，和名称完全匹配。请及时更新收藏夹，使用 <span style=" color:#ff0000;">gxdq.com</span> 访问网站。</a></td>
 </tr>
 </table>
 
-          
-        </div>
+ 
+ </div>
 
-       
-    </div>
+ 
+ </div>
 
 
 </div>
 <script>
-    $(document).ready(function () {
-        $('.pop-close').click(function () {
-            $('.pop').hide();
-        });
-        
-    })
+ $(document).ready(function () {
+ $('.pop-close').click(function () {
+ $('.pop').hide();
+ });
+ 
+ })
 
-            $('.pop').show();
+ $('.pop').show();
 </script>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../index.html">← 目录</a>
+</nav>
 </body>
 </html>

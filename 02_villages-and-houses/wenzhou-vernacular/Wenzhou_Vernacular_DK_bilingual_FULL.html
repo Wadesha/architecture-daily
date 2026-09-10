@@ -42,8 +42,52 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 .footer { background: #1F3A3A; color: white; text-align: center; padding: 35px; margin-top: 50px; }
 .footer p { opacity: 0.8; font-size: 0.9em; margin-bottom: 5px; }
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="header">
 <h1>温州乡土建筑</h1>
 <div class="subtitle">Middle Nanxi River · DK Style Bilingual Edition</div>
@@ -1275,7 +1319,7 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p class="zh-text">二、<strong>农业</strong>范式辐射出居屋的环<strong>农业</strong>特征</p>
 <p class="zh-text">我国位于温带、亚热带生物富集区，古代以农立国，以种植经济为基本的生产方式。人们日出而作，日入而息，整天和泥土打交道，农闲时祭山祭水祭祖先，穷者力田致富，富了就想买田买屋，选择职业以<strong>耕读</strong>为上，士大夫一旦得志，其精神日趋求田问舍，做官的以"劝农"为本，退休的要荣归故里，很多美的事物都带田字，如称神农为"田祖"，叫老农为"田父"，指故乡为"田里"，有田方为福，福从田地起，并喻一切滋生之物为田，如砚田、心田，一句话，个人及社会的一切活动和思维都是以<strong>农业</strong>为中心，环绕着土地展开的。</p>
 <p class="zh-text">人们在这种生活方式中展开了和自然的关系，找到自己在宇宙中的位置，产生了深刻的山水和土地观念，并使自己的思想方法、审美情趣、价值观念，都打上了土地的烙印。这些，可叫做古代中国生活方式的环<strong>农业</strong>特征。这一特征，很大程度上导致了<strong>传统建筑</strong>的恋土品格以及由此引起的内聚心理。在形式上，表现出来的最大特征是出现了<strong>民居</strong>的门—院—屋三段式模式。</p>
-<p class="zh-text">古代中国家庭之家的完整概念应包含三层意思：①《诗·周南》谓宜其家室，即一门之内谓之家，这是家的"物"的概念。② 有夫有妇然后为家，这是家的"人"的概念。③ 受田百亩为夫家，这是大典用"社会"概念。房屋仅仅是家的居住部分，称作家室，住房之外，还必须有个院子，故古代又把家叫作家园。这个<strong>院落</strong>，是家屋和<strong>农业</strong>联系的纽带，是田地的伸延，是<strong>农耕</strong>活动的继续，有纳天地于家的精神功能，也是家庭地位、文化素质的重要表征。</p>
+<p class="zh-text">古代中国家庭之家的完整概念应包含三层意思：(1)《诗·周南》谓宜其家室，即一门之内谓之家，这是家的"物"的概念。(2) 有夫有妇然后为家，这是家的"人"的概念。(3) 受田百亩为夫家，这是大典用"社会"概念。房屋仅仅是家的居住部分，称作家室，住房之外，还必须有个院子，故古代又把家叫作家园。这个<strong>院落</strong>，是家屋和<strong>农业</strong>联系的纽带，是田地的伸延，是<strong>农耕</strong>活动的继续，有纳天地于家的精神功能，也是家庭地位、文化素质的重要表征。</p>
 <p class="zh-text">曾国藩把养鱼、喂猪、种竹、种菜列为家政四要，他说，这样做一方面可以让人在墙外就看到家庭的生气，走进院子后，又看见一片繁荣景象。可见，<strong>农耕</strong>时代的家庭<strong>院落</strong>是多么重要，由于有了这个<strong>空间</strong>，住房本身反而退到次要地位了。</p>
 <p class="zh-text"><strong>农业</strong>经济对<strong>温州</strong>乡土<strong>民居</strong>的影响，还表现在<strong>平面</strong>布局、<strong>立面</strong>造型诸方面。比如H形<strong>住宅</strong>的形成过程，就是家庭发展的过程。原先一字形<strong>住宅</strong>，正间即堂屋为放祖先灵位、会客、设祭行礼、婚丧大典用，堂屋的两边为卧室，尽端才是厨房，子女多的家庭，一字形房屋不够用，就添两厢，变成门形。正房、厢房、门台合成的<strong>院落</strong>比较整洁，有些辅助房如厕所、猪栏不宜在屋前，于是向后发展，变成H形<strong>住宅</strong>。这种<strong>住宅</strong>实际上有前后两个<strong>院落</strong>（或<strong>天井</strong>）。H形<strong>住宅</strong>也可能是一次造成的，这样的家庭，一两代之后，就要析产分灶，于是再向纵深或左右发展，又成了日形，田形或更多的<strong>院落</strong>（<strong>天井</strong>）。</p>
 <p class="zh-text"><strong>农业</strong>经济时代家务多，坐在门窗多而空透的室内还嫌太热，于是产生了半露天的<strong>檐<strong>廊</strong></strong>。该<strong>空间</strong>成为家庭日常生活的主要场所，剥豆、掰玉米、<strong>手工业</strong>、纺织、聊天、读书、游戏、夏天进餐都在<strong><strong>廊</strong>下</strong>。《隋书·地理志》、《齐民要术》等书记载：古代<strong>温州</strong>蚕桑业非常发达，一年有八次蚕丝生产，家庭纺织也很兴旺、妇女往往能"夜浣纱而旦成布"。这就是<strong>温州</strong>经济史上闻名全国的"八辈蚕"和"鸡鸣布"。这两项家庭生产活动，季节性很强，都要求有可通可隔、灵活变化的<strong>空间</strong>和良好的避晒、通风条件。这也是<strong>温州</strong><strong>檐<strong>廊</strong></strong>或重檐生成的机制。</p>
@@ -1292,8 +1336,8 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p class="en-text">In a word, all activities and thinking of individuals and society are centered on <strong>agriculture</strong>, unfolding around the land.</p>
 <p class="en-text">In this lifestyle, people developed their relationship with nature, found their position in the universe,产生了 profound mountain-water and land concepts, and imprinted their thinking methods, aesthetic tastes, and values with the mark of land. These can be called the agricultural-surrounding characteristic of ancient Chinese lifestyle.</p>
 <p class="en-text">This characteristic largely led to the earth-loving character of <strong>traditional architecture</strong> and the resulting inward-gathering psychology. In <strong>form</strong>, the most prominent characteristic is the emergence of the gate-<strong>courtyard</strong>-house three-stage model of <strong>residence</strong>s.</p>
-<p class="en-text">The complete concept of family in ancient China should include three layers of meaning: ① "Book of Songs · Zhou Nan" says "appropriate for her family and house," i.e., within one gate is called home, this is the "object" concept of home. ② Having a husband and wife then makes a home, this is the "person" concept of home.</p>
-<p class="en-text">③ Receiving one hundred mu of fields makes a husband's family, this is the grand code's "social" concept. The house is only the residential part of the home, called "jiashi" (family room); besides the house, there must also be a <strong>courtyard</strong>, hence ancient times also called home "jiayuan" (family garden).</p>
+<p class="en-text">The complete concept of family in ancient China should include three layers of meaning: (1) "Book of Songs · Zhou Nan" says "appropriate for her family and house," i.e., within one gate is called home, this is the "object" concept of home. (2) Having a husband and wife then makes a home, this is the "person" concept of home.</p>
+<p class="en-text">(3) Receiving one hundred mu of fields makes a husband's family, this is the grand code's "social" concept. The house is only the residential part of the home, called "jiashi" (family room); besides the house, there must also be a <strong>courtyard</strong>, hence ancient times also called home "jiayuan" (family garden).</p>
 <p class="en-text">This <strong>courtyard</strong> is the link between the house and <strong>agriculture</strong>, an extension of fields, a continuation of <strong>farming</strong> activities, with the spiritual function of bringing heaven and earth into the home, and also an important表征 of family status and cultural quality.</p>
 <p class="en-text">Zeng Guofan listed raising fish, feeding pigs, <strong>plan</strong>ting bamboo, and growing vegetables as the four essentials of household management. He said that doing so allows people to see the vitality of the family outside the wall, and after entering the <strong>courtyard</strong>, see a prosperous scene.</p>
 <p class="en-text">It can be seen how important the family <strong>courtyard</strong> was in the agricultural era; because of this <strong>space</strong>, the house itself反而 receded to a secondary position.</p>
@@ -1368,7 +1412,7 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <span class="lang-label">中文</span>
 <p class="zh-text">四、<strong>民俗</strong>与<strong><strong>温州</strong><strong>乡土建筑</strong></strong>文化</p>
 <p class="zh-text">"风俗"是影响<strong>民居</strong>类型和风格的重要因素。"风"指国风，它影响、形成<strong>民居</strong>的共性；"俗"指<strong>民俗</strong>，造就<strong>民居</strong>的个性。</p>
-<p class="zh-text">分析第一章所述，<strong>温州</strong><strong>民俗</strong>有如下特点：① 活动频繁，从正月到腊月，遇初一或十五，逢三、八、二、七日子等皆有<strong>民俗</strong>活动。② 活动面广，从城市、集镇到农村，无论年长岁小，全民参与。③ 聚集性强，很多活动不是家庭式的，而是社团性、地方性的，大家都集中在一个场所或赶到一个地方去。④ 竞争性强，很多<strong>民俗</strong>活动带有竞赛性，如划龙舟。有的形式上不是竞赛，而实质上具有竞赛成份，如舞龙灯、灯节、"花祭"等，参与者以村或街道或家庭为单位，都有比一比谁搞得好的意识。⑤从文化层面讲，带有浓厚的巫文化成份，既敬神又娱己。</p>
+<p class="zh-text">分析第一章所述，<strong>温州</strong><strong>民俗</strong>有如下特点：(1) 活动频繁，从正月到腊月，遇初一或十五，逢三、八、二、七日子等皆有<strong>民俗</strong>活动。(2) 活动面广，从城市、集镇到农村，无论年长岁小，全民参与。(3) 聚集性强，很多活动不是家庭式的，而是社团性、地方性的，大家都集中在一个场所或赶到一个地方去。(4) 竞争性强，很多<strong>民俗</strong>活动带有竞赛性，如划龙舟。有的形式上不是竞赛，而实质上具有竞赛成份，如舞龙灯、灯节、"花祭"等，参与者以村或街道或家庭为单位，都有比一比谁搞得好的意识。(5)从文化层面讲，带有浓厚的巫文化成份，既敬神又娱己。</p>
 <p class="zh-text"><strong>民俗</strong>活动需要载体或场所，其载体多为建筑，场所多为公共用地。如庙台戏，其<strong>戏台</strong>是临时搭建的，一般选择在村子的公共空地上或晒谷场或<strong>宗祠</strong>前的平地上，也或在山脚或几条路口交汇处、水边、<strong>桥</strong>头。拦街福活动中的花祭（摆盆景、陈花卉）多摆在门前、<strong>檐<strong>廊</strong></strong>下，也有集中在某一公共建筑内的。至于神祀，多数需建有神庙、<strong>祠堂</strong>。</p>
 <p class="zh-text"><strong>民俗</strong>活动的结果，从精神上提升了人们的创造力和竞争性，从而刺激了建筑<strong>营造</strong>活动，成了<strong>乡土建筑</strong>的动力，并且影响了建筑及<strong>装修</strong>的风格。如温瑞塘河是唐<strong>宋代</strong>为开发圩田而开挖的一条内河，明<strong>清代</strong>由于祭神活动需要，人们<strong>利用</strong>船揖之便在两岸搭<strong>戏台</strong>演戏，修建了十多个庙，时称"水台"，祭神活动时，请地方戏剧班演戏，同时商贩云集形成独具特色的"会市"，并逐渐形成一个个村镇，加上交通、农田开发等原因，形成今天摆在世人面前的集镇首尾相接的<strong>风貌</strong>。</p>
 <p class="zh-text"><strong>温州</strong>的神祭有祭土地神，有祀古代职司如"文昌庙"、"药王庙"等，有祭历史名人的如神农、徐偃王、王羲之等，也有祭感应神祇的如"忠精圣王"、"胡公大帝"等，形成了<strong><strong>温州</strong><strong>乡土建筑</strong></strong><strong>宗庙</strong><strong>祠堂</strong>遍布的<strong>景观</strong>特色。<strong>温州</strong><strong>民俗</strong>活动中的正月元宵灯会舞龙，三月三拦街福，端午扮彩龙、斗龙舟，中元节兰盆会等，既是迎神赛会，又往往和集市贸易、文娱体育活动结合在一起，促进了城乡物资交流，推动了饮食文化、民间工艺美术、民间文学，并影响其风格。</p>
@@ -1380,10 +1424,10 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <span class="lang-label en">English</span>
 <p class="en-text">4. <strong>folk custom</strong>s and <strong>Wenzhou</strong> Vernacular Architectural Culture</p>
 <p class="en-text">"Fengsu" (customs) is an important factor influencing the type and style of <strong>residence</strong>s. "Feng" refers to national customs, which influence and <strong>form</strong> the commonality of <strong>residence</strong>s; "su" refers to <strong>folk custom</strong>s, which create the individuality of <strong>residence</strong>s.</p>
-<p class="en-text">Analyzing Chapter 1, <strong>Wenzhou</strong> <strong>folk custom</strong>s have the following characteristics: ① Frequent activities — from the first month to the twelfth month, on the first or fifteenth day, on days with three, eight, two, seven, etc., there are folk activities.</p>
-<p class="en-text">② Wide scope of activities — from cities, market towns to <strong>rural</strong> areas, regardless of age, all people participate. ③ Strong gathering nature — many activities are not family-style but community and local, with everyone集中 in one place or going to one location. ④ Strong competitiveness — many folk activities are competitive, such as dragon boat racing.</p>
+<p class="en-text">Analyzing Chapter 1, <strong>Wenzhou</strong> <strong>folk custom</strong>s have the following characteristics: (1) Frequent activities — from the first month to the twelfth month, on the first or fifteenth day, on days with three, eight, two, seven, etc., there are folk activities.</p>
+<p class="en-text">(2) Wide scope of activities — from cities, market towns to <strong>rural</strong> areas, regardless of age, all people participate. (3) Strong gathering nature — many activities are not family-style but community and local, with everyone集中 in one place or going to one location. (4) Strong competitiveness — many folk activities are competitive, such as dragon boat racing.</p>
 <p class="en-text">Some are not <strong>form</strong>ally competitive but essentially have competitive elements, such as dragon lantern dancing, lantern <strong>festival</strong>s, and "flower <strong>sacrifice</strong>s," with participants in units of <strong>village</strong>s, streets, or families, all having the awareness of comparing who does better.</p>
-<p class="en-text">⑤ Culturally, they carry strong shamanic cultural elements, both revering gods and entertaining oneself.</p>
+<p class="en-text">(5) Culturally, they carry strong shamanic cultural elements, both revering gods and entertaining oneself.</p>
 <p class="en-text">Folk activities need carriers or places; their carriers are mostly buildings, and places are mostly public land.</p>
 <p class="en-text">For example, <strong>temple</strong> stage opera: the stage is temporarily built, generally chosen on public open <strong>space</strong> in the <strong>village</strong>, or threshing ground, or flat ground in front of the <strong>ancestral hall</strong>, or at the foot of a mountain, or at the intersection of several roads, by water, or at <strong>bridge</strong>heads.</p>
 <p class="en-text">The flower <strong>sacrifice</strong>s (displaying bonsai, arr<strong>ang</strong>ing flowers) in the Lanjiefu (Street-blocking Blessing) activity are mostly placed in front of doors, under eaves <strong>corridor</strong>s, and some are集中 in a public building. As for divine <strong>sacrifice</strong>s, most require <strong>temple</strong>s and <strong><strong>shrine</strong></strong>s to be built.</p>
@@ -1683,5 +1727,26 @@ body { font-family: "Microsoft YaHei", "Segoe UI", sans-serif; background: #f8f5
 <p>Middle Nanxi River · Bilingual Reconstructed Edition · Dorling Kindersley Style</p>
 <p>基于原文逐页提取 · 全文重构级别处理 · 术语准确 · 排版优化</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

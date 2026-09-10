@@ -26,8 +26,52 @@ th{background:#e9dfca;font-weight:700;}
 .small{font-size:12px;color:var(--sub);}
 @media(max-width:640px){.wrap{max-width:100%;}p,li{font-size:13.5px;}}
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body data-page-node-id="cFpXLCJpcylrtOG4x7msUi">
+<body id="top" data-page-node-id="top cFpXLCJpcylrtOG4x7msUi"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="wrap" data-page-node-id="RlYtKrwYoWDqlDRts3omg3">
 <h1 data-page-node-id="SempjVN4NyA7hOCB0A5KhW">ima 读写联动 · 最佳实践手册</h1>
 <div class="stamp" data-page-node-id="su5rzYCBZhhbjwfrkARDwT">把"我们做古村落写作的产物"与"外部挖来的素材"沉淀进 ima 的方法 · 已实测验证写入可行 · 2026-09-06</div>
@@ -41,7 +85,7 @@ th{background:#e9dfca;font-weight:700;}
 <tr data-page-node-id="wTGds5iPhOzhGX9FLpjBMC"><td data-page-node-id="sIeCZ88GOB2SjytulywtlC"><b data-page-node-id="Fgve9k3IkIKTCpUd4nGoWH">读·列文档</b></td><td data-page-node-id="ZpSqpIF0jekKTc2ZSjBnfp">get_knowledge_list</td><td data-page-node-id="b5kETA6n3hCp7qK7392bxC">列某库/文件夹内文档，可按 media_type（PDF/网页/文件夹）过滤</td></tr>
 <tr data-page-node-id="ALx88fggZsnd3VnMcB4TGD"><td data-page-node-id="VAtdkl8eKAt3qTp2zIJkgI"><b data-page-node-id="Bk3P5sBnV7WEQ828xGjuKK">读·检索</b></td><td data-page-node-id="Dath9LkmPmHf0FJqQIEjaI">search_knowledge</td><td data-page-node-id="O8MGYqzQOhLeFrfo7mSCvH">库内关键词检索（命中返回整篇，见联动手册约束）</td></tr>
 <tr data-page-node-id="eFCbBzpE29YrdlDWkC2oNz"><td data-page-node-id="LS78ihN57qUa0liGqfDtwC"><b data-page-node-id="1t82PlSXDxRIP8gFSqdCWN">写·存链接</b></td><td data-page-node-id="RzNYSPBERz605OyH6rkcpr"><b data-page-node-id="5Tvp2s9FiLs0L3AREFMB73">import_urls</b></td><td data-page-node-id="8C17KYbavLDDFj4iabZPTF">把外部公开网页链接批量存库，一次≤10 个 —— <b data-page-node-id="jbVudZf4ZpKDbe3yrMh3oo">已验证成功</b></td></tr>
-<tr data-page-node-id="9wPzNKMOccxRDDW5OeSojh"><td data-page-node-id="u90DUmDsPUr9a0ui80hTEK"><b data-page-node-id="QMqXey94OY0y0l4SNH0cmS">写·存本地文件</b></td><td data-page-node-id="6YOcv7gq07ibJnFMybgEkS">create_media→COS→add_knowledge</td><td data-page-node-id="57auSLQ3nbzxC2wiXoIJog">把我们产出的 HTML/md/PDF 上传入库（需 COS 凭证，多一步）</td></tr>
+<tr data-page-node-id="9wPzNKMOccxRDDW5OeSojh"><td data-page-node-id="u90DUmDsPUr9a0ui80hTEK"><b data-page-node-id="QMqXey94OY0y0l4SNH0cmS">写·存本地文件</b></td><td data-page-node-id="6YOcv7gq07ibJnFMybgEkS">create_media，COS，add_knowledge</td><td data-page-node-id="57auSLQ3nbzxC2wiXoIJog">把我们产出的 HTML/md/PDF 上传入库（需 COS 凭证，多一步）</td></tr>
 <tr data-page-node-id="EBdG8CMmAcY7TzGwofIuYE"><td data-page-node-id="238cyO62YhOsqU9FPlxe7f"><b data-page-node-id="z5gWsF56J8g6PokCgPEQtz">写·重名策略</b></td><td data-page-node-id="jX5ljJCQTxJQVq3bmiepbN">add_knowledge.duplicate_name_strategy</td><td data-page-node-id="1atYHZyxTUtWoEnsp9DaFJ">SAVE保留 / CANCEL取消 / REPLACE覆盖，避免重复</td></tr>
 </table>
 
@@ -57,11 +101,11 @@ th{background:#e9dfca;font-weight:700;}
 
 <h2 data-page-node-id="DKK7c1Dacc1v1rfUArtZTb">三、最佳实践步骤（怎么跑通整个循环）</h2>
 <div class="card" data-page-node-id="5XXd6nSomdPs3AK6mGP9PS">
-<p data-page-node-id="d0PSIRl4ec7OJGkMQ1ByxY"><b data-page-node-id="BB5N5VICpjZnGbf9H8Wm7n">① 建文件夹（需你在 ima 客户端做一次）：</b>在个人库 momo的知识库 里新建两个文件夹「<b data-page-node-id="K7TDTJeYEO4srb8OqcMFY5">淮海素材</b>」和「<b data-page-node-id="P9DvF2EGAgTc7eHQT3kLsa">古村落写作备份</b>」。ima MCP 暂不提供"建文件夹"工具，这一步需手动（约 10 秒）。</p>
-<p data-page-node-id="OA3BaBBWZ4b3uoP9QDAY45"><b data-page-node-id="OmcdGa3Yqcx4pmMfZesPGY">② 外采入库：</b>元宝/公众号挖到可用链接 → 你在对话里发我 URL 列表 → 我用 import_urls 存进「淮海素材」，拿到 media_id 回填进 scope 的素材表。</p>
-<p data-page-node-id="0Didu3HuFGbooDfZh9HsHn"><b data-page-node-id="T3NljpuaT3n6cN3kmbxADH">③ 关键原文留档：</b>若某篇原文是纯微信（无公开 URL），你把正文贴给我 → 我整理成 .md → create_media 上传，存「淮海素材」（这样连原生微信内容也能沉淀）。</p>
-<p data-page-node-id="wMSNR6BI0niZO9vmthtaZo"><b data-page-node-id="RqHhd9UmCceSOO5JKdbjFu">④ 工作产物快照：</b>每完成一篇模仿稿/一轮 scope 更新，我把 HTML 用 create_media 传一份到「古村落写作备份」，标题带日期。本地仍是最新版，ima 是历史快照。</p>
-<p data-page-node-id="XLBrElqjvFd11lQ0Y55DJW"><b data-page-node-id="QDZDgetH4dsF5tngq59Xjc">⑤ 检索回源：</b>写某村前，先在「淮海素材」search_knowledge 把该村材料捞齐，再查共享方志库补史实，最后本地动笔。</p>
+<p data-page-node-id="d0PSIRl4ec7OJGkMQ1ByxY"><b data-page-node-id="BB5N5VICpjZnGbf9H8Wm7n">(1) 建文件夹（需你在 ima 客户端做一次）：</b>在个人库 momo的知识库 里新建两个文件夹「<b data-page-node-id="K7TDTJeYEO4srb8OqcMFY5">淮海素材</b>」和「<b data-page-node-id="P9DvF2EGAgTc7eHQT3kLsa">古村落写作备份</b>」。ima MCP 暂不提供"建文件夹"工具，这一步需手动（约 10 秒）。</p>
+<p data-page-node-id="OA3BaBBWZ4b3uoP9QDAY45"><b data-page-node-id="OmcdGa3Yqcx4pmMfZesPGY">(2) 外采入库：</b>元宝/公众号挖到可用链接， 你在对话里发我 URL 列表， 我用 import_urls 存进「淮海素材」，拿到 media_id 回填进 scope 的素材表。</p>
+<p data-page-node-id="0Didu3HuFGbooDfZh9HsHn"><b data-page-node-id="T3NljpuaT3n6cN3kmbxADH">(3) 关键原文留档：</b>若某篇原文是纯微信（无公开 URL），你把正文贴给我， 我整理成 .md， create_media 上传，存「淮海素材」（这样连原生微信内容也能沉淀）。</p>
+<p data-page-node-id="wMSNR6BI0niZO9vmthtaZo"><b data-page-node-id="RqHhd9UmCceSOO5JKdbjFu">(4) 工作产物快照：</b>每完成一篇模仿稿/一轮 scope 更新，我把 HTML 用 create_media 传一份到「古村落写作备份」，标题带日期。本地仍是最新版，ima 是历史快照。</p>
+<p data-page-node-id="XLBrElqjvFd11lQ0Y55DJW"><b data-page-node-id="QDZDgetH4dsF5tngq59Xjc">(5) 检索回源：</b>写某村前，先在「淮海素材」search_knowledge 把该村材料捞齐，再查共享方志库补史实，最后本地动笔。</p>
 </div>
 
 <h2 data-page-node-id="Rt0zhArqhGWjqD1HuOHK6p">四、我这边的工具边界（诚实说明）</h2>
@@ -76,34 +120,34 @@ th{background:#e9dfca;font-weight:700;}
 
 <h2 data-page-node-id="4WwW3egKXl8UKgHESUDZOy">五、下一步（可选）</h2>
 <div class="card" data-page-node-id="Oro4cs4844wdABL4nMnvMR">
-<p data-page-node-id="6ZmqXep3SVfAWcaWFmZeJQ"><b data-page-node-id="5g1lBGSvwWRiP9f6eSF2FU">A.</b> 你在 ima 客户端建好「淮海素材」「古村落写作备份」两个文件夹，把 folder_id 发我 → 我立刻把元宝这次挖的山亭 10 篇素材 + 本 scope/联动手册 全存进去，走通整条「外采→入库→检索→写作」闭环。</p>
+<p data-page-node-id="6ZmqXep3SVfAWcaWFmZeJQ"><b data-page-node-id="5g1lBGSvwWRiP9f6eSF2FU">A.</b> 你在 ima 客户端建好「淮海素材」「古村落写作备份」两个文件夹，把 folder_id 发我， 我立刻把元宝这次挖的山亭 10 篇素材 + 本 scope/联动手册 全存进去，走通整条「外采，入库，检索，写作」闭环。</p>
 <p data-page-node-id="YpPeKhrkge6AfRPz74eWPD"><b data-page-node-id="YzrAAl3rmHHr2Nu2KWaVEk">B.</b> 我先把已实测能做的做了：用 import_urls 把元宝提供的山亭可用公开链接都存进个人库根目录（暂不分文件夹），等你建好文件夹再整理。</p>
 <p data-page-node-id="KtHQLiYZCJliC4fOUtdaPJ"><b data-page-node-id="W3DmG4FYgmfwhoOnx8dN5y">C.</b> 直接试写山亭石板房首篇，用上这批素材，写完把成品 HTML 快照进 ima。</p>
 </div>
 
-<h2>六、本地↔ima 上传状态核查与标记（2026-09-06 实测补充）</h2>
+<h2>六、本地ima 上传状态核查与标记（2026-09-06 实测补充）</h2>
 <div class="card">
 <p><b>问题：</b>「很多内容已经传过 ima 了，到底哪些传过、哪些没有？」——靠记忆或逐个库翻是不可靠的，必须做一次机器核查并留本地标记。</p>
 
 <h3>1. 核查做法（脚本化，30 秒出结果）</h3>
 <ul>
-<li>数据源：本地 zlibrary 书籍文件 ↔ ima 全库条目快照 <code>kb_data/*.json</code>（132 库 / 2200+ 条目标题）。</li>
-<li>匹配规则三级：<b>精确</b>（规范化后完全一致）→ <b>包含</b>（一方包含另一方且 ≥8 字）→ <b>模糊</b>（相似度 ≥0.72）。</li>
+<li>数据源：本地 zlibrary 书籍文件 ima 全库条目快照 <code>kb_data/*.json</code>（132 库 / 2200+ 条目标题）。</li>
+<li>匹配规则三级：<b>精确</b>（规范化后完全一致）， <b>包含</b>（一方包含另一方且 ≥8 字）， <b>模糊</b>（相似度 ≥0.72）。</li>
 <li>规范化必须做：去扩展名、去 <code>(Z-Library)</code> / <code>[OCR]</code> 标记、去括号内容与标点、去条目前导编号（如 <code>031</code>）与尾部 <code>_0</code>。</li>
 <li>脚本：<code>check_local_uploads.py</code>（可重跑刷新）；补传规划 <code>plan_backfill.py</code>。</li>
 </ul>
 
 <h3>2. 实测结论（重要，反直觉）</h3>
 <div class="q warn">zlibrary 根目录 599 本书，<b>只有 9 本</b>能在 ima 里找到同名条目（约 1.5%）。ima 现有 2183 条主要来自网页/公众号/志书 PDF/其他目录，<b>不是从本地这批书传的</b>。<br>
-→ 补传不是"补齐漏传"，而是一次<b>新的入库决策</b>：25 GB / 590 本，全传性价比低，应按主题分批。</div>
+， 补传不是"补齐漏传"，而是一次<b>新的入库决策</b>：25 GB / 590 本，全传性价比低，应按主题分批。</div>
 
 <h3>3. 踩到的坑（下次直接绕开）</h3>
 <ul>
-<li><b>快照会截断</b>：kb_data 里 3 个库（古建筑 45 / 地质地理 34 / 医学教科书 119）各只存了 1 条 → 匹配前必须查 <code>truncated</code> 标记。修法：优先用本地 <code>kb_deep/&lt;id&gt;/_manifest.json</code> 补全；没有的再走 MCP live 拉。</li>
+<li><b>快照会截断</b>：kb_data 里 3 个库（古建筑 45 / 地质地理 34 / 医学教科书 119）各只存了 1 条， 匹配前必须查 <code>truncated</code> 标记。修法：优先用本地 <code>kb_deep/&lt;id&gt;/_manifest.json</code> 补全；没有的再走 MCP live 拉。</li>
 <li><b>文件在子文件夹里</b>：MCP <code>get_knowledge_list</code> 首层只返回 folder 条目，需拿 folder_id 二次调用。</li>
 <li><b>大库别直接 MCP 全量拉</b>：119 条的库会返回每条完整 introduction，瞬间爆上下文（本次靠本地 manifest 回避）。</li>
 <li><b>不要用改名做标记</b>：OneDrive 同步目录改名常被文件锁拒绝；标记用<b>清单文件</b>（CSV/HTML）而非文件名前缀。</li>
-<li><b>快照会过期</b>（2026-09-07 复核发现）：kb_catalog 139 库 vs kb_data 只有 132 个文件 → <b>7 个库（253 条）根本不在匹配基数里</b>；且线上条目数已变（地名 5→21、村落田野调查 4→11、古建筑风格工程成品 0→10、山河淮海文案 36→112）。<b>每次核查前必须重拉一次库清单核对条目数</b>，别信旧快照。</li>
+<li><b>快照会过期</b>（2026-09-07 复核发现）：kb_catalog 139 库 vs kb_data 只有 132 个文件， <b>7 个库（253 条）根本不在匹配基数里</b>；且线上条目数已变（地名 5，21、村落田野调查 4，11、古建筑风格工程成品 0，10、山河淮海文案 36，112）。<b>每次核查前必须重拉一次库清单核对条目数</b>，别信旧快照。</li>
 <li><b>纯标题匹配会系统性漏判</b>：改名上传的书按标题匹配必然漏。实测——在古建筑库搜「中国建筑史」命中多个条目（梁思成中国建筑史、图说中国建筑史、中国古代建筑史…），其文件名与本地书名都不一致。<b>标题匹配只能给出"确定已传"的下界，不能给出"确定没传"的结论</b>；要可靠需补一轮内容级检索（按主题到候选库搜关键词）。</li>
 <li><b>扫描范围必须写明</b>：根目录 599 本 + 子目录 205 本 = 804 本；P14 的 <code>work/</code> 下约 1200 个 OCR 中间产物已排除（不是书）。报告不写清范围与排除规则，数字无从判断。</li>
 </ul>
@@ -117,10 +161,31 @@ th{background:#e9dfca;font-weight:700;}
 </table>
 
 <h3>5. 与既有流程的衔接</h3>
-<p>第二节「双向分流」不变：<b>外部素材 → import_urls 进「淮海素材库」；本地工作产物 → 定期快照进「古村落写作备份库」</b>。本次新增的是第三条支线：<b>本地存量书籍 → 先核查标记 → 再按主题分批入库</b>，且入库前必须先出分组规划给用户评审（25 GB 量级不可闷头全传）。</p>
+<p>第二节「双向分流」不变：<b>外部素材， import_urls 进「淮海素材库」；本地工作产物， 定期快照进「古村落写作备份库」</b>。本次新增的是第三条支线：<b>本地存量书籍， 先核查标记， 再按主题分批入库</b>，且入库前必须先出分组规划给用户评审（25 GB 量级不可闷头全传）。</p>
 </div>
 
-<div class="small" style="border-top:1px solid var(--line);margin-top:26px;padding-top:10px;">ima 读写最佳实践 v2 | v1 已实测 import_urls 写入成功（2 条 URL → momo的知识库）| v2 新增：本地上传状态核查与标记、补传规划 | 与《淮海_scope》《淮海_ima联动》配套</div>
+<div class="small" style="border-top:1px solid var(--line);margin-top:26px;padding-top:10px;">ima 读写最佳实践 v2 | v1 已实测 import_urls 写入成功（2 条 URL， momo的知识库）| v2 新增：本地上传状态核查与标记、补传规划 | 与《淮海_scope》《淮海_ima联动》配套</div>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

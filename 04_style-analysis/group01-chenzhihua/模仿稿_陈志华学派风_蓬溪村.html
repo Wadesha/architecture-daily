@@ -20,8 +20,52 @@ p.first{text-indent:0;}
 .note h3{font-size:14px;margin-bottom:6px;font-weight:700;}
 @media(max-width:640px){.wrap{max-width:100%;}p{font-size:15px;}}
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body data-page-node-id="OyJw4UW5WqRs6zZs7y9yLU">
+<body id="top" data-page-node-id="top OyJw4UW5WqRs6zZs7y9yLU"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="wrap" data-page-node-id="YAKKlDYVBd0E4IgCb7YYuC">
 <div class="titlebar" data-page-node-id="UggL2bcMslsA1CKcYN41VB">
 <div class="pen" data-page-node-id="yjEqxYpPSEkn6jREnlqOTI">—— 陈志华乡土建筑学派 · 田野调查体 试写 ——</div>
@@ -57,10 +101,31 @@ p.first{text-indent:0;}
 
 <div class="note" data-page-node-id="TiinIxUUYfcZ0u50lfsTby">
 <h3 data-page-node-id="BNpCKpkB1UDjoQgoFnLyPL">篇末三段式说明</h3>
-<p data-page-node-id="LqO57bEPbRNCVRkw4dtxzN"><b data-page-node-id="r98GQQbDNhgJdMOmeS5Pla">采用了：</b>袋形谷地一线栈道为唯一入口、谢灵运后裔、康乐亭五路交会空场、主姓换替（李氏→谢氏买宅）、李时靖宅构件尺度（七间/27m/木础地袱/无院墙前临渠）、二千平米潴湖水聚天心、十二祠一律朝东南巽方、霞港头石壁+关帝庙镇反弓水口、明代三进两院双水池大宅（45-50×39m/日月井/两池5.2×10.2与8×12m）、近云山舍听香斋（1866谢文波苏州采绘/翁同龢匾/争柴山被焚剩左墙）、关帝庙供济公孙悟空、仙岩殿石室杂神、李时靖宅称"状元"实为1265进士。</p>
+<p data-page-node-id="LqO57bEPbRNCVRkw4dtxzN"><b data-page-node-id="r98GQQbDNhgJdMOmeS5Pla">采用了：</b>袋形谷地一线栈道为唯一入口、谢灵运后裔、康乐亭五路交会空场、主姓换替（李氏，谢氏买宅）、李时靖宅构件尺度（七间/27m/木础地袱/无院墙前临渠）、二千平米潴湖水聚天心、十二祠一律朝东南巽方、霞港头石壁+关帝庙镇反弓水口、明代三进两院双水池大宅（45-50×39m/日月井/两池5.2×10.2与8×12m）、近云山舍听香斋（1866谢文波苏州采绘/翁同龢匾/争柴山被焚剩左墙）、关帝庙供济公孙悟空、仙岩殿石室杂神、李时靖宅称"状元"实为1265进士。</p>
 <p data-page-node-id="gBouX4Y89tEkGqv6xCJLZe"><b data-page-node-id="7B6J7KK3MHlTNxKIhDIIc1">因故放弃：</b>近云山舍花墙"今在/已毁"的具体现状现场感、武夷"两说并存"的风水批评——原文属举证句，缺专属上下文，不强写。</p>
-<p data-page-node-id="G5VfGtydA8Y76nehzohQ2g"><b data-page-node-id="WylUvIYTgrhKlGTqrBGMMx">存疑待补：</b>①朱熹访谢复经后在蓬溪留墨迹（原文注明"摩崖石刻及门头石匾，真伪待证"，故只作带过不作史实）；②李时靖是否即蓬溪谢氏大宗祠清代重修前的"李氏"祖宅归属，原文记"谢氏从东皋迁来买下宗祠与宅"，未详承袭之年，不作年代推断。</p>
+<p data-page-node-id="G5VfGtydA8Y76nehzohQ2g"><b data-page-node-id="WylUvIYTgrhKlGTqrBGMMx">存疑待补：</b>(1)朱熹访谢复经后在蓬溪留墨迹（原文注明"摩崖石刻及门头石匾，真伪待证"，故只作带过不作史实）；(2)李时靖是否即蓬溪谢氏大宗祠清代重修前的"李氏"祖宅归属，原文记"谢氏从东皋迁来买下宗祠与宅"，未详承袭之年，不作年代推断。</p>
 </div>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

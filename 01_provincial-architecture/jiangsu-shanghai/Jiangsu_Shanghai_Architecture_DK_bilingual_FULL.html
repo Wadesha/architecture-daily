@@ -57,8 +57,52 @@ body { font-family: "Microsoft YaHei", "PingFang SC", "Segoe UI", sans-serif; ba
 .footer { background: #1a3a5c; color: white; text-align: center; padding: 40px 30px; margin-top: 50px; }
 .footer p { opacity: 0.7; font-size: 0.9em; margin: 5px 0; }
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="book-cover">
 <h1>江苏上海古建筑地图</h1>
 <div class="gold-line"></div>
@@ -13641,7 +13685,7 @@ body { font-family: "Microsoft YaHei", "PingFang SC", "Segoe UI", sans-serif; ba
 <p>苏马湾刻石距海水低潮平面约<strong>5米</strong>，羊窝头刻石距海水低潮平面约<strong>8米</strong>。苏马湾刻石在沙滩南侧一块独立的花岗片麻岩石壁上，外覆一亭。北面总长<strong>5.5米</strong>，高约<strong>2米</strong>，厚约<strong>1米</strong>。刻面保存良好，字迹<strong>清</strong>晰。</p>
 <p>文字依岩石西高东低的形势布局，共十二行60字。其中首行、二行、五行、六行、九行、十一行为5字，三行、四行、十行为6字，七行、八行、十二行为4字。行距、字距、字径皆不等。最小字高8厘米，宽10厘米，最大字高17厘米，宽24厘米。刻石文字内容如下：东海郡朐与琅琊郡柜为界，因诸山以南属朐，水以北属柜，西直况其，朐与柜分高柜为界，东各承无极。始建国四年二月朔乙卯，以使者徐州牧治所书造。</p>
 <p>羊窝头刻石位置险要，人迹罕至，<strong>1987年</strong>发现时，刻石已因风化与母岩分离，断为左右二截紧密相依的楔形大石，右石与左石前后相错，左右北面伸入右石，造成左右部分刻字损坏。刻面布局自然，就着石壁西高东低的形势摩刻而成。由于长期遭海水侵蚀，多数字迹已模糊不<strong>清</strong>。右刻石高110厘米，宽70厘米，文四行；左刻石高110厘米，宽80厘米，文四行。</p>
-<p>刻文为阴刻竖书隶书带篆意，行字、行距、字距、字径均不等，小字高8厘米，宽12厘米，大字高20厘米，宽14厘米。因有苏马湾刻石作比，目前羊窝头刻石文字尚可辨认出40字：东海郡朐[与]琅琊郡柜[为]界，朐北界[尽]□，因诸山山[南]水以北柜。西直况[其]，[朐]与柜分高□[为]界；东各承无极（不能确认的字加[]，无法辨认的用□代替）。</p>
+<p>刻文为阴刻竖书隶书带篆意，行字、行距、字距、字径均不等，小字高8厘米，宽12厘米，大字高20厘米，宽14厘米。因有苏马湾刻石作比，目前羊窝头刻石文字尚可辨认出40字：东海郡朐[与]琅琊郡柜[为]界，朐北界[尽]，因诸山山[南]水以北柜。西直况[其]，[朐]与柜分高[为]界；东各承无极（不能确认的字加[]，无法辨认的用代替）。</p>
 </div>
 </div>
 <div class="divider">· · · · ·</div>
@@ -13662,8 +13706,8 @@ body { font-family: "Microsoft YaHei", "PingFang SC", "Segoe UI", sans-serif; ba
 <p>The carved surface layout is natural, carved following the cliff's terrain of high west and low east.Due to long-term seawater erosion, most characters have become blurry and unclear.</p>
 <p>The right stone carving is 110 centimeters high and 70 centimeters wide, with 4 lines of text; the left stone carving is 110 centimeters high and 80 centimeters wide, with 4 lines of text.</p>
 <p>The carved text is intaglio vertical clerical script with seal script overtones; line characters, line spacing, character spacing, and character diameter all vary; small characters are 8 centimeters high and 12 centimeters wide, large characters are 20 centimeters high and 14 centimeters wide.</p>
-<p>Because the Suma Bay stone carving serves as a comparison, currently 40 characters of the Yangwotou stone carving text can still be recognized: 'The Qu County of Donghai [Commandery] and Ju County of Langya [Commandery are bounded]; Qu's north boundary [ends at] □, because the mountains [south] and north of the water [belong to] Ju.</p>
-<p>West directly to Kuang[qi], [Qu] and Ju divide by Gao□ [as] boundary; east each inherits infinity' (unconfirmable characters are marked with [], unrecognizable ones are replaced with □).</p>
+<p>Because the Suma Bay stone carving serves as a comparison, currently 40 characters of the Yangwotou stone carving text can still be recognized: 'The Qu County of Donghai [Commandery] and Ju County of Langya [Commandery are bounded]; Qu's north boundary [ends at] , because the mountains [south] and north of the water [belong to] Ju.</p>
+<p>West directly to Kuang[qi], [Qu] and Ju divide by Gao [as] boundary; east each inherits infinity' (unconfirmable characters are marked with [], unrecognizable ones are replaced with ).</p>
 </div>
 </div>
 <div class="highlights-box">
@@ -16264,5 +16308,26 @@ body { font-family: "Microsoft YaHei", "PingFang SC", "Segoe UI", sans-serif; ba
 <p>Historical Architectural Map of Jiangsu & Shanghai — DK Bilingual Edition</p>
 <p>基于原书逐页提取重构 · 293处建筑 · 14个地区 · 90个专业术语</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

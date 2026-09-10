@@ -1,2290 +1,2290 @@
 {
-  "title": "温州乡土建筑 术语数据库",
-  "title_en": "Glossary of Wenzhou Vernacular Architecture",
-  "author": "丁俊清、肖健雄",
-  "total_terms": 221,
-  "categories": [
-    "传统工艺",
-    "历史人物",
-    "历史制度",
-    "历史地名",
-    "历史文献",
-    "历史民族",
-    "历史经济",
-    "古村落",
-    "哲学概念",
-    "园林手法",
-    "地名",
-    "地理",
-    "地理概括",
-    "地质",
-    "学术思想",
-    "学术概念",
-    "学术领域",
-    "宗教仪式",
-    "官制",
-    "屋顶形式",
-    "建筑",
-    "建筑做法",
-    "建筑元素",
-    "建筑制图",
-    "建筑工艺",
-    "建筑布局",
-    "建筑手法",
-    "建筑构件",
-    "建筑概念",
-    "建筑溯源",
-    "建筑特征",
-    "建筑理念",
-    "建筑空间",
-    "建筑类型",
-    "建筑结构",
-    "建筑风格",
-    "戏曲",
-    "戏曲术语",
-    "文化概念",
-    "材料",
-    "民俗",
-    "民俗仪式",
-    "民俗物品",
-    "民俗经济",
-    "民俗谚语",
-    "民间信仰",
-    "气候",
-    "气候特征",
-    "研究方法",
-    "社会制度",
-    "科举",
-    "规划理念",
-    "门窗",
-    "防御建筑",
-    "风水",
-    "风水格局"
-  ],
-  "terms": [
-    {
-      "term": "温州乡土建筑",
-      "en": "Wenzhou vernacular architecture",
-      "category": "学术领域",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "前言 - 前言"
-      ]
-    },
-    {
-      "term": "丁俊清",
-      "en": "Ding Junqing (author, Wenzhou Planning Bureau)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "前言 - 前言"
-      ]
-    },
-    {
-      "term": "肖健雄",
-      "en": "Xiao Jianxiong (author, Wenzhou Planning Bureau)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "前言 - 前言"
-      ]
-    },
-    {
-      "term": "路秉杰",
-      "en": "Lu Bingjie (Tongji University professor)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "前言 - 前言",
-        "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
-      ]
-    },
-    {
-      "term": "阮仪三",
-      "en": "Ruan Yisan (Tongji University professor)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "前言 - 前言"
-      ]
-    },
-    {
-      "term": "以底说图",
-      "en": "Explaining image through background methodology",
-      "category": "研究方法",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "前言 - 前言"
-      ]
-    },
-    {
-      "term": "永嘉",
-      "en": "Yongjia (county)",
-      "category": "地名",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "前言 - 前言"
-      ]
-    },
-    {
-      "term": "泰顺",
-      "en": "Taishun (county)",
-      "category": "地名",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "前言 - 前言"
-      ]
-    },
-    {
-      "term": "平阳",
-      "en": "Pingyang (county)",
-      "category": "地名",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "前言 - 前言"
-      ]
-    },
-    {
-      "term": "乐清",
-      "en": "Yueqing (city)",
-      "category": "地名",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "前言 - 前言"
-      ]
-    },
-    {
-      "term": "亚热带海洋性季风气候",
-      "en": "Subtropical maritime monsoon climate",
-      "category": "气候",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 一、自然条件"
-      ]
-    },
-    {
-      "term": "七山二水一分田",
-      "en": "Seven mountains, two waters, one field (land structure)",
-      "category": "地理概括",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 一、自然条件"
-      ]
-    },
-    {
-      "term": "里亚斯式海岸",
-      "en": "Rias type coast",
-      "category": "地理",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 一、自然条件"
-      ]
-    },
-    {
-      "term": "雁荡地貌",
-      "en": "Yandang landform",
-      "category": "地质",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 一、自然条件"
-      ]
-    },
-    {
-      "term": "梅雨",
-      "en": "Plum rain (meiyu)",
-      "category": "气候",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 一、自然条件"
-      ]
-    },
-    {
-      "term": "台风",
-      "en": "Typhoon",
-      "category": "气候",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 一、自然条件"
-      ]
-    },
-    {
-      "term": "流纹岩",
-      "en": "Rhyolite",
-      "category": "地质",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 一、自然条件"
-      ]
-    },
-    {
-      "term": "火山沉积岩",
-      "en": "Volcanic sedimentary rock",
-      "category": "地质",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 一、自然条件"
-      ]
-    },
-    {
-      "term": "瓯越",
-      "en": "Ouyue (ancient people of Wenzhou area)",
-      "category": "历史民族",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 二、社会背景"
-      ]
-    },
-    {
-      "term": "东瓯王城",
-      "en": "Dong'ou King City",
-      "category": "历史地名",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 二、社会背景"
-      ]
-    },
-    {
-      "term": "永嘉学派",
-      "en": "Yongjia School (utilitarian Confucianism)",
-      "category": "学术思想",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 二、社会背景",
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "叶适",
-      "en": "Ye Shi (1150-1223, Yongjia School founder)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 二、社会背景",
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "程朱理学",
-      "en": "Cheng-Zhu Neo-Confucianism",
-      "category": "学术思想",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 二、社会背景"
-      ]
-    },
-    {
-      "term": "南戏",
-      "en": "Nanxi (southern drama, originated in Wenzhou)",
-      "category": "戏曲",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 二、社会背景"
-      ]
-    },
-    {
-      "term": "营造法式",
-      "en": "Yingzao Fashi (State Building Standards, 1103)",
-      "category": "历史文献",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 二、社会背景",
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "木经",
-      "en": "Mu Jing (Timber Classic by Yu Hao)",
-      "category": "历史文献",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 二、社会背景"
-      ]
-    },
-    {
-      "term": "园冶",
-      "en": "Yuan Ye (Garden Treatise by Ji Cheng)",
-      "category": "历史文献",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 二、社会背景"
-      ]
-    },
-    {
-      "term": "喻皓",
-      "en": "Yu Hao (Northern Song carpenter)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 二、社会背景"
-      ]
-    },
-    {
-      "term": "剪发文身",
-      "en": "Cutting hair and tattooing (ancient Ou custom)",
-      "category": "民俗",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 三、民俗"
-      ]
-    },
-    {
-      "term": "东瓯王敬鬼",
-      "en": "Dong'ou King ghost worship",
-      "category": "民间信仰",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 三、民俗"
-      ]
-    },
-    {
-      "term": "龙船灯",
-      "en": "Dragon boat lantern (Lantern Festival custom)",
-      "category": "民俗物品",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 三、民俗"
-      ]
-    },
-    {
-      "term": "迎春",
-      "en": "Welcoming spring (Start of Spring custom)",
-      "category": "民俗仪式",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 三、民俗"
-      ]
-    },
-    {
-      "term": "长命缕",
-      "en": "Longevity thread (Duanwu custom)",
-      "category": "民俗物品",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 三、民俗"
-      ]
-    },
-    {
-      "term": "盂兰盆",
-      "en": "Ullambana (Ghost Festival service)",
-      "category": "宗教仪式",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 三、民俗"
-      ]
-    },
-    {
-      "term": "守岁",
-      "en": "Shousui (New Year's Eve vigil)",
-      "category": "民俗仪式",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 三、民俗"
-      ]
-    },
-    {
-      "term": "点岁灯",
-      "en": "Lighting year lamps",
-      "category": "民俗仪式",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 三、民俗"
-      ]
-    },
-    {
-      "term": "烧年纸",
-      "en": "Burning year paper",
-      "category": "民俗仪式",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 三、民俗"
-      ]
-    },
-    {
-      "term": "姜准",
-      "en": "Jiang Zhun (Ming Dynasty Wenzhou author)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 三、民俗"
-      ]
-    },
-    {
-      "term": "岐海琐谈",
-      "en": "Qi Hai Suo Tan (Ming Dynasty Wenzhou customs record)",
-      "category": "历史文献",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第一章 温州乡土建筑的生成条件 - 三、民俗"
-      ]
-    },
-    {
-      "term": "温州乡土建筑地方特色",
-      "en": "Local characteristics of Wenzhou vernacular architecture",
-      "category": "学术概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 一、不甚理性，注重实际"
-      ]
-    },
-    {
-      "term": "黄帝宅经",
-      "en": "Yellow Emperor's House Classic",
-      "category": "历史文献",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 一、不甚理性，注重实际"
-      ]
-    },
-    {
-      "term": "适形造物原则",
-      "en": "Fit-the-form creation principle",
-      "category": "建筑理念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 一、不甚理性，注重实际"
-      ]
-    },
-    {
-      "term": "一字形形制",
-      "en": "One-line (linear) house form",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 一、不甚理性，注重实际"
-      ]
-    },
-    {
-      "term": "屋宇同位三理合一",
-      "en": "House-environment co-location, three principles unified",
-      "category": "建筑理念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 一、不甚理性，注重实际",
-        "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
-      ]
-    },
-    {
-      "term": "儒气野气",
-      "en": "Confucian air vs wild air (residence character)",
-      "category": "文化概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 一、不甚理性，注重实际"
-      ]
-    },
-    {
-      "term": "檐很多出檐深远",
-      "en": "Many eaves, deep overhangs (Wenzhou residence feature)",
-      "category": "建筑特征",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
-      ]
-    },
-    {
-      "term": "腰檐",
-      "en": "Waist eave (at floor division)",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
-      ]
-    },
-    {
-      "term": "山檐",
-      "en": "Gable eave",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
-      ]
-    },
-    {
-      "term": "廊檐",
-      "en": "Corridor eave",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
-      ]
-    },
-    {
-      "term": "檐箱",
-      "en": "Eave box (storage under eave)",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
-      ]
-    },
-    {
-      "term": "观音兜式山墙",
-      "en": "Guanyin-bao style gable wall",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
-      ]
-    },
-    {
-      "term": "封护山墙",
-      "en": "Sealed gable wall",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
-      ]
-    },
-    {
-      "term": "鹅兜",
-      "en": "Ge basket (laundry basket)",
-      "category": "民俗物品",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
-      ]
-    },
-    {
-      "term": "谢灵运",
-      "en": "Xie Lingyun (385-433, Wenzhou prefect, poet)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
-      ]
-    },
-    {
-      "term": "王羲之",
-      "en": "Wang Xizhi (303-361, calligrapher, Wenzhou prefect)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
-      ]
-    },
-    {
-      "term": "横向发展",
-      "en": "Horizontal development (residence layout)",
-      "category": "建筑特征",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透"
-      ]
-    },
-    {
-      "term": "开敞通透",
-      "en": "Open and transparent (residence quality)",
-      "category": "建筑特征",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透"
-      ]
-    },
-    {
-      "term": "一字形住宅",
-      "en": "One-line (linear) residence",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透"
-      ]
-    },
-    {
-      "term": "三合院",
-      "en": "Three-sided courtyard (sanheyuan)",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透",
-        "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式"
-      ]
-    },
-    {
-      "term": "H型住宅",
-      "en": "H-shaped residence (sanheyuan variant)",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透"
-      ]
-    },
-    {
-      "term": "堂屋/上间",
-      "en": "Main hall / Shangjian",
-      "category": "建筑空间",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透"
-      ]
-    },
-    {
-      "term": "檐廊",
-      "en": "Eaves corridor",
-      "category": "建筑空间",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透",
-        "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
-      ]
-    },
-    {
-      "term": "直棂窗",
-      "en": "Straight-bar lattice window",
-      "category": "门窗",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透",
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "鲁班经",
-      "en": "Lu Ban Jing (Lu Ban Classic)",
-      "category": "历史文献",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透",
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "抬梁式",
-      "en": "Post-and-lintel construction (tailiangshi)",
-      "category": "建筑结构",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "穿斗式",
-      "en": "Column-and-tie construction (chuandoushi)",
-      "category": "建筑结构",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "垂花柱/垂莲柱",
-      "en": "Hanging lotus column (chuihua zhu)",
-      "category": "建筑构件",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "月梁",
-      "en": "Moon beam (yueliang)",
-      "category": "建筑构件",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "斗栱",
-      "en": "Dougong bracket set",
-      "category": "建筑构件",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "栌斗",
-      "en": "Ludou (cap block)",
-      "category": "建筑构件",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "铺作",
-      "en": "Puzuo (bracket system)",
-      "category": "建筑构件",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "举折",
-      "en": "Juzhe (roof curvature)",
-      "category": "建筑做法",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "生起",
-      "en": "Shengqi (ridge rise)",
-      "category": "建筑做法",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "侧脚",
-      "en": "Cejiao (column inclination)",
-      "category": "建筑做法",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "小木作",
-      "en": "Xiaomuzuo (small woodwork)",
-      "category": "建筑工艺",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "隔扇门",
-      "en": "Geshan men (lattice door)",
-      "category": "门窗",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "宋式建筑",
-      "en": "Song-style architecture",
-      "category": "建筑风格",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "白藤",
-      "en": "Baiteng (white rattan, for binding ludou)",
-      "category": "材料",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "高脚斗",
-      "en": "High-leg block (special dou proportion)",
-      "category": "建筑构件",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "斗口跳",
-      "en": "Doukotiao (simple one-tier bracket)",
-      "category": "建筑构件",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "斜撑栱",
-      "en": "Diagonal brace bracket (xicheng gong)",
-      "category": "建筑构件",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
-      ]
-    },
-    {
-      "term": "门院屋三段式",
-      "en": "Gate-courtyard-house three-stage model",
-      "category": "建筑布局",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式"
-      ]
-    },
-    {
-      "term": "天井",
-      "en": "Tianjing (sky well, small courtyard)",
-      "category": "建筑空间",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式"
-      ]
-    },
-    {
-      "term": "四合院",
-      "en": "Quadrangle (siheyuan)",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式"
-      ]
-    },
-    {
-      "term": "司马第",
-      "en": "Sima Di (Furong Village large residence)",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式",
-        "第五章 温州乡土建筑中的典型大屋 - 一、平阳顺溪陈氏古宅"
-      ]
-    },
-    {
-      "term": "平阳顺溪陈氏古宅",
-      "en": "Chen family ancient residence, Shunxi, Pingyang",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式",
-        "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法",
-        "第五章 温州乡土建筑中的典型大屋 - 一、平阳顺溪陈氏古宅"
-      ]
-    },
-    {
-      "term": "泰顺雪溪胡宅",
-      "en": "Hu residence, Xuexi, Taishun",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式"
-      ]
-    },
-    {
-      "term": "臻于表礼的入口",
-      "en": "Ritual-expressive entrance",
-      "category": "建筑理念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 二、臻于表礼的入口"
-      ]
-    },
-    {
-      "term": "屋门",
-      "en": "House gate (gate in house form)",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 二、臻于表礼的入口"
-      ]
-    },
-    {
-      "term": "墙门/八字门",
-      "en": "Wall gate / Eight-shaped gate",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 二、臻于表礼的入口"
-      ]
-    },
-    {
-      "term": "纳气就势",
-      "en": "Receiving qi and following form (feng shui)",
-      "category": "风水",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 二、臻于表礼的入口"
-      ]
-    },
-    {
-      "term": "入口前空间",
-      "en": "Entrance front space",
-      "category": "建筑空间",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 二、臻于表礼的入口"
-      ]
-    },
-    {
-      "term": "藏的文化心理图式",
-      "en": "Concealment cultural psychological schema",
-      "category": "文化概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
-      ]
-    },
-    {
-      "term": "围的空间处理手法",
-      "en": "Enclosure spatial processing technique",
-      "category": "建筑手法",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
-      ]
-    },
-    {
-      "term": "走归心理定势",
-      "en": "Returning-home psychological set",
-      "category": "文化概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
-      ]
-    },
-    {
-      "term": "英华积于中和顺形乎外",
-      "en": "Essence accumulated within, harmony manifested without",
-      "category": "文化概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
-      ]
-    },
-    {
-      "term": "影壁",
-      "en": "Screen wall (yingbi)",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
-      ]
-    },
-    {
-      "term": "聚族而居",
-      "en": "Living in clan groups",
-      "category": "社会制度",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法",
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "寨墙寨门",
-      "en": "Village wall and gate",
-      "category": "防御建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
-      ]
-    },
-    {
-      "term": "苍南金乡沈宅",
-      "en": "Shen residence, Jinxiang, Cangnan",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
-      ]
-    },
-    {
-      "term": "高台基木构架大屋顶",
-      "en": "High platform, timber frame, large roof (three features)",
-      "category": "建筑特征",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "林徽因",
-      "en": "Lin Huiyin (1904-1955, architect)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "梁思成",
-      "en": "Liang Sicheng (1901-1972, architect)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "清式营造则例",
-      "en": "Qing-style Building Rules (Liang Sicheng)",
-      "category": "历史文献",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "大屋",
-      "en": "Big house (large vernacular residence)",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "飞檐翘角",
-      "en": "Flying eaves and upturned corners",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "瓦当",
-      "en": "Wadang (tile end ornament)",
-      "category": "建筑构件",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "阳宅集成",
-      "en": "Yangzhai Jicheng (Integrated Residences, feng shui text)",
-      "category": "历史文献",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "理水文化",
-      "en": "Water management culture",
-      "category": "文化概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 五、肇于实用进乎自然的理水文化"
-      ]
-    },
-    {
-      "term": "枕山环水面屏",
-      "en": "Pillowing mountains, encircling water, facing a screen",
-      "category": "风水格局",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 五、肇于实用进乎自然的理水文化"
-      ]
-    },
-    {
-      "term": "因水成街因水成村",
-      "en": "Streets and villages formed because of water",
-      "category": "规划理念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 五、肇于实用进乎自然的理水文化"
-      ]
-    },
-    {
-      "term": "永嘉岩头浚水街",
-      "en": "Yantou water street, Yongjia",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 五、肇于实用进乎自然的理水文化"
-      ]
-    },
-    {
-      "term": "芙蓉池",
-      "en": "Furong Pool (Furong Village)",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 五、肇于实用进乎自然的理水文化"
-      ]
-    },
-    {
-      "term": "苍坡村仁济庙",
-      "en": "Renji Temple, Cangpo Village",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第三章 温州乡土建筑的传统精神 - 五、肇于实用进乎自然的理水文化"
-      ]
-    },
-    {
-      "term": "宗祠",
-      "en": "Zongci (ancestral hall)",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "家庙",
-      "en": "Family temple (jiamiao)",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "朱熹家礼",
-      "en": "Zhu Xi's Family Rituals",
-      "category": "历史文献",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "大宗祠小宗祠",
-      "en": "Major and minor ancestral halls",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "门屋享堂寝堂",
-      "en": "Gatehouse, worship hall, sleeping hall",
-      "category": "建筑空间",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "戏台",
-      "en": "Stage (xitai)",
-      "category": "建筑空间",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "斗八藻井",
-      "en": "Douba caisson (octagonal caisson)",
-      "category": "建筑构件",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "出将入相",
-      "en": "Chujiang Ruxiang (stage entrance/exit)",
-      "category": "戏曲术语",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "太师壁",
-      "en": "Taishi wall (stage back wall)",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "永嘉塘湾郑氏大宗祠",
-      "en": "Zheng clan major ancestral hall, Tangwan, Yongjia",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "泰顺筱村吴氏宗祠",
-      "en": "Wu clan ancestral hall, Xiaocun, Taishun",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
-      ]
-    },
-    {
-      "term": "亭",
-      "en": "Ting (pavilion)",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "路亭",
-      "en": "Road pavilion (luting)",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "村亭/凉亭",
-      "en": "Village pavilion / cool pavilion",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "风水亭",
-      "en": "Feng shui pavilion",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "纪念亭",
-      "en": "Memorial pavilion",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "隘门亭",
-      "en": "Aimen Ting (gate pavilion across road)",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "吴王靠",
-      "en": "Wu Wang Kao (King Wu leaning chair)",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "永嘉苍坡望兄亭",
-      "en": "Wangxiong Pavilion, Cangpo, Yongjia",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "泰顺罗阳石亭",
-      "en": "Luoyang Stone Pavilion, Taishun (1515)",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "永嘉赤水亭三绝亭",
-      "en": "Chishui Pavilion / Three Wonders Pavilion, Yongjia",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "歇山顶",
-      "en": "Xieshan roof (hip-and-gable roof)",
-      "category": "屋顶形式",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "悬山顶",
-      "en": "Xuanshan roof (overhanging gable roof)",
-      "category": "屋顶形式",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "攒尖顶",
-      "en": "Zanjian roof (pyramidal roof)",
-      "category": "屋顶形式",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 二、亭"
-      ]
-    },
-    {
-      "term": "廊桥",
-      "en": "Langqiao (covered bridge)",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
-      ]
-    },
-    {
-      "term": "蜈蚣桥/蜈蚣结构",
-      "en": "Centipede bridge / centipede structure (timber arch)",
-      "category": "建筑结构",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
-      ]
-    },
-    {
-      "term": "虹桥结构",
-      "en": "Rainbow bridge structure (from Along the River)",
-      "category": "建筑结构",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
-      ]
-    },
-    {
-      "term": "泗溪姐妹桥",
-      "en": "Sixi Sister Bridges (Taishun)",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
-      ]
-    },
-    {
-      "term": "泰顺廊桥",
-      "en": "Taishun covered bridges",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
-      ]
-    },
-    {
-      "term": "清明上河图",
-      "en": "Along the River During the Qingming Festival (Zhang Zeduan)",
-      "category": "历史文献",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
-      ]
-    },
-    {
-      "term": "木撑架式",
-      "en": "Timber-braced form",
-      "category": "建筑结构",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
-      ]
-    },
-    {
-      "term": "牌坊/牌楼",
-      "en": "Paifang / pailou (memorial archway)",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
-      ]
-    },
-    {
-      "term": "棂星门",
-      "en": "Lingxing gate (lattice star gate)",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
-      ]
-    },
-    {
-      "term": "功德坊",
-      "en": "Merit archway",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
-      ]
-    },
-    {
-      "term": "乐清南阁章纶牌坊群",
-      "en": "Zhang Lun archway group, Nange, Yueqing",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
-      ]
-    },
-    {
-      "term": "张璁",
-      "en": "Zhang Cong (1475-1539, Ming Grand Secretary)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
-      ]
-    },
-    {
-      "term": "永嘉花坦宪台牌楼",
-      "en": "Xiantai archway, Huatan, Yongjia",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
-      ]
-    },
-    {
-      "term": "永嘉岩头进士牌楼",
-      "en": "Jinshi archway, Yantou, Yongjia",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
-      ]
-    },
-    {
-      "term": "青街竹顺溪屋",
-      "en": "Qingjie bamboo, Shunxi houses (folk saying)",
-      "category": "民俗谚语",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 一、平阳顺溪陈氏古宅"
-      ]
-    },
-    {
-      "term": "走马楼",
-      "en": "Zouma lou (galloping horse tower, corridor wing)",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 一、平阳顺溪陈氏古宅"
-      ]
-    },
-    {
-      "term": "户侯第",
-      "en": "Houhou Di (Marquis Household, 4th branch)",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 一、平阳顺溪陈氏古宅"
-      ]
-    },
-    {
-      "term": "旗杆石",
-      "en": "Flagpole stone",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 一、平阳顺溪陈氏古宅"
-      ]
-    },
-    {
-      "term": "永嘉芙蓉村陈氏司马大屋",
-      "en": "Chen family Sima large residence, Furong Village, Yongjia",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 二、永嘉芙蓉村陈氏司马大屋"
-      ]
-    },
-    {
-      "term": "六架三柱带檐廊",
-      "en": "Six-frame three-column with eaves corridor",
-      "category": "建筑结构",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 二、永嘉芙蓉村陈氏司马大屋"
-      ]
-    },
-    {
-      "term": "梓木",
-      "en": "Zimu (catalpa wood)",
-      "category": "材料",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 二、永嘉芙蓉村陈氏司马大屋"
-      ]
-    },
-    {
-      "term": "照壁",
-      "en": "Screen wall (zhaobi)",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 二、永嘉芙蓉村陈氏司马大屋"
-      ]
-    },
-    {
-      "term": "泰顺雪溪石门楼",
-      "en": "Shimenlou (Stone Gate Tower), Xuexi, Taishun",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 三、泰顺雪溪石门楼"
-      ]
-    },
-    {
-      "term": "胡维基",
-      "en": "Hu Weiji (modern mathematician, 4th generation)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 三、泰顺雪溪石门楼"
-      ]
-    },
-    {
-      "term": "背山面水朝山案山",
-      "en": "Backing mountains, facing water, facing/desk mountains (feng shui)",
-      "category": "风水格局",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 三、泰顺雪溪石门楼"
-      ]
-    },
-    {
-      "term": "双层檐",
-      "en": "Double-eaved roof",
-      "category": "屋顶形式",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 三、泰顺雪溪石门楼"
-      ]
-    },
-    {
-      "term": "泰顺三魁下武洋林家厝",
-      "en": "Lin family residence, Xiawuyang, Sankui, Taishun",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 四、泰顺三魁下武洋林家厝"
-      ]
-    },
-    {
-      "term": "耕读",
-      "en": "Gengdu (farming-studying lifestyle)",
-      "category": "文化概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 四、泰顺三魁下武洋林家厝"
-      ]
-    },
-    {
-      "term": "环农业特征",
-      "en": "Agricultural-surrounding characteristic",
-      "category": "建筑特征",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 四、泰顺三魁下武洋林家厝",
-        "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
-      ]
-    },
-    {
-      "term": "七榴九榴",
-      "en": "Qiliu (7-bay) and Jiuliu (9-bay) houses",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 五、泰顺三魁镇庵前村张氏七榴九榴"
-      ]
-    },
-    {
-      "term": "千总衔",
-      "en": "Qianzong rank (military officer)",
-      "category": "官制",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 五、泰顺三魁镇庵前村张氏七榴九榴"
-      ]
-    },
-    {
-      "term": "贡生",
-      "en": "Gongsheng (tribute student)",
-      "category": "科举",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 五、泰顺三魁镇庵前村张氏七榴九榴"
-      ]
-    },
-    {
-      "term": "永嘉埭头松风水月宅",
-      "en": "Songfeng Shuiyue Residence, Daitou, Yongjia",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 六、永嘉埭头松风水月宅"
-      ]
-    },
-    {
-      "term": "美人靠",
-      "en": "Meirenkao (beauty's lean, curved railing seat)",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 六、永嘉埭头松风水月宅"
-      ]
-    },
-    {
-      "term": "理水",
-      "en": "Water management (lishui)",
-      "category": "园林手法",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第五章 温州乡土建筑中的典型大屋 - 六、永嘉埭头松风水月宅"
-      ]
-    },
-    {
-      "term": "仿生原则",
-      "en": "Bionic principle (architectural creation)",
-      "category": "建筑理念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 一、闷热湿的气候条件培育出居屋制作的仿生原则"
-      ]
-    },
-    {
-      "term": "光温互补雨热同步",
-      "en": "Light-temperature complementarity, rain-heat synchronization",
-      "category": "气候特征",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 一、闷热湿的气候条件培育出居屋制作的仿生原则"
-      ]
-    },
-    {
-      "term": "亚热带阔叶树启发",
-      "en": "Subtropical broadleaf tree inspiration",
-      "category": "建筑理念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 一、闷热湿的气候条件培育出居屋制作的仿生原则"
-      ]
-    },
-    {
-      "term": "门院屋三段式模式",
-      "en": "Gate-courtyard-house three-stage model",
-      "category": "建筑布局",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
-      ]
-    },
-    {
-      "term": "八辈蚕",
-      "en": "Eight-generation silkworm (Wenzhou sericulture)",
-      "category": "历史经济",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
-      ]
-    },
-    {
-      "term": "鸡鸣布",
-      "en": "Rooster-crow cloth (Wenzhou weaving)",
-      "category": "历史经济",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
-      ]
-    },
-    {
-      "term": "H形住宅",
-      "en": "H-shaped residence",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
-      ]
-    },
-    {
-      "term": "船棚为檐原型",
-      "en": "Boat and shed as eave prototypes",
-      "category": "建筑溯源",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
-      ]
-    },
-    {
-      "term": "天人合一",
-      "en": "Tian ren he yi (unity of heaven and humanity)",
-      "category": "哲学概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "第五立面",
-      "en": "Fifth facade (roof)",
-      "category": "建筑概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "以象制器",
-      "en": "Using images to make vessels",
-      "category": "哲学概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "屋宇",
-      "en": "Wuyu (house-eaves, psychological reflection)",
-      "category": "文化概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "反曲面屋顶",
-      "en": "Reverse curved roof",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "翘角",
-      "en": "Upturned corner (qiaojiao)",
-      "category": "建筑元素",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "周易浅述",
-      "en": "Zhouyi Qianshu (Chen Menglei)",
-      "category": "历史文献",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
-      ]
-    },
-    {
-      "term": "民俗与建筑文化",
-      "en": "Folk customs and architectural culture",
-      "category": "文化概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 四、民俗与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "巫文化",
-      "en": "Shamanic culture (wu wenhua)",
-      "category": "文化概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 四、民俗与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "拦街福",
-      "en": "Lanjiefu (Street-blocking Blessing festival)",
-      "category": "民俗",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 四、民俗与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "温瑞塘河",
-      "en": "Wenruitang River (inland river)",
-      "category": "地理",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 四、民俗与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "水台",
-      "en": "Shuitai (water stage, temple on river)",
-      "category": "建筑类型",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 四、民俗与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "会市",
-      "en": "Huishi (market fair during festivals)",
-      "category": "民俗经济",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 四、民俗与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "士与建筑文化",
-      "en": "Shi (scholar-officials) and architectural culture",
-      "category": "文化概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "耕读政策",
-      "en": "Gengdu policy (farming-studying policy)",
-      "category": "历史制度",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "文林",
-      "en": "Wen Lin (Ming Wenzhou prefect, father of Wen Zhengming)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "文征明",
-      "en": "Wen Zhengming (1470-1559, Ming painter)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "刘伯温",
-      "en": "Liu Bowen (1311-1375, Zhu Yuanzhang's advisor)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "郭璞",
-      "en": "Guo Pu (276-324, planned Wenzhou ancient city)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "陶弘景",
-      "en": "Tao Hongjing (456-536, mountain prime minister)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "王振鹏",
-      "en": "Wang Zhenpeng (Yuan dynasty jiehua painter)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "章纶",
-      "en": "Zhang Lun (Ming Minister of Rites)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "朱熹",
-      "en": "Zhu Xi (1130-1200, Neo-Confucian)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "楠溪江中游古村落",
-      "en": "Middle Nanxi River ancient villages",
-      "category": "地理",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "永嘉苍坡村",
-      "en": "Cangpo Village, Yongjia",
-      "category": "古村落",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "永嘉芙蓉村",
-      "en": "Furong Village, Yongjia",
-      "category": "古村落",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "永嘉岩头村",
-      "en": "Yantou Village, Yongjia",
-      "category": "古村落",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "小邹鲁",
-      "en": "Little Zou-Lu (Wenzhou's scholarly reputation)",
-      "category": "文化概念",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
-      ]
-    },
-    {
-      "term": "拉普普",
-      "en": "Rapoport (architectural scholar)",
-      "category": "历史人物",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 六、结语"
-      ]
-    },
-    {
-      "term": "住屋形式与文化",
-      "en": "House Form and Culture (Rapoport)",
-      "category": "历史文献",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 六、结语"
-      ]
-    },
-    {
-      "term": "瓯剧",
-      "en": "Ou opera (Wenzhou local opera)",
-      "category": "戏曲",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 六、结语"
-      ]
-    },
-    {
-      "term": "四雕一绣",
-      "en": "Four carvings and one embroidery (Wenzhou crafts)",
-      "category": "传统工艺",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 六、结语"
-      ]
-    },
-    {
-      "term": "黄杨木雕",
-      "en": "Boxwood carving",
-      "category": "传统工艺",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 六、结语"
-      ]
-    },
-    {
-      "term": "青田石雕",
-      "en": "Qingtian stone carving",
-      "category": "传统工艺",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 六、结语"
-      ]
-    },
-    {
-      "term": "瓯塑瓯绣",
-      "en": "Ou sculpture and Ou embroidery",
-      "category": "传统工艺",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第六章 温州乡土建筑文化寻踪 - 六、结语"
-      ]
-    },
-    {
-      "term": "建筑测绘图",
-      "en": "Architectural survey drawing",
-      "category": "建筑制图",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二部分 测绘图 - 测绘图总览"
-      ]
-    },
-    {
-      "term": "正立面侧立面剖面图",
-      "en": "Front elevation, side elevation, section",
-      "category": "建筑制图",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二部分 测绘图 - 测绘图总览"
-      ]
-    },
-    {
-      "term": "总平面图",
-      "en": "Site plan",
-      "category": "建筑制图",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二部分 测绘图 - 测绘图总览"
-      ]
-    },
-    {
-      "term": "永嘉渠口叶氏宗祠",
-      "en": "Ye clan ancestral hall, Qukou, Yongjia",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二部分 测绘图 - 测绘图总览"
-      ]
-    },
-    {
-      "term": "永嘉蓬溪康乐公祠",
-      "en": "Kangle Gong ancestral hall, Pengxi, Yongjia",
-      "category": "建筑",
-      "definition_zh": "",
-      "definition_en": "",
-      "sources": [
-        "第二部分 测绘图 - 测绘图总览"
-      ]
-    }
-  ]
+ "title": "温州乡土建筑 术语数据库",
+ "title_en": "Glossary of Wenzhou Vernacular Architecture",
+ "author": "丁俊清、肖健雄",
+ "total_terms": 221,
+ "categories": [
+ "传统工艺",
+ "历史人物",
+ "历史制度",
+ "历史地名",
+ "历史文献",
+ "历史民族",
+ "历史经济",
+ "古村落",
+ "哲学概念",
+ "园林手法",
+ "地名",
+ "地理",
+ "地理概括",
+ "地质",
+ "学术思想",
+ "学术概念",
+ "学术领域",
+ "宗教仪式",
+ "官制",
+ "屋顶形式",
+ "建筑",
+ "建筑做法",
+ "建筑元素",
+ "建筑制图",
+ "建筑工艺",
+ "建筑布局",
+ "建筑手法",
+ "建筑构件",
+ "建筑概念",
+ "建筑溯源",
+ "建筑特征",
+ "建筑理念",
+ "建筑空间",
+ "建筑类型",
+ "建筑结构",
+ "建筑风格",
+ "戏曲",
+ "戏曲术语",
+ "文化概念",
+ "材料",
+ "民俗",
+ "民俗仪式",
+ "民俗物品",
+ "民俗经济",
+ "民俗谚语",
+ "民间信仰",
+ "气候",
+ "气候特征",
+ "研究方法",
+ "社会制度",
+ "科举",
+ "规划理念",
+ "门窗",
+ "防御建筑",
+ "风水",
+ "风水格局"
+ ],
+ "terms": [
+ {
+ "term": "温州乡土建筑",
+ "en": "Wenzhou vernacular architecture",
+ "category": "学术领域",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "前言 - 前言"
+ ]
+ },
+ {
+ "term": "丁俊清",
+ "en": "Ding Junqing (author, Wenzhou Planning Bureau)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "前言 - 前言"
+ ]
+ },
+ {
+ "term": "肖健雄",
+ "en": "Xiao Jianxiong (author, Wenzhou Planning Bureau)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "前言 - 前言"
+ ]
+ },
+ {
+ "term": "路秉杰",
+ "en": "Lu Bingjie (Tongji University professor)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "前言 - 前言",
+ "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
+ ]
+ },
+ {
+ "term": "阮仪三",
+ "en": "Ruan Yisan (Tongji University professor)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "前言 - 前言"
+ ]
+ },
+ {
+ "term": "以底说图",
+ "en": "Explaining image through background methodology",
+ "category": "研究方法",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "前言 - 前言"
+ ]
+ },
+ {
+ "term": "永嘉",
+ "en": "Yongjia (county)",
+ "category": "地名",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "前言 - 前言"
+ ]
+ },
+ {
+ "term": "泰顺",
+ "en": "Taishun (county)",
+ "category": "地名",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "前言 - 前言"
+ ]
+ },
+ {
+ "term": "平阳",
+ "en": "Pingyang (county)",
+ "category": "地名",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "前言 - 前言"
+ ]
+ },
+ {
+ "term": "乐清",
+ "en": "Yueqing (city)",
+ "category": "地名",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "前言 - 前言"
+ ]
+ },
+ {
+ "term": "亚热带海洋性季风气候",
+ "en": "Subtropical maritime monsoon climate",
+ "category": "气候",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 一、自然条件"
+ ]
+ },
+ {
+ "term": "七山二水一分田",
+ "en": "Seven mountains, two waters, one field (land structure)",
+ "category": "地理概括",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 一、自然条件"
+ ]
+ },
+ {
+ "term": "里亚斯式海岸",
+ "en": "Rias type coast",
+ "category": "地理",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 一、自然条件"
+ ]
+ },
+ {
+ "term": "雁荡地貌",
+ "en": "Yandang landform",
+ "category": "地质",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 一、自然条件"
+ ]
+ },
+ {
+ "term": "梅雨",
+ "en": "Plum rain (meiyu)",
+ "category": "气候",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 一、自然条件"
+ ]
+ },
+ {
+ "term": "台风",
+ "en": "Typhoon",
+ "category": "气候",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 一、自然条件"
+ ]
+ },
+ {
+ "term": "流纹岩",
+ "en": "Rhyolite",
+ "category": "地质",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 一、自然条件"
+ ]
+ },
+ {
+ "term": "火山沉积岩",
+ "en": "Volcanic sedimentary rock",
+ "category": "地质",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 一、自然条件"
+ ]
+ },
+ {
+ "term": "瓯越",
+ "en": "Ouyue (ancient people of Wenzhou area)",
+ "category": "历史民族",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 二、社会背景"
+ ]
+ },
+ {
+ "term": "东瓯王城",
+ "en": "Dong'ou King City",
+ "category": "历史地名",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 二、社会背景"
+ ]
+ },
+ {
+ "term": "永嘉学派",
+ "en": "Yongjia School (utilitarian Confucianism)",
+ "category": "学术思想",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 二、社会背景",
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "叶适",
+ "en": "Ye Shi (1150-1223, Yongjia School founder)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 二、社会背景",
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "程朱理学",
+ "en": "Cheng-Zhu Neo-Confucianism",
+ "category": "学术思想",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 二、社会背景"
+ ]
+ },
+ {
+ "term": "南戏",
+ "en": "Nanxi (southern drama, originated in Wenzhou)",
+ "category": "戏曲",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 二、社会背景"
+ ]
+ },
+ {
+ "term": "营造法式",
+ "en": "Yingzao Fashi (State Building Standards, 1103)",
+ "category": "历史文献",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 二、社会背景",
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "木经",
+ "en": "Mu Jing (Timber Classic by Yu Hao)",
+ "category": "历史文献",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 二、社会背景"
+ ]
+ },
+ {
+ "term": "园冶",
+ "en": "Yuan Ye (Garden Treatise by Ji Cheng)",
+ "category": "历史文献",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 二、社会背景"
+ ]
+ },
+ {
+ "term": "喻皓",
+ "en": "Yu Hao (Northern Song carpenter)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 二、社会背景"
+ ]
+ },
+ {
+ "term": "剪发文身",
+ "en": "Cutting hair and tattooing (ancient Ou custom)",
+ "category": "民俗",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 三、民俗"
+ ]
+ },
+ {
+ "term": "东瓯王敬鬼",
+ "en": "Dong'ou King ghost worship",
+ "category": "民间信仰",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 三、民俗"
+ ]
+ },
+ {
+ "term": "龙船灯",
+ "en": "Dragon boat lantern (Lantern Festival custom)",
+ "category": "民俗物品",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 三、民俗"
+ ]
+ },
+ {
+ "term": "迎春",
+ "en": "Welcoming spring (Start of Spring custom)",
+ "category": "民俗仪式",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 三、民俗"
+ ]
+ },
+ {
+ "term": "长命缕",
+ "en": "Longevity thread (Duanwu custom)",
+ "category": "民俗物品",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 三、民俗"
+ ]
+ },
+ {
+ "term": "盂兰盆",
+ "en": "Ullambana (Ghost Festival service)",
+ "category": "宗教仪式",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 三、民俗"
+ ]
+ },
+ {
+ "term": "守岁",
+ "en": "Shousui (New Year's Eve vigil)",
+ "category": "民俗仪式",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 三、民俗"
+ ]
+ },
+ {
+ "term": "点岁灯",
+ "en": "Lighting year lamps",
+ "category": "民俗仪式",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 三、民俗"
+ ]
+ },
+ {
+ "term": "烧年纸",
+ "en": "Burning year paper",
+ "category": "民俗仪式",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 三、民俗"
+ ]
+ },
+ {
+ "term": "姜准",
+ "en": "Jiang Zhun (Ming Dynasty Wenzhou author)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 三、民俗"
+ ]
+ },
+ {
+ "term": "岐海琐谈",
+ "en": "Qi Hai Suo Tan (Ming Dynasty Wenzhou customs record)",
+ "category": "历史文献",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第一章 温州乡土建筑的生成条件 - 三、民俗"
+ ]
+ },
+ {
+ "term": "温州乡土建筑地方特色",
+ "en": "Local characteristics of Wenzhou vernacular architecture",
+ "category": "学术概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 一、不甚理性，注重实际"
+ ]
+ },
+ {
+ "term": "黄帝宅经",
+ "en": "Yellow Emperor's House Classic",
+ "category": "历史文献",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 一、不甚理性，注重实际"
+ ]
+ },
+ {
+ "term": "适形造物原则",
+ "en": "Fit-the-form creation principle",
+ "category": "建筑理念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 一、不甚理性，注重实际"
+ ]
+ },
+ {
+ "term": "一字形形制",
+ "en": "One-line (linear) house form",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 一、不甚理性，注重实际"
+ ]
+ },
+ {
+ "term": "屋宇同位三理合一",
+ "en": "House-environment co-location, three principles unified",
+ "category": "建筑理念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 一、不甚理性，注重实际",
+ "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
+ ]
+ },
+ {
+ "term": "儒气野气",
+ "en": "Confucian air vs wild air (residence character)",
+ "category": "文化概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 一、不甚理性，注重实际"
+ ]
+ },
+ {
+ "term": "檐很多出檐深远",
+ "en": "Many eaves, deep overhangs (Wenzhou residence feature)",
+ "category": "建筑特征",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
+ ]
+ },
+ {
+ "term": "腰檐",
+ "en": "Waist eave (at floor division)",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
+ ]
+ },
+ {
+ "term": "山檐",
+ "en": "Gable eave",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
+ ]
+ },
+ {
+ "term": "廊檐",
+ "en": "Corridor eave",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
+ ]
+ },
+ {
+ "term": "檐箱",
+ "en": "Eave box (storage under eave)",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
+ ]
+ },
+ {
+ "term": "观音兜式山墙",
+ "en": "Guanyin-bao style gable wall",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
+ ]
+ },
+ {
+ "term": "封护山墙",
+ "en": "Sealed gable wall",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
+ ]
+ },
+ {
+ "term": "鹅兜",
+ "en": "Ge basket (laundry basket)",
+ "category": "民俗物品",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
+ ]
+ },
+ {
+ "term": "谢灵运",
+ "en": "Xie Lingyun (385-433, Wenzhou prefect, poet)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
+ ]
+ },
+ {
+ "term": "王羲之",
+ "en": "Wang Xizhi (303-361, calligrapher, Wenzhou prefect)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 二、檐很多，出檐深远"
+ ]
+ },
+ {
+ "term": "横向发展",
+ "en": "Horizontal development (residence layout)",
+ "category": "建筑特征",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透"
+ ]
+ },
+ {
+ "term": "开敞通透",
+ "en": "Open and transparent (residence quality)",
+ "category": "建筑特征",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透"
+ ]
+ },
+ {
+ "term": "一字形住宅",
+ "en": "One-line (linear) residence",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透"
+ ]
+ },
+ {
+ "term": "三合院",
+ "en": "Three-sided courtyard (sanheyuan)",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透",
+ "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式"
+ ]
+ },
+ {
+ "term": "H型住宅",
+ "en": "H-shaped residence (sanheyuan variant)",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透"
+ ]
+ },
+ {
+ "term": "堂屋/上间",
+ "en": "Main hall / Shangjian",
+ "category": "建筑空间",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透"
+ ]
+ },
+ {
+ "term": "檐廊",
+ "en": "Eaves corridor",
+ "category": "建筑空间",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透",
+ "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
+ ]
+ },
+ {
+ "term": "直棂窗",
+ "en": "Straight-bar lattice window",
+ "category": "门窗",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透",
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "鲁班经",
+ "en": "Lu Ban Jing (Lu Ban Classic)",
+ "category": "历史文献",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 三、横向发展，开敞通透",
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "抬梁式",
+ "en": "Post-and-lintel construction (tailiangshi)",
+ "category": "建筑结构",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "穿斗式",
+ "en": "Column-and-tie construction (chuandoushi)",
+ "category": "建筑结构",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "垂花柱/垂莲柱",
+ "en": "Hanging lotus column (chuihua zhu)",
+ "category": "建筑构件",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "月梁",
+ "en": "Moon beam (yueliang)",
+ "category": "建筑构件",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "斗栱",
+ "en": "Dougong bracket set",
+ "category": "建筑构件",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "栌斗",
+ "en": "Ludou (cap block)",
+ "category": "建筑构件",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "铺作",
+ "en": "Puzuo (bracket system)",
+ "category": "建筑构件",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "举折",
+ "en": "Juzhe (roof curvature)",
+ "category": "建筑做法",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "生起",
+ "en": "Shengqi (ridge rise)",
+ "category": "建筑做法",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "侧脚",
+ "en": "Cejiao (column inclination)",
+ "category": "建筑做法",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "小木作",
+ "en": "Xiaomuzuo (small woodwork)",
+ "category": "建筑工艺",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "隔扇门",
+ "en": "Geshan men (lattice door)",
+ "category": "门窗",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "宋式建筑",
+ "en": "Song-style architecture",
+ "category": "建筑风格",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "白藤",
+ "en": "Baiteng (white rattan, for binding ludou)",
+ "category": "材料",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "高脚斗",
+ "en": "High-leg block (special dou proportion)",
+ "category": "建筑构件",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "斗口跳",
+ "en": "Doukotiao (simple one-tier bracket)",
+ "category": "建筑构件",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "斜撑栱",
+ "en": "Diagonal brace bracket (xicheng gong)",
+ "category": "建筑构件",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二章 温州乡土建筑的地方特色 - 四、木构架——深厚的历史渊源，精湛的薪传技艺"
+ ]
+ },
+ {
+ "term": "门院屋三段式",
+ "en": "Gate-courtyard-house three-stage model",
+ "category": "建筑布局",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式"
+ ]
+ },
+ {
+ "term": "天井",
+ "en": "Tianjing (sky well, small courtyard)",
+ "category": "建筑空间",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式"
+ ]
+ },
+ {
+ "term": "四合院",
+ "en": "Quadrangle (siheyuan)",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式"
+ ]
+ },
+ {
+ "term": "司马第",
+ "en": "Sima Di (Furong Village large residence)",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式",
+ "第五章 温州乡土建筑中的典型大屋 - 一、平阳顺溪陈氏古宅"
+ ]
+ },
+ {
+ "term": "平阳顺溪陈氏古宅",
+ "en": "Chen family ancient residence, Shunxi, Pingyang",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式",
+ "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法",
+ "第五章 温州乡土建筑中的典型大屋 - 一、平阳顺溪陈氏古宅"
+ ]
+ },
+ {
+ "term": "泰顺雪溪胡宅",
+ "en": "Hu residence, Xuexi, Taishun",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 一、门—院—屋三段式的居住模式"
+ ]
+ },
+ {
+ "term": "臻于表礼的入口",
+ "en": "Ritual-expressive entrance",
+ "category": "建筑理念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 二、臻于表礼的入口"
+ ]
+ },
+ {
+ "term": "屋门",
+ "en": "House gate (gate in house form)",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 二、臻于表礼的入口"
+ ]
+ },
+ {
+ "term": "墙门/八字门",
+ "en": "Wall gate / Eight-shaped gate",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 二、臻于表礼的入口"
+ ]
+ },
+ {
+ "term": "纳气就势",
+ "en": "Receiving qi and following form (feng shui)",
+ "category": "风水",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 二、臻于表礼的入口"
+ ]
+ },
+ {
+ "term": "入口前空间",
+ "en": "Entrance front space",
+ "category": "建筑空间",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 二、臻于表礼的入口"
+ ]
+ },
+ {
+ "term": "藏的文化心理图式",
+ "en": "Concealment cultural psychological schema",
+ "category": "文化概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
+ ]
+ },
+ {
+ "term": "围的空间处理手法",
+ "en": "Enclosure spatial processing technique",
+ "category": "建筑手法",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
+ ]
+ },
+ {
+ "term": "走归心理定势",
+ "en": "Returning-home psychological set",
+ "category": "文化概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
+ ]
+ },
+ {
+ "term": "英华积于中和顺形乎外",
+ "en": "Essence accumulated within, harmony manifested without",
+ "category": "文化概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
+ ]
+ },
+ {
+ "term": "影壁",
+ "en": "Screen wall (yingbi)",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
+ ]
+ },
+ {
+ "term": "聚族而居",
+ "en": "Living in clan groups",
+ "category": "社会制度",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法",
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "寨墙寨门",
+ "en": "Village wall and gate",
+ "category": "防御建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
+ ]
+ },
+ {
+ "term": "苍南金乡沈宅",
+ "en": "Shen residence, Jinxiang, Cangnan",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 三、藏的文化心理图式与围的空间处理手法"
+ ]
+ },
+ {
+ "term": "高台基木构架大屋顶",
+ "en": "High platform, timber frame, large roof (three features)",
+ "category": "建筑特征",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "林徽因",
+ "en": "Lin Huiyin (1904-1955, architect)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "梁思成",
+ "en": "Liang Sicheng (1901-1972, architect)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "清式营造则例",
+ "en": "Qing-style Building Rules (Liang Sicheng)",
+ "category": "历史文献",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "大屋",
+ "en": "Big house (large vernacular residence)",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "飞檐翘角",
+ "en": "Flying eaves and upturned corners",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "瓦当",
+ "en": "Wadang (tile end ornament)",
+ "category": "建筑构件",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "阳宅集成",
+ "en": "Yangzhai Jicheng (Integrated Residences, feng shui text)",
+ "category": "历史文献",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 四、生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "理水文化",
+ "en": "Water management culture",
+ "category": "文化概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 五、肇于实用进乎自然的理水文化"
+ ]
+ },
+ {
+ "term": "枕山环水面屏",
+ "en": "Pillowing mountains, encircling water, facing a screen",
+ "category": "风水格局",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 五、肇于实用进乎自然的理水文化"
+ ]
+ },
+ {
+ "term": "因水成街因水成村",
+ "en": "Streets and villages formed because of water",
+ "category": "规划理念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 五、肇于实用进乎自然的理水文化"
+ ]
+ },
+ {
+ "term": "永嘉岩头浚水街",
+ "en": "Yantou water street, Yongjia",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 五、肇于实用进乎自然的理水文化"
+ ]
+ },
+ {
+ "term": "芙蓉池",
+ "en": "Furong Pool (Furong Village)",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 五、肇于实用进乎自然的理水文化"
+ ]
+ },
+ {
+ "term": "苍坡村仁济庙",
+ "en": "Renji Temple, Cangpo Village",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第三章 温州乡土建筑的传统精神 - 五、肇于实用进乎自然的理水文化"
+ ]
+ },
+ {
+ "term": "宗祠",
+ "en": "Zongci (ancestral hall)",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "家庙",
+ "en": "Family temple (jiamiao)",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "朱熹家礼",
+ "en": "Zhu Xi's Family Rituals",
+ "category": "历史文献",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "大宗祠小宗祠",
+ "en": "Major and minor ancestral halls",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "门屋享堂寝堂",
+ "en": "Gatehouse, worship hall, sleeping hall",
+ "category": "建筑空间",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "戏台",
+ "en": "Stage (xitai)",
+ "category": "建筑空间",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "斗八藻井",
+ "en": "Douba caisson (octagonal caisson)",
+ "category": "建筑构件",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "出将入相",
+ "en": "Chujiang Ruxiang (stage entrance/exit)",
+ "category": "戏曲术语",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "太师壁",
+ "en": "Taishi wall (stage back wall)",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "永嘉塘湾郑氏大宗祠",
+ "en": "Zheng clan major ancestral hall, Tangwan, Yongjia",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "泰顺筱村吴氏宗祠",
+ "en": "Wu clan ancestral hall, Xiaocun, Taishun",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 一、宗祠"
+ ]
+ },
+ {
+ "term": "亭",
+ "en": "Ting (pavilion)",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "路亭",
+ "en": "Road pavilion (luting)",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "村亭/凉亭",
+ "en": "Village pavilion / cool pavilion",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "风水亭",
+ "en": "Feng shui pavilion",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "纪念亭",
+ "en": "Memorial pavilion",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "隘门亭",
+ "en": "Aimen Ting (gate pavilion across road)",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "吴王靠",
+ "en": "Wu Wang Kao (King Wu leaning chair)",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "永嘉苍坡望兄亭",
+ "en": "Wangxiong Pavilion, Cangpo, Yongjia",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "泰顺罗阳石亭",
+ "en": "Luoyang Stone Pavilion, Taishun (1515)",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "永嘉赤水亭三绝亭",
+ "en": "Chishui Pavilion / Three Wonders Pavilion, Yongjia",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "歇山顶",
+ "en": "Xieshan roof (hip-and-gable roof)",
+ "category": "屋顶形式",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "悬山顶",
+ "en": "Xuanshan roof (overhanging gable roof)",
+ "category": "屋顶形式",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "攒尖顶",
+ "en": "Zanjian roof (pyramidal roof)",
+ "category": "屋顶形式",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 二、亭"
+ ]
+ },
+ {
+ "term": "廊桥",
+ "en": "Langqiao (covered bridge)",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
+ ]
+ },
+ {
+ "term": "蜈蚣桥/蜈蚣结构",
+ "en": "Centipede bridge / centipede structure (timber arch)",
+ "category": "建筑结构",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
+ ]
+ },
+ {
+ "term": "虹桥结构",
+ "en": "Rainbow bridge structure (from Along the River)",
+ "category": "建筑结构",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
+ ]
+ },
+ {
+ "term": "泗溪姐妹桥",
+ "en": "Sixi Sister Bridges (Taishun)",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
+ ]
+ },
+ {
+ "term": "泰顺廊桥",
+ "en": "Taishun covered bridges",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
+ ]
+ },
+ {
+ "term": "清明上河图",
+ "en": "Along the River During the Qingming Festival (Zhang Zeduan)",
+ "category": "历史文献",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
+ ]
+ },
+ {
+ "term": "木撑架式",
+ "en": "Timber-braced form",
+ "category": "建筑结构",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 三、廊桥"
+ ]
+ },
+ {
+ "term": "牌坊/牌楼",
+ "en": "Paifang / pailou (memorial archway)",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
+ ]
+ },
+ {
+ "term": "棂星门",
+ "en": "Lingxing gate (lattice star gate)",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
+ ]
+ },
+ {
+ "term": "功德坊",
+ "en": "Merit archway",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
+ ]
+ },
+ {
+ "term": "乐清南阁章纶牌坊群",
+ "en": "Zhang Lun archway group, Nange, Yueqing",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
+ ]
+ },
+ {
+ "term": "张璁",
+ "en": "Zhang Cong (1475-1539, Ming Grand Secretary)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
+ ]
+ },
+ {
+ "term": "永嘉花坦宪台牌楼",
+ "en": "Xiantai archway, Huatan, Yongjia",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
+ ]
+ },
+ {
+ "term": "永嘉岩头进士牌楼",
+ "en": "Jinshi archway, Yantou, Yongjia",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第四章 温州乡土建筑中的公共建筑 - 四、牌坊"
+ ]
+ },
+ {
+ "term": "青街竹顺溪屋",
+ "en": "Qingjie bamboo, Shunxi houses (folk saying)",
+ "category": "民俗谚语",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 一、平阳顺溪陈氏古宅"
+ ]
+ },
+ {
+ "term": "走马楼",
+ "en": "Zouma lou (galloping horse tower, corridor wing)",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 一、平阳顺溪陈氏古宅"
+ ]
+ },
+ {
+ "term": "户侯第",
+ "en": "Houhou Di (Marquis Household, 4th branch)",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 一、平阳顺溪陈氏古宅"
+ ]
+ },
+ {
+ "term": "旗杆石",
+ "en": "Flagpole stone",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 一、平阳顺溪陈氏古宅"
+ ]
+ },
+ {
+ "term": "永嘉芙蓉村陈氏司马大屋",
+ "en": "Chen family Sima large residence, Furong Village, Yongjia",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 二、永嘉芙蓉村陈氏司马大屋"
+ ]
+ },
+ {
+ "term": "六架三柱带檐廊",
+ "en": "Six-frame three-column with eaves corridor",
+ "category": "建筑结构",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 二、永嘉芙蓉村陈氏司马大屋"
+ ]
+ },
+ {
+ "term": "梓木",
+ "en": "Zimu (catalpa wood)",
+ "category": "材料",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 二、永嘉芙蓉村陈氏司马大屋"
+ ]
+ },
+ {
+ "term": "照壁",
+ "en": "Screen wall (zhaobi)",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 二、永嘉芙蓉村陈氏司马大屋"
+ ]
+ },
+ {
+ "term": "泰顺雪溪石门楼",
+ "en": "Shimenlou (Stone Gate Tower), Xuexi, Taishun",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 三、泰顺雪溪石门楼"
+ ]
+ },
+ {
+ "term": "胡维基",
+ "en": "Hu Weiji (modern mathematician, 4th generation)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 三、泰顺雪溪石门楼"
+ ]
+ },
+ {
+ "term": "背山面水朝山案山",
+ "en": "Backing mountains, facing water, facing/desk mountains (feng shui)",
+ "category": "风水格局",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 三、泰顺雪溪石门楼"
+ ]
+ },
+ {
+ "term": "双层檐",
+ "en": "Double-eaved roof",
+ "category": "屋顶形式",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 三、泰顺雪溪石门楼"
+ ]
+ },
+ {
+ "term": "泰顺三魁下武洋林家厝",
+ "en": "Lin family residence, Xiawuyang, Sankui, Taishun",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 四、泰顺三魁下武洋林家厝"
+ ]
+ },
+ {
+ "term": "耕读",
+ "en": "Gengdu (farming-studying lifestyle)",
+ "category": "文化概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 四、泰顺三魁下武洋林家厝"
+ ]
+ },
+ {
+ "term": "环农业特征",
+ "en": "Agricultural-surrounding characteristic",
+ "category": "建筑特征",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 四、泰顺三魁下武洋林家厝",
+ "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
+ ]
+ },
+ {
+ "term": "七榴九榴",
+ "en": "Qiliu (7-bay) and Jiuliu (9-bay) houses",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 五、泰顺三魁镇庵前村张氏七榴九榴"
+ ]
+ },
+ {
+ "term": "千总衔",
+ "en": "Qianzong rank (military officer)",
+ "category": "官制",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 五、泰顺三魁镇庵前村张氏七榴九榴"
+ ]
+ },
+ {
+ "term": "贡生",
+ "en": "Gongsheng (tribute student)",
+ "category": "科举",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 五、泰顺三魁镇庵前村张氏七榴九榴"
+ ]
+ },
+ {
+ "term": "永嘉埭头松风水月宅",
+ "en": "Songfeng Shuiyue Residence, Daitou, Yongjia",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 六、永嘉埭头松风水月宅"
+ ]
+ },
+ {
+ "term": "美人靠",
+ "en": "Meirenkao (beauty's lean, curved railing seat)",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 六、永嘉埭头松风水月宅"
+ ]
+ },
+ {
+ "term": "理水",
+ "en": "Water management (lishui)",
+ "category": "园林手法",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第五章 温州乡土建筑中的典型大屋 - 六、永嘉埭头松风水月宅"
+ ]
+ },
+ {
+ "term": "仿生原则",
+ "en": "Bionic principle (architectural creation)",
+ "category": "建筑理念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 一、闷热湿的气候条件培育出居屋制作的仿生原则"
+ ]
+ },
+ {
+ "term": "光温互补雨热同步",
+ "en": "Light-temperature complementarity, rain-heat synchronization",
+ "category": "气候特征",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 一、闷热湿的气候条件培育出居屋制作的仿生原则"
+ ]
+ },
+ {
+ "term": "亚热带阔叶树启发",
+ "en": "Subtropical broadleaf tree inspiration",
+ "category": "建筑理念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 一、闷热湿的气候条件培育出居屋制作的仿生原则"
+ ]
+ },
+ {
+ "term": "门院屋三段式模式",
+ "en": "Gate-courtyard-house three-stage model",
+ "category": "建筑布局",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
+ ]
+ },
+ {
+ "term": "八辈蚕",
+ "en": "Eight-generation silkworm (Wenzhou sericulture)",
+ "category": "历史经济",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
+ ]
+ },
+ {
+ "term": "鸡鸣布",
+ "en": "Rooster-crow cloth (Wenzhou weaving)",
+ "category": "历史经济",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
+ ]
+ },
+ {
+ "term": "H形住宅",
+ "en": "H-shaped residence",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
+ ]
+ },
+ {
+ "term": "船棚为檐原型",
+ "en": "Boat and shed as eave prototypes",
+ "category": "建筑溯源",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 二、农业范式辐射出居屋的环农业特征"
+ ]
+ },
+ {
+ "term": "天人合一",
+ "en": "Tian ren he yi (unity of heaven and humanity)",
+ "category": "哲学概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "第五立面",
+ "en": "Fifth facade (roof)",
+ "category": "建筑概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "以象制器",
+ "en": "Using images to make vessels",
+ "category": "哲学概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "屋宇",
+ "en": "Wuyu (house-eaves, psychological reflection)",
+ "category": "文化概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "反曲面屋顶",
+ "en": "Reverse curved roof",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "翘角",
+ "en": "Upturned corner (qiaojiao)",
+ "category": "建筑元素",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "周易浅述",
+ "en": "Zhouyi Qianshu (Chen Menglei)",
+ "category": "历史文献",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 三、天人合一的时空观孕化为生动玲珑的屋顶"
+ ]
+ },
+ {
+ "term": "民俗与建筑文化",
+ "en": "Folk customs and architectural culture",
+ "category": "文化概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 四、民俗与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "巫文化",
+ "en": "Shamanic culture (wu wenhua)",
+ "category": "文化概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 四、民俗与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "拦街福",
+ "en": "Lanjiefu (Street-blocking Blessing festival)",
+ "category": "民俗",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 四、民俗与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "温瑞塘河",
+ "en": "Wenruitang River (inland river)",
+ "category": "地理",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 四、民俗与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "水台",
+ "en": "Shuitai (water stage, temple on river)",
+ "category": "建筑类型",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 四、民俗与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "会市",
+ "en": "Huishi (market fair during festivals)",
+ "category": "民俗经济",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 四、民俗与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "士与建筑文化",
+ "en": "Shi (scholar-officials) and architectural culture",
+ "category": "文化概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "耕读政策",
+ "en": "Gengdu policy (farming-studying policy)",
+ "category": "历史制度",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "文林",
+ "en": "Wen Lin (Ming Wenzhou prefect, father of Wen Zhengming)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "文征明",
+ "en": "Wen Zhengming (1470-1559, Ming painter)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "刘伯温",
+ "en": "Liu Bowen (1311-1375, Zhu Yuanzhang's advisor)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "郭璞",
+ "en": "Guo Pu (276-324, planned Wenzhou ancient city)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "陶弘景",
+ "en": "Tao Hongjing (456-536, mountain prime minister)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "王振鹏",
+ "en": "Wang Zhenpeng (Yuan dynasty jiehua painter)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "章纶",
+ "en": "Zhang Lun (Ming Minister of Rites)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "朱熹",
+ "en": "Zhu Xi (1130-1200, Neo-Confucian)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "楠溪江中游古村落",
+ "en": "Middle Nanxi River ancient villages",
+ "category": "地理",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "永嘉苍坡村",
+ "en": "Cangpo Village, Yongjia",
+ "category": "古村落",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "永嘉芙蓉村",
+ "en": "Furong Village, Yongjia",
+ "category": "古村落",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "永嘉岩头村",
+ "en": "Yantou Village, Yongjia",
+ "category": "古村落",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "小邹鲁",
+ "en": "Little Zou-Lu (Wenzhou's scholarly reputation)",
+ "category": "文化概念",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 五、士与温州乡土建筑文化"
+ ]
+ },
+ {
+ "term": "拉普普",
+ "en": "Rapoport (architectural scholar)",
+ "category": "历史人物",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 六、结语"
+ ]
+ },
+ {
+ "term": "住屋形式与文化",
+ "en": "House Form and Culture (Rapoport)",
+ "category": "历史文献",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 六、结语"
+ ]
+ },
+ {
+ "term": "瓯剧",
+ "en": "Ou opera (Wenzhou local opera)",
+ "category": "戏曲",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 六、结语"
+ ]
+ },
+ {
+ "term": "四雕一绣",
+ "en": "Four carvings and one embroidery (Wenzhou crafts)",
+ "category": "传统工艺",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 六、结语"
+ ]
+ },
+ {
+ "term": "黄杨木雕",
+ "en": "Boxwood carving",
+ "category": "传统工艺",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 六、结语"
+ ]
+ },
+ {
+ "term": "青田石雕",
+ "en": "Qingtian stone carving",
+ "category": "传统工艺",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 六、结语"
+ ]
+ },
+ {
+ "term": "瓯塑瓯绣",
+ "en": "Ou sculpture and Ou embroidery",
+ "category": "传统工艺",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第六章 温州乡土建筑文化寻踪 - 六、结语"
+ ]
+ },
+ {
+ "term": "建筑测绘图",
+ "en": "Architectural survey drawing",
+ "category": "建筑制图",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二部分 测绘图 - 测绘图总览"
+ ]
+ },
+ {
+ "term": "正立面侧立面剖面图",
+ "en": "Front elevation, side elevation, section",
+ "category": "建筑制图",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二部分 测绘图 - 测绘图总览"
+ ]
+ },
+ {
+ "term": "总平面图",
+ "en": "Site plan",
+ "category": "建筑制图",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二部分 测绘图 - 测绘图总览"
+ ]
+ },
+ {
+ "term": "永嘉渠口叶氏宗祠",
+ "en": "Ye clan ancestral hall, Qukou, Yongjia",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二部分 测绘图 - 测绘图总览"
+ ]
+ },
+ {
+ "term": "永嘉蓬溪康乐公祠",
+ "en": "Kangle Gong ancestral hall, Pengxi, Yongjia",
+ "category": "建筑",
+ "definition_zh": "",
+ "definition_en": "",
+ "sources": [
+ "第二部分 测绘图 - 测绘图总览"
+ ]
+ }
+ ]
 }

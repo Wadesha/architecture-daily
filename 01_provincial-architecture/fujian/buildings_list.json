@@ -1,1311 +1,1311 @@
 [
-  {
-    "city": "福州市",
-    "district": "鼓楼区",
-    "num": 1,
-    "name": "三坊七巷",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "鼓楼区",
-    "num": 2,
-    "name": "华林寺",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "鼓楼区",
-    "num": 3,
-    "name": "林则徐纪念馆",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "鼓楼区",
-    "num": 4,
-    "name": "严复故居",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "鼓楼区",
-    "num": 5,
-    "name": "林觉民故居",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "鼓楼区",
-    "num": 6,
-    "name": "沈葆桢故居",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "鼓楼区",
-    "num": 7,
-    "name": "冰心故居",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "鼓楼区",
-    "num": 8,
-    "name": "于山白塔",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "鼓楼区",
-    "num": 9,
-    "name": "乌山乌塔",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "鼓楼区",
-    "num": 10,
-    "name": "西禅寺",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "台江区",
-    "num": 11,
-    "name": "上下杭",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "台江区",
-    "num": 12,
-    "name": "苍霞洲",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "仓山区",
-    "num": 13,
-    "name": "烟台山老洋房",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "仓山区",
-    "num": 14,
-    "name": "泛船浦天主堂",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "晋安区",
-    "num": 15,
-    "name": "鼓山涌泉寺",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "晋安区",
-    "num": 16,
-    "name": "林阳寺",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "马尾区",
-    "num": 17,
-    "name": "罗星塔",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "马尾区",
-    "num": 18,
-    "name": "昭忠祠",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "长乐区",
-    "num": 19,
-    "name": "显应宫",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "长乐区",
-    "num": 20,
-    "name": "九头马民居",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "福清市",
-    "num": 21,
-    "name": "瑞岩山弥勒岩",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "福清市",
-    "num": 22,
-    "name": "黄檗山万福寺",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "闽侯县",
-    "num": 23,
-    "name": "旗山万佛寺",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "闽侯县",
-    "num": 24,
-    "name": "昙石山遗址",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "连江县",
-    "num": 25,
-    "name": "定海古城",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "罗源县",
-    "num": 26,
-    "name": "陈太尉宫",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "闽清县",
-    "num": 27,
-    "name": "宏琳厝",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "闽清县",
-    "num": 28,
-    "name": "四乐轩",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "永泰县",
-    "num": 29,
-    "name": "庄寨建筑群",
-    "page": 0
-  },
-  {
-    "city": "福州市",
-    "district": "平潭县",
-    "num": 30,
-    "name": "石头厝",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "思明区",
-    "num": 1,
-    "name": "鼓浪屿",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "思明区",
-    "num": 2,
-    "name": "南普陀寺",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "思明区",
-    "num": 3,
-    "name": "青礁慈济宫",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "思明区",
-    "num": 4,
-    "name": "胡里山炮台",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "思明区",
-    "num": 5,
-    "name": "中山路骑楼",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "思明区",
-    "num": 6,
-    "name": "厦门古城墙",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "集美区",
-    "num": 7,
-    "name": "集美学村",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "集美区",
-    "num": 8,
-    "name": "嘉庚建筑",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "同安区",
-    "num": 9,
-    "name": "同安孔庙",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "同安区",
-    "num": 10,
-    "name": "梵天寺",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "同安区",
-    "num": 11,
-    "name": "苏颂故居",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "翔安区",
-    "num": 12,
-    "name": "香山岩寺",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "海沧区",
-    "num": 13,
-    "name": "白礁慈济宫",
-    "page": 0
-  },
-  {
-    "city": "厦门市",
-    "district": "海沧区",
-    "num": 14,
-    "name": "莲塘别墅",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "芗城区",
-    "num": 1,
-    "name": "漳州古城",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "芗城区",
-    "num": 2,
-    "name": "南山寺",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "芗城区",
-    "num": 3,
-    "name": "文庙",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "芗城区",
-    "num": 4,
-    "name": "比干庙",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "龙文区",
-    "num": 5,
-    "name": "云洞岩",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "龙海市",
-    "num": 6,
-    "name": "白礁慈济宫",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "龙海市",
-    "num": 7,
-    "name": "镇海卫城",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "龙海市",
-    "num": 8,
-    "name": "埭美古村",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "漳浦县",
-    "num": 9,
-    "name": "赵家堡",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "漳浦县",
-    "num": 10,
-    "name": "诒安堡",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "漳浦县",
-    "num": 11,
-    "name": "蓝廷珍府第",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "云霄县",
-    "num": 12,
-    "name": "将军山",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "诏安县",
-    "num": 13,
-    "name": "在田楼",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "诏安县",
-    "num": 14,
-    "name": "祥麟塔",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "东山县",
-    "num": 15,
-    "name": "关帝庙",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "东山县",
-    "num": 16,
-    "name": "铜山古城",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "南靖县",
-    "num": 17,
-    "name": "田螺坑土楼群",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "南靖县",
-    "num": 18,
-    "name": "和贵楼",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "南靖县",
-    "num": 19,
-    "name": "怀远楼",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "南靖县",
-    "num": 20,
-    "name": "河坑土楼群",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "平和县",
-    "num": 21,
-    "name": "绳武楼",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "平和县",
-    "num": 22,
-    "name": "三平寺",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "华安县",
-    "num": 23,
-    "name": "二宜楼",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "华安县",
-    "num": 24,
-    "name": "南阳楼",
-    "page": 0
-  },
-  {
-    "city": "漳州市",
-    "district": "长泰县",
-    "num": 25,
-    "name": "天柱山",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "鲤城区",
-    "num": 1,
-    "name": "开元寺",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "鲤城区",
-    "num": 2,
-    "name": "东西塔",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "鲤城区",
-    "num": 3,
-    "name": "清净寺",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "鲤城区",
-    "num": 4,
-    "name": "天后宫",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "鲤城区",
-    "num": 5,
-    "name": "府文庙",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "鲤城区",
-    "num": 6,
-    "name": "关岳庙",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "鲤城区",
-    "num": 7,
-    "name": "承天寺",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "鲤城区",
-    "num": 8,
-    "name": "崇福寺",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "鲤城区",
-    "num": 9,
-    "name": "中山路骑楼",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "鲤城区",
-    "num": 10,
-    "name": "西街",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "丰泽区",
-    "num": 11,
-    "name": "清源山老君岩",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "丰泽区",
-    "num": 12,
-    "name": "伊斯兰教圣墓",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "洛江区",
-    "num": 13,
-    "name": "仙公山",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "泉港区",
-    "num": 14,
-    "name": "山腰盐场",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "石狮市",
-    "num": 15,
-    "name": "永宁古城",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "石狮市",
-    "num": 16,
-    "name": "姑嫂塔",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "石狮市",
-    "num": 17,
-    "name": "六胜塔",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "晋江市",
-    "num": 18,
-    "name": "安平桥",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "晋江市",
-    "num": 19,
-    "name": "草庵",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "晋江市",
-    "num": 20,
-    "name": "龙山寺",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "晋江市",
-    "num": 21,
-    "name": "梧林传统村落",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "晋江市",
-    "num": 22,
-    "name": "蔡氏古民居",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "南安市",
-    "num": 23,
-    "name": "九日山",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "南安市",
-    "num": 24,
-    "name": "郑成功墓",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "南安市",
-    "num": 25,
-    "name": "蔡浅古民居",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "惠安县",
-    "num": 26,
-    "name": "崇武古城",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "惠安县",
-    "num": 27,
-    "name": "洛阳桥",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "安溪县",
-    "num": 28,
-    "name": "清水岩",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "安溪县",
-    "num": 29,
-    "name": "文庙",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "永春县",
-    "num": 30,
-    "name": "东关桥",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "德化县",
-    "num": 31,
-    "name": "屈斗宫窑址",
-    "page": 0
-  },
-  {
-    "city": "泉州市",
-    "district": "金门县",
-    "num": 32,
-    "name": "邱良功母节孝坊",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "三元区",
-    "num": 1,
-    "name": "正顺庙",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "三元区",
-    "num": 2,
-    "name": "忠山古村",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "永安市",
-    "num": 3,
-    "name": "安贞堡",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "永安市",
-    "num": 4,
-    "name": "吉山古村",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "明溪县",
-    "num": 5,
-    "name": "南山遗址",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "清流县",
-    "num": 6,
-    "name": "灵台山",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "宁化县",
-    "num": 7,
-    "name": "客家祖地",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "宁化县",
-    "num": 8,
-    "name": "伊秉绶故居",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "大田县",
-    "num": 9,
-    "name": "安良堡",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "大田县",
-    "num": 10,
-    "name": "芳联堡",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "大田县",
-    "num": 11,
-    "name": "广崇堡",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "尤溪县",
-    "num": 12,
-    "name": "茂荆堡",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "尤溪县",
-    "num": 13,
-    "name": "朱熹诞生地",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "沙县",
-    "num": 14,
-    "name": "兴国寺",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "沙县",
-    "num": 15,
-    "name": "城隍庙",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "将乐县",
-    "num": 16,
-    "name": "杨时墓",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "泰宁县",
-    "num": 17,
-    "name": "尚书第",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "泰宁县",
-    "num": 18,
-    "name": "世德堂",
-    "page": 0
-  },
-  {
-    "city": "三明市",
-    "district": "建宁县",
-    "num": 19,
-    "name": "金铙山",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "城厢区",
-    "num": 1,
-    "name": "湄洲妈祖庙",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "城厢区",
-    "num": 2,
-    "name": "广化寺",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "城厢区",
-    "num": 3,
-    "name": "元妙观",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "城厢区",
-    "num": 4,
-    "name": "三清殿",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "涵江区",
-    "num": 5,
-    "name": "瑞云祖庙",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "涵江区",
-    "num": 6,
-    "name": "江口东岳观",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "荔城区",
-    "num": 7,
-    "name": "文峰宫",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "荔城区",
-    "num": 8,
-    "name": "宁海桥",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "秀屿区",
-    "num": 9,
-    "name": "平海天后宫",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "秀屿区",
-    "num": 10,
-    "name": "莆禧古城",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "仙游县",
-    "num": 11,
-    "name": "龙华寺",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "仙游县",
-    "num": 12,
-    "name": "三会寺",
-    "page": 0
-  },
-  {
-    "city": "莆田市",
-    "district": "仙游县",
-    "num": 13,
-    "name": "蔡襄墓",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "延平区",
-    "num": 1,
-    "name": "武夷山",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "延平区",
-    "num": 2,
-    "name": "古汉城遗址",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "延平区",
-    "num": 3,
-    "name": "下梅古村",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "延平区",
-    "num": 4,
-    "name": "城村",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "建阳区",
-    "num": 5,
-    "name": "建窑遗址",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "建阳区",
-    "num": 6,
-    "name": "考亭书院",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "邵武市",
-    "num": 7,
-    "name": "和平古镇",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "邵武市",
-    "num": 8,
-    "name": "李纲祠",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "武夷山市",
-    "num": 9,
-    "name": "武夷宫",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "武夷山市",
-    "num": 10,
-    "name": "天心永乐禅寺",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "建瓯市",
-    "num": 11,
-    "name": "光孝寺",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "建瓯市",
-    "num": 12,
-    "name": "孔庙",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "顺昌县",
-    "num": 13,
-    "name": "宝山寺",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "浦城县",
-    "num": 14,
-    "name": "大口窑遗址",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "光泽县",
-    "num": 15,
-    "name": "崇仁古村",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "松溪县",
-    "num": 16,
-    "name": "湛卢山",
-    "page": 0
-  },
-  {
-    "city": "南平市",
-    "district": "政和县",
-    "num": 17,
-    "name": "杨源鲤鱼溪",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "新罗区",
-    "num": 1,
-    "name": "龙硿洞",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "新罗区",
-    "num": 2,
-    "name": "适中土楼",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "永定区",
-    "num": 3,
-    "name": "承启楼",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "永定区",
-    "num": 4,
-    "name": "振成楼",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "永定区",
-    "num": 5,
-    "name": "奎聚楼",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "永定区",
-    "num": 6,
-    "name": "福裕楼",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "永定区",
-    "num": 7,
-    "name": "初溪土楼群",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "永定区",
-    "num": 8,
-    "name": "洪坑土楼群",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "漳平市",
-    "num": 9,
-    "name": "宁洋古城",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "长汀县",
-    "num": 10,
-    "name": "长汀古城",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "长汀县",
-    "num": 11,
-    "name": "三元阁",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "长汀县",
-    "num": 12,
-    "name": "汀州文庙",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "上杭县",
-    "num": 13,
-    "name": "李氏大宗祠",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "上杭县",
-    "num": 14,
-    "name": "古田会议旧址",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "武平县",
-    "num": 15,
-    "name": "均庆寺",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "连城县",
-    "num": 16,
-    "name": "培田古民居",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "连城县",
-    "num": 17,
-    "name": "四堡书坊",
-    "page": 0
-  },
-  {
-    "city": "龙岩市",
-    "district": "连城县",
-    "num": 18,
-    "name": "云龙桥",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "蕉城区",
-    "num": 1,
-    "name": "支提寺",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "蕉城区",
-    "num": 2,
-    "name": "霍童古镇",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "蕉城区",
-    "num": 3,
-    "name": "金涵畲族宫",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "福安市",
-    "num": 4,
-    "name": "廉村",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "福安市",
-    "num": 5,
-    "name": "狮峰寺",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "福鼎市",
-    "num": 6,
-    "name": "太姥山",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "福鼎市",
-    "num": 7,
-    "name": "昭明寺",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "霞浦县",
-    "num": 8,
-    "name": "大京城堡",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "霞浦县",
-    "num": 9,
-    "name": "三沙留云洞",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "古田县",
-    "num": 10,
-    "name": "临水宫",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "古田县",
-    "num": 11,
-    "name": "吉祥寺塔",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "屏南县",
-    "num": 12,
-    "name": "万安桥",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "屏南县",
-    "num": 13,
-    "name": "千乘桥",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "屏南县",
-    "num": 14,
-    "name": "漈下村",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "寿宁县",
-    "num": 15,
-    "name": "升平桥",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "寿宁县",
-    "num": 16,
-    "name": "杨梅洲桥",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "周宁县",
-    "num": 17,
-    "name": "浦源鲤鱼溪",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "周宁县",
-    "num": 18,
-    "name": "林公宫",
-    "page": 0
-  },
-  {
-    "city": "宁德市",
-    "district": "柘荣县",
-    "num": 19,
-    "name": "东源古村",
-    "page": 0
-  }
+ {
+ "city": "福州市",
+ "district": "鼓楼区",
+ "num": 1,
+ "name": "三坊七巷",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "鼓楼区",
+ "num": 2,
+ "name": "华林寺",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "鼓楼区",
+ "num": 3,
+ "name": "林则徐纪念馆",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "鼓楼区",
+ "num": 4,
+ "name": "严复故居",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "鼓楼区",
+ "num": 5,
+ "name": "林觉民故居",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "鼓楼区",
+ "num": 6,
+ "name": "沈葆桢故居",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "鼓楼区",
+ "num": 7,
+ "name": "冰心故居",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "鼓楼区",
+ "num": 8,
+ "name": "于山白塔",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "鼓楼区",
+ "num": 9,
+ "name": "乌山乌塔",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "鼓楼区",
+ "num": 10,
+ "name": "西禅寺",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "台江区",
+ "num": 11,
+ "name": "上下杭",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "台江区",
+ "num": 12,
+ "name": "苍霞洲",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "仓山区",
+ "num": 13,
+ "name": "烟台山老洋房",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "仓山区",
+ "num": 14,
+ "name": "泛船浦天主堂",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "晋安区",
+ "num": 15,
+ "name": "鼓山涌泉寺",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "晋安区",
+ "num": 16,
+ "name": "林阳寺",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "马尾区",
+ "num": 17,
+ "name": "罗星塔",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "马尾区",
+ "num": 18,
+ "name": "昭忠祠",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "长乐区",
+ "num": 19,
+ "name": "显应宫",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "长乐区",
+ "num": 20,
+ "name": "九头马民居",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "福清市",
+ "num": 21,
+ "name": "瑞岩山弥勒岩",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "福清市",
+ "num": 22,
+ "name": "黄檗山万福寺",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "闽侯县",
+ "num": 23,
+ "name": "旗山万佛寺",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "闽侯县",
+ "num": 24,
+ "name": "昙石山遗址",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "连江县",
+ "num": 25,
+ "name": "定海古城",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "罗源县",
+ "num": 26,
+ "name": "陈太尉宫",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "闽清县",
+ "num": 27,
+ "name": "宏琳厝",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "闽清县",
+ "num": 28,
+ "name": "四乐轩",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "永泰县",
+ "num": 29,
+ "name": "庄寨建筑群",
+ "page": 0
+ },
+ {
+ "city": "福州市",
+ "district": "平潭县",
+ "num": 30,
+ "name": "石头厝",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "思明区",
+ "num": 1,
+ "name": "鼓浪屿",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "思明区",
+ "num": 2,
+ "name": "南普陀寺",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "思明区",
+ "num": 3,
+ "name": "青礁慈济宫",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "思明区",
+ "num": 4,
+ "name": "胡里山炮台",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "思明区",
+ "num": 5,
+ "name": "中山路骑楼",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "思明区",
+ "num": 6,
+ "name": "厦门古城墙",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "集美区",
+ "num": 7,
+ "name": "集美学村",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "集美区",
+ "num": 8,
+ "name": "嘉庚建筑",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "同安区",
+ "num": 9,
+ "name": "同安孔庙",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "同安区",
+ "num": 10,
+ "name": "梵天寺",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "同安区",
+ "num": 11,
+ "name": "苏颂故居",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "翔安区",
+ "num": 12,
+ "name": "香山岩寺",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "海沧区",
+ "num": 13,
+ "name": "白礁慈济宫",
+ "page": 0
+ },
+ {
+ "city": "厦门市",
+ "district": "海沧区",
+ "num": 14,
+ "name": "莲塘别墅",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "芗城区",
+ "num": 1,
+ "name": "漳州古城",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "芗城区",
+ "num": 2,
+ "name": "南山寺",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "芗城区",
+ "num": 3,
+ "name": "文庙",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "芗城区",
+ "num": 4,
+ "name": "比干庙",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "龙文区",
+ "num": 5,
+ "name": "云洞岩",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "龙海市",
+ "num": 6,
+ "name": "白礁慈济宫",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "龙海市",
+ "num": 7,
+ "name": "镇海卫城",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "龙海市",
+ "num": 8,
+ "name": "埭美古村",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "漳浦县",
+ "num": 9,
+ "name": "赵家堡",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "漳浦县",
+ "num": 10,
+ "name": "诒安堡",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "漳浦县",
+ "num": 11,
+ "name": "蓝廷珍府第",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "云霄县",
+ "num": 12,
+ "name": "将军山",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "诏安县",
+ "num": 13,
+ "name": "在田楼",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "诏安县",
+ "num": 14,
+ "name": "祥麟塔",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "东山县",
+ "num": 15,
+ "name": "关帝庙",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "东山县",
+ "num": 16,
+ "name": "铜山古城",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "南靖县",
+ "num": 17,
+ "name": "田螺坑土楼群",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "南靖县",
+ "num": 18,
+ "name": "和贵楼",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "南靖县",
+ "num": 19,
+ "name": "怀远楼",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "南靖县",
+ "num": 20,
+ "name": "河坑土楼群",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "平和县",
+ "num": 21,
+ "name": "绳武楼",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "平和县",
+ "num": 22,
+ "name": "三平寺",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "华安县",
+ "num": 23,
+ "name": "二宜楼",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "华安县",
+ "num": 24,
+ "name": "南阳楼",
+ "page": 0
+ },
+ {
+ "city": "漳州市",
+ "district": "长泰县",
+ "num": 25,
+ "name": "天柱山",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "鲤城区",
+ "num": 1,
+ "name": "开元寺",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "鲤城区",
+ "num": 2,
+ "name": "东西塔",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "鲤城区",
+ "num": 3,
+ "name": "清净寺",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "鲤城区",
+ "num": 4,
+ "name": "天后宫",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "鲤城区",
+ "num": 5,
+ "name": "府文庙",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "鲤城区",
+ "num": 6,
+ "name": "关岳庙",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "鲤城区",
+ "num": 7,
+ "name": "承天寺",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "鲤城区",
+ "num": 8,
+ "name": "崇福寺",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "鲤城区",
+ "num": 9,
+ "name": "中山路骑楼",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "鲤城区",
+ "num": 10,
+ "name": "西街",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "丰泽区",
+ "num": 11,
+ "name": "清源山老君岩",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "丰泽区",
+ "num": 12,
+ "name": "伊斯兰教圣墓",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "洛江区",
+ "num": 13,
+ "name": "仙公山",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "泉港区",
+ "num": 14,
+ "name": "山腰盐场",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "石狮市",
+ "num": 15,
+ "name": "永宁古城",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "石狮市",
+ "num": 16,
+ "name": "姑嫂塔",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "石狮市",
+ "num": 17,
+ "name": "六胜塔",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "晋江市",
+ "num": 18,
+ "name": "安平桥",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "晋江市",
+ "num": 19,
+ "name": "草庵",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "晋江市",
+ "num": 20,
+ "name": "龙山寺",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "晋江市",
+ "num": 21,
+ "name": "梧林传统村落",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "晋江市",
+ "num": 22,
+ "name": "蔡氏古民居",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "南安市",
+ "num": 23,
+ "name": "九日山",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "南安市",
+ "num": 24,
+ "name": "郑成功墓",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "南安市",
+ "num": 25,
+ "name": "蔡浅古民居",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "惠安县",
+ "num": 26,
+ "name": "崇武古城",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "惠安县",
+ "num": 27,
+ "name": "洛阳桥",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "安溪县",
+ "num": 28,
+ "name": "清水岩",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "安溪县",
+ "num": 29,
+ "name": "文庙",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "永春县",
+ "num": 30,
+ "name": "东关桥",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "德化县",
+ "num": 31,
+ "name": "屈斗宫窑址",
+ "page": 0
+ },
+ {
+ "city": "泉州市",
+ "district": "金门县",
+ "num": 32,
+ "name": "邱良功母节孝坊",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "三元区",
+ "num": 1,
+ "name": "正顺庙",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "三元区",
+ "num": 2,
+ "name": "忠山古村",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "永安市",
+ "num": 3,
+ "name": "安贞堡",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "永安市",
+ "num": 4,
+ "name": "吉山古村",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "明溪县",
+ "num": 5,
+ "name": "南山遗址",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "清流县",
+ "num": 6,
+ "name": "灵台山",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "宁化县",
+ "num": 7,
+ "name": "客家祖地",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "宁化县",
+ "num": 8,
+ "name": "伊秉绶故居",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "大田县",
+ "num": 9,
+ "name": "安良堡",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "大田县",
+ "num": 10,
+ "name": "芳联堡",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "大田县",
+ "num": 11,
+ "name": "广崇堡",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "尤溪县",
+ "num": 12,
+ "name": "茂荆堡",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "尤溪县",
+ "num": 13,
+ "name": "朱熹诞生地",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "沙县",
+ "num": 14,
+ "name": "兴国寺",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "沙县",
+ "num": 15,
+ "name": "城隍庙",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "将乐县",
+ "num": 16,
+ "name": "杨时墓",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "泰宁县",
+ "num": 17,
+ "name": "尚书第",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "泰宁县",
+ "num": 18,
+ "name": "世德堂",
+ "page": 0
+ },
+ {
+ "city": "三明市",
+ "district": "建宁县",
+ "num": 19,
+ "name": "金铙山",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "城厢区",
+ "num": 1,
+ "name": "湄洲妈祖庙",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "城厢区",
+ "num": 2,
+ "name": "广化寺",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "城厢区",
+ "num": 3,
+ "name": "元妙观",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "城厢区",
+ "num": 4,
+ "name": "三清殿",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "涵江区",
+ "num": 5,
+ "name": "瑞云祖庙",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "涵江区",
+ "num": 6,
+ "name": "江口东岳观",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "荔城区",
+ "num": 7,
+ "name": "文峰宫",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "荔城区",
+ "num": 8,
+ "name": "宁海桥",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "秀屿区",
+ "num": 9,
+ "name": "平海天后宫",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "秀屿区",
+ "num": 10,
+ "name": "莆禧古城",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "仙游县",
+ "num": 11,
+ "name": "龙华寺",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "仙游县",
+ "num": 12,
+ "name": "三会寺",
+ "page": 0
+ },
+ {
+ "city": "莆田市",
+ "district": "仙游县",
+ "num": 13,
+ "name": "蔡襄墓",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "延平区",
+ "num": 1,
+ "name": "武夷山",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "延平区",
+ "num": 2,
+ "name": "古汉城遗址",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "延平区",
+ "num": 3,
+ "name": "下梅古村",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "延平区",
+ "num": 4,
+ "name": "城村",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "建阳区",
+ "num": 5,
+ "name": "建窑遗址",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "建阳区",
+ "num": 6,
+ "name": "考亭书院",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "邵武市",
+ "num": 7,
+ "name": "和平古镇",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "邵武市",
+ "num": 8,
+ "name": "李纲祠",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "武夷山市",
+ "num": 9,
+ "name": "武夷宫",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "武夷山市",
+ "num": 10,
+ "name": "天心永乐禅寺",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "建瓯市",
+ "num": 11,
+ "name": "光孝寺",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "建瓯市",
+ "num": 12,
+ "name": "孔庙",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "顺昌县",
+ "num": 13,
+ "name": "宝山寺",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "浦城县",
+ "num": 14,
+ "name": "大口窑遗址",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "光泽县",
+ "num": 15,
+ "name": "崇仁古村",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "松溪县",
+ "num": 16,
+ "name": "湛卢山",
+ "page": 0
+ },
+ {
+ "city": "南平市",
+ "district": "政和县",
+ "num": 17,
+ "name": "杨源鲤鱼溪",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "新罗区",
+ "num": 1,
+ "name": "龙硿洞",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "新罗区",
+ "num": 2,
+ "name": "适中土楼",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "永定区",
+ "num": 3,
+ "name": "承启楼",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "永定区",
+ "num": 4,
+ "name": "振成楼",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "永定区",
+ "num": 5,
+ "name": "奎聚楼",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "永定区",
+ "num": 6,
+ "name": "福裕楼",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "永定区",
+ "num": 7,
+ "name": "初溪土楼群",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "永定区",
+ "num": 8,
+ "name": "洪坑土楼群",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "漳平市",
+ "num": 9,
+ "name": "宁洋古城",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "长汀县",
+ "num": 10,
+ "name": "长汀古城",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "长汀县",
+ "num": 11,
+ "name": "三元阁",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "长汀县",
+ "num": 12,
+ "name": "汀州文庙",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "上杭县",
+ "num": 13,
+ "name": "李氏大宗祠",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "上杭县",
+ "num": 14,
+ "name": "古田会议旧址",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "武平县",
+ "num": 15,
+ "name": "均庆寺",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "连城县",
+ "num": 16,
+ "name": "培田古民居",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "连城县",
+ "num": 17,
+ "name": "四堡书坊",
+ "page": 0
+ },
+ {
+ "city": "龙岩市",
+ "district": "连城县",
+ "num": 18,
+ "name": "云龙桥",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "蕉城区",
+ "num": 1,
+ "name": "支提寺",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "蕉城区",
+ "num": 2,
+ "name": "霍童古镇",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "蕉城区",
+ "num": 3,
+ "name": "金涵畲族宫",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "福安市",
+ "num": 4,
+ "name": "廉村",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "福安市",
+ "num": 5,
+ "name": "狮峰寺",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "福鼎市",
+ "num": 6,
+ "name": "太姥山",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "福鼎市",
+ "num": 7,
+ "name": "昭明寺",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "霞浦县",
+ "num": 8,
+ "name": "大京城堡",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "霞浦县",
+ "num": 9,
+ "name": "三沙留云洞",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "古田县",
+ "num": 10,
+ "name": "临水宫",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "古田县",
+ "num": 11,
+ "name": "吉祥寺塔",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "屏南县",
+ "num": 12,
+ "name": "万安桥",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "屏南县",
+ "num": 13,
+ "name": "千乘桥",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "屏南县",
+ "num": 14,
+ "name": "漈下村",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "寿宁县",
+ "num": 15,
+ "name": "升平桥",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "寿宁县",
+ "num": 16,
+ "name": "杨梅洲桥",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "周宁县",
+ "num": 17,
+ "name": "浦源鲤鱼溪",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "周宁县",
+ "num": 18,
+ "name": "林公宫",
+ "page": 0
+ },
+ {
+ "city": "宁德市",
+ "district": "柘荣县",
+ "num": 19,
+ "name": "东源古村",
+ "page": 0
+ }
 ]

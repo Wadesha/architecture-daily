@@ -39,8 +39,52 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 .footer { background: #6B3410; color: #d4b896; text-align: center; padding: 30px; font-size: 0.9em; margin-top: 40px; }
 .footer p { margin-bottom: 5px; }
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="book-header">
 <h1>岩下老街</h1>
 <div class="subtitle">Yanxia Old Street | DK Dorling Kindersley 中英双语全文重构版</div>
@@ -74,7 +118,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Geographic Location and Historical Evolution of Yongkang</div>
 <div class="section-tag">一、地理位置 / 二、历史变迁 | Geographic Location / Historical Evolution</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>永康位于浙江省中部，三国吴赤乌八年245年置县，原属婺州金华府</li>
 <li>仙霞岭为浙江两大水系钱塘江水系和瓯江水系分水岭，永康位于西侧</li>
@@ -95,7 +139,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>宋朝的建立标志着长年征战的结束，以及中原和江南地区文化和经济的长足发展。在北宋时期，浙江已经成为北宋王朝的经济中心，以及新儒学运动的萌芽地和重要传播地。南宋迁都临安（今杭州）后，随着大批文人墨客、士官大夫的涌入，浙江又成为全国的政治中心和文化中心。与此同时，浙江境内踊跃出的各类人才均居全国之首，其中包括宋史列传人物<strong>136人</strong>、宰相<strong>22人</strong>、词人<strong>138人</strong>、画家<strong>69人</strong>和儒者<strong>421人</strong>。难怪<strong>朱熹</strong>曾经感慨地说：岂非天旋地转，闽浙反为天地之中。在这种大的文化背景下，两种以反对传统经学和理学的革新思潮——事功学和心学在浙江应运而生。事功学三派均起源于浙东，分别是以<strong>吕祖谦</strong>为代表的金华学派、以叶适为代表的永嘉学派和以<strong>陈亮</strong>为代表的<strong>永康学派</strong>，而<strong>永康学派</strong>主要的讲学地点就在<strong>方岩山</strong>北边的<strong>寿山坑</strong>内。</p>
 <p>明清两代，随着农业生产力的进一步发展，浙江部分田地转而种植收益更高的经济作物，部分劳动力也从农业劳作中解放出来，这些都为资本主义经济的萌芽创造了条件。明成化二十一年（<strong>1485年</strong>），货币税制取代了徭役制。明万历十六年（<strong>1588年</strong>），雇用人员的自由人身份在法律上得到了承认和保障。这两项变革，进一步促进了民间私营手工业和商品经济的发展。明末清初以后，<strong>方岩山</strong>上和山下老街两侧就逐渐形成了依附于<strong>广慈寺</strong>宗教活动的，制作和销售香烛供品、食品及杂货的手工业和商业；后来又发展了颇具规模的，依托于朝山进香香客的旅店业。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Yongkang is located in central Zhejiang Province, originally belonging to Wuzhou, i.e., Jinhua Prefecture. Yongkang first appeared as a place name in 245 CE (Wu Chiwu 8 of the Three Kingdoms period), when Shangpu Township was separated from Wushang County to establish Yongkang County. Before Qin unification, Yongkang and the entire Jiangzhe region belonged to the Yue state. In 223 BCE, Qin conquered Chu, and the following year established Kuaiji Commandery in the former Yue territory. Kuaiji Commandery originally administered 15 counties, with the Yongkang area belonging to Wushang County.</p>
 <p class="en">Zhejiang was historically divided into the upper eight prefectures (Wu, Qu, Yan, Tai, Wen, Chu, Yong, Shao) and lower three prefectures (Hang, Jia, Hu). Yongkang belonged to Jinhua Prefecture in central Zhejiang, a necessary passage between prefectures. Yongkang's terrain belongs to the central Zhejiang hilly basin region, with mountains mostly being extensions of the Xianxia Range. Located at the Zhejiang-Fujian-Jiangxi border in southwestern Zhejiang, the Xianxia Range runs roughly northeast-southwest; the Dapan, Tiantai, and Kuaiji mountains within Zhejiang are all its extensions, earning it the title ancestor of all eastern Zhejiang mountains. The Xianxia Range is also the watershed between Zhejiang's two major river systems: the Qiantang River system and the Ou River system. Yongkang lies on the western side of this watershed, with no connection to the Ou River system and only fragile links to the Qiantang system.</p>
@@ -112,7 +156,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Cultural Characteristics of Yongkang</div>
 <div class="section-tag">三、文化特点 | Cultural Characteristics</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>浙江文化受越文化影响，自古有信鬼敬神和重利事功两大特点</li>
 <li>越人信仰鬼神多为福祥之神，水神最重要，祭祀以龙舟龙灯形式表现</li>
@@ -127,7 +171,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>回顾浙江的历史可以看到，由于受越文化的影响，浙江地区的文化自古以来就有信鬼敬神和重利事功的特点。越人信仰的鬼神多为福祥之神，其中又以水神最为重要。对水神的祭祀不仅包括春祭三江，秋祭五湖，还以龙舟和龙灯的形式表现出来。这是因为自古以来人们就认为龙春分而登天，秋分而潜渊，并且可以招云降雨。再加上春分到秋分之间的雨水，对于农作物生产，特别是江浙地区水稻的种植有至关重要的作用。这种对鬼神的崇拜，经过与中原文化的融合，便逐渐转化为对佛教、道教的泛神信仰和各种民间神祇的普遍存在。在明正德年间（1506—<strong>1521年</strong>）编写的《永康县志》风俗篇里，当地风俗特点第二条写的就是信鬼神，重淫祀，在下面还注着出汉志三个字。而在清康熙三十七年（<strong>1698年</strong>）编写的《永康县志》中，依然记载着在民间葬礼上不用僧道而用巫师的陋俗。</p>
 <p>重利事功观念的形成，究其本源是因为江浙地区生活环境曾经十分恶劣，土地分散窄小且不利耕种，这便促使了早期商品经济的发展。现在人们用计然之策来泛指生财致富之道。计然，又作计倪，是春秋时期越王勾践的一位谋士。他的良策既包括一些从经验和现状出发，居安思危的思想，又包括一些商品经济的理论。到了南宋，即浙江经济发展的巅峰时期，强调各务其实的<strong>陈亮</strong>创立的<strong>永康学派</strong>，提出了义利双行的观点，毅然站在了中国传统儒学和经学的对立面上。他的思想，以及同属事功学派的金华学派和永嘉学派，却都在江浙地区得到了广泛的支持与传播。思想上的解放提高了商人的地位，在浙江诸葛村的宗谱里，还记载有鼓励子孙从商的族训。商人的增加和商品经济的发展，使重利事功的思想更加根深蒂固。同样在明正德《永康县志》里，保留了自宋志中就有提及的急于进取，善于图利的当地民风。岩下老街一边是香火旺盛、佛道合一的<strong>方岩山</strong>，一边是家家户户做生意的程氏后人。信鬼敬神和重利事功的思想，不仅是老街文化形成的原因，并且渗透在当地文化的点滴之中。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Looking back at Zhejiang's history, due to the influence of Yue culture, the region's culture has since ancient times been characterized by belief in ghosts and reverence for gods, and by valuing profit and practical achievement. The ghosts and gods worshipped by the Yue people were mostly auspicious deities, with water gods being the most important. Worship of water gods included not only spring sacrifices to the three rivers and autumn sacrifices to the five lakes, but also took the form of dragon boats and <strong>dragon lantern</strong>s. This is because since ancient times people believed that dragons ascend to heaven at the spring equinox and dive into the abyss at the autumn equinox, and can summon clouds and rain. Moreover, rainfall between spring and autumn equinoxes was crucial for crop production, especially rice cultivation in Jiangzhe. This ghost-god worship, through fusion with Central Plains culture, gradually transformed into pantheistic belief in Buddhism and Daoism and the prevalence of various folk deities. In the Customs chapter of the Yongkang County Gazetteer compiled during the Ming Zhengde period (1506-1521), the second listed local custom was believing in ghosts and gods, valuing excessive sacrifices, with a note from Han Records. In the 1698 (Kangxi 37) Yongkang County Gazetteer, it was still recorded that folk funerals used shamans rather than Buddhist or Daoist priests—a vulgar custom.</p>
 <p class="en">The origin of the valuing-profit-and-practical-achievement mindset lies in the harsh living environment of Jiangzhe: scattered, narrow land unfavorable for farming, which stimulated early commodity economy development. Today people use the stratagem of Ji Ran to泛指 ways of making wealth. Ji Ran, also called Ji Ni, was a strategist of King Goujian of Yue in the Spring and Autumn period. his strategies included both thinking from experience and current conditions, preparing for danger in peace, and theories of commodity economy. By the Southern Song, Zhejiang's economic peak, <strong>Chen Liang</strong>—who emphasized each person fulfilling their actual role—founded the Yongkang school and proposed the view of parallel righteousness and profit, firmly opposing traditional Confucianism and classical learning. His thought, along with the Jinhua and Yongjia schools of the same utilitarian tradition, received broad support and dissemination in Jiangzhe. Intellectual liberation raised merchants' status; the genealogy of Zhuge Village in Zhejiang even records clan instructions encouraging descendants to go into business. The increase of merchants and development of commodity economy deepened the profit-practical mindset. The Ming Zhengde Yongkang Gazetteer preserved the local folk custom first mentioned in the Song gazetteer: eager to advance, skilled at seeking profit. Yanxia Old Street has on one side the incense-filled, Buddhist-Daoist <strong>Fangyan Mountain</strong>, and on the other the Cheng family descendants who all do business. The beliefs in ghosts-gods and profit-practical achievement were not only the reasons for the old street culture's formation, but permeated every detail of local culture.</p>
@@ -141,7 +185,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Factors Influencing Old Street Development and Geographic Environment</div>
 <div class="section-tag">一、影响岩下老街历史发展的几个重要因素 / 二、老街的地理环境位置与自然环境 | Key Factors in Old Street's Historical Development / Geographic and Natural Environment</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>五峰</strong>：固厚峰、瀑布峰、覆釜峰、桃花峰、鸡鸣峰，统称寿山也叫桃岩</li>
 <li>寿山寺梁普通元年520年创建，初名桃岩寺，永康最早寺院，<strong><strong><strong>五峰</strong>书院</strong></strong>前身</li>
@@ -166,7 +210,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>在南方丘陵地区，由于受到地形的限制，村落中的住宅很难以祖屋或祠堂为中心向外发展。它们多是顺应地势，沿河谷或依山脚而建。这样做最主要的原因是要把最好的土地留作耕地；同时，离山近也方便打柴，从山上流下来的溪水在这里也是最干净的；再有就是如果遇到洪水，这里地势相对较高，也会比较安全。老街途经的两个村庄，在选址上都是符合这个常理的，但是也有一些独到的地方。由于整条山谷南北走向，两侧的丘陵西高东低，所以山谷里的田地从早上到下午都可以得到充足的日照。高度较高的<strong>方岩山</strong>位于山谷西侧，对于村落中的住宅来讲，它不但可以遮挡住夏天日落前燥热的西晒，还可以挡住冬天的冷风。另一边相对较低的狮子山、蜈蚣山和蜥蜴山，还可以保证山坑里的庄稼也能沐浴在阳光里。</p>
 <p>岩下老街全长约三里，宽度仅二三米，中间原为青石板铺路，两边用鹅卵石镶嵌，与建筑台明相接的地方还做有排水沟。老街除了南边的一小段向西拐了两拐并结束于<strong>方岩山</strong>的入口之外，其余部分基本上是南北走向，并且一路都沿着山根儿和坑口。老街在狮子山北边的一小段属于橙麓村，橙麓村是以割稻坑为中心发展起来的。在坑口南侧，方岩溪几乎以垂直的角度从老街下穿过，转而平行老街继续向北。这几米长的石板路被称作松门桥。过桥向南，便属于岩下村了。岩下村是以上坑为起点，沿老街向南向北发展。在蜥蜴山南侧，老街向西拐的地方，方岩溪又一次从老街下面穿过。这一次，横跨方岩溪的是一个名曰回龙桥的小石拱桥，这也是过去岩下村南边的村界。在石拱桥东边的石柱上还写着处州方岩大路几个字，意为沿路继续向南就可以到达处州。从清光绪《永康县志》中收录的永康道里图来看，官路到方岩就结束了，而连接处州缙云县的大路则要经过方岩南面的峰昆岭。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">In the Jiangzhe region, there may be thousands of small villages like Yanxia nestled in hilly river valleys. Without several key events, Yanxia might have remained obscure like other villages, perhaps even disappearing over time. Fortunately, these seemingly independent events shaped the future Yanxia Old Street and its unique history and culture.</p>
 <p class="en">The Wufeng Legend: Legend says this area was once flat land. Sun Wukong casually threw several peaches from the Peach Banquet to the human world, which grew into a peach forest. Later, one woman and four men came to tend the forest, lived out their lives, and became five mountain peaks. Named after their characteristics, they are collectively called Shoushan (Longevity Mountain) or Taoyan (Peach Rock). Guhou Peak (north, with natural cave, most solid), Pubu Peak (west of Guhou, with waterfall), Fufu Peak (southeast, like an inverted wok), Taohua Peak (further southeast, red-white rock resembling peach blossoms), and Jiming Peak (southernmost, where rooster crowing can be heard). The five peaks connect, leaving only an eastern pass. The enclosed valley—with caves, waterfalls, peach blossoms, and rooster crowing—was like a fairyland. Another legend tells of a centipede spirit trying to dominate Wufeng, leading to surrounding peaks being named after animals: Centipede Mountain (east of the valley), Chicken Cage Mountain (west, i.e., <strong>Fangyan Mountain</strong>), Lizard Mountain (south), Lion Mountain (north), and Elephant Trunk Ridge (northwest).</p>
@@ -187,7 +231,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Cheng Clan Growth, Peak, and Old Street Decline</div>
 <div class="section-tag">三、槐塘程氏的迁入和村落的早期状况 / 四、程氏的壮大和村落的初步发展 / 五、程氏的鼎盛和村落的线性发展 / 六、文革后老街走向衰败 | Cheng Clan Migration and Early Village / Growth and Initial Development / Peak and Linear Development / Post-Cultural Revolution Decline</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>程锴</strong>元至元二十年1283年进士，1320年移居永康衙后巷，1353年三子<strong>分家</strong><strong>程权</strong>迁岩下</li>
 <li><strong>程权</strong>1333-1385年别号<strong>得耕居</strong>士，明建立后断指服毒自尽求子孙平安</li>
@@ -216,7 +260,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>到二十世纪中叶，这条三里多长的商业街就最终形成了。由于地形和历史的原因，它的每一段都有自己的特点。它的北段位于割稻坑口，以几家大型的旅店作为开端；接着的一段紧贴狮子山的西麓，由一些相对散落的中小型的旅店和杂货店组成；到下胡坑坑口附近，则是有几家超大型的豪华旅店摩肩接踵地矗立在老街两侧；再往南，蜈蚣山西侧的一小段也只有几家不太集中的旅店和杂货店；紧接着上坑口的一段，由于人口密集，空房不多，各家只是用临街的房子经营些小吃和方岩货之类的小买卖；最南端的一段位于蜥蜴山以西，主要以方岩货为主，并兼营食品。在正二月和八九月的进香期，两三米宽的街道会被挤得水泄不通。街上不仅有远道而来的香客，还有挑着扁担的手艺人和路边摆摊的小商贩。他们会经营诸如熏豆腐、肉麦饼、橘子、菱角和小五金等小买卖。橙麓村年近古稀的程名同老人讲，每逢进香期不单是老街上，就连橙麓村也会被挤得水泄不通。这期间，伴随香客们远道而来的还有许多真真假假的乞丐，游历于老街附近和上方岩的途中。</p>
 <p>二十世纪六十年代末，这里修好了一条沿<strong>方岩山</strong>脚的砂石土路，连接橙麓村到方岩南面的新楼。在这以前，岩下老街一直是香客上方岩的必经之路。在改革开放的初期，由于拖拉机的普及和长途客运的改善，有部分香客开始从这条砂石土路土方岩。当发动机代替双脚的时候，距离便被重新定义，以前需要在老街上住宿的香客现在可以做到一天往返。一些虽然在老街上没有什么大生意，但是却敢于冒险的岩下村村民，开始在土路边上的自留地上开起了小饭馆，或是经营起了小百货。几年后，这条砂石土路被改造成了十几米宽的水泥路。随后，越来越多的店面从老街搬到了新街；从几百年的四合院搬进了宽敞明亮的砖瓦房。渐渐地，这条繁荣了近二百年的老街变得萧条了。那些曾经的店面，只能通过写在墙头上，或者二层<strong>栏板</strong>上，已经褪色的店名或招牌中，依稀辨认出来。有几家上百年的老店，也因为疏于维护而墙倒屋塌。许多在这里一度声名显赫的人物和曾经发生的故事，现在也仅仅留存在村里老人们的记忆中。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Currently, residents of Yanxia and Chenglu villages are almost all surnamed Cheng. The Shiyuan Gong Genealogy records that Yongkang Cheng clan ancestors trace back to King Xuan of Zhou in the 9th century BCE, and the first Cheng genealogy was compiled in the Western Han. During the Eastern Jin, the 45th ancestor Yuan Tan became governor of Xin'an (modern Huizhou); loved by the people who would not let him leave, he became the clan's southern migration ancestor. From the 30th ancestor Yanjian, the Cheng clan lived in Huaitang, She County, Anhui, developing into a prominent clan with descendants often achieving scholarly success and high office, dividing into Upper, Lower, Principal, and Old mansions. Lower mansion Cheng Kai passed the jinshi exam in 1283 (Zhiyuan 20), served as Censor and later Vice Commissioner of Huguang Surveillance Commission. In 1314 (Yanyou 1), he was sent to suppress Yunnan rebels, falsely accused and exiled to Chenzhou (Hunan), then took his son Yining to Shicangling, Jinhua. Seven years later in 1320, Cheng Kai changed his name to Kai and moved the family to Yahou Lane in Yongkang city. By 1353 (Zhizheng 13), Yining's sons were grown and the family split three ways: eldest son Cheng Mu stayed in Yahou Lane; second son Cheng Shan moved to Chenglu Village; third son Cheng Quan moved to nearby Yanxia Village.</p>
 <p class="en">Cheng Quan (1333-1385), courtesy name Keyu, art name <strong>Degeng Ju</strong>shi (Scholar of Obtained Cultivation). The genealogy records he tired of city noise and moved east of <strong>Fangyan Mountain</strong>, building a studio inscribed Degeng—enough to cultivate fields for life. His original home was east of present Degeng Residence, closer to the foothills. Cheng Quan wanted to be a hermit but lived in turbulent times. At 35, the Ming dynasty was founded; believing officials' lives were precarious, he refused military and political service, first cutting off his fingers, ultimately taking poison to ensure his descendants' safety. His wife died three years later, leaving two young sons Peng and Yang. When grown, per custom Peng stayed in Yanxia, Yang moved to Shangcheng. Peng had three surviving sons—Zuo, Xi, Yu—who became ancestors of Heaven, Earth, and Human branches. In the early Xuande period (1426-1435), the ancestral home could no longer hold three generations. Earth branch moved to Fudong (later Xiazhai); Human branch to Qianliu; Heaven branch Cheng Zuo (1392-1458) took younger sons to Lingzhai (later Dusong); eldest son Cheng Tan (1411-1477), courtesy name Shiyuan, stayed alone in Yanxia.</p>
@@ -244,7 +288,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Farming, Firewood Gathering, and Migrant Artisans</div>
 <div class="section-tag">一、种田、砍柴的日子 / 二、背井离乡的手艺人 | Farming and Firewood / Migrant Artisans</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>永康山多地少缺水，明洪武二十四年1391年有田4365顷，清康熙六年1667年有田4370顷</li>
 <li>得耕二字是岩下程氏立家根本，<strong>世远公祠</strong>正堂取名得耕堂</li>
@@ -268,7 +312,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>背井离乡的日子是辛苦的，特别是对于那些年龄小的学徒们来说。出于中国传统文化中尊师如父的精神，他们不但要抢着挑重担、干重活；而且要比师傅早起、晚睡；吃饭时还要看师傅脸色，吃不饱的时候是常事。程明星老人说，他的师傅待他很好，他没吃过苦。即便如此，他每天早上要5点起床，要在师傅起来之前把所有的事情都做好。他要先用泥巴修炉子；随后烧开水，用泥巴把木炭浆好，调水，做好开工的准备工作；再烧水、沏茶、给师傅准备洗脸水；然后再去挑水……每天的工作量按件计算，一般两人一天8件大件，或10件小件。这些器件通常多为农具，也有一些生活用具。老人特别强调，剪子最难打，还算小件，打起来最吃亏。</p>
 <p>这个行业之间，还有许多规矩和讲究。老街上由于工匠不多，发展又晚，所以没能像永康其他地方一样，尊崇如鲁班、太上老君之类的行业神。胡公作为一个无所不能的地方神祇，会在过年的时候，接受这些即将远行的手艺人的膜拜，保佑他们来年出入平安，生意兴隆。当然，除了求胡公保佑平安之外，自己也要十分小心。例如，手艺人出门忌逢七日，回家忌逢八；初五、十四、二十三不出门，而初三、十一则是好日子；出门如果第一个碰到的是孕妇，是喜兆；如果是其他妇女则为凶，要回家一下再离开。各种手艺人之间也有辈分的高低。有人说铁匠最大，因为铁匠不但给自己做工具，还给其他各行做工具；也有人说石匠最大，因为盖房的时候，石匠先行；还有人说土匠大，因为他们在盖房时爬得最高；更有人说铁匠和石匠一样大，所以他们在接受主人宴请的时候，都坐上座。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">All agricultural activity depends on land. The Yongkang County Gazetteer divides land into four categories: fields, ground, mountains, and ponds, noting that farmers work diligently, combining farming with firewood gathering near mountains and fishing near streams. Yongkang has many mountains, little land, and water scarcity; the soil is not particularly fertile. In the hilly terrain of Yanxia Old Street, farming was especially arduous. As the Kangxi-era Yongkang Gazetteer describes: farmers work all four seasons without leisure; land is narrow and soil poor, so laziness means hunger. This made Yongkang people cherish their land—they reclaimed new fields while controlling construction encroachment. Population grew from 63,967 in early Ming to 83,022 in late Ming, yet total farmland slightly increased: 4,365 qing of fields and 616 qing of ground in 1391 (Hongwu 24), to 4,370 qing and 634 qing by 1667 (Kangxi 6).</p>
 <p class="en">The Cheng descendants always regarded land as their foundation. Third ancestor Cheng Quan (1333-1385) built a home named Degeng (Obtained Cultivation) at Shang Gully mouth upon arriving, content with lifelong farming. Degeng became the clan's foundational principle. Nearly 200 years later, 7th ancestor Cheng Heng (1474-1548) built a larger, more ornate residence called Degeng Residence. His nephew Cheng Wende (1497-1559), Vice Minister of Rites, wrote that farming is the root of people's livelihood and source of food and clothing—obtaining cultivation brings prosperity through diligence, losing it brings ruin through idleness. Another 200 years later, in the mid-18th century, the clan built the magnificent Shiyuan Gong Ancestral Hall (named after 6th ancestor Cheng Tan), the village's highest-status hall. Its main hall retained the name Degeng Hall, with a gold pillar couplet: Six generations extend the ancestral line with rules and principles; a thousand years exalt filial piety through instruction and practice—embodying the family instruction that obtaining cultivation brings prosperity through diligence.</p>
@@ -288,7 +332,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Industries Sustained by Lord Hu and Fangyan Merchandise</div>
 <div class="section-tag">三、吃胡公的行业 / 四、方岩百货 | Lord Hu-Sustained Industries / Fangyan Merchandise</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>道光二十九年1849年<strong>广慈寺</strong>大火，程岳标创立老街第一家旅店程隆兴</li>
 <li><strong>程仁昌</strong>旅店70多间客房250多床位，1937年蒋介石原配毛氏下榻</li>
@@ -341,7 +385,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>金华火腿：在老街上，还有一个极负盛名的特产，那就是金华火腿。在历史上，现在的永康、义乌、东阳、浦江、金华等地都属金华府管辖，所以在这些地区内生产的火腿统称为金华火腿，而永康则是金华火腿的主要产地之一。金华地区，民间腌制火腿始于唐代。在唐开元年间（713—742年），陈藏器撰写的《本草拾遗》中就提道，火腿，产金华者佳。到南宋，金华火腿已经被列为贡品。以前岩下老街家家都养猪，出笼的猪会在腊月十五后被宰掉。一般人家都会把猪腿卖给村里做火腿生意的人家，自己只留下猪头和内脏过年。只有有钱的人家才会把猪腿腌起来留着自己吃，把猪肠拿来做香肠。这种冬天腌制的火腿叫冬腿，和春腿相比，冬腿味道更为鲜美，而且可以储藏较长的时间。老街上做的火腿基本上都是以后腿为原料的冬腿，前腿由于肥肉太多而味道欠佳，所以并不是首选。做火腿的第一步是先要把猪腿用盐炒一下，然后放进大缸里腌，每次腌十几天，前后腌三次。腌好后先要蒸一个晚上，随后拿到太阳下晒三天，最后在走廊下挂上半个多月。这样做好的火腿可以保证两年不会坏。</p>
 <p>在岩下老街上有几家专做火腿生意的店铺，其中以位于上胡坑坑口的程正伟火腿店最为著名。年已七十多岁的程圣言（<strong>1935年</strong>生，圣字辈，程氏22代）老人是这家的后人。据他讲，太公程正伟经营火腿生意起家，并在十九世纪中叶，盖了紧邻老街西侧的一幢东西向两进院落，前院地面还用鹅卵石铺八卦图案。后来，生意由爷爷程宣尧接任并不断扩大，又贴着老屋的西墙盖了一幢南北向的两进院落。老屋因雕饰精美，还曾是文保单位，但是不幸地毁于火灾。解放前，火腿店因程宣尧的去世而随之关门，但是这座建筑却成了当年那红红火火生意的见证。这座建筑走廊和厅堂屋面下的梁枋，不但格外粗壮，而且还比通常做法更密。梁枋的侧面，每隔四寸左右还会伸出一个木楔子。程圣言老人讲这是挂火腿用的，以前走廊下、厅堂里，前院、后院都挂满了火腿，足有上千只。因为火腿生意和旅店生意一样，都是季节性的。所以老街上有几家大的旅店，在住宿的淡季也兼做火腿生意，<strong>程仁昌</strong>旅店就是一例。据《永康名店名厂》记载，每年当秋天的香汛过后，店里就开始准备腌制火腿。生意好的时候，每年可以腌制4000只。火腿的招牌为雪舫仁昌隆记，并按天地玄黄，宇宙洪荒八个字，编号并运往杭州销售。还有一些中小型的店面，例如程振昌，为了能在和大店的竞争中生存下来，主人不但要苦心经营，还要做到面面俱到。它们不但做火腿生意，还利用沿街的房屋开店。一边卖方岩货，还有从青田贩来的<strong>石雕</strong>，另一边卖自家做的火腿。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Yongkang was not a transport or commercial hub, so merchants were few and their work hard. The 1891 Guangxu Yongkang Gazetteer describes large merchants as salt and pawn brokers, none native to the area. The old street's remote location meant long self-sufficiency. But pilgrims to Fangyan created another business opportunity: food, incense, general merchandise, and the distinctive inn industry.</p>
 <p class="en">Inn Development: As <strong>Hu Ze</strong> received repeated imperial bestowals, Heling Shrine's fame grew, drawing pilgrims from Yongkang, Dongyang, and Gushan initially, then Hangzhou, Shaoxing, Ningbo, and eventually Jiangxi and Fujian. In the pre-engine era, the 3-4 day walk from Hangzhou required overnight stays. <strong>Guangci Temple</strong>'s monk quarters were the earliest inns. At its Ming peak, the temple had 801 monks (per former abbot Yunming). In late Ming, the temple divided into eight fang (branches) managing incense rotation, each with its own quarters; pilgrims lodged in spare rooms at will. By early Qing, only six fang remained, freeing more rooms. Convenient lodging encouraged more pilgrims. But on the 4th day of the 9th month in 1849 (Daoguang 29), fire destroyed nearly all temple buildings including monk quarters. Though rebuilt within a year, fewer monks and rooms remained. Cheng Yuebiao (1821-1850) seized the opportunity, opening the street's first inn—Cheng Longxing—welcoming guests who would have stayed in temple rooms. The auspicious name Longxing (Prosperous Rise) made it one of the top inns and launched the street's inn boom.</p>
@@ -390,7 +434,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Spatial Layout and Commercial Form of Yanxia Old Street</div>
 <div class="section-tag">一、老街 | The Old Street</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>全长约三里，宽仅二三米，青石板铺路，鹅卵石镶嵌</li>
 <li>松门桥（橙麓村与岩下村村界）、回龙桥（光绪二十三年1897年建，民国29年1940年重建）</li>
@@ -407,7 +451,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>老街最后一段是程氏迁到这里时最早的聚居地，建筑鳞次栉比，街道三步一曲、九步一折。旅店只有规模不大的程永成和程阮阮，以及老街上第一家旅店老隆兴。余下都是临街卖百货、食品或香烛的小店。香客们趁机在晚饭前采购当地特产：花花绿绿的雨伞、长长短短的蜡烛、以假乱真的纸花、会动的小鸡吃米、能出声的皮老虎、腌制好的整只火腿、各式各样的小五金及竹编制品。每走不远，还可以透过两边建筑之间的夹道看到后面的水塘，以及坐在水塘边洗衣服、唠家常的妇女们和追逐嬉戏的孩童。</p>
 <p>老街尽端是回龙桥，一座小型石拱桥。桥栏杆上记载着它的历史：建于光绪二十三年（<strong>1897年</strong>），重建于民国29年（<strong>1940年</strong>）。回龙桥前面老街被一分为二，继续向南依照桥栏杆上所刻处州方岩大路通向处州；走回龙桥跨过方岩溪向西近百米，才是上<strong>方岩山</strong>的山路。至此，三里长的老街画上了句号。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Yanxia Old Street stretches about three li (1.5 km) in length and is merely two to three meters wide, paved with bluestone slabs inlaid with cobblestones. The northern section falls within Chengli Village. Near Daxi Bridge the street bends twice, with a continuous stone <strong>railing</strong> on the waterside carved with donor inscriptions, one dated to the fourth year of Guangxu (1878). From Daxi Bridge to Songmen Bridge, a row of inns stands shoulder to shoulder on the right side: Chengtongchang, Chengyuanchang, Chenghongchang, Chenglongchang, and Chengqianchang. Songmen Bridge, a stone slab bridge about 10 meters long and 1.5 meters wide, marks the boundary between Chengli Village and Yanxia Village. Beyond it the street widens slightly and shops become sparser, with vendors selling citrus, water chestnuts, hardware, and smoked dried tofu, alongside beggars humming tunes such as 'Burn incense on the upper rock, cultivate blessings below; fail to cultivate blessings, and your home will burn.' To the west rises the precipitous Lion Mountain; to the east lie fields; to the north is the mouth of Shoushan Ravine.</p>
 <p class="en">Further along, two roadside pavilions straddle the street, with a locked gate between them bearing the inscription 'Zhou Family Ancestral Hall.' According to legend, descendants of the Caoshu Zhou clan lived here briefly centuries ago before moving away, leaving behind the hall and ancestral graves on the hillside behind. Traveling performers rest in the pavilions before performing at inns that evening. South of here is the busiest stretch, with two-to-three-meter-wide streets flanked by shops. The super-large luxury inns include Chengrenchang, <strong>Xinrenchang</strong>, Chengzhenxing, and Xinzhenxing; Chengchengchang and Xinlongxing are also substantial. Through half-open doors one glimpses courtyards stacked with stools, one-meter-wide wooden planks, and straw for guests sleeping on the floor. At the end of this stretch stand two ham shops facing each other.</p>
@@ -421,7 +465,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Degeng Residence — Early Domestic Architecture</div>
 <div class="section-tag">二、住宅 | Residences</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>岩下村程氏祖屋，现存建筑中历史最悠久</li>
 <li>七世祖<strong>程鑅</strong>（1474—1548年）建于十六世纪初</li>
@@ -444,7 +488,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>与<strong>得耕居</strong>同一时期盖的院落，在平面布局上都有一个特点：围合院落的几排房并没有连在一起，而是被山墙分成一段一段的，山墙之间还有走道通向外面。以<strong>得耕居</strong>为例，在花厅每侧的厢房之间，各有一条一米多宽的东西向走道，外侧设门，通向院外。追其原因可能有三点，一是因为院落太大，用山墙分开力求在失火时把损失减到最小；二是对于这种大型的院落，如果分开分段建造，在技术上也会相对容易；三是对于共同居住在这里的众多家庭，多设几个门，也方便进出。</p>
 <p>作为岩下村现存历史最悠久、面积最大的住宅，<strong>得耕居</strong>还兼有祭祀的功能，同时也是村里文娱活动的中心。在正月里，凡是家里没有厅堂的族人，就会在花厅内侧的山墙上悬挂自己太公太婆的画像。宅前的空场地还是每年闹龙灯的重要空间。后院的戏台，每年在除夕或正月的时候会演一次平安戏。平日里，碰上村里有钱的人家做寿，就会有戏班在这里演三天三夜的戏。即使在家家有电视的年代，演戏仍旧是仅次于闹龙灯和赶庙会之外，村里最热闹的事了。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Degeng Residence is the oldest surviving building in Yanxia Village, revered by the Cheng clan as their ancestral home. The name 'Degeng' (Cultivating the Land) commemorates Cheng Quan (1333–1385), the founding ancestor of the Yanxia Cheng clan, and the hall bearing that name. The original site lay east of the pond in front of the current residence. It was first built in the early 16th century by the seventh-generation ancestor Cheng Heng (1474–1548). A fire during the Qianlong period (1736–1795) destroyed everything except the front hall and the Shude Hall, which villagers believed survived because of the calligraphy by Cheng Wende, Vice Minister of Rites, hanging there. It was rebuilt in the 54th year of Qianlong (1789) and has been preserved to this day.</p>
 <p class="en">Degeng Residence sits at the mouth of Shangkeng Ravine, west of the old street, facing roughly south. Following the geomantic principle that 'mountains foster descendants and water fosters wealth,' Cheng Heng carefully selected and adjusted the site to achieve the ideal configuration of 'backing onto mountains and facing water.' Centipede Mountain serves as the backing mountain, with the residence's north wall nearly touching its westernmost hillock. The ancestral mountain is the taller Lion Mountain to the north of Centipede Mountain. The approach mountain (anshan) is Zhu Gong Mountain, 100 meters to the south, also called Qianshantou—the first hillock of Lizard Mountain. Directly opposite the residence once stood a large cypress tree, beneath which was a local temple dedicated to Lord Zhu, identified with Zhu Danxi (1281–1358), a famous Yuan dynasty physician from Jinhua who became a local deity after death.</p>
@@ -461,7 +505,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Cheng Lizhong Compound — Mid-18th Century Multi-Courtyard Residence</div>
 <div class="section-tag">二、住宅 | Residences</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>程立重</strong>（1736—1793年），字逢时，号毅庵，岩下程氏第十五世祖</li>
 <li>岩脚竖花厅，丈人倒贴银的故事</li>
@@ -481,7 +525,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>院落的维护结构已几经重建，小木装饰也基本没有保留，但是房屋的大木构架相对保存完好，甚至包括一些精美雕饰。三面走廊全部采用<strong>月梁</strong>，正房檐廊的<strong>梁托</strong>上刻卷龙图案，厢房檐廊则用卷草。<strong>雀替</strong>采用的雕刻主题也有区别，正房一侧镂雕花鸟走兽，厢房则是卷草。正房明间<strong>月梁</strong>梁头上的<strong>卷草纹</strong>更是线条优美，比例匀称。居住在这里几十年的卢奶奶讲：正房明间原有六扇精美的雕花门扇；次间用于居住，各有一组雕花门窗；明间<strong>太师壁</strong>两侧有门，可以通向后面的院落。</p>
 <p>后面两进院子在解放后便逐渐坍塌，只能从留下来的房基和台明铺地上寻找它们的痕迹。二进院是一个四合院，<strong>明堂</strong>宽度和一进院相同，进深大约减半。第三进院落又是一个三合院，<strong>明堂</strong>进深再次减半。宅院内原本是菜地和花园的位置，现在零零散散地盖满了几幢相对简易的住宅。除了八尺路南侧的住宅始建于十九世纪初以外，其他住宅应该建于土改前后，由分到地的穷困人家建造的。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Cheng Lizhong (1736–1793), courtesy name Fengshi, art name Yi'an, was the 15th-generation ancestor of the Yanxia Cheng clan. His grandfather was the respected Zuo-xun Gong, who had his own ancestral hall; his father was Jingchen, the youngest son of Zuo-xun Gong and founder of the Gongchang branch. Cheng Lizhong and his three brothers established the Fa, Qiang, Gang, and Yi sub-branches. Today, Cheng Lizhong's descendants are the most numerous on the old street, known in the genealogy as 'Gongxia Yichang,' with their own hall—the <strong>Shaochang Ancestral Hall</strong>. According to legend, this three-hall, two-main-hall compound was built by Cheng Lizhong's father-in-law before sending his daughter to marry him—a story of 'building a flower hall at the foot of the cliff, with the father-in-law footing the bill' that remains a village favorite. Based on Cheng Lizhong's age, the residence dates to the mid-18th century.</p>
 <p class="en">The compound lies south of the Xiakeng ravine mouth, on the western foot of Lizard Mountain. Before its construction, village residences were concentrated within the Xiakeng ravine mouth, in the triangular valley where Xiakeng Stream and Fangyan Stream meet—an area elevated, relatively flat, convenient for both firewood gathering and tending fields, with morning sunlight in the courtyards. As population grew, the Cheng clan had to build elsewhere; Cheng Lizhong's compound was the first residence outside the ravine mouth. Beyond the ravine mouth, the old street hugs the nearly vertical Lizard Mountain, also called Qianshantou or Zhu Gong Mountain after the temple on it. The compound faces roughly south, with its east and west walls neatly wedged between the north-south old street and Fangyan Stream. Its southwest corner follows the stream's curve in an arc.</p>
@@ -497,7 +541,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Yifeng Yaji Complex — Late 18th Century Single-Courtyard Residences</div>
 <div class="section-tag">二、住宅 | Residences</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>三幢宅院并肩：<strong>义丰雅记</strong>（中间，最早）、义丰老店（北边）、义丰南院（南边，最晚）</li>
 <li>前厅13间，娘屋9间，后厅13间</li>
@@ -518,7 +562,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p><strong>义丰雅记</strong>檐廊下采用<strong>雀替</strong>，二层<strong>栏板</strong>的样式与同时期建造的<strong>程立重</strong>宅院和<strong>绍常祠堂</strong>相同。另外两幢建筑廊下既没有<strong>雀替</strong>，<strong>栏板</strong>的做法也简单许多。三幢院落<strong>明堂</strong>的做法也各不相同：<strong>义丰雅记</strong>台明外侧做排水沟，<strong>明堂</strong>用条石铺地；义丰老店<strong>明堂</strong>用鹅卵石铺地，无排水沟；义丰南院有排水沟，却用鹅卵石铺地。比较老街上的其他建筑，排水沟是一种早期的做法，日后建成的建筑均用鹅卵石满铺<strong>明堂</strong>，雨水通过<strong>明堂</strong>四角的落水口排出。另外一点显著的不同则体现在木构件的雕饰上：义丰老店的檐廊下既没有采用<strong>月梁</strong>，小木装修也非常朴素，仅采用了简单的格子窗；<strong>义丰雅记</strong>的大木雕饰或小木装修多采用抽象的几何图案作为装饰母题，雕刻精美却不失典雅与质朴之美；义丰南院的雕饰最为精美却略显做作，不但<strong>花窗</strong>中饰满花草鸟兽，就连檐廊下的小小<strong>梁托</strong>两侧也雕尽亭台楼阁。</p>
 <p>以上这些建筑细节的演变，固然在一定程度上客观地反映了建造者当时的财力状况。但是如果把这些变化作横向的比较，就可以看出人们对建筑空间和建筑本身的价值观和审美取向的细微转变。在<strong>程立重</strong>的年代，建造者的财力体现在宽大高敞的空间，品字形的天井，厅堂中两根粗犷却不乏雕饰的<strong>月梁</strong>，铺满条石的<strong>明堂</strong>，以及画龙点睛的雕饰。而对于清朝末年的建造者们，由于人口的增加，新的经济形式的出现以及人们对居住空间功能需求的变化，这使他们更关心建筑的实用性与经济性。相反，由于建筑技术的发展在当时已经相对停滞，所以导致不论是建造者还是工匠都对建筑装饰还是一味追求。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">On the western side of Centipede Mountain, between the old street and Fangyan Stream, three residences stand side by side in isolation. Their west walls hug Fangyan Stream, beyond which lies the largest remaining rice paddy in the valley. Viewed from afar, the blue-gray bricks and black tiles, weathered by centuries of rain to a faint crimson, appear particularly deep and solemn against the green mountains and fields. Of the three, the central <strong>Yifeng Yaji</strong> was built first, followed by Yifeng Laodian to the north, and Yifeng Nanyuan to the south—together forming a complex of '13 front rooms, 9 middle rooms, 13 rear rooms.'</p>
 <p class="en">The three buildings show deliberate environmental modifications. <strong>Yifeng Yaji</strong>'s west wall rotates several degrees counterclockwise, presumably following Fangyan Stream's course over a century ago. Yifeng Nanyuan, however, was built as a perfectly square, symmetrical compound rather than following <strong>Yifeng Yaji</strong>'s wall direction—suggesting its builder pushed the stream's original course westward, which may explain the nearly 90-degree bend in Fangyan Stream outside Yifeng Nanyuan's south wall. In section, like Cheng Lizhong's compound, all three sit on massive stone-and-rammed-earth foundations nearly one story high. This is because the street follows the mountain while the stream follows the valley, creating local elevation differences of nearly one story. Raising the courtyard level was labor-intensive, so by the early 19th century, residences adopted a different form: 'lower story in the valley, middle story at street level, upper story as loft.'</p>
@@ -535,7 +579,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Chengchengchang Inn — Early 20th Century Inn-Style Courtyard Residence</div>
 <div class="section-tag">二、住宅 | Residences</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>程昭丰（1855—1928年）创建，<strong>程立重</strong>五世孙</li>
 <li>约建于1909—1924年间，典型旅店式合院住宅</li>
@@ -558,7 +602,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>二十世纪四十年代，在浙江省国民政府进驻方岩的那几年，和其他大部分旅店一样，<strong>程成昌</strong>几乎停止了营业。虽然没有了香客，但是<strong>程成昌</strong>变得更热闹了。出出进进的都是在民政厅工作的公务员及其家属，店堂还出租做了一个印刷厂。这些公务员对居住条件的要求较高，为此<strong>程成昌</strong>还进行了一系列的改造，其中包括在一层地面上加铺木地板以便防潮；把位于外墙上的窗户加大以利于采光；还有出于对安全的考虑，在过路间的位置加建了一个楼梯。</p>
 <p>抗日战争结束以后，<strong>程成昌</strong>恢复营业，旅店生意又红火了几年。从<strong>1949年</strong>到<strong>1980年</strong>，旅店开了停，停了又开了若干次。在1958—<strong>1960年</strong>期间，还先后做过养老院、芝英人民公社制伞厂和岩下大队制伞厂。不过庆幸的是，由于家里人口多，所以房子没有在土改时分出去，这也是这幢院子至今还保存良好的重要原因。<strong>1980年</strong>8月，旅店再次恢复营业，随着生意的逐渐好转，程振仪于<strong>1991年</strong>把旅店迁到了位于新街旁边的现代化小楼里，改名为新<strong>程成昌</strong>。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Chengchengchang Inn is a typical inn-style courtyard residence located east of the old street, north of the Xiahukeng ravine mouth, with its east wall hugging a corner of Lion Mountain. Its construction date is uncertain but can be inferred from surrounding buildings: to its south, two courtyards belonging to Chengzhenxing Inn were completed in 1880 and 19 years later; to its north, Chengzhenxing acquired a third courtyard in 1924. Thus Chengchengchang was likely built between 1909 and 1924. The old street developed linearly north-south from an upper-ravine center, with adjacent buildings often constructed sequentially; family-owned courtyards were typically built side by side and interconnected.</p>
 <p class="en">The founder was Cheng Zhaofeng (1855–1928). His second brother Cheng Zhaofu owned the street's largest inn (Chengzhenchang); his sixth brother Cheng Zhaogong founded Chenglongchang at the street's north end in Chengli Village; his fourth brother Cheng Zhaolu's general store converted to an inn after the Cultural Revolution. In the early 20th century, at least one-third of Fangyan pilgrims stayed at inns run by these four brothers. Cheng Zhaofeng was the fifth-generation descendant of Cheng Lizhong—his father Cheng Lelai, grandfather Cheng Lishu, great-grandfather Cheng Yipeng. Cheng Lishu, as Cheng Yipeng's eldest son, inherited a small residence built on the garden of Cheng Lizhong's compound. Cheng Lishu had no biological heir; Cheng Lelai was adopted from his third brother Liqi, thus inheriting all his father's property including the residence. The family was reasonably well-off, so each son received startup capital and necessities upon marriage to live independently and run small businesses; Lelai himself once operated a small inn from his home.</p>
@@ -577,7 +621,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Chengrenchang Inn, Chengzhenxing Inn, Cheng Keng Villa — Mid-20th Century Chinese-Western Hybrid Architecture</div>
 <div class="section-tag">二、住宅 | Residences</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>程仁昌</strong>旅店：四层高木结构单体楼宇，潘工程师建议改独栋式宅院</li>
 <li>程昭业（1882年建<strong>程仁昌</strong>），程宣祜改店号<strong>新仁昌</strong></li>
@@ -596,7 +640,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p><strong>程铿别墅</strong>位于<strong>方岩山</strong>入口处，老街南侧。程铿（1895—<strong>1968年</strong>），依家谱记载名程宣铿，为程昭纯长子。据程昭纯之孙程振锋（<strong>1939年</strong>生，崇字辈，程氏21代）老人回忆，程昭纯（1864生，卒年不详）才是这幢别墅的建造者，在他去世后，别墅为长子和二子共有，三子即其父，分得了老屋。程铿作为二十世纪初当地一位小有名气的画家，他年轻时就离开家到上海发展，八一三事变后回到永康定居。虽然他可能并没有在这里居住过，而且也不拥有整幢建筑，人们还是因为他的名气而称这幢建筑为<strong>程铿别墅</strong>。<strong>程铿别墅</strong>也是一幢单体木结构建筑，相比<strong>程仁昌</strong>旅店，西方建筑对空间布局的影响在这里更为显著。整幢建筑坐落在一个一米多高的石砌台基上，坐西朝东，四周有院落空间环绕。平面三开间，由六个近方形的空间组成，四面有廊。前、后正间为开敞或半开敞的厅堂，南北四间居住，向南、北走廊开门。这样布局的最大好处之一就是每间卧室都向两个方向开窗，有利于通风，难怪住在这里的程铿后人强调这房子很凉快。与<strong>程仁昌</strong>旅店相同，<strong>程铿别墅</strong>的二层<strong>栏板</strong>也有精美的镂空木雕。</p>
 <p>在<strong>程振兴</strong>旅店所拥有的众多建筑中，有两幢连排西洋式楼屋。北边的一幢由<strong>程昭夫</strong>建于二十世纪三十年代，这是一座二层高六开间的砖石结构建筑。它北面和<strong><strong>程昭夫</strong>祠堂</strong>南墙相接，东墙紧邻老街。从外面看，几乎看不到当地建筑的影子，取而代之的是西方建筑中常见的砖砌壁柱、圆形小窗及宽大明亮的玻璃窗。南边的一排建于<strong>1942年</strong>，由<strong>程昭夫</strong>的儿子程宣楣和程宣吉委托杭州营造厂建造。这座三层高七开间的洋楼其实依旧是一个木构建筑，所有房间坐北朝南并南北通风，各层房间用走廊连接并向南面的内院开敞。西方建筑元素主要体现在维护砖墙的细部处理上，例如用砖发券的拱形窗和西洋式的门楼。二十世纪四十年代中，<strong>程振兴</strong>一分为二，程宣楣的儿子程崇学继承了这两幢建筑，改店号为新振兴。解放初，由于经济原因卖掉了第二幢洋楼中的一层，现仅剩两层。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">In the mid-20th century, several Chinese-Western hybrid buildings were completed on the old street. Two belong to Chengrenchang Inn and Chengzhenxing Inn respectively; the third is known as <strong>Cheng Keng Villa</strong>.</p>
 <p class="en">The Chengrenchang hybrid building stands at the western foot of Lion Mountain, west of the old street, outside the north wall of the original Chengrenchang Inn. It is a four-story freestanding timber building whose materials, construction methods, and decorative motifs follow local tradition, with Western influence primarily in spatial layout. According to Cheng Zhenlong, a descendant of the Chengrenchang owners, Cheng Zhaoye originally planned a traditional four-sided courtyard but changed to a freestanding villa on the advice of Engineer Pan. Unlike other courtyard compounds on the street, this building's courtyard hugs the old street, with a nearly square three-bay building on the west side and a front porch transitioning between rooms and courtyard. The courtyard level matches the valley floor, so the street-level entrance is at second-floor height, with steps on both sides leading down to the first floor. Another difference appears in section: traditionally, second floors were for storage only, with simple vertical plank <strong>railing</strong>s. In Western architecture, upper floors are primary living space, making <strong>railing</strong>s a decorative focus. After the inn boom, second floors became important guest space during pilgrimage season, and post-mid-20th-century buildings increasingly ornamented their <strong>railing</strong>s. This building has 29 exquisitely carved <strong>railing</strong> panels on each floor. In the mid-1930s, Cheng Zhaoye's eldest son Cheng Xuanhu inherited the building and rear courtyard, renaming the inn <strong>Xinrenchang</strong>. Xuanhu had three sons; in the early years after 1949, financial hardship forced the sale of the third and fourth floors.</p>
@@ -609,7 +653,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Cheng Clan Ancestral Hall — Main Hall of the Cheng Clan in Chengli Village</div>
 <div class="section-tag">三、宗祠 | Ancestral Halls</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>明正德己亥年（1515年）始建，程氏迁来后第一个祠堂</li>
 <li>唯一被收入县志的程氏祠堂：三十五都程宗祠，始祀闰二闰三</li>
@@ -626,7 +670,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>虽然橙麓村和岩下村供奉的是同一始祖<strong>程锴</strong>，但是老街旁曾先后建造了大大小小至少八座程氏各房派的祠堂。它们在村里都是最重要，通常也是建造最精美的建筑。在江浙地区的多数村落中，祠堂通常会位于村落相对中心的地带，其位置和朝向多少都会影响到村落的布局。但是老街的发展由于受到地形的限制，所以这里的祠堂大多都沿街坐落，并没能对村落的空间序列起到决定性的影响。即便如此，在用地紧张的情况下，祠堂前通常都有水塘或空地，这个空间依旧是村落生活的舞台。</p>
 <p>程氏宗祠始建于明正德己亥年（<strong>1515年</strong>），位于橙麓村象鼻岗山脚。它是迁居这里的程氏所建的第一个祠堂，也是岩下老街众多祠堂中唯一被收入县志的，三十五都程宗祠：始祀闰二闰三。祠堂坐西朝东，东侧是螺蛳塘山，山上建有三世祖<strong>程权</strong>之墓。在嘉靖年间，祠堂曾改建为前后两进；在道光丙午年重修成五开间，前后三进院落，并且用石柱代替已经糟朽的木柱。据当地人回忆：整个祠堂宽二十多米，进深近五十米；有牌门一座，享堂五间，寝室九间，还有厢房位于南北两侧。在抗日战争时期，中共浙江省委书记刘英被关在程氏宗祠内，并于<strong>1942年</strong>5月13日在祠堂内遇害。<strong>1992年</strong>1月21日，程氏宗祠随着刘英烈士陵园的开工而被拆毁。在当地程氏后人的努力下，部分石柱、<strong>柱础</strong>和门楣等建筑构件被送到文楼村保存，以便日后重建。居住在橙麓村的程家麟老人还花钱买下了一些<strong>柱础</strong>，这些<strong>柱础</strong>现在还依然摆放在他家的院墙外。还有一些<strong>柱础</strong>上面架上了石条，成了村里人小憩和唠家常的地方。在橙麓村的水塘边和小路旁，还能看到许多似乎曾被用作为台明石的大块石料；水塘里的一块洗衣石上还有两个刚劲的楷体大字之墓。老人们已经不记得这块石头的来历，更无法寻找另一半墓碑的下落。这些点点滴滴的痕迹，都记录着那幢曾经矗立在村口长达五百年之久的建筑的辉煌。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">In agrarian society, building houses, repairing roads, digging irrigation channels, tending fields, and resisting natural and man-made disasters were never tasks an individual or single family could accomplish alone—they required mutual support and collective effort. In China's millennia-old patriarchal society, the patrilineal clan, founded on blood ties and kinship, naturally assumed this responsibility. Thus, clan-based settlement and kinship villages became widespread. This social reality, combined with the Confucian ethic of filial piety revered throughout Chinese history, provided the preconditions for ancestral halls. Historically, northern China suffered prolonged warfare and population loss, while the south was relatively stable, favoring the formation and development of kinship villages. In the Jiangsu-Zhejiang region—especially in hilly, inaccessible villages like Yanxia Old Street—strong clan consciousness and relatively complete lineage systems generally persisted.</p>
 <p class="en">The basic function of an ancestral hall is as a ritual space for enshrining and worshipping ancestors. The halls here house ancestral tablets of successive generations; during festivals and memorial rites, portraits of branch ancestors are hung. Some halls have a genealogy room to manage lineage branches, generation rankings, and marriages. Halls also serve as venues for clan affairs, dispute mediation, honoring scholarly achievements, running schools, and storing communal objects. Larger halls have stages; on special occasions, the hall temporarily sets aside its sacred character to become the village's cultural and entertainment center—even allowing gambling. All this reflects the hall's significance: strengthening clan cohesion through ancestor-worship rituals. Strengthening clan cohesion means strengthening the energy of the social unit for human cooperation—the most important reliance for survival and development—thus fostering <strong>ancestor worship</strong>, which is kinship identity.</p>
@@ -639,7 +683,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Shiyuan Gong Hall and Zuoxun Gong Hall — Core Cheng Clan Halls of Yanxia Village</div>
 <div class="section-tag">三、宗祠 | Ancestral Halls</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>世远公祠</strong>：纪念程坦（1411—1477年），字世远，六世祖，岩下村程氏始祖</li>
 <li><strong>作勳公祠</strong>：纪念程际烈（1646—1725年），十三世祖，又叫友恭常祠</li>
@@ -667,7 +711,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p><strong>作勳公祠</strong>的建筑规格则小许多，简单地说就是一个三合院。正厅为三开间，<strong>抬梁式</strong>结构，尺度和<strong>世远公祠</strong>正堂的尺寸十分接近。东西厢房各三间，为<strong>穿斗式</strong>结构，靠南的两间有夹层。厢房的首间和正厅围合形成了一个进深约三米的内院。</p>
 <p>自从<strong>1958年</strong>生产大跃进后，作勳公的房产由四家人共有。据住在西厢房的程茂发（<strong>1934年</strong>生，崇字辈，程氏21代）老人讲，他的继父程宣占由于很穷，在<strong>1946年</strong>便分到了<strong>作勳公祠</strong>的一部分房产，他和继父，以及生父一家人就住了进来。在这以前由于家里穷没有房，也会到祠堂里租房子住。之后，又有三家人买房。由于居住的需要，<strong>作勳公祠</strong>如今被划分出了许多小的隔间。但是据程茂发老人讲，以前祠堂里的正房都是开敞的，现在各家用来当作门窗的隔板就是原来正堂里排位前面的门板拆下来的；祠堂里以前有一块写着贡元的匾，不幸在文革期间被损坏。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Shiyuan Gong Hall, commonly called the Small Hall, was built to commemorate Cheng Tan (1411–1477), courtesy name Shiyuan, the sixth-generation ancestor of the Yongkang Cheng clan. Zuoxun Gong refers to the 13th-generation ancestor Cheng Jilie (1646–1725). Zuoxun Gong Hall is also called Yougongchang Hall—'Youchang' and 'Gongchang' representing the branches of his two sons Cheng Yichen (1691–1765) and Cheng Jingchen (1697–1771).</p>
 <p class="en">Village elders no longer remember the exact construction dates, but most agree that although Shiyuan Gong was born over 200 years before Zuoxun Gong, Zuoxun Gong Hall was built first, and both predate the nearby Shaochang Hall. The spatial relationship—Shiyuan Gong Hall stands in front of Zuoxun Gong Hall, blocking its main entrance—supports the later construction of Shiyuan Gong Hall. Cheng Maofa (b. 1934, 21st generation), who lives in Zuoxun Gong Hall, says it was jointly built by Cheng Yichen and Cheng Jingchen for their father (hence 'Yougongchang'), while Shiyuan Gong Hall was built by Zuoxun Gong's grandson—plausible, with Zuoxun Gong Hall dating to the mid-18th century and Shiyuan Gong Hall a decade or two later. Cheng Longxing (b. 1930, 22nd generation), a Korean War veteran, asserts Shiyuan Gong Hall was built during the Jiajing period (1522–1566) by Shiyuan Gong's grandson; genealogy records Shiyuan Gong's eldest grandson as living 1494–1568, making this also possible.</p>
@@ -688,7 +732,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Shaochang Ancestral Hall — Hall of the Gongxia Yichang Branch</div>
 <div class="section-tag">三、宗祠 | Ancestral Halls</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>程立重</strong>（1736—1793年）为报答丈人赠银之恩，于乾隆五十三年（1788年）建造</li>
 <li><strong>程立重</strong>字逢时号毅庵，作勳公之孙，程经臣之子，排行最小（毅常=小常=绍常）</li>
@@ -714,7 +758,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>享堂五开间，位于一个两步高的台基上。享堂的梁架结构和正堂大体类似。不同的是前后的双步梁变成了单步梁；后面的单步梁外面又增加了穿枋结构的一个廊，作为摆放神橱的空间；明间前面由于需要和戏台衔接，所以对梁架做了一些变化。享堂中间三开间在金柱间设门，但是可以全部开敞。据老人们讲，门上曾雕有精美的二十四孝，用以教育逢年过节来这里祭拜的程氏子孙。享堂的大木雕饰比正堂的稍简洁，在檩下叠斗之间没有用<strong>蟮梁</strong>，只是在叠斗两侧饰卷草形<strong>插叶</strong>。</p>
 <p>东西厢房自南向北分别被分隔成大小不同的五个空间。中间三间各自朝向不同的天井开窗采光，尽端的两间则利用外墙开窗通风。厢房与前厅、一进天井、正堂之间均有走廊，在正堂侧壁后面的厢房之间还各有一个小天井，天井一侧各有一个楼梯通往二层。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Shaochang Hall is said to have been built by Cheng Lizhong (1736–1793) in the 53rd year of Qianlong (1788), to repay his father-in-law's gift of silver for 'building a flower hall at the foot of the cliff.' Cheng Lizhong, courtesy name Fengshi, art name Yi'an, was the grandson of Zuoxun Gong and son of Cheng Jingchen. Cheng Jingchen's four sons established the Fa, Qiang, Gang, and Yi branches; Cheng Lizhong's descendants are called Gongxia Yichang. As the youngest son, his branch was called 'Xiaochang' (Small Branch); in Yongkang dialect 'xiao' and 'shao' are homophones, hence the name 'Shaochang Hall.'</p>
 <p class="en">Shaochang Hall faces south, west of Fangyan Stream, with its back angled toward <strong>Fangyan Mountain</strong>. Before its construction, this was likely just farmland. For a long time after completion, it stood alone on this side of Fangyan Stream.</p>
@@ -733,7 +777,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Zhou Clan Ancestral Hall — Hall of the Caoshu Zhou Founding Ancestor</div>
 <div class="section-tag">三、宗祠 | Ancestral Halls</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>老街上唯一非程姓祠堂</li>
 <li>始祖周时文公（1254—1315年），元至元十七年至二十八年（1280—1291年）任两浙提举</li>
@@ -753,7 +797,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p><strong>周氏宗祠</strong>建在这里是因为始祖周时文公墓位于它后面不远处，一个叫公道山狮子撰屙的洞穴里。据说周姓人家在老街上只居住了很短的时间，并在程氏迁到这里之前就离开了；也有人说周氏从未在这里居住过，只是在<strong>清明</strong>的前十天会有上百人来这里祭奠周氏始祖。《游川周氏宗谱》中记载这里原来只有平厅三楹，厅前又有庵屋数间，用以在<strong>清明</strong>时给远道来<strong>祭祖</strong>的子孙提供休息场所。后来由游川、岘川、璋川三宗扩建成现在的规模，现存建筑为光绪三十四年（<strong>1908年</strong>）重修。在国民党<strong>浙江省政府</strong>迁驻方岩的时候，这里曾作为浙江省警察大队的办公场所，其中还有一个小型的监狱。</p>
 <p><strong>周氏宗祠</strong>是一个接近方形的四合院。临街一面两侧是马头山墙，白色的墙头上曾绘有<strong>彩画</strong>，但是如今只能依稀看见斑驳的色彩。正门居中，两旁各有一个偏门通向院内走廊。一进为三开间、七檩进深的拜厅，这是整幢建筑中雕饰最为精美的地方；天井后面，高台之上为五开间、进深略浅的享堂；两侧各有五间厢房供前来祭祀者暂住。不仅如此，祠外两旁小厅，并楼屋八间，为看守者安身之宅也。这小厅指的是<strong>周氏宗祠</strong>两边，跨过老街架设的路亭，这两个路亭是老街上为处不多的既能避风雨，又能小憩的地方。楼屋八间现在只有三间归周氏所有，守墓人周岩好夫妇及其大嫂现居住在这里。家谱中记载，祠墓应由游川、岘川、璋川三宗轮流派可靠能干的子孙驻守，而岩好公为游川小四房子孙，自其曾祖起住守始祖公祠墓至今已逾百年。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">The <strong>Zhou Clan</strong> Ancestral Hall sits in a small hollow at the western foot of Lion Mountain, facing east, directly adjacent to the old street. It occupies the highest point of this section of the street, with no buildings between it and <strong>Fangyan Mountain</strong>—offering a view facing Fangyan and overlooking the valley.</p>
 <p class="en">It is the only non-Cheng ancestral hall on the old street. According to the Youchuan Zhou Genealogy, this branch is called the Caoshu Zhou. Their founding ancestor, Lord Shiwen (1254–1315), served as Commissioner of the Two Zhe Provinces from 1280 to 1291. While overseeing salt taxation for the Taizhou-Wenzhou branch, he passed through Yongkang after his term and, charmed by its customs, moved from Pantang in Jinhua to Caoshu in Shengping Township, Yongkang—hence the name Caoshu Zhou. His descendants subsequently spread from Caoshu to various parts of Yongkang.</p>
@@ -766,7 +810,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Other Halls — Run'er Hall, Cheng Zhaofu Hall, Qiwengong Hall, and Lufang Hall</div>
 <div class="section-tag">三、宗祠 | Ancestral Halls</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>闰二宗祠：橙麓村东侧，明代始建，三进正堂<strong>品字形天井</strong>，土改归国有</li>
 <li>闰二宗祠：先后做小学校、橙麓村老年协会活动场所，2006年修葺，钢桁架屋顶</li>
@@ -786,7 +830,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>启文公祠位于回龙桥西侧，其建造者为<strong>程振兴</strong>旅店老板的弟弟程昭纯。程昭纯（1864生，卒年不详），字启文，为<strong>程乐涞</strong>五子，并于<strong>1900年</strong>在老街南端开办了程成兴雨伞。据程昭纯孙程振锋（<strong>1939年</strong>生，崇字辈，程氏21代）老人讲，祠堂布局原本和<strong>世远公祠</strong>类似。现在可惜只剩下了中间的三开间。</p>
 <p>老街上还有一个几乎已经被人们忘记的祠堂，这就是位于下胡坑坑口靠西的禄房祠堂。据程振锋老人回忆，禄房祠堂是其祖父程昭纯主持修建的，并作为祠堂管事。祠堂的规模比<strong>世远公祠</strong>略小，只有前后两进院落。这样算来，祠堂大约建于二十世纪初。不幸的是在文革期间，由于疏于维护，这座祠堂最终毁于白蚁和火灾。目前仅存一些残垣断壁，连基本的平面布局也无法辨认。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Run'er Hall lies east of Chengli Village, first built in the Ming dynasty. Its layout likely resembled Shiyuan Gong Hall's—three main halls with a pin-shaped (品) courtyard arrangement. Under land reform policy, as a hall of five or more generations, it was nationalized. It first served as a primary school, then in 1988 became the activity venue for the Chengli Village Senior Citizens Association. In 2006, the interior was renovated: floors and部分 walls were redone in concrete, and the central long-span roof was replaced with a steel truss structure.</p>
 <p class="en">Cheng Zhaofu Hall stands at the western foot of Lion Mountain, west of the old street. Built by Cheng Zhaofu in 1924, it formed part of Chengzhenxing Inn. Its form matches Shiyuan Gong Hall's, with slightly larger plan dimensions. During pilgrimage season it served as guest rooms; its central open space functioned as the inn's hall for receiving pilgrims and hosting banquets, and in the evenings hosted opera performances. During the Nationalist Zhejiang Provincial Government's temporary residence at Fangyan, it hosted government meetings, various banquets, and even weddings.</p>
@@ -799,7 +843,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Religious Architecture — Jingtang Nunnery, Benbao Temple, and Wancheng Temple</div>
 <div class="section-tag">四、宗教建筑 | Religious Architecture</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>方岩山</strong><strong>广慈寺</strong>和佑顺侯祠香火旺盛，老街上宗教建筑相对不发达</li>
 <li>泛宗教信仰：<strong>胡公大帝</strong>后坐如来佛，玉皇大帝脚下供地藏菩萨，<strong>广慈寺</strong><strong>彩画</strong>西游记</li>
@@ -822,7 +866,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>解放后，新建的本保庙位于原址对面的蜈蚣山上，所以也被称作南山庙。这座建筑高高地坐落在蜈蚣山的第二个小山包上，与周围环境形成鲜明对比。站在门口，可以对下坑口这片建筑群一览无余。本保庙是一个一进的小院，院内有一座三开间的正殿。正殿中间供朱相公及夫人，左边供土地公和土地婆，右边供财神公和财神婆。每月初一和十五都会有人来祭拜，村里也有专门的人负责添加庙里的灯油。</p>
 <p>万成庙：远在<strong>五峰</strong>鸡鸣峰后的山坳里，还有一个观音庙，又叫万成庙。老街上和邻村的年轻夫妇，不免都会来这里拜拜，得子后还会来还愿，所以这里的香火一直也还不错。万成庙的入口，在高大茂密林木的掩映下，十分隐蔽。进门之后还要走上十多分钟才可以看见正殿。正殿三开间，同样是利用岩体本身的洞穴，依山而建。在较高的一处洞穴前，还建有三间僧房，曾作为庙里尼姑的住所。殿内正中供送子观音，左供观音菩萨，右供千手千眼观音。三座观音均为立像，其中送子观音双臂前伸，手中抱一男童。当求子的年轻夫妇拜倒在观音像前的时候，他们刚好可以看到观音手中的男童，正在向他们张开双臂、面带甜甜的微笑。在大殿的角落里，还供有地藏菩萨。想来人们在求子的同时，也会希望这个孩子能够降生在一个国泰民安、风调雨顺的年景里。在浙江省国民政府临时迁驻方岩的那几年，万成庙还曾作为浙江省史料征集委员会的办公场所。民政厅厅长阮毅成的阮公馆也位于万成庙前这块幽静之地。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Because <strong>Guangci Temple</strong> and the Youshun Marquis Shrine on <strong>Fangyan Mountain</strong> have always had thriving incense, villagers climb the mountain to seek bodhisattvas and Lord Hu for major matters. To many, Lord Hu is an omnipotent deity governing heaven and earth. Even villagers skeptical of Lord Hu typically climb the mountain in the first lunar month to burn three sticks of incense and draw a fortune, praying for joy and peace for themselves and their families in the new year. Consequently, religious architecture on Yanxia Old Street is relatively undeveloped, with only a few minor temples. The villagers' attitude toward worship reflects the widespread Han Chinese practice of 'burning incense at every temple, bowing to every bodhisattva'—a pan-religious faith. This is vividly embodied in the religious architecture here: behind Lord Hu on <strong>Fangyan Mountain</strong> sits Tathagata Buddha; beneath the Jade Emperor is enshrined Ksitigarbha; the front hall roof of <strong>Guangci Temple</strong> is painted with Journey to the West; and at the foot of the mountain, Guanyin is flanked by Guan Yu and the Earth God.</p>
 <p class="en">Jingtang (Scripture Hall): Originally located south of Xiahukeng Stream—south of the former Chengtou, west of the old street—manned year-round by Buddhist nuns. According to elders, it was an east-west oriented courtyard compound whose main hall originally enshrined Guanyin, flanked by Guan Yu and the Earth God. On the first and fifteenth of each lunar month, people came to burn incense, make vows, and draw lots. Tragically, Jingtang was destroyed by fire over twenty years ago.</p>
@@ -836,7 +880,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Ponds, Weirs, Wells, and Springs — Water Management System of Yanxia Old Street</div>
 <div class="section-tag">五、塘堰与井泉 | Ponds, Weirs, Wells, and Springs</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>方岩溪自南向北蜿蜒流过山谷，沿途几条小溪从东西山坑流出汇入</li>
 <li>干旱时溪水不够用，动用平时储存在水塘里的水</li>
@@ -862,7 +906,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>据<strong>1989年</strong>编写的《永康县志》所述，岩下老街两侧共有水井18眼。这其中大部分水井属于村里共有，也有少数几个位于大型宅院内。最有名的可能就是位于狮子山脚下，<strong>周氏宗祠</strong>以南，老仁昌旅店前的饮泉。饮泉紧邻老街东侧，井前有一小块开敞的空间，后面就是拔地而起的狮子山，在面朝老街的一面，还有用碎瓷器镶嵌成的饮泉二字。这口水井为老仁昌旅店的老板程宣洁所修，据说井里的水可以治病，所以水井前经常有络绎不绝的取水人。</p>
 <p>由于水源紧张，老街上的程氏后人逐渐形成了一些相沿成习的用水准则。例如井水专门用来饮用；蔬菜、水果要拿到溪水里去洗；米则要在家里洗，因为洗米的水要用来喂猪；水塘除了灌溉、救火之外，在应用化学洗涤剂之前，还可以用来浣洗外衣、被子之类的东西；对于马桶、内衣裤和褯子这类的脏东西，只能拿到一些特定的小水塘里去洗。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">'The establishment of ponds and weirs is where water management lies. Ponds store water; weirs regulate its outflow. In drought, they are especially beneficial. Wells and springs are grouped with them. Springs emerging at the foot of mountains form the Meng hexagram; the I Ching interprets this as 'resolute action cultivates virtue.' Water above wood forms the Jing (Well) hexagram; the I Ching interprets this as 'toiling the people and exhorting mutual aid.' The ancients who served the people dug wells to drink and plowed fields to eat. The ancients who established settlements examined yin and yang and observed flowing springs—these were the essentials of governance.'</p>
 <p class="en">The county gazetteer's overview of ponds, weirs, wells, and springs clearly states their function and importance, emphasizing that they were the primary concern of those who served the people and established settlements.</p>
@@ -881,7 +925,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Fangyan Mountain Climbing Path and Summit Space</div>
 <div class="section-tag">一、方岩山 | Fangyan Mountain</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>方岩山</strong>海拔约350米，高二百丈周六里，平地拔起四面如削，惟南通一道</li>
 <li>下马泉长廊（花廊）：南通一道终点，曾挤满卖方岩纸花摊位</li>
@@ -913,7 +957,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>天街的北侧是长生塘，传说是仙女的眼泪变成的，饮用塘中水后可以长生不老，并由此得名。塘边有井，叫砚井，是寺里和尚赖以生存的饮用水源。在天街中段南侧，有一棵据说是和<strong>广慈寺</strong>同龄的古樟树，因其旁边生长着许多小樟树，所以叫母子樟。母子樟旁边曾经有明万历年间（1573—<strong>1620年</strong>）建造的程方峰（1498—<strong>1585年</strong>）祠堂。现在取而代之的是方岩仙人洞，以借助现代化的手段来制造会说话活菩萨、土地公公破土而出、猪八戒大闹盘丝洞等视听效果来吸引香客。从仙人洞旁散落的巨大的柱基石和洞里依稀可见的方砖铺地，可以推测出程方峰祠堂当年的规模。据允明禅师讲，祠堂里面原有程方峰的塑像，祠堂大门从来都是关着的，只有在<strong>清明</strong>期间会开，那时候会有五六百人来这里<strong>祭祖</strong>。程方峰和其夫人孙氏的墓建在祠堂后面。现存的墓碑是<strong>1990年</strong><strong>清明</strong>重立的，旁边刻有千古英灵安在，万代浩气永存的对联。</p>
 <p>在天街尽端的东北角是千人坑。在那里，<strong>方岩山</strong>被劈成一南一北两段，中间的山谷深数百米，且宽不到一米。关于千人坑，县志里还记载着这样的传说：相传昔乡人避寇岩上，寇至援藤升，顿见有蛇，刃挥之，藤断寇坠，死者若干人，遂溃去，此坑所由名也。这里的寇指的是在北宋宣和二年（<strong>1120年</strong>），永康人陈十四和他率领的农民起义军。陈十四的起义军是永康方岩地区响应方腊起义的一支队伍。当年他们攻破县城，迫使知县赵琪退据<strong>方岩山</strong>，县志里描述的就是发生在这之后的故事。陈十四的起义虽然在次年就被镇压了，但是人们却借此来纪念当时牺牲的起义军战士。千人坑西边曾有听泉楼，如今楼去泉干，只能借县志中的记载来想象那清脆的泉水声：坑上西行百步许，下有石谷，泉出谷间，如环佩声。旧有楼，曰听泉，里人胡济源作。大夫士赋诗成集，曰听泉楼集。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en"><strong>Fangyan Mountain</strong> lies 50 li east of Yongkang county seat, with an elevation of about 350 meters. It stands west of Yanxia Village and, together with Lion Mountain, Lizard Mountain, and Centipede Mountain to the east, defines the village spatial extent. The Kangxi-era Yongkang County Gazetteer offers a vivid description: Two hundred zhang high, six li in circumference, rising sheer from the plain, sheared on all four sides, with only a southern passage that ends at the mountainside; stone steps ascend in tiers, called Hundred-Step Steepness. Above them, a stone plank road clings to the cliff, called Flying Bridge. Near the summit, two giant stones face each other, roofed over, called Tou Pass, commonly known as Peak Gate. Below it is Feihong Pavilion, newly built by monk Huitao. Beyond the pass the land flattens to several hundred mu, with a well called Inkstone Well and a pond of over one mu.</p>
 <p class="en">For pilgrims climbing Fangyan, after the old street ends they turn west into a hollow at the mountain foot and ascend via the Southern Passage, a narrow path between Fangyan and South Rock. Not far in stands Xiamaquan Corridor, named after the spring. Once crowded with paper-flower stalls, it is also called Flower Corridor. It marks the end of the Southern Passage; from here, pilgrims experience the scenery described by Northern Song Yongkang jinshi Ying Cai: Stone steps loom steep, knees bent as one climbs; walking one hardly notices, looking one is startled. Even a master artisan could not capture it, truly nature divine creation.</p>
@@ -933,7 +977,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">A Millennium of Guangci Temple — From Dabei Temple to Lord Hu the Great</div>
 <div class="section-tag">二、广慈寺历史 | History of Guangci Temple</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>广慈寺</strong>原名大悲寺，天台宗名刹，唐宣宗大中四年850年始建</li>
 <li>正德禅师：天台山国清寺火头和尚，会昌法难后离开国清寺，修头陀行居罗汉洞</li>
@@ -947,7 +991,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <li>绍兴二十二年1152年宋高宗降旨敕赐赫灵庙（<strong>胡则</strong>重孙胡廷直详述始末力求正名）</li>
 <li>绍熙三年1192年佑顺嘉应侯；嘉泰三年1203年嘉定三年1210年佑顺嘉应福泽显灵侯</li>
 <li>淳祐六年1246年显应公，加正惠，宝祐初再加忠祐</li>
-<li>封号演变：佑顺（客观认可）→嘉应（赞许肯定）→福泽（人民立场褒扬）→显灵（超客观神化）</li>
+<li>封号演变：佑顺（客观认可），嘉应（赞许肯定），福泽（人民立场褒扬），显灵（超客观神化）</li>
 <li>明万历年间聿孤禅师改革子孙派为八房（乾天承地人才宝智）轮流管理</li>
 <li>明隆庆五年1571年程方峰借地做坟，卖地十丈改卖地千丈官司，判千人坑长生塘为界</li>
 <li>清顺治十一年1654年赫灵庙修葺；康熙年间赫灵祠坍塌，<strong>胡则</strong>塑像搬入<strong>广慈寺</strong>前殿（寺庙合一）</li>
@@ -980,7 +1024,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>在接下来几十年里一系列的人为灾害中，文化大革命无疑带给了<strong>广慈寺</strong>前所未有的重创。<strong>广慈寺</strong>几乎所有的建筑均在<strong>1966年</strong>8月下旬被拆除，仅有屏风阁和一幢僧房幸免于难。屏风阁原归方岩公社拆除，但是出于近千年对<strong>胡则</strong>的尊重，老街上的人拒绝这样做。于是，屏风阁被留了下来，并先后被用作大队开会的地方，林场仓库、邮电学校和602工厂。不仅如此，<strong>广慈寺</strong>内的字画和书籍从山上往下挑了十担，整整烧了一天。虽然《<strong>广慈寺</strong>寺志》在允明禅师的保护下逃过了这场浩劫，但却不明不白地遗失在永康市宗教科的各种卷宗之间。</p>
 <p>文化大革命结束两年后，在<strong>1978年</strong>八月初一的凌晨，由岩下村村民黄埔林的母亲发起，她和另外三个妇女把一尊新塑的小胡公像抬上了山。文革后的第一任住持允明禅师于<strong>1979年</strong>十月初三上山，并凭记忆重塑了<strong>胡则</strong>像和屏风阁里其他的塑像，包括文曲星、财神、龙王和关公等。由于屏风阁还在，所以就有香客慕名来拜<strong>胡则</strong>。允明禅师用募捐来的香火钱，在<strong>1980年</strong>到<strong>1984年</strong>的五年间，买了四座祠堂，用以恢复<strong>广慈寺</strong>的建筑。第一个是在<strong>1980年</strong>用3000多元买的古竹畈村的一个厅，用来重建屏风阁前的大雄宝殿。紧接着用比较便宜的价格买下了因建杨汗水库而被迫拆除的汗下周村的周氏祠堂。随后用4000多元买了龙油县山賈村的牛王殿，用来恢复天王殿、步云亭、后山的亭子和做一些修修补补的工作。最后买了永康市里的徐氏祠堂，在观音阁原址上重建了现在的<strong>广慈寺</strong>观音殿。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">On Fangyan summit today stand side by side the little-known millennium-old <strong>Guangci Temple</strong> and the perpetually incense-thick Hu Gong Temple. For much of history both stood here, but their relationship differed greatly from today. The current Hu Gong Temple site originally belonged to <strong>Guangci Temple</strong>, while Hu Gong Temple once stood to Guangci left, near Changsheng Pond. This is confirmed in successive gazetteers: the Jiajing-era Yongkang Gazetteer states there is a shrine, called the Marquis of Youshun Shrine. To its right is a Buddhist dwelling, called <strong>Guangci Temple</strong>; the Daoguang-era gazetteer reads by the pond stands a temple, called Heling. Beside the temple is a monastery, called Guangci. The evolution of their relationship begins with <strong>Guangci Temple</strong> history.</p>
 <p class="en"><strong>Guangci Temple</strong>, originally named Dabei Temple, is a millennium-old Tiantai sect monastery founded in the fourth year of Dazhong (850) of Emperor Xuanzong of Tang, the fourth year of Buddhist restoration after the Huichang Persecution. Buddhism, introduced from the Western Han, reached its apex in Sui-Tang. For two centuries after the Tang founding, emperors vigorously promoted Buddhism with high honors. By the late Tang, Buddhism growing influence and economic wealth threatened central rule. Moreover, Emperor Wuzong (840 to 846) believed in Daoism and launched persecution, destroying temples, forcing monks and nuns to return to lay life. Guangci founding patriarch, Zhengde Chan Master, was then forced to leave Guoqing Temple on Tiantai Mountain. Zhengde had been a fire-head monk, or cook, at Guoqing, where he studied zhiguan, cessation and insight, under the 12th-generation patriarch Wuwai Chan Master.</p>
@@ -1009,7 +1053,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Current State of Guangci Temple and Hu Gong Temple</div>
 <div class="section-tag">三、广慈寺和胡公庙现状 | Current State of Guangci Temple and Hu Gong Temple</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>1980年代中叶胡公庙从<strong>广慈寺</strong>分离独立，占据<strong>广慈寺</strong>原有中轴线（西侧）</li>
 <li><strong>广慈寺</strong>被迫向东平移，以重建观音殿为中轴线，后补建大雄宝殿</li>
@@ -1044,7 +1088,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>最后一进殿是屏风阁，现存建筑基本上是清道光二十九年（<strong>1849年</strong>）那场大火之后重建的。允明禅师说，重建的时候，一些主要构件改用石材以防火灾。可是到清朝末年，寺院变得十分不景气，原本的八房僧人也只剩下了四房，每房的人数也少了许多。于是就有人说是因为狮子，石子的谐音，吃人，所以在宣统年间（1909至<strong>1911年</strong>），屏风阁又改回了木构。</p>
 <p>屏风阁也是利用天然岩洞建造的，但是它和罗汉洞或<strong><strong><strong>五峰</strong>书院</strong></strong>有着根本的不同。屏风阁的建筑空间不但延伸到了石洞以外，而且还利用石洞上的巨石作为楼板，在上面加建了二层。允明禅师说，二层以前供的是玉皇大帝，直到宣统二年（<strong>1910年</strong>），才把玉皇大帝移到了现在的地藏殿。屏风阁一、二层之间没有任何垂直的联系，像搬佛像这样大的变故，可能只有在重建或大修的时候才可以进行。把这种可望而不可即的位置留给玉皇大帝本是无可厚非，但是在佛家圣地的正殿里高高供奉道教的众神之皇，这不得不归功于中国式宗教无与伦比的博大和宽容。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">In the mid-1980s, for tourism development, Hu Gong Temple was separated from <strong>Guangci Temple</strong> as an independent monastery, once again standing side by side with Guangci on Fangyan summit. Hu Gong Temple occupies the west side, taking Guangci original central axis, with Pingfeng Pavilion as its final hall. The Mahavira Hall, only recently rebuilt before Pingfeng Pavilion, was demolished again and replaced by two new buildings: Hu Gong Temple front hall and main hall. <strong>Guangci Temple</strong> was forced to shift eastward, adopting the rebuilt Guanyin Hall as its central axis, with a Mahavira Hall added behind.</p>
 <p class="en">Elders say Guangci former halls were all connected by surrounding corridors, one never got wet shoes in rain. Moreover, Yunming recounts that covered corridors once ran from the mountain foot to the summit, built over many years by a villager from Taiping Village who came annually to repair them. Current abbot Shi Mingxiu also recalls seeing a Guangci plan showing corridors connecting the mountain foot to the temple when he applied for the abbotship.</p>
@@ -1065,7 +1109,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Shoushan Past — Five Peaks Geography and Taoyan Temple</div>
 <div class="section-tag">一、寿山往事 | Shoushan Past</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>书院作为文教建筑是科举制度产物：隋大业元年605年至清光绪三十一年1905年</li>
 <li>唐末至五代官学衰败，读书人避居山林模仿佛教禅林讲经制度创立书院</li>
@@ -1089,7 +1133,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>寿山在方岩北三里，有<strong>五峰</strong>皆石壁平地拔起，周围如城郭，曰固厚、曰瀑布、曰桃花、曰覆釜、曰鸡鸣。固厚之下有大石洞，高敞轩豁，可容千人。瀑布之上有龙湫，水四时不竭，直下数十丈如练，及霁久水杀，飘飘飏之，溅洒四出若雾雨然，可望而不可即，亦奇观也。固厚峰，主峰也。悬崖千仞，峭壁如削，较诸峰为淳固深厚，故其名。其下石洞在焉。瀑布峰，在固厚之右，上有飞泉下注。覆釜峰，在瀑布之下，巅广而圆，如大釜覆其上。桃花峰，与覆釜峰相连，专专耸妙，其岩色赤白相间，状类桃花。鸡鸣峰，午风微过，嘐然一声，彼唱此应，遂神其说耳。天蜜，悬崖直下，天风偶吹，大者如珠，细者如雾，其味甘美故名。</p>
 <p>位于<strong>五峰</strong>之间、石洞之中、瀑布之下的这块世外桃源，终于在南北朝时期的梁普通元年（520年）迎来了它的第一位主人，即吃素念经的和尚们。固厚峰下有两个大石洞，上文中提到的是西边这个，靠东还有一个，叫外洞。这些出家人利用这两个天然的石洞创建了永康县境内的第一座寺院——桃岩寺，并于日后改名为寿山寺。关于寿山寺的具体情况已经无从查证，只知道固厚峰下的这个山洞里曾经有过一个罗汉堂，里面的罗汉还是在明朝为建造<strong><strong><strong>五峰</strong>书院</strong></strong>时撤掉的；外洞之前有台三层，甚壮伟，猜想或许是大雄宝殿的位置。据《库川胡氏宗谱》中关于一场官司的记录，寿山寺自正德以前无论已，那三层的高台也在明万历间始圮。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Academies, as a type of educational architecture, were a product of China imperial examination system. The examination system began in the first year of Daye of Sui (605) and lasted until the final jinshi examination in the 31st year of Guangxu of Qing (1905), serving as the recruitment system for successive dynasties. Despite its many flaws and limitations, its greatest significance was providing the broad common people with the sole path to change their own and their entire family social status. Thus, over the 1,300 years of the examination system, countless scholars studied diligently through ten years of cold-window hardship. Accompanying this was the widespread proliferation of educational architecture: private schools, academies, studies, literary halls, Confucian temples, and Wenchang pavilions.</p>
 <p class="en">From late Tang through Five Dynasties, frequent warfare caused official schools to decline, so many scholars retreated to mountains and forests, establishing academies modeled on Buddhist and Chan lecture systems. In Zhejiang, five academies founded in Tang are known: Xiangshan Penglai, Zhuji Xishan, Longyou Jiufeng, Jiande Qingshan, and Shaoxing Lizheng. These academies were usually part of residences with very simple architectural forms.</p>
@@ -1104,7 +1148,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Wufeng Academy — Chen Liang Lectures and Ming Dynasty Academy</div>
 <div class="section-tag">二、五峰书院 | Wufeng Academy</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>南宋乾道八年1172年永康人<strong>陈亮</strong>1143至1195年在<strong>寿山坑</strong>设帐授学，宣讲商籍农而立农赖商而行义利双行各务其实</li>
 <li><strong>陈亮</strong>挚友<strong>吕祖谦</strong>1137至1181年（金华学派创始人）也曾来此讲学</li>
@@ -1136,7 +1180,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>进入清代中后期，讲学的气氛日渐衰退，每年的春秋两会便成了<strong><strong><strong>五峰</strong>书院</strong></strong>最隆重的事情。会期各三天，届时前来讲学、奉祀的地方官绅多达数百人，其盛况不亚于<strong>朱熹</strong>来这里讲学的日子。关于春会的时间，《<strong><strong><strong>五峰</strong>书院</strong></strong>志》里并没有提到，依惯例或许是在<strong>清明</strong>；秋天则在阴历九月初九，每岁重阳日，祀朱、吕、陈三子，次日祀阳明王子，三日祀何、王、金、许诸儒。关于祭祀的费用，则来自于应典、程梓和卢可久三人创置的会田，并由应、程、卢的后人负责料理会田和组织祭祀活动。会田创立之后，<strong>陈亮</strong>、程文德、王柏和<strong>吕祖谦</strong>的后人也相继捐出了部分田地。但是由于会田的收入还要支付日常开销，以及建筑修缮的费用，所以依旧入不敷出。清康熙二十年（<strong>1681年</strong>），<strong><strong><strong>五峰</strong>书院</strong></strong>不得不取消春会，并把秋会祭祀的时间改为阴历九月十二、十三两日。<strong><strong><strong>五峰</strong>书院</strong></strong>秋会不仅包括启龛、迎神、读祝文、献礼、献饭等通常意义上的祭祀活动，更是各路学者交流和学习的绝好机会。为此会规里有明确的规定，十二日早膳后各出质言以相参证，其式正楷大书，登名于尾。凡与会者各带纸笔，午后互相抄录完时，实粘壁上。十三日早膳后，老成者各拈书一章，性理一章。三日内余功，或质疑问难、或阐发格言，言具登载于簿。<strong><strong><strong>五峰</strong>书院</strong></strong>秋会基本每年举行，一直由应、程、卢的后人负责，直到民国时期停办。</p>
 <p><strong><strong><strong>五峰</strong>书院</strong></strong>的三幢建筑均位于固厚峰下能容千人的大石洞内，面南自东向西一字排开，均为三开间两层楼宇。其建筑的最大特点就是即洞支木为之，不施椽瓦而雨雪霜露自然莫及。丽泽祠的建造者应典还给这个山洞起名为朝阳洞，因为朝日初出，苍苍凉凉，光射户牖。最东边的是<strong><strong><strong>五峰</strong>书院</strong></strong>，其平面接近方形，一层有廊，二层有栏以供凭眺。虽然屡经修缮，但是梁架结构并没有改变，所以仍然可以看到明代建筑的特点，例如梁架采用<strong>穿斗式</strong>，横梁不加装饰，梁下采用丁头拱，使用有<strong>覆盆</strong>的<strong>鼓形</strong><strong>柱础</strong>等。建筑东墙外有一间小室，曾作为厨房。丽泽祠和学易斋规模相当，都是进深较短的长方形平面，只是丽泽祠一层有廊。在门窗的处理上，学易斋和<strong><strong><strong>五峰</strong>书院</strong></strong>较为类似，都是步步锦，丽泽祠则采用较为简单的满天星样式。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">In the eighth year of Qiandao of Southern Song (1172), Yongkang native <strong>Chen Liang</strong> (1143-1195) began teaching in Shoushan Hollow, propagating his new ideas contrary to traditional Confucianism and classical studies: merchants rely on agriculture to stand, agriculture relies on merchants to prosper, righteousness and profit both pursued, and each attends to its reality. Over the next two or three years, his close friend <strong>Lü Zuqian</strong> (1137-1181), founder of the Jinhua school under the utilitarian school, also lectured here. In the autumn of the ninth year of Chunxi (1182), <strong>Zhu Xi</strong> (1130-1200), newly appointed as Eastern Zhejiang Commissioner, visited <strong>Chen Liang</strong> at Wufeng. This was their second meeting; the first was that January when <strong>Zhu Xi</strong> came to Wuzhou for famine relief and <strong>Chen Liang</strong> rushed to meet him, talking for ten days. The grandeur of the second meeting is briefly recorded in the <strong>Wufeng Academy</strong> Chronicle: <strong>Chen Liang</strong> invited Master Huiweng to the main lecture seat, with several hundred followers. Legend says the three cinnabar characters Doushuai Terrace on the Outer Cave rock wall below Guhou Peak were written by <strong>Zhu Xi</strong> at that time. Doushuai, Sanskrit transliteration, refers to the fourth Buddhist heaven; its inner court is Maitreya pure land, outer court dwelling of heavenly beings; Terrace refers to the three-tier platform then standing there. In the fourth year of Shaoxi (1193), <strong>Chen Liang</strong>, aged 51, passed the palace examination as zhuangyuan, but unfortunately died en route to his post over a year later. Thereafter, we cannot verify whether Shoushan Hollow still echoed with lofty scholar debates; or only wooden fish sounds accompanying morning bells and evening drums; or whether all fell silent, with only water striking rocks and wind in leaves.</p>
 <p class="en">The next written record of Shoushan Hollow appears in the Zhengde period (1506-1521). Shangbao Cheng Ying Dian, observing Longchuan writings on the walls, recording Huiweng and Donglai traces, built a shrine in the space east of the hall to sacrifice to Zhu, Lü, Zhang Nanxuan, and Lu Xiangshan, with Longchuan as associate, called Lize Shrine. Lize Shrine was built by Master Ying Shimen in Zhengde, with the plaque inscribed by Governor Zhang Yue and record by successor Governor Yao Wenzhao. Ying Dian, courtesy name Tianyi, hao Shimen, native of Zhiying, Yongkang, jinshi in the ninth year of Zhengde (1514), served as head of Lize Academy and White Deer Academy. Thus Lize Shrine was built between 1514 and 1521. Zhu, Lü, Zhang refer to <strong>Zhu Xi</strong>, <strong>Lü Zuqian</strong>, and Zhang Shi, collectively called the Three Worthies of the Southeast in the Qiandao-Chunxi period (1165-1189). Besides these three, Lu Jiuyuan and <strong>Chen Liang</strong> were sacrificed as associates.</p>
@@ -1154,7 +1198,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Hu Gong Family Shrine — Hu Family Shrine and Chonglou in Shoushan Hollow</div>
 <div class="section-tag">三、胡公家庙 | Hu Gong Family Shrine</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong><strong><strong>五峰</strong>书院</strong></strong>东边外洞为寿山寺旧刹，明正德以前名存实亡，盖桃岩丽泽精舍时移走罗汉像</li>
 <li>嘉靖三十七年1558年奉例清查寿山废寺产业买价入官，徐一勤用五十一两白银买五十七亩田二十一亩地十八亩山林近九亩塘</li>
@@ -1185,7 +1229,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>新建成的胡公家庙坐落在一个用石材垒砌的高大基座上，基座东西两侧的地面高差有一层多高。它的一层有五间，二层、三层原本各三间。三层利用岩壁围合空间，岩壁上兜率台三个大字清晰可见。建筑一层和三层进深较浅，二层不但空间高，而且进深为前后二进，一直深入洞中。重楼在结构上采用砖木混合形式，外立面用砖墙做竖向承重结构，辅以木梁和木质门窗，内部做法比较传统，以木构为主。建筑式样上则明显受到新时代的影响，东侧入口处为砖砌发券，西洋式小门楼，二层三层栏杆的做法也显然是机器加工的产品。</p>
 <p>民国27年（<strong>1938年</strong>），<strong>浙江省政府</strong>迁至方岩临时办公，其中财政厅进驻胡公家庙的二层和三层。例如因房间不够，二层两侧便被各增加一间；为解决采光的问题，所有的门窗还被装上了玻璃。国民政府进驻期间，胡公家庙还得匾春帆楼，省政府主席<strong>黄绍竑</strong>还亲自题联庙貌壮灵岩，历宋元明清，史册相传，会栋宇更新，欣兹后起多才争辉谱谍；官廨邻胜境，仰聪明正直，风微若接，待湖山重整，好与斯邦父母共荐馨香。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Not far east of <strong>Wufeng Academy</strong> is the Outer Cave, the former site of Shoushan Temple, now Hu Gong Temple. According to the Kuchuan Hu Genealogy, Shoushan Temple existed in name only before the Zhengde period (1506-1521); over a decade later, the arhat statues in the cave were removed to build Taoyan Lize Jingshe.</p>
 <p class="en">In the 37th year of Jiajing (1558), following regulations to清查 abandoned temple property and sell it to the government, a man named Xu Yiqin bought 57 mu of farmland, over 21 mu of dry land, over 18 mu of forest, and nearly 9 mu of ponds in Shoushan Hollow for 51 taels of silver. Four years later, Hu descendants, citing Shoushan as their ancestral tomb site and that Shoushan Temple remaining lands were donated by their ancestor Hu Shisheng but illegally purchased by outsiders, began an 18-year lawsuit. The lands changed hands multiple times, from Xu to Cheng to Lü, until the Hu family redeemed them in the 11th month of Wanli 8 (1580) for 190 taels.</p>
@@ -1201,7 +1245,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Wufeng Academy Without Jinshi — From School Building to Exhibition Hall</div>
 <div class="section-tag">四、没有了进士的五峰书院 | Wufeng Academy Without Jinshi</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>没有了科举考试没有了进士，书院各种活动在民国时期全部停止</li>
 <li><strong><strong><strong>五峰</strong>书院</strong></strong>与胡公家庙在民国27年1938年到31年1942年作为省政府临时办公场所</li>
@@ -1216,7 +1260,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>没有了科举考试，没有了进士，书院曾经举办的各种活动在民国时期就全部停止了。与胡公家庙一起，<strong><strong><strong>五峰</strong>书院</strong></strong>在民国27年（<strong>1938年</strong>）到31年（<strong>1942年</strong>），也曾作为省政府的临时办公场所。或许是因为近千年来，曾经在这里徘徊的进士和学者们都久久不愿离去，所以政府工作人员走后的第一年，<strong><strong><strong>五峰</strong>书院</strong></strong>就作为永康师范学校的校舍，一直到<strong>1962年</strong>。</p>
 <p>如今，学生们也走了。空荡荡的<strong><strong><strong>五峰</strong>书院</strong></strong>变成了展览馆，设有书院历史、书院制度、书院功能、书院与文房四宝、书院与科举制度、<strong><strong><strong>五峰</strong>书院</strong></strong>与<strong>永康学派</strong>等专题展览，甚至还有祭堂。瀑布下、山洞里、水塘边还设有茶室，倒也颇具些意境。但是不知怎的，没有了进士和学者们穿梭其间，没有了晦翁主讲席，从游者数百人的热闹场面，没有了或质疑问难、或阐发格言的高声论辩，<strong><strong><strong>五峰</strong>书院</strong></strong>便寂静的可怕。静得连偶尔来参观的游客，都不愿意在这本应该是诗意盎然的茶室里小坐，便毅然转身离去，只留下他们匆匆的脚步声回荡在<strong>寿山坑</strong>里。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Without the imperial examination and without jinshi, all activities once held by the academy ceased entirely in the Republican period. Together with Hu Gong Family Shrine, <strong>Wufeng Academy</strong> served as temporary provincial government office from the 27th to 31st year of the Republic (1938-1942). Perhaps because for nearly a thousand years, the jinshi and scholars who once wandered here were reluctant to leave, in the first year after government staff departed, <strong>Wufeng Academy</strong> became the school building of Yongkang Normal School, remaining so until 1962.</p>
 <p class="en">Today, the students are also gone. The empty <strong>Wufeng Academy</strong> has become an exhibition hall, with thematic displays on academy history, academy institutions, academy functions, academy and the four treasures of the study, academy and the imperial examination system, <strong>Wufeng Academy</strong> and the <strong>Yongkang School</strong>, and even a sacrificial hall. Tea rooms are set beneath waterfalls, within caves, and by ponds, quite evocative in atmosphere. Yet somehow, without jinshi and scholars moving among them, without the bustling scene of Master Huiweng at the lecture seat with hundreds of followers, without the loud debates of questioning and challenging or elucidating maxims, <strong>Wufeng Academy</strong> has become terrifyingly silent. So silent that even occasional visiting tourists are unwilling to sit a moment in what should be a poetically evocative tea room, but turn and leave resolutely, leaving only their hurried footsteps echoing in Shoushan Hollow.</p>
@@ -1230,7 +1274,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Major Carpentry Ornamentation</div>
 <div class="section-tag">建筑的雕饰与装修 | Architectural Ornamentation and Decoration</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>老街建筑装饰以木雕为主，<strong>石雕</strong><strong>砖雕</strong>不普遍，<strong>彩画</strong>保留少</li>
 <li><strong>马腿</strong>（<strong>牛腿</strong>）位于檐柱上方向天井垂直出挑，承托<strong>金枋</strong>，通体透雕</li>
@@ -1247,7 +1291,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>米梁、桁条、<strong>挑檐枋</strong>等承重结构一般不做雕饰，但祠堂露明梁架的底面成为雕饰载体。<strong>周氏宗祠</strong>米梁浅刻抽象几何纹；<strong><strong>程昭夫</strong>祠堂</strong>金<strong>桁枋</strong>、<strong>挑檐枋</strong>浮雕花草、凤凰、仙鹤、飞鸟、鱼纹、狮子戏球等；<strong>绍常祠堂</strong>上金<strong>桁枋</strong>彩色勾连花卉，前下金<strong>桁枋</strong>、<strong>挑檐枋</strong>透雕花卉，檐枋透雕鱼纹花鸟，极为精美。桁条有时改为方形，并加两三层木板做透雕。</p>
 <p>其他雕饰构件包括<strong>雀替</strong>、<strong>叠拱</strong>、<strong>插叶</strong>、<strong>梁斗</strong>、<strong>梁斗</strong>垫、柱斗等，题材多为卷草、花卉、<strong>回纹</strong>、吉祥字。<strong>世远公祠</strong>有<strong>卷草纹</strong><strong>叠拱</strong><strong>插叶</strong>；<strong>绍常祠堂</strong>有花形<strong>梁斗</strong>附书卷状<strong>梁斗</strong>垫、盆形<strong>梁斗</strong>附荷花状<strong>梁斗</strong>垫、雕飞鸟<strong>叠拱</strong>彩绘<strong>梁斗</strong>刻寿字<strong>梁斗</strong>垫；<strong>义丰雅记</strong>有<strong>回纹</strong><strong>雀替</strong>；<strong>绍常祠堂</strong>后堂檐廊有花木鸟兽<strong>雀替</strong>、正堂有亭台楼阁<strong>雀替</strong>；<strong>程立重</strong>宅院有<strong>卷草纹</strong><strong>雀替</strong>。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Architectural decoration in the old street is dominated by wood carving; stone and <strong>brick carving</strong> are uncommon, and few painted decorations survive. In the past, craftsmen were hired from Dongyang; today only Cheng Gaoming (born 1942, 22nd generation Sheng character) remains as a master carpenter.</p>
 <p class="en">The <strong>ma tui</strong> (ox leg), or <strong>corbel</strong>, projects vertically from the top of the eave column toward the courtyard and supports the <strong>jin fang</strong> (gold tie beam). It is an inverted wedge shape, entirely openwork carved, with visual effect on three sides. Simple motifs include three lions playing with a ball; complex motifs depict narrative scenes such as the Queen Mother riding a phoenix or the Jade Emperor riding a dragon. The <strong>corbel</strong>s at Cheng Zhaofu Ancestral Hall are the finest. The <strong>corbel</strong> pad is often carved with auspicious characters or four-character idioms. Hu Gong Temple features dragon-coiled <strong>corbel</strong>s.</p>
@@ -1263,7 +1307,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Minor Carpentry and Joinery</div>
 <div class="section-tag">建筑的雕饰与装修 | Architectural Ornamentation and Decoration</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>住宅正房明间六扇通高可摘除门扇，每开间分三部分</li>
 <li>早期窗子上下两屉，下屉固定窗视线高度，上屉两扇<strong>平推窗</strong></li>
@@ -1280,7 +1324,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p><strong>新仁昌</strong>旅店原为四层高单体建筑，现仅剩两层；建筑三开间，雕花<strong>栏板</strong>位于二层前廊。明间<strong>栏板</strong>分成三段，每段内有雕花<strong>栏板</strong>三块，每块约二十五厘米宽、七十厘米高，两块之间的间隔比<strong>栏板</strong>宽度略小；次间有同样大小的雕花<strong>栏板</strong>各十块，均匀排列。雕刻主题大部分以吉祥鸟兽为主，并配以不同的花草，例如狮子、凤凰、仙鹤、鸳鸯、喜鹊、雄鸡等。其中明间正中的一组分别是凤凰、狮子、凤凰，并且两凤凰面面相对。明间<strong>栏板</strong>的边框处理还和次间略有不同，两侧做竹节状线脚，并且相互间高低错落有致。这二十九块雕花<strong>栏板</strong>之中，有三块边框的处理手法不同，而且雕的都是姿态相同的白菜，推断是上层的<strong>栏板</strong>拆下来补缺的。余下的二十六块虽然有的采用相同的主题，但是个个造型独特。</p>
 <p><strong>程铿别墅</strong>高两层，宽三开间，进深两开间，二层四面有廊。每开间<strong>栏板</strong>分三组，每组三块；走廊进深这一架也有<strong>栏板</strong>三块。所有<strong>栏板</strong>都以<strong>回纹</strong>为底，镂空雕饰，<strong>栏板</strong>的宽度根据其所在的位置不同稍有变化，宽度或位置一样的<strong>栏板</strong>采用相同的<strong>回纹</strong>样式。稍宽的<strong>栏板</strong>在<strong>回纹</strong>中间嵌雕有宝瓶、仙鹤、月季等图案。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">The central bay of a residence's main hall typically has six full-height removable door leaves. Each bay is divided into three parts: a central main window and high windows on both sides.</p>
 <p class="en">In early buildings such as <strong>Yifeng Yaji</strong>, windows are divided into upper and lower tiers. The lower tier is a fixed window at eye level; the upper tier consists of two <strong>sliding casement</strong> windows, divided horizontally, vertically, and horizontally in sequence, creating a small-large-small rhythm. Early window lattice patterns are dominated by abstract geometric <strong>meander</strong> patterns.</p>
@@ -1296,7 +1340,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Brick and Stone Carving</div>
 <div class="section-tag">建筑的雕饰与装修 | Architectural Ornamentation and Decoration</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>石雕</strong>很少，主要用在<strong>柱础</strong>上，除祠堂正堂中间<strong>覆盆</strong>外皆为<strong>鼓形</strong></li>
 <li>庭院角落石板雕阴阳相间铜钱纹样，引导雨水流入方岩溪</li>
@@ -1310,7 +1354,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p><strong>砖雕</strong>主要应用在<strong>马头墙</strong>上，还有建筑正立面旁门上，或是小窗上的<strong>眉檐</strong>。<strong>眉檐</strong>的做法通常是下面有几排<strong>砖牙子</strong>，然后是仿木构的椽头，上面再加一两皮挑砖，砖上放瓦。高级一点的<strong>眉檐</strong>可以多砌几排<strong>砖牙子</strong>，也可以做两层椽头相叠。<strong>程振兴</strong>四合院入口上的<strong>眉檐</strong>，不仅挑了六层<strong>砖牙子</strong>，而且中间还外加收分，整个<strong>眉檐</strong>还用红、白、黑三色相间描画。</p>
 <p>老街上唯一一幢立面上饰有大量<strong>砖雕</strong>或<strong>石雕</strong>的建筑是<strong>得耕居</strong>。<strong>得耕居</strong>的建造年代较早，采用<strong>牌楼式门楼</strong>。中间的<strong>重檐</strong>牌楼为砖砌仿木结构，上面不但用<strong>砖雕</strong>砌出梁、柱、枋、柱头、<strong>柱础</strong>、椽头等构件，而且还用<strong>砖雕</strong>模拟<strong>雀替</strong>和柱头上的雕饰，甚至是梁枋上的<strong>彩画</strong>，靠近檐口的部分<strong>砖雕</strong>还残留有彩绘的印记。<strong>砖雕</strong>的主题既有一些抽象的花纹，又包括一些精美的鱼纹和鸟兽。最精美的雕饰要属门额上方的<strong>双狮抢球</strong><strong>石雕</strong>，门额正中砖刻<strong>得耕居</strong>三字，并在两侧辅以<strong>石雕</strong>麒麟，下方衬以<strong>砖雕</strong>花鸟。<strong>得耕居</strong>立面檐口下还有<strong>砖雕</strong><strong>鱼跃龙门</strong>。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Stone carving is rare in old street buildings, used mainly on <strong>column base</strong>s. The <strong>column base</strong>s here are relatively simple in form: except for several inverted-bowl (<strong>fu pen</strong>) bases in the center of ancestral hall main halls, all are drum-shaped. Column bases are generally not carved, with at most one molding line at top and bottom.</p>
 <p class="en">Another location for <strong>stone carving</strong> is the corners of courtyards. At Cheng Chengchang Inn, for example, each of the four corners of the ming tang (central courtyard) has a one-chi-square stone slab carved with an interlocking yin-yang copper coin pattern, allowing rainwater to flow into the underground drainage channel beneath the courtyard, then into the rain gutters on both sides of the old street, and finally into Fangyan Stream.</p>
@@ -1323,7 +1367,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Polychrome Painting</div>
 <div class="section-tag">建筑的雕饰与装修 | Architectural Ornamentation and Decoration</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>彩画</strong>通常只位于砖墙上端靠近檐口的位置，形成一尺左右装饰带</li>
 <li>程振昌旅店照壁上的挂落式<strong>彩画</strong>是老街保留最完整的</li>
@@ -1336,7 +1380,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>老街上保留最完整的<strong>彩画</strong>要属程振昌旅店里照壁上的挂落式<strong>彩画</strong>。这套<strong>彩画</strong>分三开间，中间绘有垂莲柱、<strong>雀替</strong>等建筑构件，每一开间分成有韵律的一些片段，每段独自为题。<strong>彩画</strong>的主题包括田园茅舍、鸟兽花草等。色彩以黑白为主，辅以少量的靛青和赭石。</p>
 <p><strong>程振兴</strong>外墙檐口下也有黑白<strong>卷草纹</strong>饰。<strong>得耕居</strong>立面上靠近檐口的部分<strong>砖雕</strong>还残留有彩绘的印记。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Polychrome painting is usually located only at the top of brick walls near the eave, following the eave's undulations and forming a decorative band about one chi wide on the gray brick wall. Due to weathering, few paintings survive intact.</p>
 <p class="en">The best-preserved <strong>polychrome</strong> painting on the old street is the hanging-valance style painting on the screen wall inside Cheng Zhenchang Inn. This painting is divided into three bays, with architectural elements such as hanging lotus columns and <strong>spandrel</strong>s painted in the center; each bay is divided into rhythmic segments, each with its own theme. Painting themes include rural thatched cottages, birds, animals, flowers, and plants. Colors are mainly black and white, supplemented by small amounts of indigo and ochre.</p>
@@ -1351,7 +1395,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Hu Gong Temple Fair</div>
 <div class="section-tag">文化和传统 | Culture and Traditions</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>阴历八九月农闲季节，八月十三胡公生日，庙会长达一个多月</li>
 <li>重头戏是<strong>打罗汉</strong>，也称<strong>迎案</strong>或<strong>胜案</strong>，以村为单位组织<strong>罗汉班</strong></li>
@@ -1371,7 +1415,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p><strong>胡公庙会</strong>正式开始是在八月初一，以<strong>胡则</strong>出生地胡库村<strong>打罗汉</strong>上方岩作为开端，其他村会在接下来的一个半月里，按照事先约定好的日期陆陆续续上方岩。从<strong>迎案</strong>的时间安排就可以看出，<strong>胡公庙会</strong>到八月十三日会有一个高潮，而重阳初八夜则又是一个小高潮。当地有八月十三，七十二个胡公上方岩的说法。</p>
 <p>具体到<strong>迎案</strong>当天的一些细节，村村有异，但大体程序基本相同。在约定好上方岩的前一天晚上，所有参与的人员要沐浴洁身。到了第二天凌晨，要在练武场上向供在这里的小胡公神位举行祭叉仪式。以后塘巷村为例，<strong>迎案</strong>的队伍从前至后依次是举鹅毛旗四人、令字旗一人、抬香案两人、持锣四人、举执事牌四人、挑花烛四人、挑香十人、持开道刀铲两人、举万岁牌一人、背胡公神座一人、掌扇一人、举伞一人及降神童一人，随后才是<strong>罗汉班</strong>和吹唱班。<strong>罗汉班</strong>的人数少则四五十人，多则近百。这一队人马浩浩荡荡地来到了<strong>方岩山</strong>顶上的胡公大殿前。在三响铁铳之后，从村里背上来的胡公神座被放在了大殿前，罗汉们于是在喧闹的锣鼓声中绕大殿顺向跳三圈、再逆向跳三圈，这叫跳罗汉。与此同时，降神童会在大殿前的香炉里捧一把香灰放进背来胡公神座前的小香炉里，完成<strong>换香火</strong>的仪式。这些都进行完毕，<strong>迎案</strong>的队伍便原路返回本村，这叫打回头案。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">The lunar eighth and ninth months fall in the agricultural slack season after summer harvest and planting and before autumn harvest and winter planting. Coincidentally, the 13th day of the eighth month is the birthday of <strong>Hu Ze</strong>, the protective deity of <strong>Guangci Temple</strong> on <strong>Fangyan Mountain</strong>. Although the monks of <strong>Guangci Temple</strong> and many on the old street believe <strong>Hu Ze</strong>'s birthday is actually the 25th day of the second lunar month, and that the 13th of the eighth month is merely the day Hu Gong reviews the arhat troupes or is deified, this minor disagreement does not affect the month-long <strong>Hu Gong Temple Fair</strong> on <strong>Fangyan Mountain</strong> during the eighth and ninth months.</p>
 <p class="en">The centerpiece of the fair is <strong>da luohan</strong> (<strong>beating the arhat</strong>), also called <strong>ying an</strong> (welcoming the case) or sheng an (victorious case). According to Elder Cheng Chongshun, <strong>ying an</strong> refers to the specific action, while sheng an is the general term for the whole process. Da luohan has evolved into village-based arhat troupes that parade in formation imitating ancient armies, in the order of banners, staffs, swords, and forks, performing various martial arts.</p>
@@ -1390,7 +1434,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">The First Lunar Month</div>
 <div class="section-tag">文化和传统 | Culture and Traditions</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>过年以祭灶揭开序幕，二十四日送灶君，供黏糖</li>
 <li>腊月二十五年头禁，赤豆米煮蚕花粥，洒扫沐浴</li>
@@ -1412,7 +1456,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p><strong>迎龙灯</strong>的队伍在祠堂前稍事休息后会向西进入<strong>寿山坑</strong>，并沿<strong>方岩山</strong>北面的山路上山。上山的时候，已经是深夜了，几百桥龙灯蜿蜒近一里，纱灯里的烛火可以照亮整个<strong>方岩山</strong>。走到天门的时候，<strong>广慈寺</strong>的住持已经身着袈裟、手持法杖，带领众僧在这里迎候。龙灯被迎到寺院里，这里早就备好茶点、糖果以招待舞灯的人，寺里的和尚还会把没有烧完的蜡烛分给大家。休息片刻，龙灯便再次起程，从前山下山。下山的路十分难走，最陡峭的一段是飞桥，还不到一米宽。随后龙灯再次进村，并分别到<strong>世远公祠</strong>和<strong>绍常祠堂</strong>里拜祭，最后龙灯来到<strong>绍常祠堂</strong>前的空场上。这时天色已经微明，舞灯的人们在这里再做最后一次休息后，以备<strong>迎龙灯</strong>活动的高潮，即<strong>盘龙灯</strong>，也称团龙灯。<strong>盘龙灯</strong>一开始，<strong>龙头</strong>便以圆形路线向内盘旋，直到<strong>龙头</strong>被几圈桥灯团团围在中间。这时，<strong>龙头</strong>要设法逃出重围，而<strong>龙尾</strong>又要带领几百桥龙身尽力阻拦，这叫<strong>翻龙灯</strong>。<strong>翻龙灯</strong>会反反复复进行许多次，这期间舞灯者还会轮换休息，直到大家都筋疲力尽。这时<strong>绍常祠堂</strong>的管事会出来讲好话，在管事的好言劝说下，<strong>龙尾</strong>终于让<strong>龙头</strong>翻出重围。</p>
 <p>当龙灯再次回到<strong>得耕居</strong>前的时候，天已经大亮了。龙灯被一桥桥的拆开，换上新的蜡烛之后，桥灯便在鞭炮声中被村民们纷纷迎回了家。最后，<strong>龙头</strong>上的珠灯要取下来，送给村里的新婚夫妇，或是想要儿子的人家，这叫送灯。由于送灯暗含着送丁的吉祥祝福，所以收到珠灯的人家要准备好红包。到此为止，长达十几个小时的<strong>迎龙灯</strong>活动在正月十五日的早上终于结束了。人们在吉祥和喜庆的氛围下，新一年的各项工作便陆陆续续开始了。正如老街上的俗话，灯过年过，牛归牛栏，马归马舍。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">New Year celebrations on the old street begin with the kitchen god sacrifice. In the Jiangzhe region, there is a saying officials on the 23rd, commoners on the 24th, boat people on the 25th regarding the timing, which is why the Yongkang County Gazetteer records the 23rd of the 12th month, while locals send off the kitchen god on the 24th. That evening, every household worships the kitchen god before the stove and offers sticky candy, ensuring he speaks only good words before the Jade Emperor.</p>
 <p class="en">After sending off the kitchen god comes nian tou (year beginning), also called nian tou jin (year beginning prohibition). On the 25th of the 12th month, no wealth is dispensed; red bean and rice porridge called canhua zhou (silkworm flower porridge) is cooked, and the house is swept and baths taken. After the 25th, each family chooses an auspicious day for xie nian (thanking the year), also called song nian (sending off the year). This family-based deity sacrifice is usually held in the main hall, with abundant offerings including pig head, goose, chicken, fish, tofu, wine, and rice. All men of the family participate, exchanging blessings while welcoming the kitchen god back.</p>
@@ -1433,7 +1477,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Ancestor Worship</div>
 <div class="section-tag">文化和传统 | Culture and Traditions</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>一年中三个阴间节日：<strong>清明</strong>、<strong>冬至</strong>、<strong>中元</strong></li>
 <li><strong>清明</strong><strong>祭祖</strong>最隆重，前三天后四天到祖坟祭扫，添土标青</li>
@@ -1453,7 +1497,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>祭祀过程多在午饭之前，有的人家还会放鞭炮。岩下街79号的<strong>程镇康</strong>家每年都在<strong>冬至</strong>这天<strong>祭祖</strong>，<strong>2008年</strong><strong>冬至</strong>这天他家的供桌上摆了猪肉、煎豆腐、鸡蛋、自家种的橘子和用糯米做皮，豆腐、粉丝、猪肉和青菜做馅的团子。这些供品放在桌子中间，旁边整整齐齐的摆放了九副碗筷和酒杯。在靠近<strong>明堂</strong>一侧的桌子上有两个烛台和两束各三支的香。在一切都准备好以后，程家的女主人，即<strong>程镇康</strong>的夫人，拿着一束香到院门口拜三拜请祖宗们回家。如果这时外面正好有人的话，大家都会自觉地让开门口。等祖宗们落座之后，程家的儿子要给每个祖宗敬三次酒，酒是用自家酿的上好黄酒。随后，家里的人开始在院子里一起给祖宗烧些纸钱和纸银锭。最后，程家的女主人要拿着另一束香，走到门口再拜三拜送祖宗们回去，然后关上院门。在整个祭祀过程结束之后，供桌上的部分美味就成了当日午餐的一部分。</p>
 <p><strong>中元</strong>：第三个<strong>祭祖</strong>的日子是在阴历七月十五的<strong>中元</strong>节，也称鬼节。在这一天里，家家户户也要做<strong>羹饭</strong>来盛筵祖先。但是不同于另外两个节日的是，在这一天，短命的和没有后代的孤魂野鬼也可以享受到祭祀。正如县志里说：<strong>中元</strong>，荐祖考、祀孤。所以这里有些善良的人家会在<strong>祭祖</strong>之后，用篮子带上一些供品，到村庄外的路口或者空地上进行野祭，俗称路头<strong>羹饭</strong>。更有富裕的人家会结队去寺院或是祠堂去拜星，以超度饿鬼和死囚。这一切都是为了能让自己的祖先安心地享受儿孙们孝敬的香烛、食物和钱财，而不会被那些受不到祭祀的孤魂野鬼骚扰。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Ancestor sacrifice has always been an important part of Chinese social life and a manifestation of the simplest religious consciousness. Through funeral rituals, people soothe the souls of the dead, enabling them to enter another world and live comfortably there. Beyond this, people maintain contact with ancestors through regular offerings of food, money, and clothing, praying for prosperous descendants, wealth, and abundant harvests. Among the many festivals in a year, three are considered festivals of the underworld, with <strong>ancestor worship</strong> activities of varying scale in the village.</p>
 <p class="en"><strong>Qingming</strong>: The most solemn <strong>ancestor worship</strong> is at <strong>Qingming</strong>, in early April. From three days before to four days after, villagers visit the graves of each branch to sweep, add soil, and biao qing (mark green)—hanging white paper before the grave. Sacrificial foods typically include pig head, goose, tofu, cake, barley flour, jin tuan (golden dumplings), and qingming guo (<strong>Qingming</strong> cakes), with the latter being most distinctive. <strong>Qingming</strong> guo come in red, white, and green varieties, made with glutinous rice skin and brown or white sugar filling. White is made with plain ground rice; green with wild vegetable juice (wild mugwort); red with food coloring. Uniquely, local qingming guo are pressed using a guo mold. Jin tuan are similar but filled with tofu, glass noodles, greens, and pork.</p>
@@ -1472,7 +1516,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Family Division</div>
 <div class="section-tag">文化和传统 | Culture and Traditions</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>分家</strong>主要有两种方法：长辈年迈或去世后儿子们<strong>分家</strong>；儿子结婚后即分出单过</li>
 <li><strong>分家</strong>主持人由家族中有威望的人担当，请娘舅和姑父作证</li>
@@ -1487,7 +1531,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>另外一种<strong>分家</strong>的方法是每当一个儿子结婚以后，父母就会拿出一些钱财和器物，让小两口单过。据<strong>程镇康</strong>老人讲，其太公<strong>程乐涞</strong>就是这样给他的七个儿子<strong>分家</strong>的。当<strong>程乐涞</strong>帮长子程昭斌成亲后，就给了他两千铜钱、一条扁担、两个布袋、一个锅、几个盆和碗，让他们出去租房单过。别看这几样再普通不过的东西，里面却饱含老人的一片苦心。扁担和布袋是给他到杭州和金华去做茶叶生意；两千铜钱当然就是起家和做生意的本钱；有了锅、盆和碗，就可以起灶做饭，填饱肚子。老人没给被褥之类的东西，是因为这些都来自于随嫁的嫁妆。</p>
 <p>对于接下来的五个儿子，老人都是如此：帮他们娶亲，给他们一些本钱和生活的必需品，让他们出去单过。区别只是当家境好的时候，一条扁担可能变成了两条扁担；家境不好的时候，两千铜钱或许变成了五百铜钱；等到最小的儿子程昭祥成家的时候，老人把他留在了身边，帮助料理，并最终继承了家里的小旅店。有趣的是，这六个被扫地出门的儿子，日后都成了颇有成就的大商人，远比备受照顾的小儿子家境好。其中有三个在老街上做起了旅店生意，而且都是赫赫有名的大旅店；另外三个分别经营着茶叶生意、南货店和雨伞店。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Family division mainly follows two methods. The first occurs when elders are elderly or deceased, and sons divide the family—sometimes a grandson divides with his uncles. In such cases, the division is presided over by a respected family member, and crucially, maternal uncles and paternal aunts' husbands are invited as witnesses, while a literate person writes the division contract.</p>
 <p class="en">The first step is to register all family property and finances. For ordinary families, division mainly involves housing and land. If the family has only one courtyard, the main hall (also called xi jian, west room) is retained for common use, for weddings and funerals. The room east of the west room, called shang da fang (upper great room), goes to the eldest son; the room west of it, xia da fang (lower great room), goes to the second son. The remaining rooms have no fixed division pattern. For wealthy families, furniture and utensils are also registered and distributed as evenly as possible. For example, in 1945 the largest inn on the old street, <strong>Cheng Zhenxing</strong>, was split in two. Reportedly, because there were so many possessions and money, the division took over three months.</p>
@@ -1504,7 +1548,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Appendix A: Offices of Zhejiang Provincial Government Departments and Affiliated Institutions at Fangyan</div>
 <div class="section-tag">附录 | Appendices</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li><strong>浙江省政府</strong>位于<strong><strong><strong>五峰</strong>书院</strong></strong>，主席<strong>黄绍竑</strong>，纪念周及省政府会议均在山洞中进行</li>
 <li>民政厅初位于岩下街新隆兴旅店，1940年迁至<strong>绍常祠堂</strong></li>
@@ -1543,7 +1587,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>民政厅厅长阮毅成公馆，位于鸡鸣峰南麓，万成庙前。</p>
 <p><strong>抗战</strong>阵亡将士纪念碑，<strong>1939年</strong>7月7日建于桃花峰北。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">After the Zhejiang provincial government moved to Fangyan, the locations of its departments were as follows:</p>
 <p class="en">Zhejiang Provincial Government, at <strong>Wufeng Academy</strong>, with Chairman Huang Shaohong. Weekly commemorations and provincial government meetings were held in caves.</p>
@@ -1581,7 +1625,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Appendix B: Selected Repertoire of Hu Gong Temple Fair Singing Troupes</div>
 <div class="section-tag">附录 | Appendices</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>十八狐狸又名大面姑娘，20名男演员组成，18人男扮女装</li>
 <li>十八蝴蝶由18人饰蝴蝶，2~4人饰花神，蝴蝶翅膀用竹篾扎制</li>
@@ -1596,7 +1640,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>讨饭莲花：讨饭莲花又名永康莲花，一般由18～<strong>36个</strong>男演员扮演。一人扮演讨饭头，其重彩丑脸，赤膊赤脚，头戴红缨帽或草辫箍，身穿破白裙。身穿破烂衣衫的讨饭帮随后，他们每人手执一副莲花竹板，唱《永康莲花》调。通常由讨饭头领唱一句，讨饭帮跟一句腔，唱词一般有顺十字、倒十字，或即兴随编。</p>
 <p>三十六行：三十六行是由38名男性扮演的舞蹈。其中<strong>36人</strong>扮演<strong>36个</strong>行业的特征，他们手拿各行各业的典型工具，摆出各自的架势。另有<strong>2个</strong>男演员各人头戴草辫箍，脸施重彩，衣衫不整，腰系稻草绳，赤脚，各打一面大锣，领头开路。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Eighteen Foxes: Also known as Big-Faced Girl, this is an indispensable and most popular program at the Fangyan fair. Based on a folk tale, it tells of a Tang dynasty official with 4 sons and 18 grandsons. After the family declined, 17 grandsons died one after another, leaving 17 widows. The youngest grandson forced the 17 sisters-in-law plus his wife—18 women—to open a brothel and sing. The dance involves 20 male actors: 18 cross-dress as women, wearing various female-expression masks, blue lace-trimmed jackets, black pleated skirts, embroidered shoes, holding paper fans and silk handkerchiefs. One plays the brothel madam with a large horned-bun mask, red lace jacket, colored sash and pants, embroidered shoes, holding a water pipe and a wheat-straw fan. Another plays a client with a skullcap mask, brown long gown, purple-black mandarin jacket, black cloth shoes, and a long pipe. During performance, the client moves among the foxes, making a fool of himself with flirtation; some foxes scold and resist, others show off; the madam dashes about, fawning on the client and coercing the foxes. Accompanied by percussion music Wangxiangtai, it is acted but not sung.</p>
 <p class="en">Eighteen Butterflies: 18 performers play butterflies, 2-4 play flower spirits. Butterfly wings have bamboo skeletons covered with gauze or silk, painted with various patterns; the wings are fixed to the shoulders and back and can flap freely. Flower spirits are dressed as Wuju opera female leads, in red front-buttoned water-sleeve tops, long pleated skirts, and long shoulder ribbons. Music uses existing folk tunes such as Meng Jiangnu and Girl's Longing; the band usually has four people—two playing erhu, one playing cymbals, one playing drums. Performers dance but do not sing.</p>
@@ -1610,7 +1654,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Appendix C: Statistics of Fangyan Inns (Before 1949)</div>
 <div class="section-tag">附录 | Appendices</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>最早旅店程隆兴创建于清道光末年（1821-1850年）</li>
 <li><strong>程振兴</strong>创建于清光绪六年（1880年），1945年<strong>分家</strong>为老振兴（51间）和新振兴（48间）</li>
@@ -1655,7 +1699,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>天街旅店：千金楼（程章溪，民国初年，<strong>4间</strong>）、两面楼（程岩济，民国初年，<strong>4间</strong>）、三星店（民国初年，<strong>3间</strong>）、葫芦招牌（吕氏，民国初年，<strong>3间</strong>）、玉华楼（民国初年）、三门楼（民国初年）、天门店（程岩奎，<strong>1930年</strong>，<strong>4间</strong>）、狮子楼（程六妹，<strong>1930年</strong>，<strong>3间</strong>）、程泰康（程岩占，<strong>1934年</strong>，<strong>2间</strong>）、天官店（程瑞占，<strong>1942年</strong>，<strong>3间</strong>），均位于天街，程方峰祠堂附近。</p>
 <p>注：旅店情况参考《永康县志》（1991）、《永康店名厂》（1995）、《方岩指南》（1925）、方岩明清街示意图（应业湘提供）及村民访谈综合得出。房间数目可能会随家庭成员人数的增减而稍有变化。表国分拍之意即开分店。</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Statistics of Fangyan inns (before 1949), arranged by founding date:</p>
 <p class="en">Cheng Longxing: Founded by Cheng Yuebiao, later passed to Cheng Zhaoqing and Cheng Zhaoheng, in the late Daoguang era (1821-1850). Two-story courtyard building (collapsed). North of Shangkengkou, west side of old street.</p>
@@ -1699,7 +1743,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <div class="project-title-en">Appendix D: Statistics of Fangyan Shops in the Yichou Year of the Republic (1925)</div>
 <div class="section-tag">附录 | Appendices</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>依据1925年版《方岩指南》统计</li>
 <li>商品种类包括杂货、京货、雨伞、木梳、竹木用具、儿童玩具、图书等</li>
@@ -1737,7 +1781,7 @@ body { font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif; ba
 <p>其他：
 日新书社：发行《方岩指南》及各类图书，程方峰公祠前</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">Statistics of Fangyan shops in the Yichou year of the Republic (1925), based on the 1925 edition of Fangyan Guide.</p>
 <p class="en">Shops on Yanxia Old Street:
@@ -1777,7 +1821,7 @@ Rixin Book Society: publishes Fangyan Guide and various books, in front of Cheng
 <div class="project-title-en">Afterword</div>
 <div class="section-tag">后记 | Afterword</div>
 <div class="highlights">
-<h4>◆ 要点 Highlights</h4>
+<h4> 要点 Highlights</h4>
 <ul>
 <li>作者赵巍2008年赴美国爱荷华州立大学建筑系任讲师</li>
 <li>陈志华为研究课题总策划，李秋香为项目负责人及测绘主持人</li>
@@ -1801,7 +1845,7 @@ Rixin Book Society: publishes Fangyan Guide and various books, in front of Cheng
 艾姆斯（Ames），爱荷华（Iowa）
 美国</p>
 </div>
-<div class="divider">— ✦ —</div>
+<div class="divider">— —</div>
 <div class="content-en">
 <p class="en">In the summer before the Beijing Olympics, while埋头 writing in a rented apartment outside Tsinghua's east gate, the author received an invitation from the Department of Architecture at Iowa State University to serve as a lecturer. Excitement was mixed with anxiety: US universities start early, and with finding housing and buying furniture, departure by the end of July was necessary—at least two months earlier than the planned book completion date. The author explained the situation to Professors Li Qiuxiang and Chen Zhihua and expressed the wish to continue writing in the US; they were understanding and supportive. Professor Li said, as always kindly, Take care of your health, but keep up the work. Professor Chen said earnestly over the phone, It's good to want to finish, but don't delay. And so, in the week when tens of thousands of athletes, journalists, and tourists arrived at the brand-new Terminal 3, the author left in a hurry.</p>
 <p class="en">Teaching in the US was far harder and more challenging than expected. The entire fall semester felt like daily battle. Coming home at night, collapsing on the sofa, nothing else got done. Weekends were often spent grading papers for a dozen students, leaving little time for the unfinished Tsinghua vernacular architecture work. Ashamed to say, the author failed Professors Li and Chen and let the work drag on. Before the end of last year, Professor Li sent a letter politely asking about progress. With no answer to give, the author resolved to finish the work well, no matter what, to deliver on the trust of so many people. By the end of spring semester, though snow still fell outside, the weight in the heart gradually lifted, and one could look forward to a belated spring.</p>
@@ -1827,5 +1871,26 @@ USA</p>
 <p>作者：赵巍 | Author: Zhao Wei | 中国乡土建筑丛书</p>
 <p>39 Projects | 8 Chapters + Appendix + Afterword | 90 Terms Glossary</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

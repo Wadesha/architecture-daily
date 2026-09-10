@@ -45,8 +45,52 @@ body{font-family:'Segoe UI','Microsoft YaHei',sans-serif;background:#f5f0e8;colo
 .stat .num{font-size:2em;font-weight:900;color:#c0392b}
 .stat .label{font-size:.8em;color:#888;margin-top:4px}
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="dk-header">
 <h1>甘肃传统村落</h1>
 <div class="en">Traditional Villages of Gansu Province, China</div>
@@ -991,9 +1035,9 @@ body{font-family:'Segoe UI','Microsoft YaHei',sans-serif;background:#f5f0e8;colo
 </div>
 <h4>选址与格局</h4>
 <p>三陶村位于民勤县三雷镇，近代河湖冲积洪积淤积平原，最早移民居住，汉代移民戍边最早陶姓人认领开垦得名陶乡，清代扩大分上陶中陶新陶三陶四村，新中国成立后沿用。瑞安堡位于村西南3.5公里，民国二十七年（1938年）建成，原国民党地方保安团长民勤大富绅王庆云私人庄堡，俗称王团堡子，2006年国家级文保。距红崖山水库30公里青土湖65公里。</p>
-<p class="en-text">Santao in Minqin Sanlei: alluvial plain, earliest immigrant settlement, Han-era military colonists with Tao surname claiming land → Taoxiang; Qing expanded to four villages (Shang/Zhong/Xin/San Tao); name retained after 1949. Rui'an Fort, 3.5km southwest, completed 1938, private residence of Wang Qingyun (Kuomintang local security regiment commander, wealthy gentry), aka Wang Tuan Baozi, national heritage 2006. 30km from Hongyashan Reservoir, 65km from Qingtu Lake.</p>
+<p class="en-text">Santao in Minqin Sanlei: alluvial plain, earliest immigrant settlement, Han-era military colonists with Tao surname claiming land， Taoxiang; Qing expanded to four villages (Shang/Zhong/Xin/San Tao); name retained after 1949. Rui'an Fort, 3.5km southwest, completed 1938, private residence of Wang Qingyun (Kuomintang local security regiment commander, wealthy gentry), aka Wang Tuan Baozi, national heritage 2006. 30km from Hongyashan Reservoir, 65km from Qingtu Lake.</p>
 <h4>传统建筑</h4>
-<p>瑞安堡1936年动工设计约1935年，堡身坐北向南长92.25米宽54.6米占地5036.85平方米建筑面积2394平方米，大小院落8个亭台楼阁7座高脊瓦房140余间。主院三进：前院过院住卫兵长工置车马；中院四合院办公待客；后院内院主人生活娱乐。环庄院四周底部厚7米顶宽2.8米高12米土夯墙（黏土沙石灰混合分层夯实夹红柳枝大城砖加固），上筑门楼文楼武楼望月庭逍遥宫双喜楼瞭望楼及人行通道。平面三大防御特征：①厚墙围廊堡门锁喉——大门宽9.3米高10.8米条石镶基大城砖门洞洞窟形宽3.3米高3.9米门扇厚16厘米外包铁皮密施铁铆钉，门廊上面阔三间进深一间硬山顶门楼耸立围墙之上两侧角楼相护；②巡道环绕堡楼相护——围墙顶2米宽巡道全长300米，外侧0.5米厚2.2米高砖砌掩体女儿墙（对外射击孔）内侧0.7米护墙，四角和南西北中部分别角楼中楼，向外砖砌墙垛垛出墙面1.5-4米，堡楼墙垛射击孔形成第二道火力防御体系；③布置暗道固可守破可逃——沿围墙地下砖砌拱形暗道可供两人通行总长160多米，出入口分设围墙顶（西墙望月厅地下）、生活区（中后院厢房厕所粮房）、前院马厩、庄院外。曾被称为"小皇城"，是庄院式民居代表作品，河西走廊沙漠边缘抗风沙挡酷暑抵严寒宜人居的庄院式城堡。徐氏民宅1940年建（王庆云姐夫徐氏住宅），南北60米东西40米，前院后院小院3个院落房屋25间，前院草院后院生活区，后院回廊四绕堂屋面阔三间进深一间硬山顶青砖铺顶，高墙大院土木结构，民勤县域内保存最完整普通民居。</p>
+<p>瑞安堡1936年动工设计约1935年，堡身坐北向南长92.25米宽54.6米占地5036.85平方米建筑面积2394平方米，大小院落8个亭台楼阁7座高脊瓦房140余间。主院三进：前院过院住卫兵长工置车马；中院四合院办公待客；后院内院主人生活娱乐。环庄院四周底部厚7米顶宽2.8米高12米土夯墙（黏土沙石灰混合分层夯实夹红柳枝大城砖加固），上筑门楼文楼武楼望月庭逍遥宫双喜楼瞭望楼及人行通道。平面三大防御特征：(1)厚墙围廊堡门锁喉——大门宽9.3米高10.8米条石镶基大城砖门洞洞窟形宽3.3米高3.9米门扇厚16厘米外包铁皮密施铁铆钉，门廊上面阔三间进深一间硬山顶门楼耸立围墙之上两侧角楼相护；(2)巡道环绕堡楼相护——围墙顶2米宽巡道全长300米，外侧0.5米厚2.2米高砖砌掩体女儿墙（对外射击孔）内侧0.7米护墙，四角和南西北中部分别角楼中楼，向外砖砌墙垛垛出墙面1.5-4米，堡楼墙垛射击孔形成第二道火力防御体系；(3)布置暗道固可守破可逃——沿围墙地下砖砌拱形暗道可供两人通行总长160多米，出入口分设围墙顶（西墙望月厅地下）、生活区（中后院厢房厕所粮房）、前院马厩、庄院外。曾被称为"小皇城"，是庄院式民居代表作品，河西走廊沙漠边缘抗风沙挡酷暑抵严寒宜人居的庄院式城堡。徐氏民宅1940年建（王庆云姐夫徐氏住宅），南北60米东西40米，前院后院小院3个院落房屋25间，前院草院后院生活区，后院回廊四绕堂屋面阔三间进深一间硬山顶青砖铺顶，高墙大院土木结构，民勤县域内保存最完整普通民居。</p>
 <p class="en-text">Rui'an Fort: construction began 1936 (design ~1935), south-facing, 92.25m×54.6m, 5,036.85 sqm site, 2,394 sqm floor, 8 courtyards, 7 pavilions/towers, 140+ high-ridge tile rooms. Three main courtyards: front (guards/workers/carriages), middle (office/reception siheyuan), rear (inner family living). Surrounding walls: 7m base, 2.8m top, 12m high, rammed with clay/sand/lime mixed with tamarisk branches, reinforced with large bricks; topped with gate towers, Wen/Wu towers, Wangyue Pavilion, Xiaoyao Palace, Shuangxi Tower, watchtowers, and walkways. Three defensive features: 1) Thick walls/gated throat: gate 9.3m wide 10.8m high, stone base, large brick cave-style portal 3.3m×3.9m, 16cm-thick iron-sheathed doors with iron rivets, gate porch with 3-bay flush-gable tower flanked by corner towers; 2) Encircling patrol path with mutually-supporting towers: 2m-wide 300m-long patrol path atop walls, outer 0.5m-thick 2.2m-high brick parapet with shooting holes, inner 0.7m wall, corner/central towers with outward brick buttresses 1.5-4m, forming second fire defense line; 3) Secret passages for defense/escape: brick-vaulted underground passages along walls for two people, 160+m total, entrances at wall top (under Wangyue Hall), living quarters (rear wing/toilet/granary), front stable, and outside fort. Called 'Little Imperial City,' representative manor dwelling on the Hexi desert edge resisting sand/heat/cold. Xu Residence (1940, Wang Qingyun's brother-in-law): 60m×40m, 3 courtyards, 25 rooms, front for grass/livestock, rear for living, rear courtyard with wraparound corridors, 3-bay flush-gable main hall with blue brick roof, high-walled earthy-wood compound — Minqin's best-preserved common dwelling.</p>
 <h4>非物质文化遗产</h4>
 <p><span class="tag purple">民勤小曲子</span>最初称镇番小曲，曲调丰富优美动听，流行于民勤城乡的曲牌体地方小剧种，道白用民勤方言诙谐通俗亲切，表演带地蹦子特色（男角蹦蹦跳跳女角摇摇摆摆），最初仅小生小旦小丑三小戏，清末生旦净丑俱全，著名艺人曹开兴高培阁周玉文田志书陈生致等。</p>
@@ -1012,5 +1056,26 @@ body{font-family:'Segoe UI','Microsoft YaHei',sans-serif;background:#f5f0e8;colo
 <p>编著：刘奔腾、张小娟、李沁鞠 | 东南大学出版社 | 全文基于原书521页逐页提取 | 57个传统村落 · 四大区域</p>
 </div>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

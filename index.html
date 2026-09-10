@@ -3,185 +3,179 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>中国建筑文化档案 · Chinese Architecture Archive</title>
+<title>中国建筑文化档案</title>
 <style>
-  :root {
-    --bg: #faf8f3;
-    --card-bg: #ffffff;
-    --ink: #2c2c2c;
-    --ink-light: #6b6b6b;
-    --accent: #8b4513;
-    --accent-light: #d4a574;
-    --border: #e8e0d5;
-    --shadow: 0 2px 12px rgba(139, 69, 19, 0.08);
-  }
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: "Noto Serif SC", "Songti SC", "SimSun", Georgia, serif;
-    background: var(--bg);
-    color: var(--ink);
-    min-height: 100vh;
-    line-height: 1.7;
-  }
-  .container { max-width: 900px; margin: 0 auto; padding: 40px 24px 80px; }
-  header { text-align: center; padding: 32px 0; border-bottom: 1px solid var(--border); margin-bottom: 40px; }
-  header h1 { font-size: 2rem; font-weight: 700; letter-spacing: 4px; color: var(--accent); margin-bottom: 8px; }
-  header p { color: var(--ink-light); font-size: 0.95rem; }
-  .hero { background: var(--card-bg); border-radius: 12px; padding: 48px 32px; box-shadow: var(--shadow); text-align: center; margin-bottom: 40px; border: 1px solid var(--border); position: relative; overflow: hidden; }
-  .hero::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, var(--accent-light), var(--accent), var(--accent-light)); }
-  .hero-label { font-size: 0.8rem; color: var(--ink-light); letter-spacing: 2px; margin-bottom: 16px; }
-  .hero-label-en { font-size: 0.75rem; color: var(--accent-light); margin-bottom: 24px; }
-  .hero-title { font-size: 1.6rem; font-weight: 700; color: var(--ink); margin-bottom: 12px; word-break: break-all; }
-  .hero-meta { font-size: 0.85rem; color: var(--ink-light); margin-bottom: 32px; }
-  .hero-meta .cat-tag { display: inline-block; padding: 3px 12px; border-radius: 20px; background: #f5ede2; color: var(--accent); font-size: 0.75rem; margin-right: 8px; }
-  .hero-actions { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
-  .btn { display: inline-flex; align-items: center; gap: 8px; padding: 12px 28px; border-radius: 8px; font-size: 0.95rem; font-weight: 500; cursor: pointer; text-decoration: none; transition: all 0.2s; border: none; font-family: inherit; }
-  .btn-primary { background: var(--accent); color: #fff; }
-  .btn-primary:hover { background: #6d3610; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(139,69,19,0.3); }
-  .btn-secondary { background: #fff; color: var(--accent); border: 1px solid var(--accent); }
-  .btn-secondary:hover { background: #f5ede2; }
-  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 40px; }
-  .stat-card { background: var(--card-bg); padding: 20px; border-radius: 8px; border: 1px solid var(--border); text-align: center; }
-  .stat-num { font-size: 1.8rem; font-weight: 700; color: var(--accent); }
-  .stat-label { font-size: 0.8rem; color: var(--ink-light); margin-top: 4px; }
-  .section-title { font-size: 1.1rem; font-weight: 600; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 2px solid var(--accent-light); display: flex; justify-content: space-between; align-items: center; }
-  .section-title .sub { font-size: 0.8rem; color: var(--ink-light); font-weight: normal; }
-  .cat-filter { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
-  .cat-filter button { padding: 6px 16px; border-radius: 20px; border: 1px solid var(--border); background: #fff; cursor: pointer; font-size: 0.8rem; font-family: inherit; transition: all 0.15s; }
-  .cat-filter button.active { background: var(--accent); color: #fff; border-color: var(--accent); }
-  .cat-filter button:hover:not(.active) { border-color: var(--accent-light); }
-  .article-list { list-style: none; }
-  .article-list li { padding: 12px 16px; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: baseline; gap: 16px; }
-  .article-list li:hover { background: #fff; }
-  .article-list a { color: var(--ink); text-decoration: none; flex: 1; font-size: 0.92rem; }
-  .article-list a:hover { color: var(--accent); }
-  .article-list .mini { font-size: 0.7rem; color: var(--ink-light); white-space: nowrap; }
-  footer { text-align: center; padding: 32px 0; color: var(--ink-light); font-size: 0.8rem; border-top: 1px solid var(--border); margin-top: 48px; }
-  footer a { color: var(--accent); text-decoration: none; }
-  .loading { text-align: center; padding: 60px; color: var(--ink-light); }
-  .fade-in { animation: fadeIn 0.4s ease; }
-  @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
-  @media (max-width: 600px) {
-    .hero { padding: 32px 20px; }
-    .hero-title { font-size: 1.2rem; }
-    header h1 { font-size: 1.4rem; letter-spacing: 2px; }
-  }
+:root{--bg:#faf9f6;--ink:#1a1a1a;--mid:#6b6b6b;--faint:#d4d4d4;--panel:#fff;--cinn:#9e3a2c;--jade:#3d6b5e;--gold:#a8844a;--sans:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;--serif:"Songti SC","STSong",Georgia,serif;}
+*{margin:0;padding:0;box-sizing:border-box;}
+html{font-size:12px;}
+body{font-family:var(--sans);background:var(--bg);color:var(--ink);min-height:100vh;line-height:1.4;-webkit-font-smoothing:antialiased;}
+a{color:inherit;text-decoration:none;}
+button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit;}
+
+/* ===== STICKY TOP NAV ===== */
+nav.topbar{background:var(--ink);color:#e8e6e0;height:36px;display:flex;align-items:center;padding:0 12px;position:sticky;top:0;z-index:999;gap:8px;}
+.brand{font-family:var(--serif);font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;flex-shrink:0;}
+.brand-en{font-size:9px;color:#6b6b6b;margin-left:4px;letter-spacing:1px;text-transform:uppercase;}
+.navlinks{display:flex;gap:0;flex:1;overflow-x:auto;}
+.navlinks a,.navlinks button{color:#b0b0b0;font-size:11px;padding:4px 7px;border-radius:2px;white-space:nowrap;transition:background .1s;}
+.navlinks a:hover,.navlinks button:hover{color:#fff;background:rgba(255,255,255,.08);}
+.navlinks .sep{color:#444;font-size:9px;padding:4px 1px;}
+.navlinks .c1{color:var(--cinn);}
+.navlinks .c2{color:var(--jade);}
+.navlinks .c3{color:var(--gold);}
+.navlinks .c4{color:#d4c8b0;}
+
+/* ===== SUB-NAV (filtered view indicator + tools) ===== */
+.subnav{background:#fff;border-bottom:1px solid var(--faint);height:30px;display:flex;align-items:center;padding:0 12px;gap:10px;font-size:11px;color:var(--mid);position:sticky;top:36px;z-index:998;}
+.subnav .tag{background:var(--ink);color:#fff;padding:1px 8px;border-radius:2px;font-size:10px;}
+.subnav .tag.c1{background:var(--cinn);}
+.subnav .tag.c2{background:var(--jade);}
+.subnav .tag.c3{background:var(--gold);}
+.subnav .tag.c4{background:#5a5240;}
+.subnav .count{color:var(--ink);font-weight:600;}
+.subnav .shuffle{margin-left:auto;color:var(--cinn);font-weight:600;padding:2px 8px;border:1px solid var(--faint);border-radius:2px;}
+.subnav .shuffle:hover{background:var(--cinn);color:#fff;border-color:var(--cinn);}
+
+/* ===== FILTER STRIP (4 cols compact) ===== */
+.filterstrip{background:#fff;border-bottom:1px solid var(--faint);display:grid;grid-template-columns:repeat(4,1fr);gap:0;padding:0;}
+.filterstrip button{padding:8px 10px;text-align:left;border-right:1px solid var(--faint);font-size:11px;color:var(--mid);transition:background .1s;cursor:pointer;}
+.filterstrip button:last-child{border-right:none;}
+.filterstrip button:hover{background:#f5f4f0;}
+.filterstrip button.active{background:var(--ink);color:#fff;}
+.filterstrip button.active .num{color:#fff;}
+.filterstrip .num{font-family:var(--serif);font-size:14px;font-weight:700;color:var(--ink);display:block;line-height:1;}
+.filterstrip .lbl{display:block;margin-top:2px;}
+.filterstrip .lbl-en{display:block;font-size:9px;color:var(--faint);margin-top:0;letter-spacing:.5px;}
+
+/* ===== LIST: MAX DENSITY ===== */
+.listwrap{max-width:100%;padding:0;background:var(--bg);}
+.list{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:0;background:var(--faint);}
+.item{background:#fff;padding:7px 9px;transition:background .1s;border-right:1px solid var(--faint);border-bottom:1px solid var(--faint);cursor:pointer;}
+.item:hover{background:#faf3f1;}
+.item .t{font-size:11.5px;font-weight:500;color:var(--ink);line-height:1.35;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;}
+.item:hover .t{color:var(--cinn);}
+.item .m{font-size:9px;color:var(--mid);margin-top:3px;display:flex;gap:6px;align-items:center;flex-wrap:wrap;}
+.item .chip{font-size:8px;padding:0 4px;border-radius:1px;background:#f0efe9;color:var(--mid);letter-spacing:.3px;line-height:1.4;}
+.item .chip.c1{background:#f4eae6;color:var(--cinn);}
+.item .chip.c2{background:#e6efe9;color:var(--jade);}
+.item .chip.c3{background:#f0ebe1;color:var(--gold);}
+.item .chip.c4{background:#e8e6e0;color:#5a5240;}
+.item .dot{color:var(--faint);}
+
+/* ===== FOOT NAV ===== */
+.footnav{background:var(--ink);color:#8a8a8a;padding:8px 12px;display:flex;flex-wrap:wrap;gap:0;justify-content:center;font-size:10px;}
+.footnav a,.footnav button{padding:2px 7px;border-radius:2px;color:#b0b0b0;}
+.footnav a:hover,.footnav button:hover{color:#fff;background:rgba(255,255,255,.08);}
+.footnav .sep{padding:2px 1px;color:#444;font-size:9px;}
+.footnav .c1{color:var(--cinn);}
+.footnav .c2{color:var(--jade);}
+.footnav .c3{color:var(--gold);}
+.footnav .c4{color:#d4c8b0;}
+footer{text-align:center;padding:6px;border-top:1px solid var(--faint);font-size:9px;color:#8a8a8a;background:#fff;}
+
+@media(max-width:640px){html{font-size:11px;}.list{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));}.filterstrip{grid-template-columns:repeat(2,1fr);}.topbar{height:34px;}body{padding-bottom:env(safe-area-inset-bottom);}}
 </style>
 </head>
 <body>
-<div class="container">
-  <header>
-    <h1>中国建筑文化档案</h1>
-    <p>Chinese Architecture & Cultural Heritage Archive</p>
-  </header>
 
-  <div id="hero" class="hero loading">加载中 Loading...</div>
-
-  <div id="stats" class="stats"></div>
-
-  <div class="section-title">
-    <span>全部文章 <span class="sub">All Articles</span></span>
-    <span id="list-count" class="sub"></span>
+<nav class="topbar">
+  <div class="brand">中国建筑文化档案<span class="brand-en">Archive</span></div>
+  <div class="navlinks">
+    <a href="#top">首页</a><span class="sep">·</span>
+    <a href="#cat-01" class="c1">省建</a>
+    <a href="#cat-02" class="c2">村落</a>
+    <a href="#cat-03" class="c3">海外</a>
+    <a href="#cat-04" class="c4">体风</a><span class="sep">·</span>
+    <button onclick="pick()" class="c1">🎲</button><span class="sep">·</span>
+    <a href="index.json">JSON</a>
+    <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener">GitHub</a>
   </div>
-  <div id="cat-filter" class="cat-filter"></div>
-  <ul id="article-list" class="article-list"></ul>
+</nav>
 
-  <footer>
-    <p>Wadesha / architecture-daily · <a href="https://github.com/Wadesha/architecture-daily" target="_blank">GitHub Repository</a></p>
-    <p style="margin-top:4px">每日随机一篇 · 514 篇内容持续更新</p>
-  </footer>
+<div class="subnav">
+  <span class="tag" id="filt-tag">全部</span>
+  <span class="count" id="filt-count">—</span>
+  <span style="margin-left:4px;color:#b0b0b0;" id="filt-subs"></span>
+  <button class="shuffle" onclick="pick()">🎲 换一篇</button>
 </div>
 
+<div class="filterstrip" id="cats"></div>
+
+<div class="listwrap"><div class="list" id="list"></div></div>
+
+<nav class="footnav">
+  <a href="#top">↑ Top</a><span class="sep">·</span>
+  <a href="#cat-01" class="c1">省建</a>
+  <a href="#cat-02" class="c2">村落</a>
+  <a href="#cat-03" class="c3">海外</a>
+  <a href="#cat-04" class="c4">体风</a><span class="sep">·</span>
+  <button onclick="pick()" class="c1">🎲 Random</button><span class="sep">·</span>
+  <a href="index.json">Data</a>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener">Repo</a>
+</nav>
+<footer>architecture-daily · Wadesha · <span id="dt"></span></footer>
+
 <script>
-let articles = [];
-let currentFilter = 'all';
-let currentArticle = null;
+const L={
+ '01_provincial-architecture':{cn:'省级建筑',en:'Provincial',short:'省建',cls:'c1'},
+ '02_villages-and-houses':     {cn:'村落民居',en:'Villages',  short:'村落',cls:'c2'},
+ '03_overseas-architecture':   {cn:'海外研究',en:'Overseas',  short:'海外',cls:'c3'},
+ '04_style-analysis':          {cn:'体风分析',en:'Style',     short:'体风',cls:'c4'}
+};
+let A=[],F='all';
 
-async function loadIndex() {
-  try {
-    const res = await fetch('index.json');
-    const data = await res.json();
-    articles = data.articles;
-    renderStats(data);
-    renderFilter(data);
-    renderList();
-    pickRandom();
-  } catch(e) {
-    document.getElementById('hero').innerHTML = '<p>加载失败，请检查网络。Failed to load index.json.</p>';
-  }
+async function load(){
+  try{
+    const d=await(await fetch('index.json')).json();
+    A=d.articles;
+    renderCats(d);renderList();pick();
+    document.getElementById('dt').textContent='Updated '+d.generated_at.slice(0,10);
+  }catch(e){document.getElementById('list').innerHTML='<div style="padding:40px;text-align:center;color:#999;">加载失败 Failed to load index.json</div>';}
 }
-
-function renderStats(data) {
-  const labels = data.category_labels || {};
-  const cats = data.categories || {};
-  const html = Object.keys(cats).sort().map(k => `
-    <div class="stat-card">
-      <div class="stat-num">${cats[k]}</div>
-      <div class="stat-label">${labels[k] || k}</div>
-    </div>
-  `).join('');
-  document.getElementById('stats').innerHTML = html;
+function renderCats(d){
+  const cats=d.categories||{};
+  let h=`<button class="active" onclick="setFilter('all')"><span class="num">${d.total}</span><span class="lbl">全部</span><span class="lbl-en">All</span></button>`;
+  Object.keys(cats).sort().forEach(k=>{
+    const info=L[k]||{cn:k,en:k,short:k,cls:''};
+    h+=`<button data-c="${k}" onclick="setFilter('${k}')"><span class="num">${cats[k]}</span><span class="lbl">${info.cn}</span><span class="lbl-en">${info.en}</span></button>`;
+  });
+  document.getElementById('cats').innerHTML=h;
 }
-
-function renderFilter(data) {
-  const labels = data.category_labels || {};
-  const cats = data.categories || {};
-  const html = `<button class="active" onclick="setFilter('all')">全部 All (${data.total})</button>` +
-    Object.keys(cats).sort().map(k => `<button onclick="setFilter('${k}')">${labels[k] || k} (${cats[k]})</button>`).join('');
-  document.getElementById('cat-filter').innerHTML = html;
-}
-
-function setFilter(cat) {
-  currentFilter = cat;
-  document.querySelectorAll('.cat-filter button').forEach((b,i) => {
-    b.classList.toggle('active', (cat==='all' && i===0) || b.textContent.includes(cat.split('_')[0]));
+function setFilter(c){
+  F=c;
+  document.querySelectorAll('.filterstrip button').forEach(el=>{
+    if(c==='all') el.classList.toggle('active',!el.dataset.c);
+    else el.classList.toggle('active',el.dataset.c===c);
   });
   renderList();
 }
-
-function renderList() {
-  let list = currentFilter === 'all' ? articles : articles.filter(a => a.category === currentFilter);
-  // sort by modified desc
-  list = [...list].sort((a,b) => (b.modified||'').localeCompare(a.modified||''));
-  document.getElementById('list-count').textContent = `${list.length} 篇`;
-  const html = list.map(a => {
-    const catName = a.category.replace(/^\d+_/,'');
-    return `<li>
-      <a href="${a.url}" target="_blank" rel="noopener">${a.title}</a>
-      <span class="mini">${catName} · ${a.modified || ''}</span>
-    </li>`;
+function renderList(){
+  let list=F==='all'?A:A.filter(a=>a.category===F);
+  list.sort((a,b)=>(b.modified||'').localeCompare(a.modified||''));
+  document.getElementById('filt-count').textContent=list.length+' 篇';
+  document.getElementById('filt-tag').textContent=F==='all'?'全部':(L[F]?.cn||F);
+  const subs={};
+  for(const a of list){if(a.subcategory){subs[a.subcategory]=(subs[a.subcategory]||0)+1;}}
+  const subStr=Object.keys(subs).sort().map(s=>s+'('+subs[s]+')').join(' · ');
+  document.getElementById('filt-subs').textContent=subStr;
+  const h=list.map(a=>{
+    const info=L[a.category]||{cls:''};
+    return `<a class="item" href="${a.url}"><div class="t">${a.title}</div><div class="m"><span class="chip ${info.cls}">${L[a.category]?.short||''}</span><span>${(a.size/1024).toFixed(0)}KB</span>${a.modified?`<span class="dot">·</span><span>${a.modified}</span>`:''}</div></a>`;
   }).join('');
-  document.getElementById('article-list').innerHTML = html;
+  document.getElementById('list').innerHTML=h||'<div style="padding:40px;text-align:center;color:#999;">无内容</div>';
 }
-
-function pickRandom() {
-  if (!articles.length) return;
-  const a = articles[Math.floor(Math.random() * articles.length)];
-  currentArticle = a;
-  const catLabels = document.querySelector('.stat-card') ? '' : '';
-  const labelMap = {
-    '01_provincial-architecture': '省级建筑 Provincial',
-    '02_villages-and-houses': '村落民居 Villages',
-    '03_overseas-architecture': '海外研究 Overseas',
-    '04_style-analysis': '体风分析 Style'
-  };
-  const catEn = labelMap[a.category] || a.category;
-  document.getElementById('hero').innerHTML = `
-    <div class="hero-label">今日随机 · Today's Random Pick</div>
-    <div class="hero-label-en">${catEn}</div>
-    <h2 class="hero-title fade-in">${a.title}</h2>
-    <div class="hero-meta">
-      <span class="cat-tag">${a.category.replace(/^\d+_/,'')}</span>
-      ${a.subcategory ? '· ' + a.subcategory : ''} · ${(a.size/1024).toFixed(0)} KB · ${a.modified}
-    </div>
-    <div class="hero-actions">
-      <a class="btn btn-primary" href="${a.url}" target="_blank" rel="noopener">打开文章 Open Article →</a>
-      <button class="btn btn-secondary" onclick="pickRandom()">🎲 换一篇 Shuffle</button>
-    </div>
-  `;
+function pick(){
+  if(!A.length)return;
+  const a=A[Math.floor(Math.random()*A.length)];
+  // set filter to show its category, then find it
+  setFilter(a.category);
+  // scroll after render
+  setTimeout(()=>{
+    const all=document.querySelectorAll('.item');
+    for(const el of all){if(el.getAttribute('href')===a.url){el.style.boxShadow='0 0 0 2px var(--cinn)';setTimeout(()=>el.style.boxShadow='',2000);el.scrollIntoView({behavior:'smooth',block:'center'});break;}}
+  },50);
 }
-
-loadIndex();
+load();
 </script>
 </body>
 </html>

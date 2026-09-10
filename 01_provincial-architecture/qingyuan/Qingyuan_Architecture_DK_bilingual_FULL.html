@@ -7,17 +7,17 @@
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
-    font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
-    background: #f8f5f0;
-    color: #2c2c2c;
-    line-height: 1.9;
+ font-family: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+ background: #f8f5f0;
+ color: #2c2c2c;
+ line-height: 1.9;
 }
 .book-header {
-    background: linear-gradient(135deg, #8b1a1a 0%, #b83333 50%, #8b1a1a 100%);
-    color: white;
-    padding: 50px 30px;
-    text-align: center;
-    border-bottom: 6px solid #c8a45c;
+ background: linear-gradient(135deg, #8b1a1a 0%, #b83333 50%, #8b1a1a 100%);
+ color: white;
+ padding: 50px 30px;
+ text-align: center;
+ border-bottom: 6px solid #c8a45c;
 }
 .book-header h1 { font-size: 2.4em; margin-bottom: 10px; letter-spacing: 4px; }
 .book-header .en { font-size: 1.2em; font-style: italic; opacity: 0.9; }
@@ -25,113 +25,113 @@ body {
 .book-header .series { margin-top: 5px; font-size: 0.85em; opacity: 0.7; }
 .container { max-width: 960px; margin: 0 auto; padding: 30px 25px; }
 .chapter-title {
-    background: linear-gradient(90deg, #8b1a1a, #b83333);
-    color: white;
-    padding: 18px 25px;
-    margin: 40px 0 25px;
-    border-radius: 6px;
-    font-size: 1.5em;
-    letter-spacing: 2px;
-    box-shadow: 0 3px 10px rgba(139,26,26,0.3);
+ background: linear-gradient(90deg, #8b1a1a, #b83333);
+ color: white;
+ padding: 18px 25px;
+ margin: 40px 0 25px;
+ border-radius: 6px;
+ font-size: 1.5em;
+ letter-spacing: 2px;
+ box-shadow: 0 3px 10px rgba(139,26,26,0.3);
 }
 .chapter-title .en { font-size: 0.65em; font-style: italic; opacity: 0.85; margin-left: 12px; }
 .project-card {
-    background: white;
-    border-radius: 10px;
-    margin-bottom: 25px;
-    overflow: hidden;
-    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
-    border: 1px solid #e8e0d0;
+ background: white;
+ border-radius: 10px;
+ margin-bottom: 25px;
+ overflow: hidden;
+ box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+ border: 1px solid #e8e0d0;
 }
 .project-header {
-    background: linear-gradient(90deg, #faf6ee, #fff);
-    padding: 18px 25px;
-    border-bottom: 2px solid #c8a45c;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    flex-wrap: wrap;
-    gap: 8px;
+ background: linear-gradient(90deg, #faf6ee, #fff);
+ padding: 18px 25px;
+ border-bottom: 2px solid #c8a45c;
+ display: flex;
+ justify-content: space-between;
+ align-items: baseline;
+ flex-wrap: wrap;
+ gap: 8px;
 }
 .project-header h3 { font-size: 1.3em; color: #8b1a1a; }
 .project-header .en { font-style: italic; color: #888; font-size: 0.95em; }
 .project-header .id { background: #c8a45c; color: white; padding: 2px 10px; border-radius: 12px; font-size: 0.8em; }
 .section-label {
-    background: #f0ebe0;
-    padding: 8px 20px;
-    font-size: 0.9em;
-    color: #666;
-    border-bottom: 1px solid #e0d8c8;
+ background: #f0ebe0;
+ padding: 8px 20px;
+ font-size: 0.9em;
+ color: #666;
+ border-bottom: 1px solid #e0d8c8;
 }
 .project-body { padding: 20px 25px; }
 .zh-content { margin-bottom: 15px; }
 .zh-content p {
-    text-indent: 2em;
-    margin-bottom: 12px;
-    font-size: 1.02em;
-    text-align: justify;
+ text-indent: 2em;
+ margin-bottom: 12px;
+ font-size: 1.02em;
+ text-align: justify;
 }
 .divider {
-    border: none;
-    border-top: 2px dashed #c8a45c;
-    margin: 20px 0;
-    position: relative;
+ border: none;
+ border-top: 2px dashed #c8a45c;
+ margin: 20px 0;
+ position: relative;
 }
 .divider::after {
-    content: "EN";
-    position: absolute;
-    top: -10px;
-    left: 50%;
-    transform: translateX(-50%);
-    background: white;
-    padding: 0 12px;
-    color: #c8a45c;
-    font-size: 0.75em;
-    letter-spacing: 2px;
-    font-weight: bold;
+ content: "EN";
+ position: absolute;
+ top: -10px;
+ left: 50%;
+ transform: translateX(-50%);
+ background: white;
+ padding: 0 12px;
+ color: #c8a45c;
+ font-size: 0.75em;
+ letter-spacing: 2px;
+ font-weight: bold;
 }
 .en-content { margin-bottom: 10px; }
 .en-content p {
-    font-style: italic;
-    color: #444;
-    margin-bottom: 10px;
-    padding-left: 15px;
-    border-left: 3px solid #ccc;
-    font-size: 0.95em;
-    text-align: justify;
+ font-style: italic;
+ color: #444;
+ margin-bottom: 10px;
+ padding-left: 15px;
+ border-left: 3px solid #ccc;
+ font-size: 0.95em;
+ text-align: justify;
 }
 .highlights {
-    background: #fdf8f0;
-    border-left: 4px solid #c8a45c;
-    padding: 15px 20px;
-    margin-top: 15px;
-    border-radius: 0 6px 6px 0;
+ background: #fdf8f0;
+ border-left: 4px solid #c8a45c;
+ padding: 15px 20px;
+ margin-top: 15px;
+ border-radius: 0 6px 6px 0;
 }
 .highlights h4 { color: #8b1a1a; margin-bottom: 8px; font-size: 0.95em; }
 .highlights ul { padding-left: 20px; }
 .highlights li { margin-bottom: 5px; font-size: 0.92em; color: #555; }
 .tags { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px; }
 .tag {
-    background: #e8e0d0;
-    color: #665533;
-    padding: 3px 10px;
-    border-radius: 12px;
-    font-size: 0.8em;
+ background: #e8e0d0;
+ color: #665533;
+ padding: 3px 10px;
+ border-radius: 12px;
+ font-size: 0.8em;
 }
 .footer {
-    text-align: center;
-    padding: 40px 20px;
-    color: #999;
-    font-size: 0.85em;
-    border-top: 2px solid #e0d8c8;
-    margin-top: 40px;
+ text-align: center;
+ padding: 40px 20px;
+ color: #999;
+ font-size: 0.85em;
+ border-top: 2px solid #e0d8c8;
+ margin-top: 40px;
 }
 .toc {
-    background: white;
-    border-radius: 10px;
-    padding: 25px 30px;
-    margin-bottom: 30px;
-    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+ background: white;
+ border-radius: 10px;
+ padding: 25px 30px;
+ margin-bottom: 30px;
+ box-shadow: 0 2px 12px rgba(0,0,0,0.08);
 }
 .toc h2 { color: #8b1a1a; margin-bottom: 15px; font-size: 1.3em; }
 .toc ul { list-style: none; }
@@ -140,8 +140,52 @@ body {
 .toc a { color: #444; text-decoration: none; }
 .toc a:hover { color: #8b1a1a; }
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="book-header">
 <h1>晋中清源城</h1>
 <div class="en">Qingyuan City of Jinzhong — A Vernacular Architecture Monograph</div>
@@ -1648,7 +1692,7 @@ body {
 <p>但是，如果把时光倒退<strong>1300年</strong>，我们问一个唐朝人：哪里的葡萄和葡萄酒最有名？他的答案一定是：西州、凉州和并州。西州即今天的吐鲁番。凉州即今天的甘肃武威市。唐朝诗人王翰有著名的凉州词：葡萄美酒夜光杯，欲饮琵琶马上催。醉卧沙场君莫笑，古来征战几人回？说的就是凉州葡萄酒。并州即今天的山西太原市。新唐书卷三十九地理志载并州的土贡有铜镜、铁镜、马鞍、梨、蒲萄酒等。白居易寄北都留守裴令公并序中有羌管吹杨柳，燕姬酌蒲萄，并在末尾注蒲萄酒，出太原。从王翰、白居易等人相关的葡萄诗来看，唐朝人对葡萄和葡萄酒是相当关注的。吃葡萄，饮葡萄酒，在当时是一种风尚。</p>
 <p>而且，由于西州和凉州距离首都长安和中原地区都有点远，并州则要近得多，又是李氏王朝的发祥地，所以并州的葡萄和葡萄酒不仅便于进贡，也更容易受到王室和贵族们的注意。并州葡萄的主产地，就在清源的西边山一带。这里是传统的葡萄种植地。清雍正版山西通志就说：蒲桃（葡萄）产清源、文水、太谷者佳，有马乳、水晶、鸡心、紫蒲桃诸种。历史文献中说的太原葡萄，即是指清源葡萄。唐朝之后的很长时间，西州与凉州皆不为汉族政权所有。随着北汉的覆亡，并州成为进献朝廷葡萄和葡萄酒的主要来源地。李焘续资治通鉴长编卷二百三十九：熙宁五年（<strong>1072年</strong>）晋州进奉的葡萄尽买于太原。</p>
 <p>在元代，太原（即清源）的葡萄和葡萄酒也给马可波罗留下了深刻的印象。他在行记中写道：其地（太原）种植不少最美之葡萄，酿葡萄酒甚饶。契丹全境只有此地出产葡萄酒。明代李时珍（<strong>1518</strong>—<strong>1593年</strong>）在本草纲目中说葡萄：盖北果之最珍者，今太原尚作此酒寄远也。可见清源酿葡萄酒之风，直到晚明仍未断绝。然而，入清以后关于清源葡萄酒的记载就极少见诸记载了。前引雍正版山西通志中，只提到葡萄而未提及葡萄酒。光绪版清源乡志卷十物产之果属条也只说葡萄有数种，唯脆葡萄尤佳，未提到葡萄酒。明清时期清源葡萄酒走向衰落，可能是因为国人饮酒习惯发生了改变的缘故。饮葡萄酒的风气似乎只在唐朝最盛，之后便渐趋衰落。</p>
-<p>从明代开始，中国人就主要饮用粮食酿制的蒸馏酒了。葡萄酒的市场缩小，使得包括清源在内的一些葡萄产地不再酿制葡萄酒。清源的葡萄酒不生产了，葡萄却依然在种。明清至民国时期，葡萄一直是清源西山一带老百姓们的主产业。在这里，除了外出谋生，种葡萄几乎是唯一可以赖以生存的手段。到<strong>20</strong>世纪<strong>50年</strong>代，清源成为与新疆吐鲁番、河北宣化、安徽萧县并列的我国四大葡萄生产地之一。不用来酿制葡萄酒的葡萄，有两个用途：①作为鲜果；②做葡萄干（当地称<strong>熏葡萄</strong>，见后文）。作为鲜果的清源葡萄，早熟的在入伏之后的农历七月中旬就开始上市了，晚熟的在十月上、中旬下山。这些葡萄大多被送到清源西门坡的果菜市场里批发销售。</p>
+<p>从明代开始，中国人就主要饮用粮食酿制的蒸馏酒了。葡萄酒的市场缩小，使得包括清源在内的一些葡萄产地不再酿制葡萄酒。清源的葡萄酒不生产了，葡萄却依然在种。明清至民国时期，葡萄一直是清源西山一带老百姓们的主产业。在这里，除了外出谋生，种葡萄几乎是唯一可以赖以生存的手段。到<strong>20</strong>世纪<strong>50年</strong>代，清源成为与新疆吐鲁番、河北宣化、安徽萧县并列的我国四大葡萄生产地之一。不用来酿制葡萄酒的葡萄，有两个用途：(1)作为鲜果；(2)做葡萄干（当地称<strong>熏葡萄</strong>，见后文）。作为鲜果的清源葡萄，早熟的在入伏之后的农历七月中旬就开始上市了，晚熟的在十月上、中旬下山。这些葡萄大多被送到清源西门坡的果菜市场里批发销售。</p>
 <p>太原、榆次、太谷等地的葡萄批发商，也都会到这里进货。清徐建设局设计所的赵永清所长，至今对几年前葡萄下山的情景记忆犹新：由于菜市街的场地有限，葡萄商贩们不得不把葡萄摆到街外的马路上，结果是把<strong>25米</strong>宽的文源路挤得水泄不通，不得不出动交通警察来疏通道路和维持秩序。后来政府在菜市街的西面（文源路南）另设了一处面积更大的菜果市场，并且在葡萄下山的季节再临时设置路边的葡萄销售点，才解决了这个问题。葡萄对清源人实在重要，以至于出现了以葡萄为主题的<strong>葡萄庙会</strong>。<strong>葡萄庙会</strong>始于何时，文献皆无记载。根据郭维忠老人的回忆，<strong>葡萄庙会</strong>在<strong>20</strong>世纪<strong>50年</strong>代还有，后来因被视为封建迷信活动而停止了。</p>
 <p><strong>葡萄庙会</strong>的日期，在平泉、北营两村是每年农历七月初七，在东、西马峪村则是农历七月二十九。至今东、西马峪村还留有七月二十九，又吃葡萄又喝酒的谚语。东、西马峪村的<strong>葡萄庙会</strong>与香岩寺的庙会同期，村民们可能是利用庙会的节日来销售葡萄，从而形成了<strong>葡萄庙会</strong>。传统的<strong>葡萄庙会</strong>持续三天，除了清源及其附近的信徒们到香岩寺烧香拜神和西八村的葡农们兜售葡萄外，最重要的活动是演戏，一天演两场，三天演六场，最后一天还可以加戏。演戏对于聚拢人气并促进葡萄销售是大有好处的，而戏资也一向是由东马峪村负责。</p>
 </div>
@@ -1670,7 +1714,7 @@ body {
 <p>However, after entering the <strong>Qing dynasty</strong>, records about Qingyuan wine are extremely rare. The previously cited Yongzheng edition of 'Shanxi General Annals' only mentions grapes but not wine. The Guangxu edition of 'Qingyuan Township Annals' Volume <strong>10</strong> 'Products' 'Fruits' section also only says 'there are several varieties of grapes, with crisp grapes being especially excellent,' not mentioning wine.</p>
 <p>The decline of Qingyuan wine during the Ming and Qing dynasties may be due to changes in Chinese drinking habits. The fashion of drinking wine seems to have been most prosperous only in the Tang dynasty, after which it gradually declined. From the <strong>Ming dynasty</strong> onward, Chinese people mainly drank distilled liquor brewed from grain.</p>
 <p>The wine market shrank, causing some grape-producing areas including Qingyuan to no longer brew wine. Qingyuan stopped producing wine, but grapes were still grown. From the Ming and Qing to the Republican period, grapes were always the main industry of the people in the western mountains of Qingyuan.</p>
-<p>Here, except for making a living away from home, growing grapes was almost the only means of survival. By the <strong>1950</strong>s, Qingyuan became one of China's four major grape-producing areas, alongside Turpan in Xinjiang, Xuanhua in Hebei, and Xiaoxian in Anhui. Grapes not used for brewing wine have two purposes: ① as fresh fruit; ② making raisins (locally called <strong>smoked grapes</strong>, see later).</p>
+<p>Here, except for making a living away from home, growing grapes was almost the only means of survival. By the <strong>1950</strong>s, Qingyuan became one of China's four major grape-producing areas, alongside Turpan in Xinjiang, Xuanhua in Hebei, and Xiaoxian in Anhui. Grapes not used for brewing wine have two purposes: (1) as fresh fruit; (2) making raisins (locally called <strong>smoked grapes</strong>, see later).</p>
 <p>As fresh fruit, Qingyuan grapes—early-ripening ones—start to go on sale in the middle of the seventh lunar month after the start of the dog days, and late-ripening ones come down in the first and middle ten days of October. Most of these grapes are sent to the fruit and vegetable market at Ximenpo in Qingyuan for wholesale sale.</p>
 <p>Grape wholesalers from Taiyuan, Yuci, Taigu and other places also come here to buy goods.</p>
 <p>Zhao Yongqing, director of the Design Institute of Qingxu Construction Bureau, still vividly remembers the scene of grapes coming down a few years ago: due to the limited space of Caishi Street, grape vendors had to put grapes on the road outside the street, as a result blocking the <strong>25</strong>-meter-wide Wenyuan Road so tightly that traffic police had to be dispatched to clear the roads and maintain order.</p>
@@ -1697,7 +1741,7 @@ body {
 <li>葡萄酒市场缩小包括清源在内一些葡萄产地不再酿制葡萄酒</li>
 <li>明清至民国葡萄一直是清源西山一带老百姓主产业种葡萄几乎唯一赖以生存手段</li>
 <li><strong>20</strong>世纪<strong>50年</strong>代清源成为与新疆吐鲁番河北宣化安徽萧县并列我国四大葡萄生产地之一</li>
-<li>葡萄用途①作为鲜果②做葡萄干当地称<strong>熏葡萄</strong></li>
+<li>葡萄用途(1)作为鲜果(2)做葡萄干当地称<strong>熏葡萄</strong></li>
 <li>早熟葡萄入伏后农历七月中旬上市晚熟十月上中旬下山送清源西门坡果菜市场批发</li>
 <li>太原榆次太谷葡萄批发商到这里进货赵永清回忆葡萄下山<strong>25米</strong>宽文源路挤得水泄不通出动交警</li>
 <li>政府另设更大菜果市场并临时设置路边葡萄销售点解决问题</li>
@@ -3563,5 +3607,26 @@ body {
 <p>共 62 个建筑项目 · 378 中文段落 · 1194 英文段落 · 5118 处加粗标注</p>
 <p>质量标准：逐页读取PDF原文 · 术语准确 · 智能分段 · 关键词与数字加粗</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

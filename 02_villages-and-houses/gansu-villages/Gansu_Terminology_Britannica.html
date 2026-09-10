@@ -38,8 +38,52 @@ body{font-family:Georgia,'Times New Roman','SimSun',serif;background:#fff;color:
 .footer{background:#1a1a1a;color:#999;text-align:center;padding:24px;font-size:.8em;margin-top:60px}
 .footer a{color:#ccc}
 </style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
+</style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 <div class="top-bar">
 <span class="brand">Encyclopaedia Britannica · 大英百科全书版</span>
 <span>Gansu Traditional Villages · 甘肃传统村落</span>
@@ -474,5 +518,51 @@ body{font-family:Georgia,'Times New Roman','SimSun',serif;background:#fff;color:
 <p>Encyclopaedia Britannica 版 · 甘肃传统村落术语辞典 | 基于《甘肃传统村落》（刘奔腾、张小娟、李沁鞠编著，东南大学出版社）原文提取</p>
 <p>Britannica Edition · Dictionary of Terms from Traditional Villages of Gansu | Extracted from the original text by Liu Benteng, Zhang Xiaojuan, Li Qinju (Southeast University Press)</p>
 </div>
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+
+<!-- MISSING ANCHORS PLACEHOLDER -->
+<div style="margin-top:40px;padding:12px 16px;background:#f5f4f0;border-left:3px solid #b0b0b0;font-size:12px;color:#6b6b6b;">
+<strong> 缺失术语 Missing Terms</strong><br>以下交叉引用术语未在本页定义，详见完整术语表。<br>
+The following cross-referenced terms are not defined on this page. See full glossary.
+<a id="secretpassage" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· secretpassage</a>
+<a id="earthwood" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· earthwood</a>
+<a id="chuandou" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· chuandou</a>
+<a id="siheyuan" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· siheyuan</a>
+<a id="taban" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· taban</a>
+<a id="xuanshan" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· xuanshan</a>
+<a id="mosque" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· mosque</a>
+<a id="dadun" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· dadun</a>
+<a id="qiangqu" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· qiangqu</a>
+<a id="shagamao" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· shagamao</a>
+<a id="tiancheng" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· tiancheng</a>
+<a id="xiakou" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· xiakou</a>
+<a id="wangjiazui" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· wangjiazui</a>
+<a id="dongxijie" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· dongxijie</a>
+<a id="fuping" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· fuping</a>
+<a id="luojia" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· luojia</a>
+<a id="yongtai" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· yongtai</a>
+<a id="ruian" style="display:block;margin-top:8px;padding-left:8px;color:#8a8a8a;">· ruian</a>
+</div>
+<!-- /MISSING ANCHORS -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>

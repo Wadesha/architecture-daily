@@ -1,1247 +1,1247 @@
 {
-  "title": "江苏上海古建筑地图 - 建筑术语数据库",
-  "title_en": "Historical Architectural Map of Jiangsu & Shanghai - Architectural Terminology Database",
-  "total_terms": 90,
-  "categories": [
-    "城市规划",
-    "地方流派",
-    "考古遗存",
-    "江南民居",
-    "祭祀建筑",
-    "纪念建筑",
-    "宗教建筑",
-    "近代建筑",
-    "防御建筑",
-    "特殊建筑",
-    "公共建筑",
-    "园林艺术",
-    "教育建筑",
-    "建筑制度",
-    "建筑典籍",
-    "石窟艺术",
-    "陵墓建筑",
-    "屋顶形式",
-    "交通建筑",
-    "塔幢建筑",
-    "木构体系"
-  ],
-  "terms": [
-    {
-      "id": 1,
-      "term_zh": "歇山顶",
-      "term_en": "Hip-and-Gable Roof (Xieshan)",
-      "category": "屋顶形式",
-      "category_en": "Roof Forms",
-      "definition_zh": "中国古建筑屋顶形式之一，又称九脊顶，由一条正脊、四条垂脊和四条戗脊组成，上半部为悬山式，下半部为庑殿式，常用于宫殿、寺庙、园林建筑中等级较高的建筑。",
-      "definition_en": "One of the traditional Chinese architectural roof forms, also called the nine-ridge roof, consisting of one main ridge, four vertical ridges and four diagonal ridges; the upper half is of the overhanging gable type and the lower half of the hip type, commonly used for higher-ranking buildings in palaces, temples and gardens.",
-      "examples": [
-        "朝天宫",
-        "灵谷寺无梁殿",
-        "真如寺大殿",
-        "龙华寺大雄宝殿"
-      ]
-    },
-    {
-      "id": 2,
-      "term_zh": "庑殿顶",
-      "term_en": "Hip Roof (Wudian)",
-      "category": "屋顶形式",
-      "category_en": "Roof Forms",
-      "definition_zh": "中国古建筑最高等级的屋顶形式，又称四阿顶，由一条正脊和四条垂脊组成，四面坡，常用于宫殿最高等级建筑，如北京故宫太和殿。",
-      "definition_en": "The highest-ranking traditional Chinese roof form, also called the four-slope roof, consisting of one main ridge and four vertical ridges with four sloping sides, commonly used for the highest-ranking palace buildings such as the Hall of Supreme Harmony in the Forbidden City.",
-      "examples": [
-        "明孝陵",
-        "南京南朝陵墓石刻"
-      ]
-    },
-    {
-      "id": 3,
-      "term_zh": "攒尖顶",
-      "term_en": "Pyramidal Roof (Zanjian)",
-      "category": "屋顶形式",
-      "category_en": "Roof Forms",
-      "definition_zh": "中国古建筑屋顶形式之一，屋顶为锥形，无正脊，顶部集中于一点（宝顶），有三角、四角、六角、八角、圆形等多种平面形式，常用于亭、阁、塔等建筑。",
-      "definition_en": "A traditional Chinese roof form with a conical shape, no main ridge, and the top converging at a single point (finial), with various plan forms including triangular, quadrangular, hexagonal, octagonal and circular, commonly used for pavilions, towers and pagodas.",
-      "examples": [
-        "苏州园林亭子",
-        "中国银行大楼顶部",
-        "七桥瓮"
-      ]
-    },
-    {
-      "id": 4,
-      "term_zh": "悬山顶",
-      "term_en": "Overhanging Gable Roof (Xuanshan)",
-      "category": "屋顶形式",
-      "category_en": "Roof Forms",
-      "definition_zh": "中国古建筑屋顶形式之一，又称挑山顶，两山屋顶伸出山墙之外，檩木暴露在外，是民间建筑中最常见的屋顶形式。",
-      "definition_en": "A traditional Chinese roof form, also called the overhanging mountain roof, where the two gable roofs extend beyond the gable walls with exposed purlins, the most common roof form in vernacular architecture.",
-      "examples": [
-        "杨柳村古建筑群",
-        "荡口古镇"
-      ]
-    },
-    {
-      "id": 5,
-      "term_zh": "硬山顶",
-      "term_en": "Flush Gable Roof (Yingshan)",
-      "category": "屋顶形式",
-      "category_en": "Roof Forms",
-      "definition_zh": "中国古建筑屋顶形式之一，山墙与屋顶齐平或高出屋顶，檩木不外露，是江南民居中最常见的屋顶形式，防火性能较好。",
-      "definition_en": "A traditional Chinese roof form where the gable walls are flush with or rise above the roof, with no exposed purlins, the most common roof form in Jiangnan residences, with relatively good fire resistance.",
-      "examples": [
-        "甘熙宅第",
-        "小娄巷民居群",
-        "上海石库门"
-      ]
-    },
-    {
-      "id": 6,
-      "term_zh": "卷棚顶",
-      "term_en": "Round-Ridge Roof (Juanpeng)",
-      "category": "屋顶形式",
-      "category_en": "Roof Forms",
-      "definition_zh": "中国古建筑屋顶形式之一，无正脊，屋顶前后坡相接处为弧形曲面，线条柔和，常用于园林建筑和民居，显得活泼雅致。",
-      "definition_en": "A traditional Chinese roof form with no main ridge, where the junction of the front and rear roof slopes is an arc-shaped curve with soft lines, commonly used in garden architecture and residences, appearing lively and elegant.",
-      "examples": [
-        "苏州园林",
-        "扬州园林"
-      ]
-    },
-    {
-      "id": 7,
-      "term_zh": "盝顶",
-      "term_en": "Flat-Top with Four Slopes (Luding)",
-      "category": "屋顶形式",
-      "category_en": "Roof Forms",
-      "definition_zh": "中国古建筑屋顶形式之一，顶部为平顶，四周有坡，四角有短脊，形似盝（古代妆具），常用于楼阁和园林建筑。",
-      "definition_en": "A traditional Chinese roof form with a flat top and slopes on all four sides, with short ridges at the four corners, resembling an ancient cosmetic box (lu), commonly used for towers and garden buildings.",
-      "examples": [
-        "北京故宫角楼"
-      ]
-    },
-    {
-      "id": 8,
-      "term_zh": "斗拱",
-      "term_en": "Bracket Set (Dougong)",
-      "category": "木构体系",
-      "category_en": "Timber Frame System",
-      "definition_zh": "中国古建筑特有的构件，由方形的斗、升和弓形的拱、斜向的昂组成，位于柱顶、额枋与屋顶之间，起承托屋檐、传递荷载和装饰作用，是中国古建筑的标志性元素。",
-      "definition_en": "A unique component of traditional Chinese architecture, consisting of square blocks (dou/sheng), bow-shaped arms (gong) and inclined ang (lever arms), located between column tops, architraves and the roof, serving to support eaves, transfer loads and decorate, and is the iconic element of traditional Chinese architecture.",
-      "examples": [
-        "保圣寺塔",
-        "南翔寺砖塔",
-        "兴圣教寺塔",
-        "真如寺大殿"
-      ]
-    },
-    {
-      "id": 9,
-      "term_zh": "五铺作",
-      "term_en": "Five-Tier Bracket Set (Wupuzuo)",
-      "category": "木构体系",
-      "category_en": "Timber Frame System",
-      "definition_zh": "宋代《营造法式》中斗拱的等级之一，出跳数为两跳（华拱两跳或华拱一跳加昂一跳），是中等规格的斗拱做法，常用于寺庙大殿等建筑。",
-      "definition_en": "One of the bracket set grades in the Song dynasty Yingzao Fashi (State Building Standards), with two tiers of projections (either two hua-gong tiers or one hua-gong tier plus one ang tier), a medium-specification bracket set method commonly used for temple main halls.",
-      "examples": [
-        "保圣寺塔",
-        "南翔寺砖塔"
-      ]
-    },
-    {
-      "id": 10,
-      "term_zh": "单杪单昂",
-      "term_en": "Single Hua-Gong and Single Ang",
-      "category": "木构体系",
-      "category_en": "Timber Frame System",
-      "definition_zh": "斗拱出跳的一种组合方式，第一层出华拱（杪），第二层出昂，是五铺作斗拱的常见形式。",
-      "definition_en": "A combination of bracket set projections, with the first tier projecting a hua-gong (miao) and the second tier projecting an ang, a common form of five-tier bracket sets.",
-      "examples": [
-        "南翔寺砖塔"
-      ]
-    },
-    {
-      "id": 11,
-      "term_zh": "补间铺作",
-      "term_en": "Intermediate Bracket Set (Bujian Puzuo)",
-      "category": "木构体系",
-      "category_en": "Timber Frame System",
-      "definition_zh": "宋代斗拱的一种位置分类，位于两柱之间的额枋上，与柱头铺作（柱顶斗拱）和转角铺作（角柱斗拱）相对应。",
-      "definition_en": "A positional classification of Song-dynasty bracket sets, located on the architrave between two columns, corresponding to the column-top bracket set (zhutou puzuo) and corner bracket set (zhuanjiao puzuo).",
-      "examples": [
-        "南翔寺砖塔",
-        "真如寺大殿"
-      ]
-    },
-    {
-      "id": 12,
-      "term_zh": "月梁",
-      "term_en": "Crescent Beam (Yueliang)",
-      "category": "木构体系",
-      "category_en": "Timber Frame System",
-      "definition_zh": "中国古建筑梁架中的一种梁，梁背呈弧形隆起，梁底亦弧形上凹，形似新月，常用于江南建筑的厅堂中，造型优美。",
-      "definition_en": "A type of beam in traditional Chinese timber framing, with the top of the beam arched upward and the bottom also concavely curved, resembling a crescent moon, commonly used in the halls of Jiangnan architecture with an elegant form.",
-      "examples": [
-        "苏州园林厅堂",
-        "扬州盐商住宅"
-      ]
-    },
-    {
-      "id": 13,
-      "term_zh": "梭柱",
-      "term_en": "Spindle Column (Suozhu)",
-      "category": "木构体系",
-      "category_en": "Timber Frame System",
-      "definition_zh": "中国古建筑柱式之一，柱身上下两端收窄，中部微鼓，形似织布的梭子，是宋代以前常见的柱式，明清以后较少使用。",
-      "definition_en": "A traditional Chinese column type with both upper and lower ends tapered and the middle slightly bulging, resembling a weaving spindle, a common column type before the Song dynasty, less used after the Ming and Qing.",
-      "examples": [
-        "保圣寺塔",
-        "南唐二陵"
-      ]
-    },
-    {
-      "id": 14,
-      "term_zh": "卷杀",
-      "term_en": "Entasis (Juansha)",
-      "category": "木构体系",
-      "category_en": "Timber Frame System",
-      "definition_zh": "中国古建筑木构件端部的加工方式，将构件端部按比例逐渐切削成柔和的曲线，使构件轮廓富有弹性美感，常用于柱、梁、斗拱等构件。",
-      "definition_en": "A processing method for the ends of wooden components in traditional Chinese architecture, where the component ends are gradually cut into soft curves in proportion, giving the component outline an elastic aesthetic, commonly used for columns, beams and bracket sets.",
-      "examples": [
-        "南翔寺砖塔",
-        "保圣寺塔"
-      ]
-    },
-    {
-      "id": 15,
-      "term_zh": "雀替",
-      "term_en": "Sparrow Brace (Queti)",
-      "category": "木构体系",
-      "category_en": "Timber Frame System",
-      "definition_zh": "中国古建筑中位于柱与梁枋交接处的装饰性构件，形似双翼，起加固和装饰作用，明清时期装饰性增强，常雕刻精美图案。",
-      "definition_en": "A decorative component in traditional Chinese architecture located at the junction of columns and beams, resembling two wings, serving to reinforce and decorate; during the Ming and Qing, its decorative function increased, often with exquisitely carved patterns.",
-      "examples": [
-        "甘熙宅第",
-        "薛福成故居",
-        "上海中国银行大楼"
-      ]
-    },
-    {
-      "id": 16,
-      "term_zh": "藻井",
-      "term_en": "Caisson Ceiling (Zaojing)",
-      "category": "木构体系",
-      "category_en": "Timber Frame System",
-      "definition_zh": "中国古建筑室内顶棚的一种装饰性结构，位于建筑中心顶部，呈穹窿状，由多层斗拱和木雕组成，常用于宫殿、寺庙的重要建筑中，象征天宇。",
-      "definition_en": "A decorative structure of the interior ceiling in traditional Chinese architecture, located at the top center of the building, in a domed shape, composed of multiple layers of bracket sets and wood carvings, commonly used in important palace and temple buildings, symbolizing the celestial sphere.",
-      "examples": [
-        "三山会馆戏台",
-        "朝天宫"
-      ]
-    },
-    {
-      "id": 17,
-      "term_zh": "草架",
-      "term_en": "Rough Frame (Caojia)",
-      "category": "木构体系",
-      "category_en": "Timber Frame System",
-      "definition_zh": "中国古建筑中天花板以上的梁架部分，不做精细加工，与天花板以下经过精细加工的明袱相对，是江南建筑中常见的做法。",
-      "definition_en": "The part of the timber frame above the ceiling in traditional Chinese architecture, not finely processed, corresponding to the exposed and finely processed mingfu (visible beam) below the ceiling, a common practice in Jiangnan architecture.",
-      "examples": [
-        "真如寺大殿"
-      ]
-    },
-    {
-      "id": 18,
-      "term_zh": "彻上明造",
-      "term_en": "Exposed Frame Construction (Che Shang Ming Zao)",
-      "category": "木构体系",
-      "category_en": "Timber Frame System",
-      "definition_zh": "中国古建筑中不设天花板，梁架全部暴露可见的做法，使室内空间高大，常用于寺庙大殿等建筑。",
-      "definition_en": "A construction method in traditional Chinese architecture with no ceiling, where the entire timber frame is exposed and visible, creating a tall interior space, commonly used in temple main halls.",
-      "examples": [
-        "真如寺大殿",
-        "保圣寺塔"
-      ]
-    },
-    {
-      "id": 19,
-      "term_zh": "楼阁式塔",
-      "term_en": "Pavilion-Style Pagoda",
-      "category": "塔幢建筑",
-      "category_en": "Pagoda & Pillar Architecture",
-      "definition_zh": "中国佛塔的主要类型之一，仿照中国传统楼阁建筑形式，每层有塔身、塔檐、平座，可登临，是中国古塔中数量最多的类型。",
-      "definition_en": "One of the main types of Chinese Buddhist pagodas, imitating the form of traditional Chinese pavilion buildings, with each story having a pagoda body, eave and flat seat, climbable, and the most numerous type of ancient Chinese pagodas.",
-      "examples": [
-        "龙华塔",
-        "法华塔",
-        "兴圣教寺塔",
-        "海清寺塔",
-        "文通塔"
-      ]
-    },
-    {
-      "id": 20,
-      "term_zh": "密檐式塔",
-      "term_en": "Multi-Eaved Pagoda",
-      "category": "塔幢建筑",
-      "category_en": "Pagoda & Pillar Architecture",
-      "definition_zh": "中国佛塔的主要类型之一，第一层塔身较高，以上各层塔檐紧密重叠，多为实心，不可登临，常见于北方地区。",
-      "definition_en": "One of the main types of Chinese Buddhist pagodas, with a tall first story and closely overlapping eaves above, mostly solid and not climbable, commonly found in northern China.",
-      "examples": [
-        "南京南朝陵墓石刻附近"
-      ]
-    },
-    {
-      "id": 21,
-      "term_zh": "塔刹",
-      "term_en": "Pagoda Finial (Tasha)",
-      "category": "塔幢建筑",
-      "category_en": "Pagoda & Pillar Architecture",
-      "definition_zh": "塔顶部的装饰性构件，由基座、覆钵、相轮、宝盖、宝珠等组成，是佛塔的标志性元素，象征佛的涅槃。",
-      "definition_en": "The decorative component at the top of a pagoda, consisting of a base, alms bowl, wheel discs, canopy and jewel, the iconic element of Buddhist pagodas, symbolizing the Buddha's nirvana.",
-      "examples": [
-        "龙华塔",
-        "法华塔",
-        "兴圣教寺塔"
-      ]
-    },
-    {
-      "id": 22,
-      "term_zh": "相轮",
-      "term_en": "Wheel Disc (Xianglun)",
-      "category": "塔幢建筑",
-      "category_en": "Pagoda & Pillar Architecture",
-      "definition_zh": "塔刹的组成部分，为多重圆环，套在刹杆上，是佛塔的重要装饰，相轮的数量代表塔的等级。",
-      "definition_en": "A component of the pagoda finial, consisting of multiple circular rings fitted on the finial pole, an important decoration of Buddhist pagodas, with the number of wheel discs representing the pagoda's rank.",
-      "examples": [
-        "龙华塔",
-        "兴圣教寺塔"
-      ]
-    },
-    {
-      "id": 23,
-      "term_zh": "壶门",
-      "term_en": "Pot Door (Humen)",
-      "category": "塔幢建筑",
-      "category_en": "Pagoda & Pillar Architecture",
-      "definition_zh": "塔、石窟、碑刻等建筑中常见的门形装饰，轮廓为尖拱形，形似壶（古代盛器），常用于塔身壁面。",
-      "definition_en": "A door-shaped decoration commonly found in pagodas, grottoes and steles, with a pointed arch outline resembling an ancient pot (hu), commonly used on pagoda body walls.",
-      "examples": [
-        "龙华塔",
-        "兴圣教寺塔",
-        "南翔寺砖塔"
-      ]
-    },
-    {
-      "id": 24,
-      "term_zh": "腰檐",
-      "term_en": "Waist Eave (Yaoyan)",
-      "category": "塔幢建筑",
-      "category_en": "Pagoda & Pillar Architecture",
-      "definition_zh": "楼阁式塔各层之间的短檐，形似腰带，是楼阁式塔的标志性特征，使塔身呈现明显的分层。",
-      "definition_en": "The short eaves between stories of pavilion-style pagodas, resembling a waist belt, the iconic feature of pavilion-style pagodas, giving the pagoda body distinct layering.",
-      "examples": [
-        "龙华塔",
-        "法华塔",
-        "兴圣教寺塔"
-      ]
-    },
-    {
-      "id": 25,
-      "term_zh": "平座",
-      "term_en": "Flat Seat (Pingzuo)",
-      "category": "塔幢建筑",
-      "category_en": "Pagoda & Pillar Architecture",
-      "definition_zh": "楼阁式塔各层塔檐上方的平台，由斗拱承托，外围有栏杆，可供登临眺望。",
-      "definition_en": "The platform above each eave of pavilion-style pagodas, supported by bracket sets, with railings around the perimeter, for climbing and viewing.",
-      "examples": [
-        "龙华塔",
-        "兴圣教寺塔"
-      ]
-    },
-    {
-      "id": 26,
-      "term_zh": "地宫",
-      "term_en": "Underground Palace (Digong)",
-      "category": "塔幢建筑",
-      "category_en": "Pagoda & Pillar Architecture",
-      "definition_zh": "佛塔塔基下的地下空间，用于埋藏舍利、佛经、宝物等，是佛塔的重要组成部分，考古价值极高。",
-      "definition_en": "The underground space beneath the foundation of a Buddhist pagoda, used to bury relics, sutras and treasures, an important component of Buddhist pagodas with high archaeological value.",
-      "examples": [
-        "法华塔",
-        "兴圣教寺塔",
-        "阿育王寺"
-      ]
-    },
-    {
-      "id": 27,
-      "term_zh": "经幢",
-      "term_en": "Sutra Pillar (Jingchuang)",
-      "category": "塔幢建筑",
-      "category_en": "Pagoda & Pillar Architecture",
-      "definition_zh": "中国古代佛教石刻建筑，由基座、幢身、幢顶三部分组成，幢身镌刻佛经（多为《佛顶尊胜陀罗尼经》），盛行于唐代，是佛教建筑的独特形式。",
-      "definition_en": "Ancient Chinese Buddhist stone-carved architecture, consisting of a base, pillar body and pillar top, with the pillar body engraved with Buddhist sutras (mostly the Buddha's Top Victorious Dharani Sutra), prevalent in the Tang dynasty, a unique form of Buddhist architecture.",
-      "examples": [
-        "松江唐经幢",
-        "南翔古猗园唐经幢",
-        "太平兴国教寺大殿"
-      ]
-    },
-    {
-      "id": 28,
-      "term_zh": "须弥座",
-      "term_en": "Sumeru Base (Xumizuo)",
-      "category": "塔幢建筑",
-      "category_en": "Pagoda & Pillar Architecture",
-      "definition_zh": "中国古建筑中高级建筑的台基形式，由多层线脚组成，中间束腰，形似佛教传说中的须弥山，常用于宫殿、寺庙、塔幢等建筑。",
-      "definition_en": "A high-grade platform form in traditional Chinese architecture, consisting of multiple layers of moldings with a waist in the middle, resembling Mount Sumeru in Buddhist legend, commonly used for palaces, temples, pagodas and pillars.",
-      "examples": [
-        "松江唐经幢",
-        "南京明故宫遗址"
-      ]
-    },
-    {
-      "id": 29,
-      "term_zh": "叠涩",
-      "term_en": "Corbel (Dieshe)",
-      "category": "塔幢建筑",
-      "category_en": "Pagoda & Pillar Architecture",
-      "definition_zh": "砖石结构中常见的砌筑方式，将砖石逐层向外挑出，形成支撑或装饰，常用于塔檐、经幢等建筑。",
-      "definition_en": "A common masonry method in brick-stone structures, where bricks or stones are projected outward layer by layer to form support or decoration, commonly used for pagoda eaves and sutra pillars.",
-      "examples": [
-        "龙华塔",
-        "南翔寺砖塔",
-        "松江唐经幢"
-      ]
-    },
-    {
-      "id": 30,
-      "term_zh": "借景",
-      "term_en": "Borrowed Scenery (Jiejing)",
-      "category": "园林艺术",
-      "category_en": "Garden Art",
-      "definition_zh": "中国古典园林的重要造园手法，将园外的景色引入园内，扩大园林空间感，《园冶》将其列为造园诸法之首。",
-      "definition_en": "An important garden-making technique in classical Chinese gardens, introducing scenery outside the garden into the garden to expand the sense of space, listed by Yuanye (The Craft of Gardens) as the foremost of all garden-making methods.",
-      "examples": [
-        "拙政园",
-        "留园",
-        "寄畅园"
-      ]
-    },
-    {
-      "id": 31,
-      "term_zh": "对景",
-      "term_en": "Opposite Scenery (Duijing)",
-      "category": "园林艺术",
-      "category_en": "Garden Art",
-      "definition_zh": "中国古典园林造园手法，在园林轴线或视线的两端设置景物，互相呼应，形成视觉焦点。",
-      "definition_en": "A garden-making technique in classical Chinese gardens, where scenery is set at both ends of a garden axis or sightline, echoing each other to form a visual focus.",
-      "examples": [
-        "个园",
-        "何园",
-        "秋霞圃"
-      ]
-    },
-    {
-      "id": 32,
-      "term_zh": "框景",
-      "term_en": "Framed Scenery (Kuangjing)",
-      "category": "园林艺术",
-      "category_en": "Garden Art",
-      "definition_zh": "中国古典园林造园手法，利用门框、窗框、洞门等将园景框入其中，形成一幅立体的画。",
-      "definition_en": "A garden-making technique in classical Chinese gardens, using door frames, window frames and cave doors to frame garden scenery, forming a three-dimensional painting.",
-      "examples": [
-        "拙政园",
-        "留园",
-        "网师园"
-      ]
-    },
-    {
-      "id": 33,
-      "term_zh": "障景",
-      "term_en": "Obstructed Scenery (Zhangjing)",
-      "category": "园林艺术",
-      "category_en": "Garden Art",
-      "definition_zh": "中国古典园林造园手法，在园林入口或视线前方设置假山、屏风、植物等遮挡景物，达到先抑后扬的效果。",
-      "definition_en": "A garden-making technique in classical Chinese gardens, where rockeries, screens and plants are set at the garden entrance or in front of the sightline to obstruct scenery, achieving the effect of first suppressing then releasing.",
-      "examples": [
-        "拙政园",
-        "留园",
-        "个园"
-      ]
-    },
-    {
-      "id": 34,
-      "term_zh": "假山",
-      "term_en": "Artificial Rockery (Jiashan)",
-      "category": "园林艺术",
-      "category_en": "Garden Art",
-      "definition_zh": "中国古典园林中用天然石块堆叠而成的山，是园林的骨架，有土山、石山、土石山之分，追求透、漏、瘦、皱的审美标准。",
-      "definition_en": "Mountains piled from natural stones in classical Chinese gardens, the skeleton of the garden, divided into earth mountains, stone mountains and earth-stone mountains, pursuing the aesthetic standards of transparency, perforation, slenderness and wrinkling.",
-      "examples": [
-        "个园四季假山",
-        "留园冠云峰",
-        "环秀山庄",
-        "秋霞圃"
-      ]
-    },
-    {
-      "id": 35,
-      "term_zh": "太湖石",
-      "term_en": "Taihu Stone",
-      "category": "园林艺术",
-      "category_en": "Garden Art",
-      "definition_zh": "中国古典园林中最常用的观赏石，产于太湖流域，经湖水长期侵蚀形成玲珑剔透的形态，以瘦、皱、漏、透为审美标准。",
-      "definition_en": "The most commonly used ornamental stone in classical Chinese gardens, produced in the Taihu Lake basin, formed into exquisite and perforated shapes by long-term lake water erosion, with slenderness, wrinkling, perforation and transparency as aesthetic standards.",
-      "examples": [
-        "留园冠云峰",
-        "豫园玉玲珑",
-        "苏州园林"
-      ]
-    },
-    {
-      "id": 36,
-      "term_zh": "花街铺地",
-      "term_en": "Patterned Paving (Huajie Pudi)",
-      "category": "园林艺术",
-      "category_en": "Garden Art",
-      "definition_zh": "中国古典园林中用碎石、瓦片、瓷片等材料铺设成各种图案的地面，是江南园林的特色之一。",
-      "definition_en": "Ground paving in classical Chinese gardens using crushed stone, tiles and porcelain pieces to form various patterns, one of the features of Jiangnan gardens.",
-      "examples": [
-        "苏州园林",
-        "扬州园林",
-        "豫园"
-      ]
-    },
-    {
-      "id": 37,
-      "term_zh": "旱院水做",
-      "term_en": "Dry Courtyard with Water Illusion",
-      "category": "园林艺术",
-      "category_en": "Garden Art",
-      "definition_zh": "中国古典园林造园手法，在无水的庭院中用铺地、石矶等手法模拟水景，创造出水的意境。",
-      "definition_en": "A garden-making technique in classical Chinese gardens, using paving and stone islets in a waterless courtyard to simulate water scenery, creating the artistic conception of water.",
-      "examples": [
-        "秋霞圃凝霞阁前小院"
-      ]
-    },
-    {
-      "id": 38,
-      "term_zh": "天井",
-      "term_en": "Courtyard (Tianjing)",
-      "category": "江南民居",
-      "category_en": "Jiangnan Vernacular",
-      "definition_zh": "江南民居中房屋之间的露天小院落，面积较小，起采光、通风、排水作用，是江南民居的核心空间。",
-      "definition_en": "The small open courtyard between buildings in Jiangnan residences, small in area, serving for lighting, ventilation and drainage, the core space of Jiangnan residences.",
-      "examples": [
-        "甘熙宅第",
-        "三山会馆",
-        "上海石库门"
-      ]
-    },
-    {
-      "id": 39,
-      "term_zh": "马头墙",
-      "term_en": "Horse-Head Wall (Matouqiang)",
-      "category": "江南民居",
-      "category_en": "Jiangnan Vernacular",
-      "definition_zh": "江南民居中高出屋顶的山墙，因形似马头而得名，起防火、防风作用，是徽派建筑和江南民居的标志性元素。",
-      "definition_en": "Gable walls rising above the roof in Jiangnan residences, named for their resemblance to horse heads, serving fire prevention and wind protection functions, the iconic element of Huizhou-style architecture and Jiangnan residences.",
-      "examples": [
-        "杨柳村古建筑群",
-        "荡口古镇",
-        "徽州建筑"
-      ]
-    },
-    {
-      "id": 40,
-      "term_zh": "观音兜",
-      "term_en": "Guanyin Hood (Guanyindou)",
-      "category": "江南民居",
-      "category_en": "Jiangnan Vernacular",
-      "definition_zh": "江南民居中山墙的一种形式，山墙顶部呈弧形隆起，形似观音菩萨的帽兜，是上海及苏南地区民居的特色。",
-      "definition_en": "A form of gable wall in Jiangnan residences, with the top of the gable wall arched upward, resembling the hood of Guanyin Bodhisattva, a feature of residences in Shanghai and southern Jiangsu.",
-      "examples": [
-        "上海石库门",
-        "书隐楼"
-      ]
-    },
-    {
-      "id": 41,
-      "term_zh": "石库门",
-      "term_en": "Shikumen (Stone Gate)",
-      "category": "江南民居",
-      "category_en": "Jiangnan Vernacular",
-      "definition_zh": "上海近代最具代表性的民居形式，因入口用石料做门框而得名，是中西合璧的里弄住宅，融合了江南民居和西方联排住宅的特点。",
-      "definition_en": "The most representative residential form in modern Shanghai, named for the stone door frames at the entrance, a Chinese-Western combined lane residence that merges the features of Jiangnan residences and Western townhouses.",
-      "examples": [
-        "中共一大会址",
-        "上海新天地",
-        "步高里"
-      ]
-    },
-    {
-      "id": 42,
-      "term_zh": "砖雕门楼",
-      "term_en": "Brick-Carved Gate Tower",
-      "category": "江南民居",
-      "category_en": "Jiangnan Vernacular",
-      "definition_zh": "江南民居中用砖雕刻而成的门楼，位于住宅入口，雕刻精美，常刻有题字和吉祥图案，是宅第等级的象征。",
-      "definition_en": "Gate towers carved from brick in Jiangnan residences, located at the residence entrance, exquisitely carved, often with inscriptions and auspicious patterns, a symbol of the residence's rank.",
-      "examples": [
-        "网师园",
-        "个园",
-        "苏州古民居"
-      ]
-    },
-    {
-      "id": 43,
-      "term_zh": "备弄",
-      "term_en": "Service Lane (Beinong)",
-      "category": "江南民居",
-      "category_en": "Jiangnan Vernacular",
-      "definition_zh": "江南大宅中位于住宅一侧的狭长通道，供仆役通行和搬运物品，避免干扰主院，是江南大宅的特色空间。",
-      "definition_en": "A narrow passage on one side of large Jiangnan residences, for servants to pass and carry goods, avoiding disturbance to the main courtyard, a characteristic space of large Jiangnan residences.",
-      "examples": [
-        "甘熙宅第",
-        "薛福成故居"
-      ]
-    },
-    {
-      "id": 44,
-      "term_zh": "轿厅",
-      "term_en": "Sedan Chair Hall (Jiaoting)",
-      "category": "江南民居",
-      "category_en": "Jiangnan Vernacular",
-      "definition_zh": "江南大宅中位于入口后的第二进建筑，用于停放轿子和接待宾客，是宅第礼仪空间的重要组成部分。",
-      "definition_en": "The second building after the entrance in large Jiangnan residences, used for parking sedan chairs and receiving guests, an important part of the residence's ceremonial space.",
-      "examples": [
-        "甘熙宅第",
-        "薛福成故居"
-      ]
-    },
-    {
-      "id": 45,
-      "term_zh": "新古典主义",
-      "term_en": "Neoclassicism",
-      "category": "近代建筑",
-      "category_en": "Modern Architecture",
-      "definition_zh": "18-19世纪西方建筑风格，复兴古希腊罗马建筑形式，采用柱式、山花、檐口等古典元素，上海外滩建筑群多采用此风格。",
-      "definition_en": "A Western architectural style of the 18th-19th centuries, reviving ancient Greek and Roman architectural forms, using classical elements such as columns, pediments and cornices; many buildings in the Shanghai Bund adopt this style.",
-      "examples": [
-        "汇丰银行大楼",
-        "上海总会",
-        "亚细亚大楼"
-      ]
-    },
-    {
-      "id": 46,
-      "term_zh": "装饰艺术",
-      "term_en": "Art Deco",
-      "category": "近代建筑",
-      "category_en": "Modern Architecture",
-      "definition_zh": "20世纪20-30年代流行的建筑风格，强调几何图案、竖向线条、阶梯状收分和金属装饰，上海是世界上Art Deco建筑最集中的城市之一。",
-      "definition_en": "An architectural style popular in the 1920s-30s, emphasizing geometric patterns, vertical lines, stepped setbacks and metal decoration; Shanghai is one of the cities with the highest concentration of Art Deco buildings in the world.",
-      "examples": [
-        "沙逊大厦",
-        "国际饭店",
-        "百老汇大厦",
-        "中国银行大楼"
-      ]
-    },
-    {
-      "id": 47,
-      "term_zh": "折衷主义",
-      "term_en": "Eclecticism",
-      "category": "近代建筑",
-      "category_en": "Modern Architecture",
-      "definition_zh": "19世纪西方建筑风格，任意模仿历史上各种风格并自由组合，不追求固定的法式，上海跑马总会等建筑采用此风格。",
-      "definition_en": "A 19th-century Western architectural style that freely imitates and combines various historical styles without pursuing a fixed formula; buildings such as the Shanghai Race Club adopt this style.",
-      "examples": [
-        "跑马总会",
-        "江海关大楼"
-      ]
-    },
-    {
-      "id": 48,
-      "term_zh": "外廊式",
-      "term_en": "Veranda Style",
-      "category": "近代建筑",
-      "category_en": "Modern Architecture",
-      "definition_zh": "近代殖民建筑风格，建筑外围设连续外廊，适应热带亚热带气候，是上海早期租界建筑的常见形式。",
-      "definition_en": "A modern colonial architectural style with continuous verandas around the building, adapted to tropical and subtropical climates, a common form of early concession buildings in Shanghai.",
-      "examples": [
-        "英国驻沪领事馆",
-        "南洋公学中院"
-      ]
-    },
-    {
-      "id": 49,
-      "term_zh": "哥特复兴",
-      "term_en": "Gothic Revival",
-      "category": "近代建筑",
-      "category_en": "Modern Architecture",
-      "definition_zh": "19世纪复兴中世纪哥特式建筑的风格，采用尖拱、花窗玻璃、尖塔等元素，常用于教堂建筑。",
-      "definition_en": "A 19th-century style reviving medieval Gothic architecture, using pointed arches, stained glass windows and spires, commonly used for church buildings.",
-      "examples": [
-        "徐家汇天主教堂",
-        "沐恩堂"
-      ]
-    },
-    {
-      "id": 50,
-      "term_zh": "钢框架结构",
-      "term_en": "Steel Frame Structure",
-      "category": "近代建筑",
-      "category_en": "Modern Architecture",
-      "definition_zh": "近代高层建筑的结构形式，用钢材制作梁柱框架，墙体只起围护作用，使建筑可以向高空发展，上海20世纪30年代高层建筑多采用此结构。",
-      "definition_en": "A structural form of modern high-rise buildings, using steel for beam-column frames, with walls only serving as enclosure, allowing buildings to develop upward; many Shanghai high-rises of the 1930s adopt this structure.",
-      "examples": [
-        "沙逊大厦",
-        "国际饭店",
-        "中国银行大楼"
-      ]
-    },
-    {
-      "id": 51,
-      "term_zh": "营造法式",
-      "term_en": "Yingzao Fashi (State Building Standards)",
-      "category": "建筑典籍",
-      "category_en": "Architectural Texts",
-      "definition_zh": "北宋李诫编修的建筑技术专著，元符三年（1100年）编成，崇宁二年（1103年）刊行，是中国古代最完整的建筑技术书籍，确立了材分制的模数体系。",
-      "definition_en": "An architectural technical monograph compiled by Li Jie in the Northern Song, completed in 1100 and published in 1103, the most complete architectural technical book of ancient China, establishing the modular system of cai-fen (material-unit).",
-      "examples": [
-        "真如寺大殿斗拱",
-        "保圣寺塔"
-      ]
-    },
-    {
-      "id": 52,
-      "term_zh": "清营造则例",
-      "term_en": "Qing Yingzao Zeli (Qing Building Regulations)",
-      "category": "建筑典籍",
-      "category_en": "Architectural Texts",
-      "definition_zh": "清代官方颁布的建筑工程做法规范，梁思成根据清代工匠做法整理成书，是研究清代建筑的重要文献。",
-      "definition_en": "The official building engineering practice standards promulgated in the Qing dynasty, organized into a book by Liang Sicheng based on Qing craftsmen's practices, an important document for studying Qing architecture.",
-      "examples": [
-        "真如寺大殿斗拱对比"
-      ]
-    },
-    {
-      "id": 53,
-      "term_zh": "伽蓝七堂",
-      "term_en": "Seven Halls of Sangharama",
-      "category": "建筑制度",
-      "category_en": "Architectural Systems",
-      "definition_zh": "中国佛教寺院的标准布局，由山门、天王殿、大雄宝殿、后殿、法堂、伽蓝殿、祖师殿七座主要建筑组成，是禅宗寺院的典型格局。",
-      "definition_en": "The standard layout of Chinese Buddhist temples, consisting of seven main buildings: mountain gate, Hall of Heavenly Kings, Mahavira Hall, rear hall, Dharma hall, Sangharama Hall and Patriarch Hall, the typical layout of Chan Buddhist temples.",
-      "examples": [
-        "龙华寺",
-        "栖霞寺",
-        "天宁寺"
-      ]
-    },
-    {
-      "id": 54,
-      "term_zh": "泮池",
-      "term_en": "Pan Pool",
-      "category": "建筑制度",
-      "category_en": "Architectural Systems",
-      "definition_zh": "孔庙（文庙）前的半圆形水池，是儒家礼制建筑的标志，象征儒学，池上常架泮桥。",
-      "definition_en": "The semicircular pool in front of Confucian temples (wenmiao), a symbol of Confucian ritual architecture, symbolizing Confucian learning, often with a Pan bridge over it.",
-      "examples": [
-        "嘉定孔庙",
-        "南京夫子庙",
-        "江阴文庙"
-      ]
-    },
-    {
-      "id": 55,
-      "term_zh": "棂星门",
-      "term_en": "Lingxing Gate",
-      "category": "建筑制度",
-      "category_en": "Architectural Systems",
-      "definition_zh": "孔庙（文庙）的第一道门，原为古代祭天的灵星门，孔庙设棂星门象征尊孔如尊天，通常为三间四柱石牌坊式。",
-      "definition_en": "The first gate of Confucian temples (wenmiao), originally the Lingxing (Spirit Star) Gate for ancient heaven worship; setting a Lingxing Gate in Confucian temples symbolizes revering Confucius as revering heaven, usually in the form of a three-bay four-column stone paifang.",
-      "examples": [
-        "嘉定孔庙",
-        "南京夫子庙"
-      ]
-    },
-    {
-      "id": 56,
-      "term_zh": "苏州园林",
-      "term_en": "Suzhou Gardens",
-      "category": "地方流派",
-      "category_en": "Regional Schools",
-      "definition_zh": "中国古典园林的代表流派，以私家园林为主，始于春秋，发展于唐宋，鼎盛于明清，以精致典雅、小中见大著称，拙政园、留园、网师园等为代表。",
-      "definition_en": "The representative school of classical Chinese gardens, dominated by private gardens, beginning in the Spring and Autumn period, developing in the Tang and Song, and reaching its peak in the Ming and Qing, known for refinement and elegance and achieving grandeur within small spaces, represented by the Humble Administrator's Garden, Lingering Garden and Master-of-Nets Garden.",
-      "examples": [
-        "拙政园",
-        "留园",
-        "网师园",
-        "环秀山庄"
-      ]
-    },
-    {
-      "id": 57,
-      "term_zh": "扬州园林",
-      "term_en": "Yangzhou Gardens",
-      "category": "地方流派",
-      "category_en": "Regional Schools",
-      "definition_zh": "中国古典园林的重要流派，以盐商园林为特色，风格豪放大度，叠石艺术高超，个园、何园、小盘谷等为代表。",
-      "definition_en": "An important school of classical Chinese gardens, characterized by salt merchant gardens, with a bold and generous style and superb rock-piling art, represented by Ge Garden, He Garden and Xiaopangu.",
-      "examples": [
-        "个园",
-        "何园",
-        "小盘谷",
-        "卢氏盐商住宅"
-      ]
-    },
-    {
-      "id": 58,
-      "term_zh": "金陵四十八景",
-      "term_en": "Forty-Eight Scenes of Jinling",
-      "category": "地方流派",
-      "category_en": "Regional Schools",
-      "definition_zh": "南京（金陵）地区的传统风景名胜集，始于明代，清代定型，涵盖南京地区的山水、古迹、园林等景观。",
-      "definition_en": "The collection of traditional scenic spots in Nanjing (Jinling), beginning in the Ming and finalized in the Qing, covering the mountains, waters, historical sites and gardens of the Nanjing area.",
-      "examples": [
-        "栖霞寺",
-        "明孝陵",
-        "夫子庙"
-      ]
-    },
-    {
-      "id": 59,
-      "term_zh": "沪城八景",
-      "term_en": "Eight Scenes of Shanghai City",
-      "category": "地方流派",
-      "category_en": "Regional Schools",
-      "definition_zh": "上海地区的传统风景名胜集，明清时期形成，包括黄浦秋涛、龙华晚钟、江皋霁雪、吴淞烟雨等景观。",
-      "definition_en": "The collection of traditional scenic spots in the Shanghai area, formed during the Ming and Qing, including scenes such as Huangpu Autumn Waves, Longhua Evening Bell, River Bank Snow Clearing and Wusong Misty Rain.",
-      "examples": [
-        "大境阁江皋霁雪",
-        "龙华寺龙华晚钟"
-      ]
-    },
-    {
-      "id": 60,
-      "term_zh": "吴门画派",
-      "term_en": "Wu School of Painting",
-      "category": "地方流派",
-      "category_en": "Regional Schools",
-      "definition_zh": "明代中期活跃于苏州（吴门）地区的绘画流派，以沈周、文徵明、唐寅、仇英为代表，主张文人画传统，对江南园林艺术影响深远。",
-      "definition_en": "A painting school active in the Suzhou (Wu) area in the mid-Ming, represented by Shen Zhou, Wen Zhengming, Tang Yin and Qiu Ying, advocating the literati painting tradition, with profound influence on Jiangnan garden art.",
-      "examples": [
-        "苏州园林",
-        "文徵明手植紫藤"
-      ]
-    },
-    {
-      "id": 61,
-      "term_zh": "松江画派",
-      "term_en": "Songjiang School of Painting",
-      "category": "地方流派",
-      "category_en": "Regional Schools",
-      "definition_zh": "明代后期活跃于松江（今上海松江）地区的绘画流派，以董其昌为代表，主张南北宗论，对中国绘画史影响深远。",
-      "definition_en": "A painting school active in the Songjiang (now Songjiang, Shanghai) area in the late Ming, represented by Dong Qichang, advocating the Northern and Southern Schools theory, with profound influence on the history of Chinese painting.",
-      "examples": [
-        "醉白池董其昌雕像",
-        "松江方塔园"
-      ]
-    },
-    {
-      "id": 62,
-      "term_zh": "无梁殿",
-      "term_en": "Beamless Hall (Wuliangdian)",
-      "category": "特殊建筑",
-      "category_en": "Special Architecture",
-      "definition_zh": "中国古建筑中不用木梁，全部用砖拱券结构建成的殿堂，又称无量殿，防火性能好，常用于寺庙藏经阁等。",
-      "definition_en": "A hall in traditional Chinese architecture built entirely with brick arch structures without wooden beams, also called the Wuliang (Immeasurable) Hall, with good fire resistance, commonly used for temple scripture libraries.",
-      "examples": [
-        "灵谷寺无梁殿",
-        "隆昌寺铜殿无梁殿"
-      ]
-    },
-    {
-      "id": 63,
-      "term_zh": "铜殿",
-      "term_en": "Bronze Hall",
-      "category": "特殊建筑",
-      "category_en": "Special Architecture",
-      "definition_zh": "中国古建筑中全部用铜铸造的殿堂，是佛教建筑中的珍品，铸造工艺复杂，极为珍贵。",
-      "definition_en": "A hall in traditional Chinese architecture cast entirely in bronze, a treasure among Buddhist buildings, with a complex casting process and extremely precious.",
-      "examples": [
-        "隆昌寺铜殿"
-      ]
-    },
-    {
-      "id": 64,
-      "term_zh": "摩崖造像",
-      "term_en": "Cliff Statues (Moya Zaoxiang)",
-      "category": "石窟艺术",
-      "category_en": "Grotto Art",
-      "definition_zh": "在山崖石壁上雕刻的佛像，是中国佛教艺术的重要形式，始于东汉，盛于南北朝至唐宋。",
-      "definition_en": "Buddha statues carved on cliff walls, an important form of Chinese Buddhist art, beginning in the Eastern Han and flourishing from the Northern and Southern Dynasties to the Tang and Song.",
-      "examples": [
-        "千佛崖石窟",
-        "孔望山摩崖造像",
-        "将军崖岩画"
-      ]
-    },
-    {
-      "id": 65,
-      "term_zh": "画像石",
-      "term_en": "Pictorial Stone (Huaxiangshi)",
-      "category": "石窟艺术",
-      "category_en": "Grotto Art",
-      "definition_zh": "汉代墓葬、祠堂中雕刻有图像的石材，内容丰富，是研究汉代社会生活的重要实物资料。",
-      "definition_en": "Stones carved with images in Han-dynasty tombs and shrines, with rich content, important physical materials for studying Han-dynasty social life.",
-      "examples": [
-        "徐州汉画像石艺术馆",
-        "堂子街太平天国壁画"
-      ]
-    },
-    {
-      "id": 66,
-      "term_zh": "陵墓石刻",
-      "term_en": "Tomb Stone Carvings",
-      "category": "陵墓建筑",
-      "category_en": "Tomb Architecture",
-      "definition_zh": "古代陵墓前的石人、石兽等石刻，起象征墓主身份和守护陵墓的作用，南朝陵墓石刻是中国石刻艺术的高峰。",
-      "definition_en": "Stone figures and animals in front of ancient tombs, serving to symbolize the tomb owner's status and guard the tomb; the Southern Dynasties tomb stone carvings represent a peak of Chinese stone carving art.",
-      "examples": [
-        "南京南朝陵墓石刻",
-        "丹阳南朝陵墓石刻",
-        "明祖陵"
-      ]
-    },
-    {
-      "id": 67,
-      "term_zh": "牌坊",
-      "term_en": "Paifang (Memorial Archway)",
-      "category": "纪念建筑",
-      "category_en": "Memorial Architecture",
-      "definition_zh": "中国古代纪念性建筑，由柱子和横梁组成，多立于街道、路口、陵墓、寺庙前，起标识、纪念、装饰作用。",
-      "definition_en": "Ancient Chinese memorial architecture, consisting of columns and beams, often standing at streets, intersections, tombs and temples, serving identification, memorial and decorative functions.",
-      "examples": [
-        "朝天宫牌坊",
-        "嘉定孔庙三坊",
-        "国际饭店大门"
-      ]
-    },
-    {
-      "id": 68,
-      "term_zh": "照壁",
-      "term_en": "Screen Wall (Zhaobi)",
-      "category": "纪念建筑",
-      "category_en": "Memorial Architecture",
-      "definition_zh": "中国古建筑中位于大门内外的独立墙体，起遮挡视线、装饰和风水作用，又称影壁。",
-      "definition_en": "An independent wall inside or outside the main gate in traditional Chinese architecture, serving to block the view, decorate and function in fengshui, also called a shadow wall.",
-      "examples": [
-        "松江明代照壁",
-        "夫子庙大照壁"
-      ]
-    },
-    {
-      "id": 69,
-      "term_zh": "会馆",
-      "term_en": "Guild Hall (Huiguan)",
-      "category": "公共建筑",
-      "category_en": "Public Architecture",
-      "definition_zh": "中国古代旅居异地的同乡或同行设立的机构建筑，供集会、议事、祭祀、住宿之用，明清时期商业发达地区尤为兴盛。",
-      "definition_en": "Institutional buildings established in ancient China by fellow townsmen or colleagues living away from home, for gatherings, discussions, worship and lodging, especially flourishing in commercially developed areas during the Ming and Qing.",
-      "examples": [
-        "三山会馆",
-        "全晋会馆",
-        "安徽会馆"
-      ]
-    },
-    {
-      "id": 70,
-      "term_zh": "戏台",
-      "term_en": "Opera Stage (Xitai)",
-      "category": "公共建筑",
-      "category_en": "Public Architecture",
-      "definition_zh": "中国古建筑中供戏曲演出的建筑，常设于寺庙、会馆、园林中，有固定的形制，装饰华丽，是中国传统戏曲文化的物质载体。",
-      "definition_en": "Buildings in traditional Chinese architecture for opera performances, often set in temples, guild halls and gardens, with a fixed form and luxurious decoration, the material carrier of traditional Chinese opera culture.",
-      "examples": [
-        "三山会馆戏台",
-        "全晋会馆戏台",
-        "常州古戏楼群"
-      ]
-    },
-    {
-      "id": 71,
-      "term_zh": "驿站",
-      "term_en": "Post Station (Yizhan)",
-      "category": "公共建筑",
-      "category_en": "Public Architecture",
-      "definition_zh": "中国古代供传递公文的人或往来官员中途休息、换马的处所，是古代交通和通信体系的重要组成部分。",
-      "definition_en": "Places in ancient China for people transmitting official documents or traveling officials to rest and change horses midway, an important part of the ancient transportation and communication system.",
-      "examples": [
-        "盂城驿",
-        "高邮当铺"
-      ]
-    },
-    {
-      "id": 72,
-      "term_zh": "当铺",
-      "term_en": "Pawnshop (Dangpu)",
-      "category": "公共建筑",
-      "category_en": "Public Architecture",
-      "definition_zh": "中国古代收取衣物等动产作质押向放贷者放款的机构建筑，多为高墙深院，有坚固的库房。",
-      "definition_en": "Institutional buildings in ancient China that lent money to lenders by taking movable property such as clothing as collateral, mostly high-walled deep courtyards with sturdy warehouses.",
-      "examples": [
-        "高邮当铺"
-      ]
-    },
-    {
-      "id": 73,
-      "term_zh": "书院",
-      "term_en": "Academy (Shuyuan)",
-      "category": "教育建筑",
-      "category_en": "Educational Architecture",
-      "definition_zh": "中国古代私人或官府设立的讲学、藏书、祭祀场所，是中国古代教育体系的重要组成部分，建筑多为院落式布局。",
-      "definition_en": "Institutions established privately or by the government in ancient China for lectures, book collection and worship, an important part of the ancient Chinese education system, mostly in courtyard-style layouts.",
-      "examples": [
-        "东林书院",
-        "钟山书院",
-        "如皋公立简易师范学堂"
-      ]
-    },
-    {
-      "id": 74,
-      "term_zh": "学宫",
-      "term_en": "School Palace (Xuegong)",
-      "category": "教育建筑",
-      "category_en": "Educational Architecture",
-      "definition_zh": "中国古代地方官办学校，与孔庙合为一体，称庙学，是地方教育和祭祀孔子的中心。",
-      "definition_en": "Local government-run schools in ancient China, integrated with Confucian temples, called temple-schools, the center of local education and Confucius worship.",
-      "examples": [
-        "嘉定孔庙",
-        "无锡县学旧址",
-        "江阴文庙"
-      ]
-    },
-    {
-      "id": 75,
-      "term_zh": "考棚",
-      "term_en": "Examination Hall (Kaopeng)",
-      "category": "教育建筑",
-      "category_en": "Educational Architecture",
-      "definition_zh": "中国古代科举考试的场所，有大量独立的号舍，是科举制度的物质见证。",
-      "definition_en": "Places for imperial examinations in ancient China, with a large number of independent examination cells, a material witness to the imperial examination system.",
-      "examples": [
-        "学政试院",
-        "江南贡院"
-      ]
-    },
-    {
-      "id": 76,
-      "term_zh": "城墙",
-      "term_en": "City Wall (Chengqiang)",
-      "category": "防御建筑",
-      "category_en": "Defensive Architecture",
-      "definition_zh": "中国古代城市的防御设施，由墙体、城门、城楼、角楼、瓮城、护城河等组成，是城市的重要标志。",
-      "definition_en": "Defensive facilities of ancient Chinese cities, consisting of walls, gates, gate towers, corner towers, barbicans and moats, an important symbol of the city.",
-      "examples": [
-        "南京城墙",
-        "上海古城墙",
-        "高邮城墙"
-      ]
-    },
-    {
-      "id": 77,
-      "term_zh": "瓮城",
-      "term_en": "Barbican (Wengcheng)",
-      "category": "防御建筑",
-      "category_en": "Defensive Architecture",
-      "definition_zh": "中国古代城门外的防御设施，为半圆形或方形的小城，与主城墙相连，可对攻入之敌形成瓮中捉鳖之势。",
-      "definition_en": "Defensive facilities outside ancient Chinese city gates, small semicircular or square towns connected to the main city wall, allowing the enemy who breaks in to be caught like a turtle in a jar.",
-      "examples": [
-        "南京城墙",
-        "中华门"
-      ]
-    },
-    {
-      "id": 78,
-      "term_zh": "护城河",
-      "term_en": "Moat (Huchenghe)",
-      "category": "防御建筑",
-      "category_en": "Defensive Architecture",
-      "definition_zh": "中国古代城市城墙外的人工河道，起防御和运输作用，是城市防御体系的重要组成部分。",
-      "definition_en": "Artificial waterways outside ancient Chinese city walls, serving defense and transportation functions, an important part of the urban defense system.",
-      "examples": [
-        "南京护城河",
-        "上海古城墙城壕"
-      ]
-    },
-    {
-      "id": 79,
-      "term_zh": "炮台",
-      "term_en": "Fort (Paotai)",
-      "category": "防御建筑",
-      "category_en": "Defensive Architecture",
-      "definition_zh": "中国古代和近代在江海要隘设置的火炮防御工事，是海防和江防的重要设施。",
-      "definition_en": "Artillery defensive works set at strategic river and sea passes in ancient and modern China, important facilities for coastal and river defense.",
-      "examples": [
-        "黄山炮台旧址",
-        "江阴要塞"
-      ]
-    },
-    {
-      "id": 80,
-      "term_zh": "码头",
-      "term_en": "Wharf (Matou)",
-      "category": "交通建筑",
-      "category_en": "Transportation Architecture",
-      "definition_zh": "中国古代和近代江河海边供船只停靠、装卸货物和旅客上下的设施，是水运交通的节点。",
-      "definition_en": "Facilities along rivers, lakes and seas in ancient and modern China for ships to dock, load and unload cargo, and passengers to embark and disembark, nodes of water transportation.",
-      "examples": [
-        "龙江宝船厂遗址",
-        "京杭大运河"
-      ]
-    },
-    {
-      "id": 81,
-      "term_zh": "桥梁",
-      "term_en": "Bridge (Qiaoliang)",
-      "category": "交通建筑",
-      "category_en": "Transportation Architecture",
-      "definition_zh": "中国古代跨越河流沟壑的建筑，有梁桥、拱桥、索桥、浮桥等多种形式，是古代交通工程的杰出成就。",
-      "definition_en": "Buildings spanning rivers and gullies in ancient China, with various forms including beam bridges, arch bridges, suspension bridges and pontoon bridges, outstanding achievements of ancient transportation engineering.",
-      "examples": [
-        "七桥瓮",
-        "赵州桥",
-        "宝带桥"
-      ]
-    },
-    {
-      "id": 82,
-      "term_zh": "祠堂",
-      "term_en": "Ancestral Hall (Citang)",
-      "category": "祭祀建筑",
-      "category_en": "Sacrificial Architecture",
-      "definition_zh": "中国古代祭祀祖先或先贤的建筑，是宗族制度的物质载体，有宗祠、家祠、先贤祠等类型。",
-      "definition_en": "Buildings for worshipping ancestors or worthy predecessors in ancient China, the material carrier of the clan system, with types including clan ancestral halls, family ancestral halls and worthy-person shrines.",
-      "examples": [
-        "高淳周氏宗祠",
-        "惠山祠堂群",
-        "史可法墓祠"
-      ]
-    },
-    {
-      "id": 83,
-      "term_zh": "清真寺",
-      "term_en": "Mosque (Qingzhensi)",
-      "category": "宗教建筑",
-      "category_en": "Religious Architecture",
-      "definition_zh": "伊斯兰教的宗教建筑，中国清真寺多采用中国传统建筑形式，有礼拜殿、邦克楼、水房等组成部分。",
-      "definition_en": "Religious buildings of Islam; Chinese mosques mostly adopt traditional Chinese architectural forms, consisting of prayer halls, minarets and ablution rooms.",
-      "examples": [
-        "净觉寺",
-        "仙鹤寺",
-        "山巷清真寺"
-      ]
-    },
-    {
-      "id": 84,
-      "term_zh": "天主教堂",
-      "term_en": "Catholic Church",
-      "category": "宗教建筑",
-      "category_en": "Religious Architecture",
-      "definition_zh": "天主教的宗教建筑，近代传入中国后多采用西方哥特式或罗马式建筑风格，有钟楼、玫瑰花窗、彩色玻璃等元素。",
-      "definition_en": "Religious buildings of Catholicism; after being introduced to China in modern times, they mostly adopt Western Gothic or Romanesque architectural styles, with elements such as bell towers, rose windows and stained glass.",
-      "examples": [
-        "徐家汇天主教堂",
-        "耶稣圣心堂"
-      ]
-    },
-    {
-      "id": 85,
-      "term_zh": "基督教堂",
-      "term_en": "Protestant Church",
-      "category": "宗教建筑",
-      "category_en": "Religious Architecture",
-      "definition_zh": "基督教新教的宗教建筑，近代传入中国，风格多样，有哥特式、罗马式、现代式等。",
-      "definition_en": "Religious buildings of Protestantism, introduced to China in modern times, with diverse styles including Gothic, Romanesque and modern.",
-      "examples": [
-        "沐恩堂",
-        "国际礼拜堂"
-      ]
-    },
-    {
-      "id": 86,
-      "term_zh": "道观",
-      "term_en": "Taoist Temple (Daoguan)",
-      "category": "宗教建筑",
-      "category_en": "Religious Architecture",
-      "definition_zh": "道教的宗教建筑，多采用中国传统宫殿式建筑布局，有山门、灵官殿、三清殿、玉皇殿等组成部分。",
-      "definition_en": "Religious buildings of Taoism, mostly adopting traditional Chinese palace-style layout, consisting of mountain gate, Lingguan Hall, Sanqing Hall and Jade Emperor Hall.",
-      "examples": [
-        "大境道观",
-        "玄妙观"
-      ]
-    },
-    {
-      "id": 87,
-      "term_zh": "石窟",
-      "term_en": "Grotto (Shiku)",
-      "category": "宗教建筑",
-      "category_en": "Religious Architecture",
-      "definition_zh": "在山崖上开凿的佛教建筑，内有佛像、壁画，是佛教艺术的重要形式，始于魏晋，盛于北朝至隋唐。",
-      "definition_en": "Buddhist buildings carved into cliffs, with Buddha statues and murals inside, an important form of Buddhist art, beginning in the Wei-Jin period and flourishing from the Northern Dynasties to the Sui-Tang.",
-      "examples": [
-        "千佛崖石窟",
-        "孔望山摩崖造像"
-      ]
-    },
-    {
-      "id": 88,
-      "term_zh": "遗址",
-      "term_en": "Ruins (Yizhi)",
-      "category": "考古遗存",
-      "category_en": "Archaeological Remains",
-      "definition_zh": "古代人类活动留下的遗迹，包括城址、宫殿址、作坊址、墓葬等，是考古学研究的重要对象。",
-      "definition_en": "Remains left by ancient human activities, including city sites, palace sites, workshop sites and tombs, important objects of archaeological research.",
-      "examples": [
-        "明故宫遗址",
-        "淹城遗址",
-        "阖闾城遗址",
-        "扬州城遗址"
-      ]
-    },
-    {
-      "id": 89,
-      "term_zh": "汉墓",
-      "term_en": "Han Tomb",
-      "category": "考古遗存",
-      "category_en": "Archaeological Remains",
-      "definition_zh": "汉代的墓葬，多为崖洞墓或砖石墓，规模宏大，随葬品丰富，是研究汉代社会的重要实物资料。",
-      "definition_en": "Tombs of the Han dynasty, mostly cliff caves or brick-stone tombs, large in scale with rich grave goods, important physical materials for studying Han-dynasty society.",
-      "examples": [
-        "狮子山楚王陵",
-        "龟山汉墓",
-        "天山汉墓"
-      ]
-    },
-    {
-      "id": 90,
-      "term_zh": "大上海计划",
-      "term_en": "Greater Shanghai Plan",
-      "category": "城市规划",
-      "category_en": "Urban Planning",
-      "definition_zh": "1929年国民政府上海市政府提出的城市建设计划，旨在绕开租界，在上海东北部建设新的市中心，包括市政府大楼、图书馆、博物馆、体育场等建筑。",
-      "definition_en": "An urban construction plan proposed by the Nationalist government's Shanghai Municipal Government in 1929, aiming to bypass the concessions and build a new city center in northeastern Shanghai, including the municipal government building, library, museum and stadium.",
-      "examples": [
-        "旧上海特别市政府",
-        "旧上海市图书馆",
-        "旧上海市博物馆",
-        "江湾体育场"
-      ]
-    }
-  ]
+ "title": "江苏上海古建筑地图 - 建筑术语数据库",
+ "title_en": "Historical Architectural Map of Jiangsu & Shanghai - Architectural Terminology Database",
+ "total_terms": 90,
+ "categories": [
+ "城市规划",
+ "地方流派",
+ "考古遗存",
+ "江南民居",
+ "祭祀建筑",
+ "纪念建筑",
+ "宗教建筑",
+ "近代建筑",
+ "防御建筑",
+ "特殊建筑",
+ "公共建筑",
+ "园林艺术",
+ "教育建筑",
+ "建筑制度",
+ "建筑典籍",
+ "石窟艺术",
+ "陵墓建筑",
+ "屋顶形式",
+ "交通建筑",
+ "塔幢建筑",
+ "木构体系"
+ ],
+ "terms": [
+ {
+ "id": 1,
+ "term_zh": "歇山顶",
+ "term_en": "Hip-and-Gable Roof (Xieshan)",
+ "category": "屋顶形式",
+ "category_en": "Roof Forms",
+ "definition_zh": "中国古建筑屋顶形式之一，又称九脊顶，由一条正脊、四条垂脊和四条戗脊组成，上半部为悬山式，下半部为庑殿式，常用于宫殿、寺庙、园林建筑中等级较高的建筑。",
+ "definition_en": "One of the traditional Chinese architectural roof forms, also called the nine-ridge roof, consisting of one main ridge, four vertical ridges and four diagonal ridges; the upper half is of the overhanging gable type and the lower half of the hip type, commonly used for higher-ranking buildings in palaces, temples and gardens.",
+ "examples": [
+ "朝天宫",
+ "灵谷寺无梁殿",
+ "真如寺大殿",
+ "龙华寺大雄宝殿"
+ ]
+ },
+ {
+ "id": 2,
+ "term_zh": "庑殿顶",
+ "term_en": "Hip Roof (Wudian)",
+ "category": "屋顶形式",
+ "category_en": "Roof Forms",
+ "definition_zh": "中国古建筑最高等级的屋顶形式，又称四阿顶，由一条正脊和四条垂脊组成，四面坡，常用于宫殿最高等级建筑，如北京故宫太和殿。",
+ "definition_en": "The highest-ranking traditional Chinese roof form, also called the four-slope roof, consisting of one main ridge and four vertical ridges with four sloping sides, commonly used for the highest-ranking palace buildings such as the Hall of Supreme Harmony in the Forbidden City.",
+ "examples": [
+ "明孝陵",
+ "南京南朝陵墓石刻"
+ ]
+ },
+ {
+ "id": 3,
+ "term_zh": "攒尖顶",
+ "term_en": "Pyramidal Roof (Zanjian)",
+ "category": "屋顶形式",
+ "category_en": "Roof Forms",
+ "definition_zh": "中国古建筑屋顶形式之一，屋顶为锥形，无正脊，顶部集中于一点（宝顶），有三角、四角、六角、八角、圆形等多种平面形式，常用于亭、阁、塔等建筑。",
+ "definition_en": "A traditional Chinese roof form with a conical shape, no main ridge, and the top converging at a single point (finial), with various plan forms including triangular, quadrangular, hexagonal, octagonal and circular, commonly used for pavilions, towers and pagodas.",
+ "examples": [
+ "苏州园林亭子",
+ "中国银行大楼顶部",
+ "七桥瓮"
+ ]
+ },
+ {
+ "id": 4,
+ "term_zh": "悬山顶",
+ "term_en": "Overhanging Gable Roof (Xuanshan)",
+ "category": "屋顶形式",
+ "category_en": "Roof Forms",
+ "definition_zh": "中国古建筑屋顶形式之一，又称挑山顶，两山屋顶伸出山墙之外，檩木暴露在外，是民间建筑中最常见的屋顶形式。",
+ "definition_en": "A traditional Chinese roof form, also called the overhanging mountain roof, where the two gable roofs extend beyond the gable walls with exposed purlins, the most common roof form in vernacular architecture.",
+ "examples": [
+ "杨柳村古建筑群",
+ "荡口古镇"
+ ]
+ },
+ {
+ "id": 5,
+ "term_zh": "硬山顶",
+ "term_en": "Flush Gable Roof (Yingshan)",
+ "category": "屋顶形式",
+ "category_en": "Roof Forms",
+ "definition_zh": "中国古建筑屋顶形式之一，山墙与屋顶齐平或高出屋顶，檩木不外露，是江南民居中最常见的屋顶形式，防火性能较好。",
+ "definition_en": "A traditional Chinese roof form where the gable walls are flush with or rise above the roof, with no exposed purlins, the most common roof form in Jiangnan residences, with relatively good fire resistance.",
+ "examples": [
+ "甘熙宅第",
+ "小娄巷民居群",
+ "上海石库门"
+ ]
+ },
+ {
+ "id": 6,
+ "term_zh": "卷棚顶",
+ "term_en": "Round-Ridge Roof (Juanpeng)",
+ "category": "屋顶形式",
+ "category_en": "Roof Forms",
+ "definition_zh": "中国古建筑屋顶形式之一，无正脊，屋顶前后坡相接处为弧形曲面，线条柔和，常用于园林建筑和民居，显得活泼雅致。",
+ "definition_en": "A traditional Chinese roof form with no main ridge, where the junction of the front and rear roof slopes is an arc-shaped curve with soft lines, commonly used in garden architecture and residences, appearing lively and elegant.",
+ "examples": [
+ "苏州园林",
+ "扬州园林"
+ ]
+ },
+ {
+ "id": 7,
+ "term_zh": "盝顶",
+ "term_en": "Flat-Top with Four Slopes (Luding)",
+ "category": "屋顶形式",
+ "category_en": "Roof Forms",
+ "definition_zh": "中国古建筑屋顶形式之一，顶部为平顶，四周有坡，四角有短脊，形似盝（古代妆具），常用于楼阁和园林建筑。",
+ "definition_en": "A traditional Chinese roof form with a flat top and slopes on all four sides, with short ridges at the four corners, resembling an ancient cosmetic box (lu), commonly used for towers and garden buildings.",
+ "examples": [
+ "北京故宫角楼"
+ ]
+ },
+ {
+ "id": 8,
+ "term_zh": "斗拱",
+ "term_en": "Bracket Set (Dougong)",
+ "category": "木构体系",
+ "category_en": "Timber Frame System",
+ "definition_zh": "中国古建筑特有的构件，由方形的斗、升和弓形的拱、斜向的昂组成，位于柱顶、额枋与屋顶之间，起承托屋檐、传递荷载和装饰作用，是中国古建筑的标志性元素。",
+ "definition_en": "A unique component of traditional Chinese architecture, consisting of square blocks (dou/sheng), bow-shaped arms (gong) and inclined ang (lever arms), located between column tops, architraves and the roof, serving to support eaves, transfer loads and decorate, and is the iconic element of traditional Chinese architecture.",
+ "examples": [
+ "保圣寺塔",
+ "南翔寺砖塔",
+ "兴圣教寺塔",
+ "真如寺大殿"
+ ]
+ },
+ {
+ "id": 9,
+ "term_zh": "五铺作",
+ "term_en": "Five-Tier Bracket Set (Wupuzuo)",
+ "category": "木构体系",
+ "category_en": "Timber Frame System",
+ "definition_zh": "宋代《营造法式》中斗拱的等级之一，出跳数为两跳（华拱两跳或华拱一跳加昂一跳），是中等规格的斗拱做法，常用于寺庙大殿等建筑。",
+ "definition_en": "One of the bracket set grades in the Song dynasty Yingzao Fashi (State Building Standards), with two tiers of projections (either two hua-gong tiers or one hua-gong tier plus one ang tier), a medium-specification bracket set method commonly used for temple main halls.",
+ "examples": [
+ "保圣寺塔",
+ "南翔寺砖塔"
+ ]
+ },
+ {
+ "id": 10,
+ "term_zh": "单杪单昂",
+ "term_en": "Single Hua-Gong and Single Ang",
+ "category": "木构体系",
+ "category_en": "Timber Frame System",
+ "definition_zh": "斗拱出跳的一种组合方式，第一层出华拱（杪），第二层出昂，是五铺作斗拱的常见形式。",
+ "definition_en": "A combination of bracket set projections, with the first tier projecting a hua-gong (miao) and the second tier projecting an ang, a common form of five-tier bracket sets.",
+ "examples": [
+ "南翔寺砖塔"
+ ]
+ },
+ {
+ "id": 11,
+ "term_zh": "补间铺作",
+ "term_en": "Intermediate Bracket Set (Bujian Puzuo)",
+ "category": "木构体系",
+ "category_en": "Timber Frame System",
+ "definition_zh": "宋代斗拱的一种位置分类，位于两柱之间的额枋上，与柱头铺作（柱顶斗拱）和转角铺作（角柱斗拱）相对应。",
+ "definition_en": "A positional classification of Song-dynasty bracket sets, located on the architrave between two columns, corresponding to the column-top bracket set (zhutou puzuo) and corner bracket set (zhuanjiao puzuo).",
+ "examples": [
+ "南翔寺砖塔",
+ "真如寺大殿"
+ ]
+ },
+ {
+ "id": 12,
+ "term_zh": "月梁",
+ "term_en": "Crescent Beam (Yueliang)",
+ "category": "木构体系",
+ "category_en": "Timber Frame System",
+ "definition_zh": "中国古建筑梁架中的一种梁，梁背呈弧形隆起，梁底亦弧形上凹，形似新月，常用于江南建筑的厅堂中，造型优美。",
+ "definition_en": "A type of beam in traditional Chinese timber framing, with the top of the beam arched upward and the bottom also concavely curved, resembling a crescent moon, commonly used in the halls of Jiangnan architecture with an elegant form.",
+ "examples": [
+ "苏州园林厅堂",
+ "扬州盐商住宅"
+ ]
+ },
+ {
+ "id": 13,
+ "term_zh": "梭柱",
+ "term_en": "Spindle Column (Suozhu)",
+ "category": "木构体系",
+ "category_en": "Timber Frame System",
+ "definition_zh": "中国古建筑柱式之一，柱身上下两端收窄，中部微鼓，形似织布的梭子，是宋代以前常见的柱式，明清以后较少使用。",
+ "definition_en": "A traditional Chinese column type with both upper and lower ends tapered and the middle slightly bulging, resembling a weaving spindle, a common column type before the Song dynasty, less used after the Ming and Qing.",
+ "examples": [
+ "保圣寺塔",
+ "南唐二陵"
+ ]
+ },
+ {
+ "id": 14,
+ "term_zh": "卷杀",
+ "term_en": "Entasis (Juansha)",
+ "category": "木构体系",
+ "category_en": "Timber Frame System",
+ "definition_zh": "中国古建筑木构件端部的加工方式，将构件端部按比例逐渐切削成柔和的曲线，使构件轮廓富有弹性美感，常用于柱、梁、斗拱等构件。",
+ "definition_en": "A processing method for the ends of wooden components in traditional Chinese architecture, where the component ends are gradually cut into soft curves in proportion, giving the component outline an elastic aesthetic, commonly used for columns, beams and bracket sets.",
+ "examples": [
+ "南翔寺砖塔",
+ "保圣寺塔"
+ ]
+ },
+ {
+ "id": 15,
+ "term_zh": "雀替",
+ "term_en": "Sparrow Brace (Queti)",
+ "category": "木构体系",
+ "category_en": "Timber Frame System",
+ "definition_zh": "中国古建筑中位于柱与梁枋交接处的装饰性构件，形似双翼，起加固和装饰作用，明清时期装饰性增强，常雕刻精美图案。",
+ "definition_en": "A decorative component in traditional Chinese architecture located at the junction of columns and beams, resembling two wings, serving to reinforce and decorate; during the Ming and Qing, its decorative function increased, often with exquisitely carved patterns.",
+ "examples": [
+ "甘熙宅第",
+ "薛福成故居",
+ "上海中国银行大楼"
+ ]
+ },
+ {
+ "id": 16,
+ "term_zh": "藻井",
+ "term_en": "Caisson Ceiling (Zaojing)",
+ "category": "木构体系",
+ "category_en": "Timber Frame System",
+ "definition_zh": "中国古建筑室内顶棚的一种装饰性结构，位于建筑中心顶部，呈穹窿状，由多层斗拱和木雕组成，常用于宫殿、寺庙的重要建筑中，象征天宇。",
+ "definition_en": "A decorative structure of the interior ceiling in traditional Chinese architecture, located at the top center of the building, in a domed shape, composed of multiple layers of bracket sets and wood carvings, commonly used in important palace and temple buildings, symbolizing the celestial sphere.",
+ "examples": [
+ "三山会馆戏台",
+ "朝天宫"
+ ]
+ },
+ {
+ "id": 17,
+ "term_zh": "草架",
+ "term_en": "Rough Frame (Caojia)",
+ "category": "木构体系",
+ "category_en": "Timber Frame System",
+ "definition_zh": "中国古建筑中天花板以上的梁架部分，不做精细加工，与天花板以下经过精细加工的明袱相对，是江南建筑中常见的做法。",
+ "definition_en": "The part of the timber frame above the ceiling in traditional Chinese architecture, not finely processed, corresponding to the exposed and finely processed mingfu (visible beam) below the ceiling, a common practice in Jiangnan architecture.",
+ "examples": [
+ "真如寺大殿"
+ ]
+ },
+ {
+ "id": 18,
+ "term_zh": "彻上明造",
+ "term_en": "Exposed Frame Construction (Che Shang Ming Zao)",
+ "category": "木构体系",
+ "category_en": "Timber Frame System",
+ "definition_zh": "中国古建筑中不设天花板，梁架全部暴露可见的做法，使室内空间高大，常用于寺庙大殿等建筑。",
+ "definition_en": "A construction method in traditional Chinese architecture with no ceiling, where the entire timber frame is exposed and visible, creating a tall interior space, commonly used in temple main halls.",
+ "examples": [
+ "真如寺大殿",
+ "保圣寺塔"
+ ]
+ },
+ {
+ "id": 19,
+ "term_zh": "楼阁式塔",
+ "term_en": "Pavilion-Style Pagoda",
+ "category": "塔幢建筑",
+ "category_en": "Pagoda & Pillar Architecture",
+ "definition_zh": "中国佛塔的主要类型之一，仿照中国传统楼阁建筑形式，每层有塔身、塔檐、平座，可登临，是中国古塔中数量最多的类型。",
+ "definition_en": "One of the main types of Chinese Buddhist pagodas, imitating the form of traditional Chinese pavilion buildings, with each story having a pagoda body, eave and flat seat, climbable, and the most numerous type of ancient Chinese pagodas.",
+ "examples": [
+ "龙华塔",
+ "法华塔",
+ "兴圣教寺塔",
+ "海清寺塔",
+ "文通塔"
+ ]
+ },
+ {
+ "id": 20,
+ "term_zh": "密檐式塔",
+ "term_en": "Multi-Eaved Pagoda",
+ "category": "塔幢建筑",
+ "category_en": "Pagoda & Pillar Architecture",
+ "definition_zh": "中国佛塔的主要类型之一，第一层塔身较高，以上各层塔檐紧密重叠，多为实心，不可登临，常见于北方地区。",
+ "definition_en": "One of the main types of Chinese Buddhist pagodas, with a tall first story and closely overlapping eaves above, mostly solid and not climbable, commonly found in northern China.",
+ "examples": [
+ "南京南朝陵墓石刻附近"
+ ]
+ },
+ {
+ "id": 21,
+ "term_zh": "塔刹",
+ "term_en": "Pagoda Finial (Tasha)",
+ "category": "塔幢建筑",
+ "category_en": "Pagoda & Pillar Architecture",
+ "definition_zh": "塔顶部的装饰性构件，由基座、覆钵、相轮、宝盖、宝珠等组成，是佛塔的标志性元素，象征佛的涅槃。",
+ "definition_en": "The decorative component at the top of a pagoda, consisting of a base, alms bowl, wheel discs, canopy and jewel, the iconic element of Buddhist pagodas, symbolizing the Buddha's nirvana.",
+ "examples": [
+ "龙华塔",
+ "法华塔",
+ "兴圣教寺塔"
+ ]
+ },
+ {
+ "id": 22,
+ "term_zh": "相轮",
+ "term_en": "Wheel Disc (Xianglun)",
+ "category": "塔幢建筑",
+ "category_en": "Pagoda & Pillar Architecture",
+ "definition_zh": "塔刹的组成部分，为多重圆环，套在刹杆上，是佛塔的重要装饰，相轮的数量代表塔的等级。",
+ "definition_en": "A component of the pagoda finial, consisting of multiple circular rings fitted on the finial pole, an important decoration of Buddhist pagodas, with the number of wheel discs representing the pagoda's rank.",
+ "examples": [
+ "龙华塔",
+ "兴圣教寺塔"
+ ]
+ },
+ {
+ "id": 23,
+ "term_zh": "壶门",
+ "term_en": "Pot Door (Humen)",
+ "category": "塔幢建筑",
+ "category_en": "Pagoda & Pillar Architecture",
+ "definition_zh": "塔、石窟、碑刻等建筑中常见的门形装饰，轮廓为尖拱形，形似壶（古代盛器），常用于塔身壁面。",
+ "definition_en": "A door-shaped decoration commonly found in pagodas, grottoes and steles, with a pointed arch outline resembling an ancient pot (hu), commonly used on pagoda body walls.",
+ "examples": [
+ "龙华塔",
+ "兴圣教寺塔",
+ "南翔寺砖塔"
+ ]
+ },
+ {
+ "id": 24,
+ "term_zh": "腰檐",
+ "term_en": "Waist Eave (Yaoyan)",
+ "category": "塔幢建筑",
+ "category_en": "Pagoda & Pillar Architecture",
+ "definition_zh": "楼阁式塔各层之间的短檐，形似腰带，是楼阁式塔的标志性特征，使塔身呈现明显的分层。",
+ "definition_en": "The short eaves between stories of pavilion-style pagodas, resembling a waist belt, the iconic feature of pavilion-style pagodas, giving the pagoda body distinct layering.",
+ "examples": [
+ "龙华塔",
+ "法华塔",
+ "兴圣教寺塔"
+ ]
+ },
+ {
+ "id": 25,
+ "term_zh": "平座",
+ "term_en": "Flat Seat (Pingzuo)",
+ "category": "塔幢建筑",
+ "category_en": "Pagoda & Pillar Architecture",
+ "definition_zh": "楼阁式塔各层塔檐上方的平台，由斗拱承托，外围有栏杆，可供登临眺望。",
+ "definition_en": "The platform above each eave of pavilion-style pagodas, supported by bracket sets, with railings around the perimeter, for climbing and viewing.",
+ "examples": [
+ "龙华塔",
+ "兴圣教寺塔"
+ ]
+ },
+ {
+ "id": 26,
+ "term_zh": "地宫",
+ "term_en": "Underground Palace (Digong)",
+ "category": "塔幢建筑",
+ "category_en": "Pagoda & Pillar Architecture",
+ "definition_zh": "佛塔塔基下的地下空间，用于埋藏舍利、佛经、宝物等，是佛塔的重要组成部分，考古价值极高。",
+ "definition_en": "The underground space beneath the foundation of a Buddhist pagoda, used to bury relics, sutras and treasures, an important component of Buddhist pagodas with high archaeological value.",
+ "examples": [
+ "法华塔",
+ "兴圣教寺塔",
+ "阿育王寺"
+ ]
+ },
+ {
+ "id": 27,
+ "term_zh": "经幢",
+ "term_en": "Sutra Pillar (Jingchuang)",
+ "category": "塔幢建筑",
+ "category_en": "Pagoda & Pillar Architecture",
+ "definition_zh": "中国古代佛教石刻建筑，由基座、幢身、幢顶三部分组成，幢身镌刻佛经（多为《佛顶尊胜陀罗尼经》），盛行于唐代，是佛教建筑的独特形式。",
+ "definition_en": "Ancient Chinese Buddhist stone-carved architecture, consisting of a base, pillar body and pillar top, with the pillar body engraved with Buddhist sutras (mostly the Buddha's Top Victorious Dharani Sutra), prevalent in the Tang dynasty, a unique form of Buddhist architecture.",
+ "examples": [
+ "松江唐经幢",
+ "南翔古猗园唐经幢",
+ "太平兴国教寺大殿"
+ ]
+ },
+ {
+ "id": 28,
+ "term_zh": "须弥座",
+ "term_en": "Sumeru Base (Xumizuo)",
+ "category": "塔幢建筑",
+ "category_en": "Pagoda & Pillar Architecture",
+ "definition_zh": "中国古建筑中高级建筑的台基形式，由多层线脚组成，中间束腰，形似佛教传说中的须弥山，常用于宫殿、寺庙、塔幢等建筑。",
+ "definition_en": "A high-grade platform form in traditional Chinese architecture, consisting of multiple layers of moldings with a waist in the middle, resembling Mount Sumeru in Buddhist legend, commonly used for palaces, temples, pagodas and pillars.",
+ "examples": [
+ "松江唐经幢",
+ "南京明故宫遗址"
+ ]
+ },
+ {
+ "id": 29,
+ "term_zh": "叠涩",
+ "term_en": "Corbel (Dieshe)",
+ "category": "塔幢建筑",
+ "category_en": "Pagoda & Pillar Architecture",
+ "definition_zh": "砖石结构中常见的砌筑方式，将砖石逐层向外挑出，形成支撑或装饰，常用于塔檐、经幢等建筑。",
+ "definition_en": "A common masonry method in brick-stone structures, where bricks or stones are projected outward layer by layer to form support or decoration, commonly used for pagoda eaves and sutra pillars.",
+ "examples": [
+ "龙华塔",
+ "南翔寺砖塔",
+ "松江唐经幢"
+ ]
+ },
+ {
+ "id": 30,
+ "term_zh": "借景",
+ "term_en": "Borrowed Scenery (Jiejing)",
+ "category": "园林艺术",
+ "category_en": "Garden Art",
+ "definition_zh": "中国古典园林的重要造园手法，将园外的景色引入园内，扩大园林空间感，《园冶》将其列为造园诸法之首。",
+ "definition_en": "An important garden-making technique in classical Chinese gardens, introducing scenery outside the garden into the garden to expand the sense of space, listed by Yuanye (The Craft of Gardens) as the foremost of all garden-making methods.",
+ "examples": [
+ "拙政园",
+ "留园",
+ "寄畅园"
+ ]
+ },
+ {
+ "id": 31,
+ "term_zh": "对景",
+ "term_en": "Opposite Scenery (Duijing)",
+ "category": "园林艺术",
+ "category_en": "Garden Art",
+ "definition_zh": "中国古典园林造园手法，在园林轴线或视线的两端设置景物，互相呼应，形成视觉焦点。",
+ "definition_en": "A garden-making technique in classical Chinese gardens, where scenery is set at both ends of a garden axis or sightline, echoing each other to form a visual focus.",
+ "examples": [
+ "个园",
+ "何园",
+ "秋霞圃"
+ ]
+ },
+ {
+ "id": 32,
+ "term_zh": "框景",
+ "term_en": "Framed Scenery (Kuangjing)",
+ "category": "园林艺术",
+ "category_en": "Garden Art",
+ "definition_zh": "中国古典园林造园手法，利用门框、窗框、洞门等将园景框入其中，形成一幅立体的画。",
+ "definition_en": "A garden-making technique in classical Chinese gardens, using door frames, window frames and cave doors to frame garden scenery, forming a three-dimensional painting.",
+ "examples": [
+ "拙政园",
+ "留园",
+ "网师园"
+ ]
+ },
+ {
+ "id": 33,
+ "term_zh": "障景",
+ "term_en": "Obstructed Scenery (Zhangjing)",
+ "category": "园林艺术",
+ "category_en": "Garden Art",
+ "definition_zh": "中国古典园林造园手法，在园林入口或视线前方设置假山、屏风、植物等遮挡景物，达到先抑后扬的效果。",
+ "definition_en": "A garden-making technique in classical Chinese gardens, where rockeries, screens and plants are set at the garden entrance or in front of the sightline to obstruct scenery, achieving the effect of first suppressing then releasing.",
+ "examples": [
+ "拙政园",
+ "留园",
+ "个园"
+ ]
+ },
+ {
+ "id": 34,
+ "term_zh": "假山",
+ "term_en": "Artificial Rockery (Jiashan)",
+ "category": "园林艺术",
+ "category_en": "Garden Art",
+ "definition_zh": "中国古典园林中用天然石块堆叠而成的山，是园林的骨架，有土山、石山、土石山之分，追求透、漏、瘦、皱的审美标准。",
+ "definition_en": "Mountains piled from natural stones in classical Chinese gardens, the skeleton of the garden, divided into earth mountains, stone mountains and earth-stone mountains, pursuing the aesthetic standards of transparency, perforation, slenderness and wrinkling.",
+ "examples": [
+ "个园四季假山",
+ "留园冠云峰",
+ "环秀山庄",
+ "秋霞圃"
+ ]
+ },
+ {
+ "id": 35,
+ "term_zh": "太湖石",
+ "term_en": "Taihu Stone",
+ "category": "园林艺术",
+ "category_en": "Garden Art",
+ "definition_zh": "中国古典园林中最常用的观赏石，产于太湖流域，经湖水长期侵蚀形成玲珑剔透的形态，以瘦、皱、漏、透为审美标准。",
+ "definition_en": "The most commonly used ornamental stone in classical Chinese gardens, produced in the Taihu Lake basin, formed into exquisite and perforated shapes by long-term lake water erosion, with slenderness, wrinkling, perforation and transparency as aesthetic standards.",
+ "examples": [
+ "留园冠云峰",
+ "豫园玉玲珑",
+ "苏州园林"
+ ]
+ },
+ {
+ "id": 36,
+ "term_zh": "花街铺地",
+ "term_en": "Patterned Paving (Huajie Pudi)",
+ "category": "园林艺术",
+ "category_en": "Garden Art",
+ "definition_zh": "中国古典园林中用碎石、瓦片、瓷片等材料铺设成各种图案的地面，是江南园林的特色之一。",
+ "definition_en": "Ground paving in classical Chinese gardens using crushed stone, tiles and porcelain pieces to form various patterns, one of the features of Jiangnan gardens.",
+ "examples": [
+ "苏州园林",
+ "扬州园林",
+ "豫园"
+ ]
+ },
+ {
+ "id": 37,
+ "term_zh": "旱院水做",
+ "term_en": "Dry Courtyard with Water Illusion",
+ "category": "园林艺术",
+ "category_en": "Garden Art",
+ "definition_zh": "中国古典园林造园手法，在无水的庭院中用铺地、石矶等手法模拟水景，创造出水的意境。",
+ "definition_en": "A garden-making technique in classical Chinese gardens, using paving and stone islets in a waterless courtyard to simulate water scenery, creating the artistic conception of water.",
+ "examples": [
+ "秋霞圃凝霞阁前小院"
+ ]
+ },
+ {
+ "id": 38,
+ "term_zh": "天井",
+ "term_en": "Courtyard (Tianjing)",
+ "category": "江南民居",
+ "category_en": "Jiangnan Vernacular",
+ "definition_zh": "江南民居中房屋之间的露天小院落，面积较小，起采光、通风、排水作用，是江南民居的核心空间。",
+ "definition_en": "The small open courtyard between buildings in Jiangnan residences, small in area, serving for lighting, ventilation and drainage, the core space of Jiangnan residences.",
+ "examples": [
+ "甘熙宅第",
+ "三山会馆",
+ "上海石库门"
+ ]
+ },
+ {
+ "id": 39,
+ "term_zh": "马头墙",
+ "term_en": "Horse-Head Wall (Matouqiang)",
+ "category": "江南民居",
+ "category_en": "Jiangnan Vernacular",
+ "definition_zh": "江南民居中高出屋顶的山墙，因形似马头而得名，起防火、防风作用，是徽派建筑和江南民居的标志性元素。",
+ "definition_en": "Gable walls rising above the roof in Jiangnan residences, named for their resemblance to horse heads, serving fire prevention and wind protection functions, the iconic element of Huizhou-style architecture and Jiangnan residences.",
+ "examples": [
+ "杨柳村古建筑群",
+ "荡口古镇",
+ "徽州建筑"
+ ]
+ },
+ {
+ "id": 40,
+ "term_zh": "观音兜",
+ "term_en": "Guanyin Hood (Guanyindou)",
+ "category": "江南民居",
+ "category_en": "Jiangnan Vernacular",
+ "definition_zh": "江南民居中山墙的一种形式，山墙顶部呈弧形隆起，形似观音菩萨的帽兜，是上海及苏南地区民居的特色。",
+ "definition_en": "A form of gable wall in Jiangnan residences, with the top of the gable wall arched upward, resembling the hood of Guanyin Bodhisattva, a feature of residences in Shanghai and southern Jiangsu.",
+ "examples": [
+ "上海石库门",
+ "书隐楼"
+ ]
+ },
+ {
+ "id": 41,
+ "term_zh": "石库门",
+ "term_en": "Shikumen (Stone Gate)",
+ "category": "江南民居",
+ "category_en": "Jiangnan Vernacular",
+ "definition_zh": "上海近代最具代表性的民居形式，因入口用石料做门框而得名，是中西合璧的里弄住宅，融合了江南民居和西方联排住宅的特点。",
+ "definition_en": "The most representative residential form in modern Shanghai, named for the stone door frames at the entrance, a Chinese-Western combined lane residence that merges the features of Jiangnan residences and Western townhouses.",
+ "examples": [
+ "中共一大会址",
+ "上海新天地",
+ "步高里"
+ ]
+ },
+ {
+ "id": 42,
+ "term_zh": "砖雕门楼",
+ "term_en": "Brick-Carved Gate Tower",
+ "category": "江南民居",
+ "category_en": "Jiangnan Vernacular",
+ "definition_zh": "江南民居中用砖雕刻而成的门楼，位于住宅入口，雕刻精美，常刻有题字和吉祥图案，是宅第等级的象征。",
+ "definition_en": "Gate towers carved from brick in Jiangnan residences, located at the residence entrance, exquisitely carved, often with inscriptions and auspicious patterns, a symbol of the residence's rank.",
+ "examples": [
+ "网师园",
+ "个园",
+ "苏州古民居"
+ ]
+ },
+ {
+ "id": 43,
+ "term_zh": "备弄",
+ "term_en": "Service Lane (Beinong)",
+ "category": "江南民居",
+ "category_en": "Jiangnan Vernacular",
+ "definition_zh": "江南大宅中位于住宅一侧的狭长通道，供仆役通行和搬运物品，避免干扰主院，是江南大宅的特色空间。",
+ "definition_en": "A narrow passage on one side of large Jiangnan residences, for servants to pass and carry goods, avoiding disturbance to the main courtyard, a characteristic space of large Jiangnan residences.",
+ "examples": [
+ "甘熙宅第",
+ "薛福成故居"
+ ]
+ },
+ {
+ "id": 44,
+ "term_zh": "轿厅",
+ "term_en": "Sedan Chair Hall (Jiaoting)",
+ "category": "江南民居",
+ "category_en": "Jiangnan Vernacular",
+ "definition_zh": "江南大宅中位于入口后的第二进建筑，用于停放轿子和接待宾客，是宅第礼仪空间的重要组成部分。",
+ "definition_en": "The second building after the entrance in large Jiangnan residences, used for parking sedan chairs and receiving guests, an important part of the residence's ceremonial space.",
+ "examples": [
+ "甘熙宅第",
+ "薛福成故居"
+ ]
+ },
+ {
+ "id": 45,
+ "term_zh": "新古典主义",
+ "term_en": "Neoclassicism",
+ "category": "近代建筑",
+ "category_en": "Modern Architecture",
+ "definition_zh": "18-19世纪西方建筑风格，复兴古希腊罗马建筑形式，采用柱式、山花、檐口等古典元素，上海外滩建筑群多采用此风格。",
+ "definition_en": "A Western architectural style of the 18th-19th centuries, reviving ancient Greek and Roman architectural forms, using classical elements such as columns, pediments and cornices; many buildings in the Shanghai Bund adopt this style.",
+ "examples": [
+ "汇丰银行大楼",
+ "上海总会",
+ "亚细亚大楼"
+ ]
+ },
+ {
+ "id": 46,
+ "term_zh": "装饰艺术",
+ "term_en": "Art Deco",
+ "category": "近代建筑",
+ "category_en": "Modern Architecture",
+ "definition_zh": "20世纪20-30年代流行的建筑风格，强调几何图案、竖向线条、阶梯状收分和金属装饰，上海是世界上Art Deco建筑最集中的城市之一。",
+ "definition_en": "An architectural style popular in the 1920s-30s, emphasizing geometric patterns, vertical lines, stepped setbacks and metal decoration; Shanghai is one of the cities with the highest concentration of Art Deco buildings in the world.",
+ "examples": [
+ "沙逊大厦",
+ "国际饭店",
+ "百老汇大厦",
+ "中国银行大楼"
+ ]
+ },
+ {
+ "id": 47,
+ "term_zh": "折衷主义",
+ "term_en": "Eclecticism",
+ "category": "近代建筑",
+ "category_en": "Modern Architecture",
+ "definition_zh": "19世纪西方建筑风格，任意模仿历史上各种风格并自由组合，不追求固定的法式，上海跑马总会等建筑采用此风格。",
+ "definition_en": "A 19th-century Western architectural style that freely imitates and combines various historical styles without pursuing a fixed formula; buildings such as the Shanghai Race Club adopt this style.",
+ "examples": [
+ "跑马总会",
+ "江海关大楼"
+ ]
+ },
+ {
+ "id": 48,
+ "term_zh": "外廊式",
+ "term_en": "Veranda Style",
+ "category": "近代建筑",
+ "category_en": "Modern Architecture",
+ "definition_zh": "近代殖民建筑风格，建筑外围设连续外廊，适应热带亚热带气候，是上海早期租界建筑的常见形式。",
+ "definition_en": "A modern colonial architectural style with continuous verandas around the building, adapted to tropical and subtropical climates, a common form of early concession buildings in Shanghai.",
+ "examples": [
+ "英国驻沪领事馆",
+ "南洋公学中院"
+ ]
+ },
+ {
+ "id": 49,
+ "term_zh": "哥特复兴",
+ "term_en": "Gothic Revival",
+ "category": "近代建筑",
+ "category_en": "Modern Architecture",
+ "definition_zh": "19世纪复兴中世纪哥特式建筑的风格，采用尖拱、花窗玻璃、尖塔等元素，常用于教堂建筑。",
+ "definition_en": "A 19th-century style reviving medieval Gothic architecture, using pointed arches, stained glass windows and spires, commonly used for church buildings.",
+ "examples": [
+ "徐家汇天主教堂",
+ "沐恩堂"
+ ]
+ },
+ {
+ "id": 50,
+ "term_zh": "钢框架结构",
+ "term_en": "Steel Frame Structure",
+ "category": "近代建筑",
+ "category_en": "Modern Architecture",
+ "definition_zh": "近代高层建筑的结构形式，用钢材制作梁柱框架，墙体只起围护作用，使建筑可以向高空发展，上海20世纪30年代高层建筑多采用此结构。",
+ "definition_en": "A structural form of modern high-rise buildings, using steel for beam-column frames, with walls only serving as enclosure, allowing buildings to develop upward; many Shanghai high-rises of the 1930s adopt this structure.",
+ "examples": [
+ "沙逊大厦",
+ "国际饭店",
+ "中国银行大楼"
+ ]
+ },
+ {
+ "id": 51,
+ "term_zh": "营造法式",
+ "term_en": "Yingzao Fashi (State Building Standards)",
+ "category": "建筑典籍",
+ "category_en": "Architectural Texts",
+ "definition_zh": "北宋李诫编修的建筑技术专著，元符三年（1100年）编成，崇宁二年（1103年）刊行，是中国古代最完整的建筑技术书籍，确立了材分制的模数体系。",
+ "definition_en": "An architectural technical monograph compiled by Li Jie in the Northern Song, completed in 1100 and published in 1103, the most complete architectural technical book of ancient China, establishing the modular system of cai-fen (material-unit).",
+ "examples": [
+ "真如寺大殿斗拱",
+ "保圣寺塔"
+ ]
+ },
+ {
+ "id": 52,
+ "term_zh": "清营造则例",
+ "term_en": "Qing Yingzao Zeli (Qing Building Regulations)",
+ "category": "建筑典籍",
+ "category_en": "Architectural Texts",
+ "definition_zh": "清代官方颁布的建筑工程做法规范，梁思成根据清代工匠做法整理成书，是研究清代建筑的重要文献。",
+ "definition_en": "The official building engineering practice standards promulgated in the Qing dynasty, organized into a book by Liang Sicheng based on Qing craftsmen's practices, an important document for studying Qing architecture.",
+ "examples": [
+ "真如寺大殿斗拱对比"
+ ]
+ },
+ {
+ "id": 53,
+ "term_zh": "伽蓝七堂",
+ "term_en": "Seven Halls of Sangharama",
+ "category": "建筑制度",
+ "category_en": "Architectural Systems",
+ "definition_zh": "中国佛教寺院的标准布局，由山门、天王殿、大雄宝殿、后殿、法堂、伽蓝殿、祖师殿七座主要建筑组成，是禅宗寺院的典型格局。",
+ "definition_en": "The standard layout of Chinese Buddhist temples, consisting of seven main buildings: mountain gate, Hall of Heavenly Kings, Mahavira Hall, rear hall, Dharma hall, Sangharama Hall and Patriarch Hall, the typical layout of Chan Buddhist temples.",
+ "examples": [
+ "龙华寺",
+ "栖霞寺",
+ "天宁寺"
+ ]
+ },
+ {
+ "id": 54,
+ "term_zh": "泮池",
+ "term_en": "Pan Pool",
+ "category": "建筑制度",
+ "category_en": "Architectural Systems",
+ "definition_zh": "孔庙（文庙）前的半圆形水池，是儒家礼制建筑的标志，象征儒学，池上常架泮桥。",
+ "definition_en": "The semicircular pool in front of Confucian temples (wenmiao), a symbol of Confucian ritual architecture, symbolizing Confucian learning, often with a Pan bridge over it.",
+ "examples": [
+ "嘉定孔庙",
+ "南京夫子庙",
+ "江阴文庙"
+ ]
+ },
+ {
+ "id": 55,
+ "term_zh": "棂星门",
+ "term_en": "Lingxing Gate",
+ "category": "建筑制度",
+ "category_en": "Architectural Systems",
+ "definition_zh": "孔庙（文庙）的第一道门，原为古代祭天的灵星门，孔庙设棂星门象征尊孔如尊天，通常为三间四柱石牌坊式。",
+ "definition_en": "The first gate of Confucian temples (wenmiao), originally the Lingxing (Spirit Star) Gate for ancient heaven worship; setting a Lingxing Gate in Confucian temples symbolizes revering Confucius as revering heaven, usually in the form of a three-bay four-column stone paifang.",
+ "examples": [
+ "嘉定孔庙",
+ "南京夫子庙"
+ ]
+ },
+ {
+ "id": 56,
+ "term_zh": "苏州园林",
+ "term_en": "Suzhou Gardens",
+ "category": "地方流派",
+ "category_en": "Regional Schools",
+ "definition_zh": "中国古典园林的代表流派，以私家园林为主，始于春秋，发展于唐宋，鼎盛于明清，以精致典雅、小中见大著称，拙政园、留园、网师园等为代表。",
+ "definition_en": "The representative school of classical Chinese gardens, dominated by private gardens, beginning in the Spring and Autumn period, developing in the Tang and Song, and reaching its peak in the Ming and Qing, known for refinement and elegance and achieving grandeur within small spaces, represented by the Humble Administrator's Garden, Lingering Garden and Master-of-Nets Garden.",
+ "examples": [
+ "拙政园",
+ "留园",
+ "网师园",
+ "环秀山庄"
+ ]
+ },
+ {
+ "id": 57,
+ "term_zh": "扬州园林",
+ "term_en": "Yangzhou Gardens",
+ "category": "地方流派",
+ "category_en": "Regional Schools",
+ "definition_zh": "中国古典园林的重要流派，以盐商园林为特色，风格豪放大度，叠石艺术高超，个园、何园、小盘谷等为代表。",
+ "definition_en": "An important school of classical Chinese gardens, characterized by salt merchant gardens, with a bold and generous style and superb rock-piling art, represented by Ge Garden, He Garden and Xiaopangu.",
+ "examples": [
+ "个园",
+ "何园",
+ "小盘谷",
+ "卢氏盐商住宅"
+ ]
+ },
+ {
+ "id": 58,
+ "term_zh": "金陵四十八景",
+ "term_en": "Forty-Eight Scenes of Jinling",
+ "category": "地方流派",
+ "category_en": "Regional Schools",
+ "definition_zh": "南京（金陵）地区的传统风景名胜集，始于明代，清代定型，涵盖南京地区的山水、古迹、园林等景观。",
+ "definition_en": "The collection of traditional scenic spots in Nanjing (Jinling), beginning in the Ming and finalized in the Qing, covering the mountains, waters, historical sites and gardens of the Nanjing area.",
+ "examples": [
+ "栖霞寺",
+ "明孝陵",
+ "夫子庙"
+ ]
+ },
+ {
+ "id": 59,
+ "term_zh": "沪城八景",
+ "term_en": "Eight Scenes of Shanghai City",
+ "category": "地方流派",
+ "category_en": "Regional Schools",
+ "definition_zh": "上海地区的传统风景名胜集，明清时期形成，包括黄浦秋涛、龙华晚钟、江皋霁雪、吴淞烟雨等景观。",
+ "definition_en": "The collection of traditional scenic spots in the Shanghai area, formed during the Ming and Qing, including scenes such as Huangpu Autumn Waves, Longhua Evening Bell, River Bank Snow Clearing and Wusong Misty Rain.",
+ "examples": [
+ "大境阁江皋霁雪",
+ "龙华寺龙华晚钟"
+ ]
+ },
+ {
+ "id": 60,
+ "term_zh": "吴门画派",
+ "term_en": "Wu School of Painting",
+ "category": "地方流派",
+ "category_en": "Regional Schools",
+ "definition_zh": "明代中期活跃于苏州（吴门）地区的绘画流派，以沈周、文徵明、唐寅、仇英为代表，主张文人画传统，对江南园林艺术影响深远。",
+ "definition_en": "A painting school active in the Suzhou (Wu) area in the mid-Ming, represented by Shen Zhou, Wen Zhengming, Tang Yin and Qiu Ying, advocating the literati painting tradition, with profound influence on Jiangnan garden art.",
+ "examples": [
+ "苏州园林",
+ "文徵明手植紫藤"
+ ]
+ },
+ {
+ "id": 61,
+ "term_zh": "松江画派",
+ "term_en": "Songjiang School of Painting",
+ "category": "地方流派",
+ "category_en": "Regional Schools",
+ "definition_zh": "明代后期活跃于松江（今上海松江）地区的绘画流派，以董其昌为代表，主张南北宗论，对中国绘画史影响深远。",
+ "definition_en": "A painting school active in the Songjiang (now Songjiang, Shanghai) area in the late Ming, represented by Dong Qichang, advocating the Northern and Southern Schools theory, with profound influence on the history of Chinese painting.",
+ "examples": [
+ "醉白池董其昌雕像",
+ "松江方塔园"
+ ]
+ },
+ {
+ "id": 62,
+ "term_zh": "无梁殿",
+ "term_en": "Beamless Hall (Wuliangdian)",
+ "category": "特殊建筑",
+ "category_en": "Special Architecture",
+ "definition_zh": "中国古建筑中不用木梁，全部用砖拱券结构建成的殿堂，又称无量殿，防火性能好，常用于寺庙藏经阁等。",
+ "definition_en": "A hall in traditional Chinese architecture built entirely with brick arch structures without wooden beams, also called the Wuliang (Immeasurable) Hall, with good fire resistance, commonly used for temple scripture libraries.",
+ "examples": [
+ "灵谷寺无梁殿",
+ "隆昌寺铜殿无梁殿"
+ ]
+ },
+ {
+ "id": 63,
+ "term_zh": "铜殿",
+ "term_en": "Bronze Hall",
+ "category": "特殊建筑",
+ "category_en": "Special Architecture",
+ "definition_zh": "中国古建筑中全部用铜铸造的殿堂，是佛教建筑中的珍品，铸造工艺复杂，极为珍贵。",
+ "definition_en": "A hall in traditional Chinese architecture cast entirely in bronze, a treasure among Buddhist buildings, with a complex casting process and extremely precious.",
+ "examples": [
+ "隆昌寺铜殿"
+ ]
+ },
+ {
+ "id": 64,
+ "term_zh": "摩崖造像",
+ "term_en": "Cliff Statues (Moya Zaoxiang)",
+ "category": "石窟艺术",
+ "category_en": "Grotto Art",
+ "definition_zh": "在山崖石壁上雕刻的佛像，是中国佛教艺术的重要形式，始于东汉，盛于南北朝至唐宋。",
+ "definition_en": "Buddha statues carved on cliff walls, an important form of Chinese Buddhist art, beginning in the Eastern Han and flourishing from the Northern and Southern Dynasties to the Tang and Song.",
+ "examples": [
+ "千佛崖石窟",
+ "孔望山摩崖造像",
+ "将军崖岩画"
+ ]
+ },
+ {
+ "id": 65,
+ "term_zh": "画像石",
+ "term_en": "Pictorial Stone (Huaxiangshi)",
+ "category": "石窟艺术",
+ "category_en": "Grotto Art",
+ "definition_zh": "汉代墓葬、祠堂中雕刻有图像的石材，内容丰富，是研究汉代社会生活的重要实物资料。",
+ "definition_en": "Stones carved with images in Han-dynasty tombs and shrines, with rich content, important physical materials for studying Han-dynasty social life.",
+ "examples": [
+ "徐州汉画像石艺术馆",
+ "堂子街太平天国壁画"
+ ]
+ },
+ {
+ "id": 66,
+ "term_zh": "陵墓石刻",
+ "term_en": "Tomb Stone Carvings",
+ "category": "陵墓建筑",
+ "category_en": "Tomb Architecture",
+ "definition_zh": "古代陵墓前的石人、石兽等石刻，起象征墓主身份和守护陵墓的作用，南朝陵墓石刻是中国石刻艺术的高峰。",
+ "definition_en": "Stone figures and animals in front of ancient tombs, serving to symbolize the tomb owner's status and guard the tomb; the Southern Dynasties tomb stone carvings represent a peak of Chinese stone carving art.",
+ "examples": [
+ "南京南朝陵墓石刻",
+ "丹阳南朝陵墓石刻",
+ "明祖陵"
+ ]
+ },
+ {
+ "id": 67,
+ "term_zh": "牌坊",
+ "term_en": "Paifang (Memorial Archway)",
+ "category": "纪念建筑",
+ "category_en": "Memorial Architecture",
+ "definition_zh": "中国古代纪念性建筑，由柱子和横梁组成，多立于街道、路口、陵墓、寺庙前，起标识、纪念、装饰作用。",
+ "definition_en": "Ancient Chinese memorial architecture, consisting of columns and beams, often standing at streets, intersections, tombs and temples, serving identification, memorial and decorative functions.",
+ "examples": [
+ "朝天宫牌坊",
+ "嘉定孔庙三坊",
+ "国际饭店大门"
+ ]
+ },
+ {
+ "id": 68,
+ "term_zh": "照壁",
+ "term_en": "Screen Wall (Zhaobi)",
+ "category": "纪念建筑",
+ "category_en": "Memorial Architecture",
+ "definition_zh": "中国古建筑中位于大门内外的独立墙体，起遮挡视线、装饰和风水作用，又称影壁。",
+ "definition_en": "An independent wall inside or outside the main gate in traditional Chinese architecture, serving to block the view, decorate and function in fengshui, also called a shadow wall.",
+ "examples": [
+ "松江明代照壁",
+ "夫子庙大照壁"
+ ]
+ },
+ {
+ "id": 69,
+ "term_zh": "会馆",
+ "term_en": "Guild Hall (Huiguan)",
+ "category": "公共建筑",
+ "category_en": "Public Architecture",
+ "definition_zh": "中国古代旅居异地的同乡或同行设立的机构建筑，供集会、议事、祭祀、住宿之用，明清时期商业发达地区尤为兴盛。",
+ "definition_en": "Institutional buildings established in ancient China by fellow townsmen or colleagues living away from home, for gatherings, discussions, worship and lodging, especially flourishing in commercially developed areas during the Ming and Qing.",
+ "examples": [
+ "三山会馆",
+ "全晋会馆",
+ "安徽会馆"
+ ]
+ },
+ {
+ "id": 70,
+ "term_zh": "戏台",
+ "term_en": "Opera Stage (Xitai)",
+ "category": "公共建筑",
+ "category_en": "Public Architecture",
+ "definition_zh": "中国古建筑中供戏曲演出的建筑，常设于寺庙、会馆、园林中，有固定的形制，装饰华丽，是中国传统戏曲文化的物质载体。",
+ "definition_en": "Buildings in traditional Chinese architecture for opera performances, often set in temples, guild halls and gardens, with a fixed form and luxurious decoration, the material carrier of traditional Chinese opera culture.",
+ "examples": [
+ "三山会馆戏台",
+ "全晋会馆戏台",
+ "常州古戏楼群"
+ ]
+ },
+ {
+ "id": 71,
+ "term_zh": "驿站",
+ "term_en": "Post Station (Yizhan)",
+ "category": "公共建筑",
+ "category_en": "Public Architecture",
+ "definition_zh": "中国古代供传递公文的人或往来官员中途休息、换马的处所，是古代交通和通信体系的重要组成部分。",
+ "definition_en": "Places in ancient China for people transmitting official documents or traveling officials to rest and change horses midway, an important part of the ancient transportation and communication system.",
+ "examples": [
+ "盂城驿",
+ "高邮当铺"
+ ]
+ },
+ {
+ "id": 72,
+ "term_zh": "当铺",
+ "term_en": "Pawnshop (Dangpu)",
+ "category": "公共建筑",
+ "category_en": "Public Architecture",
+ "definition_zh": "中国古代收取衣物等动产作质押向放贷者放款的机构建筑，多为高墙深院，有坚固的库房。",
+ "definition_en": "Institutional buildings in ancient China that lent money to lenders by taking movable property such as clothing as collateral, mostly high-walled deep courtyards with sturdy warehouses.",
+ "examples": [
+ "高邮当铺"
+ ]
+ },
+ {
+ "id": 73,
+ "term_zh": "书院",
+ "term_en": "Academy (Shuyuan)",
+ "category": "教育建筑",
+ "category_en": "Educational Architecture",
+ "definition_zh": "中国古代私人或官府设立的讲学、藏书、祭祀场所，是中国古代教育体系的重要组成部分，建筑多为院落式布局。",
+ "definition_en": "Institutions established privately or by the government in ancient China for lectures, book collection and worship, an important part of the ancient Chinese education system, mostly in courtyard-style layouts.",
+ "examples": [
+ "东林书院",
+ "钟山书院",
+ "如皋公立简易师范学堂"
+ ]
+ },
+ {
+ "id": 74,
+ "term_zh": "学宫",
+ "term_en": "School Palace (Xuegong)",
+ "category": "教育建筑",
+ "category_en": "Educational Architecture",
+ "definition_zh": "中国古代地方官办学校，与孔庙合为一体，称庙学，是地方教育和祭祀孔子的中心。",
+ "definition_en": "Local government-run schools in ancient China, integrated with Confucian temples, called temple-schools, the center of local education and Confucius worship.",
+ "examples": [
+ "嘉定孔庙",
+ "无锡县学旧址",
+ "江阴文庙"
+ ]
+ },
+ {
+ "id": 75,
+ "term_zh": "考棚",
+ "term_en": "Examination Hall (Kaopeng)",
+ "category": "教育建筑",
+ "category_en": "Educational Architecture",
+ "definition_zh": "中国古代科举考试的场所，有大量独立的号舍，是科举制度的物质见证。",
+ "definition_en": "Places for imperial examinations in ancient China, with a large number of independent examination cells, a material witness to the imperial examination system.",
+ "examples": [
+ "学政试院",
+ "江南贡院"
+ ]
+ },
+ {
+ "id": 76,
+ "term_zh": "城墙",
+ "term_en": "City Wall (Chengqiang)",
+ "category": "防御建筑",
+ "category_en": "Defensive Architecture",
+ "definition_zh": "中国古代城市的防御设施，由墙体、城门、城楼、角楼、瓮城、护城河等组成，是城市的重要标志。",
+ "definition_en": "Defensive facilities of ancient Chinese cities, consisting of walls, gates, gate towers, corner towers, barbicans and moats, an important symbol of the city.",
+ "examples": [
+ "南京城墙",
+ "上海古城墙",
+ "高邮城墙"
+ ]
+ },
+ {
+ "id": 77,
+ "term_zh": "瓮城",
+ "term_en": "Barbican (Wengcheng)",
+ "category": "防御建筑",
+ "category_en": "Defensive Architecture",
+ "definition_zh": "中国古代城门外的防御设施，为半圆形或方形的小城，与主城墙相连，可对攻入之敌形成瓮中捉鳖之势。",
+ "definition_en": "Defensive facilities outside ancient Chinese city gates, small semicircular or square towns connected to the main city wall, allowing the enemy who breaks in to be caught like a turtle in a jar.",
+ "examples": [
+ "南京城墙",
+ "中华门"
+ ]
+ },
+ {
+ "id": 78,
+ "term_zh": "护城河",
+ "term_en": "Moat (Huchenghe)",
+ "category": "防御建筑",
+ "category_en": "Defensive Architecture",
+ "definition_zh": "中国古代城市城墙外的人工河道，起防御和运输作用，是城市防御体系的重要组成部分。",
+ "definition_en": "Artificial waterways outside ancient Chinese city walls, serving defense and transportation functions, an important part of the urban defense system.",
+ "examples": [
+ "南京护城河",
+ "上海古城墙城壕"
+ ]
+ },
+ {
+ "id": 79,
+ "term_zh": "炮台",
+ "term_en": "Fort (Paotai)",
+ "category": "防御建筑",
+ "category_en": "Defensive Architecture",
+ "definition_zh": "中国古代和近代在江海要隘设置的火炮防御工事，是海防和江防的重要设施。",
+ "definition_en": "Artillery defensive works set at strategic river and sea passes in ancient and modern China, important facilities for coastal and river defense.",
+ "examples": [
+ "黄山炮台旧址",
+ "江阴要塞"
+ ]
+ },
+ {
+ "id": 80,
+ "term_zh": "码头",
+ "term_en": "Wharf (Matou)",
+ "category": "交通建筑",
+ "category_en": "Transportation Architecture",
+ "definition_zh": "中国古代和近代江河海边供船只停靠、装卸货物和旅客上下的设施，是水运交通的节点。",
+ "definition_en": "Facilities along rivers, lakes and seas in ancient and modern China for ships to dock, load and unload cargo, and passengers to embark and disembark, nodes of water transportation.",
+ "examples": [
+ "龙江宝船厂遗址",
+ "京杭大运河"
+ ]
+ },
+ {
+ "id": 81,
+ "term_zh": "桥梁",
+ "term_en": "Bridge (Qiaoliang)",
+ "category": "交通建筑",
+ "category_en": "Transportation Architecture",
+ "definition_zh": "中国古代跨越河流沟壑的建筑，有梁桥、拱桥、索桥、浮桥等多种形式，是古代交通工程的杰出成就。",
+ "definition_en": "Buildings spanning rivers and gullies in ancient China, with various forms including beam bridges, arch bridges, suspension bridges and pontoon bridges, outstanding achievements of ancient transportation engineering.",
+ "examples": [
+ "七桥瓮",
+ "赵州桥",
+ "宝带桥"
+ ]
+ },
+ {
+ "id": 82,
+ "term_zh": "祠堂",
+ "term_en": "Ancestral Hall (Citang)",
+ "category": "祭祀建筑",
+ "category_en": "Sacrificial Architecture",
+ "definition_zh": "中国古代祭祀祖先或先贤的建筑，是宗族制度的物质载体，有宗祠、家祠、先贤祠等类型。",
+ "definition_en": "Buildings for worshipping ancestors or worthy predecessors in ancient China, the material carrier of the clan system, with types including clan ancestral halls, family ancestral halls and worthy-person shrines.",
+ "examples": [
+ "高淳周氏宗祠",
+ "惠山祠堂群",
+ "史可法墓祠"
+ ]
+ },
+ {
+ "id": 83,
+ "term_zh": "清真寺",
+ "term_en": "Mosque (Qingzhensi)",
+ "category": "宗教建筑",
+ "category_en": "Religious Architecture",
+ "definition_zh": "伊斯兰教的宗教建筑，中国清真寺多采用中国传统建筑形式，有礼拜殿、邦克楼、水房等组成部分。",
+ "definition_en": "Religious buildings of Islam; Chinese mosques mostly adopt traditional Chinese architectural forms, consisting of prayer halls, minarets and ablution rooms.",
+ "examples": [
+ "净觉寺",
+ "仙鹤寺",
+ "山巷清真寺"
+ ]
+ },
+ {
+ "id": 84,
+ "term_zh": "天主教堂",
+ "term_en": "Catholic Church",
+ "category": "宗教建筑",
+ "category_en": "Religious Architecture",
+ "definition_zh": "天主教的宗教建筑，近代传入中国后多采用西方哥特式或罗马式建筑风格，有钟楼、玫瑰花窗、彩色玻璃等元素。",
+ "definition_en": "Religious buildings of Catholicism; after being introduced to China in modern times, they mostly adopt Western Gothic or Romanesque architectural styles, with elements such as bell towers, rose windows and stained glass.",
+ "examples": [
+ "徐家汇天主教堂",
+ "耶稣圣心堂"
+ ]
+ },
+ {
+ "id": 85,
+ "term_zh": "基督教堂",
+ "term_en": "Protestant Church",
+ "category": "宗教建筑",
+ "category_en": "Religious Architecture",
+ "definition_zh": "基督教新教的宗教建筑，近代传入中国，风格多样，有哥特式、罗马式、现代式等。",
+ "definition_en": "Religious buildings of Protestantism, introduced to China in modern times, with diverse styles including Gothic, Romanesque and modern.",
+ "examples": [
+ "沐恩堂",
+ "国际礼拜堂"
+ ]
+ },
+ {
+ "id": 86,
+ "term_zh": "道观",
+ "term_en": "Taoist Temple (Daoguan)",
+ "category": "宗教建筑",
+ "category_en": "Religious Architecture",
+ "definition_zh": "道教的宗教建筑，多采用中国传统宫殿式建筑布局，有山门、灵官殿、三清殿、玉皇殿等组成部分。",
+ "definition_en": "Religious buildings of Taoism, mostly adopting traditional Chinese palace-style layout, consisting of mountain gate, Lingguan Hall, Sanqing Hall and Jade Emperor Hall.",
+ "examples": [
+ "大境道观",
+ "玄妙观"
+ ]
+ },
+ {
+ "id": 87,
+ "term_zh": "石窟",
+ "term_en": "Grotto (Shiku)",
+ "category": "宗教建筑",
+ "category_en": "Religious Architecture",
+ "definition_zh": "在山崖上开凿的佛教建筑，内有佛像、壁画，是佛教艺术的重要形式，始于魏晋，盛于北朝至隋唐。",
+ "definition_en": "Buddhist buildings carved into cliffs, with Buddha statues and murals inside, an important form of Buddhist art, beginning in the Wei-Jin period and flourishing from the Northern Dynasties to the Sui-Tang.",
+ "examples": [
+ "千佛崖石窟",
+ "孔望山摩崖造像"
+ ]
+ },
+ {
+ "id": 88,
+ "term_zh": "遗址",
+ "term_en": "Ruins (Yizhi)",
+ "category": "考古遗存",
+ "category_en": "Archaeological Remains",
+ "definition_zh": "古代人类活动留下的遗迹，包括城址、宫殿址、作坊址、墓葬等，是考古学研究的重要对象。",
+ "definition_en": "Remains left by ancient human activities, including city sites, palace sites, workshop sites and tombs, important objects of archaeological research.",
+ "examples": [
+ "明故宫遗址",
+ "淹城遗址",
+ "阖闾城遗址",
+ "扬州城遗址"
+ ]
+ },
+ {
+ "id": 89,
+ "term_zh": "汉墓",
+ "term_en": "Han Tomb",
+ "category": "考古遗存",
+ "category_en": "Archaeological Remains",
+ "definition_zh": "汉代的墓葬，多为崖洞墓或砖石墓，规模宏大，随葬品丰富，是研究汉代社会的重要实物资料。",
+ "definition_en": "Tombs of the Han dynasty, mostly cliff caves or brick-stone tombs, large in scale with rich grave goods, important physical materials for studying Han-dynasty society.",
+ "examples": [
+ "狮子山楚王陵",
+ "龟山汉墓",
+ "天山汉墓"
+ ]
+ },
+ {
+ "id": 90,
+ "term_zh": "大上海计划",
+ "term_en": "Greater Shanghai Plan",
+ "category": "城市规划",
+ "category_en": "Urban Planning",
+ "definition_zh": "1929年国民政府上海市政府提出的城市建设计划，旨在绕开租界，在上海东北部建设新的市中心，包括市政府大楼、图书馆、博物馆、体育场等建筑。",
+ "definition_en": "An urban construction plan proposed by the Nationalist government's Shanghai Municipal Government in 1929, aiming to bypass the concessions and build a new city center in northeastern Shanghai, including the municipal government building, library, museum and stadium.",
+ "examples": [
+ "旧上海特别市政府",
+ "旧上海市图书馆",
+ "旧上海市博物馆",
+ "江湾体育场"
+ ]
+ }
+ ]
 }

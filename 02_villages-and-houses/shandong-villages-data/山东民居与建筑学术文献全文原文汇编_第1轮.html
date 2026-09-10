@@ -5,531 +5,596 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>山东民居与建筑学术文献全文原文汇编（第1轮）</title>
 <style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { font-family: "Microsoft YaHei", "PingFang SC", sans-serif; line-height: 1.9; color: #2c2c2c; background: #f5f3ee; }
-  .header { background: linear-gradient(135deg, #1a3a2a 0%, #2d5a3d 100%); color: #fff; padding: 50px 40px; text-align: center; }
-  .header h1 { font-size: 2em; margin-bottom: 12px; letter-spacing: 2px; }
-  .header p { font-size: 1em; opacity: 0.85; max-width: 900px; margin: 0 auto; }
-  .nav { background: #243d2e; padding: 14px 40px; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 8px rgba(0,0,0,0.15); }
-  .nav a { color: #c8d6c8; text-decoration: none; margin-right: 18px; font-size: 0.9em; }
-  .nav a:hover { color: #fff; }
-  .container { max-width: 1100px; margin: 0 auto; padding: 30px 40px; }
-  .paper { background: #fff; border-radius: 8px; padding: 35px 40px; margin-bottom: 35px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border-left: 5px solid #4a7c59; }
-  .paper-title { font-size: 1.4em; color: #1a3a2a; font-weight: bold; margin-bottom: 10px; line-height: 1.5; }
-  .paper-meta { font-size: 0.88em; color: #666; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 1px dashed #ccc; }
-  .paper-meta span { margin-right: 16px; display: inline-block; }
-  .paper-meta a { color: #2d5a3d; text-decoration: none; }
-  .fulltext-label { font-size: 0.82em; color: #888; text-transform: uppercase; letter-spacing: 1px; margin: 25px 0 10px; padding-top: 15px; border-top: 1px solid #eee; }
-  .fulltext { font-size: 0.95em; color: #333; line-height: 2; }
-  .fulltext p { margin-bottom: 14px; text-indent: 2em; }
-  .fulltext p.no-indent { text-indent: 0; }
-  .fulltext h3 { font-size: 1.1em; color: #1a3a2a; margin: 22px 0 12px; text-indent: 0; font-weight: bold; }
-  .fulltext h4 { font-size: 1em; color: #2d5a3d; margin: 18px 0 10px; text-indent: 0; font-weight: bold; }
-  .fulltext.en { font-family: "Georgia", "Times New Roman", serif; line-height: 1.85; }
-  .fulltext.en p { text-indent: 0; margin-bottom: 14px; }
-  .fulltext table { border-collapse: collapse; width: 100%; margin: 15px 0; font-size: 0.9em; }
-  .fulltext th, .fulltext td { border: 1px solid #ccc; padding: 8px 12px; text-align: left; }
-  .fulltext th { background: #e8f0e8; }
-  .tag { display: inline-block; background: #e8f0e8; color: #2d5a3d; padding: 2px 10px; border-radius: 12px; font-size: 0.78em; margin-right: 6px; margin-bottom: 4px; }
-  .footer { background: #1a3a2a; color: #a8b8a8; text-align: center; padding: 30px; margin-top: 50px; font-size: 0.88em; }
-  .stats { display: flex; gap: 20px; justify-content: center; margin-top: 20px; flex-wrap: wrap; }
-  .stat-box { background: rgba(255,255,255,0.1); padding: 12px 24px; border-radius: 6px; }
-  .stat-num { font-size: 1.8em; font-weight: bold; }
-  .stat-label { font-size: 0.82em; opacity: 0.8; }
+ * { margin: 0; padding: 0; box-sizing: border-box; }
+ body { font-family: "Microsoft YaHei", "PingFang SC", sans-serif; line-height: 1.9; color: #2c2c2c; background: #f5f3ee; }
+ .header { background: linear-gradient(135deg, #1a3a2a 0%, #2d5a3d 100%); color: #fff; padding: 50px 40px; text-align: center; }
+ .header h1 { font-size: 2em; margin-bottom: 12px; letter-spacing: 2px; }
+ .header p { font-size: 1em; opacity: 0.85; max-width: 900px; margin: 0 auto; }
+ .nav { background: #243d2e; padding: 14px 40px; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 8px rgba(0,0,0,0.15); }
+ .nav a { color: #c8d6c8; text-decoration: none; margin-right: 18px; font-size: 0.9em; }
+ .nav a:hover { color: #fff; }
+ .container { max-width: 1100px; margin: 0 auto; padding: 30px 40px; }
+ .paper { background: #fff; border-radius: 8px; padding: 35px 40px; margin-bottom: 35px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border-left: 5px solid #4a7c59; }
+ .paper-title { font-size: 1.4em; color: #1a3a2a; font-weight: bold; margin-bottom: 10px; line-height: 1.5; }
+ .paper-meta { font-size: 0.88em; color: #666; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 1px dashed #ccc; }
+ .paper-meta span { margin-right: 16px; display: inline-block; }
+ .paper-meta a { color: #2d5a3d; text-decoration: none; }
+ .fulltext-label { font-size: 0.82em; color: #888; text-transform: uppercase; letter-spacing: 1px; margin: 25px 0 10px; padding-top: 15px; border-top: 1px solid #eee; }
+ .fulltext { font-size: 0.95em; color: #333; line-height: 2; }
+ .fulltext p { margin-bottom: 14px; text-indent: 2em; }
+ .fulltext p.no-indent { text-indent: 0; }
+ .fulltext h3 { font-size: 1.1em; color: #1a3a2a; margin: 22px 0 12px; text-indent: 0; font-weight: bold; }
+ .fulltext h4 { font-size: 1em; color: #2d5a3d; margin: 18px 0 10px; text-indent: 0; font-weight: bold; }
+ .fulltext.en { font-family: "Georgia", "Times New Roman", serif; line-height: 1.85; }
+ .fulltext.en p { text-indent: 0; margin-bottom: 14px; }
+ .fulltext table { border-collapse: collapse; width: 100%; margin: 15px 0; font-size: 0.9em; }
+ .fulltext th, .fulltext td { border: 1px solid #ccc; padding: 8px 12px; text-align: left; }
+ .fulltext th { background: #e8f0e8; }
+ .tag { display: inline-block; background: #e8f0e8; color: #2d5a3d; padding: 2px 10px; border-radius: 12px; font-size: 0.78em; margin-right: 6px; margin-bottom: 4px; }
+ .footer { background: #1a3a2a; color: #a8b8a8; text-align: center; padding: 30px; margin-top: 50px; font-size: 0.88em; }
+ .stats { display: flex; gap: 20px; justify-content: center; margin-top: 20px; flex-wrap: wrap; }
+ .stat-box { background: rgba(255,255,255,0.1); padding: 12px 24px; border-radius: 6px; }
+ .stat-num { font-size: 1.8em; font-weight: bold; }
+ .stat-label { font-size: 0.82em; opacity: 0.8; }
+</style>
+<style>
+#arch-nav-top,#arch-nav-bot{all:revert;}
+#arch-nav-top{position:sticky;top:0;z-index:9999;background:#1a1a1a;color:#b0b0b0;height:30px;display:flex;align-items:center;padding:0 10px;gap:6px;font-size:11px;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;box-sizing:border-box;}
+#arch-nav-top a,#arch-nav-top button{color:#b0b0b0;text-decoration:none;background:none;border:none;font:inherit;padding:3px 6px;cursor:pointer;border-radius:1px;white-space:nowrap;}
+#arch-nav-top a:hover,#arch-nav-top button:hover{color:#fff;background:rgba(255,255,255,.1);}
+#arch-nav-top .brand{color:#e8e6e0;font-weight:700;font-family:"Songti SC",Georgia,serif;font-size:12px;letter-spacing:1px;}
+#arch-nav-top .dot{color:#444;font-size:8px;}
+#arch-nav-top .c1{color:#9e3a2c;}#arch-nav-top .c2{color:#3d6b5e;}#arch-nav-top .c3{color:#a8844a;}#arch-nav-top .c4{color:#d4c8b0;}
+#arch-nav-bot{position:sticky;bottom:0;z-index:9999;background:#1a1a1a;color:#888;height:26px;display:flex;align-items:center;justify-content:center;padding:0 10px;gap:4px;font-size:10px;font-family:inherit;box-sizing:border-box;}
+#arch-nav-bot a,#arch-nav-bot button{color:#888;text-decoration:none;background:none;border:none;font:inherit;padding:2px 5px;cursor:pointer;border-radius:1px;}
+#arch-nav-bot a:hover,#arch-nav-bot button:hover{color:#fff;}
+#arch-nav-bot .sep{color:#333;font-size:9px;}
 </style>
 </head>
-<body>
+<body id="top"><nav id="arch-nav-top">
+  <span class="brand">🗝</span>
+  <a href="../../index.html">首页</a><span class="dot">·</span>
+  <a href="../../index.html#cat-01" class="c1">省建</a>
+  <a href="../../index.html#cat-02" class="c2">村落</a>
+  <a href="../../index.html#cat-03" class="c3">海外</a>
+  <a href="../../index.html#cat-04" class="c4">体风</a><span class="dot">·</span>
+  <a href="https://github.com/Wadesha/architecture-daily" target="_blank">Git</a>
+</nav>
+
+<!-- ARCHIVE TOP NAV -->
+<div style="position:sticky;top:0;z-index:999;background:#1a1a1a;color:#e8e6e0;padding:0 16px;height:38px;display:flex;align-items:center;justify-content:space-between;font-size:13px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;">
+ <div style="display:flex;align-items:baseline;gap:6px;flex-shrink:0;">
+ <a href="../../" style="font-family:'Noto Serif SC','Songti SC',Georgia,serif;font-weight:700;font-size:13px;letter-spacing:2px;color:#e8e6e0;text-decoration:none;">中国建筑文化档案</a>
+ <span style="font-size:10px;letter-spacing:1px;color:#8a8a8a;">ARCHIVE</span>
+ </div>
+ <nav style="display:flex;gap:2px;flex-wrap:nowrap;overflow-x:auto;">
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;"> Home</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">省建</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">村落</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">海外</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">体风</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">JSON</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">GitHub</a>
+ <span style="color:#6b6b6b;padding:3px 2px;font-size:10px;">·</span>
+ <a href="#__bottom_nav" style="color:#b0b0b0;text-decoration:none;padding:3px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">Bottom</a>
+ </nav>
+</div>
+<!-- /ARCHIVE TOP NAV -->
+
 
 <div class="header">
-  <h1>山东民居与建筑学术文献全文原文汇编（第1轮）</h1>
-  <p>本汇编收录可开放获取的学术论文与学位论文<strong>完整全文原文</strong>，不作任何删减、改写或摘要。英文文献保留英文原文，中文文献保留中文原文。每篇标注作者、出处、原文链接。</p>
-  <div class="stats">
-    <div class="stat-box"><div class="stat-num">第1轮</div><div class="stat-label">持续累积</div></div>
-    <div class="stat-box"><div class="stat-num">全文</div><div class="stat-label">非摘要非改编</div></div>
-    <div class="stat-box"><div class="stat-num">中英</div><div class="stat-label">原文保留</div></div>
-  </div>
+ <h1>山东民居与建筑学术文献全文原文汇编（第1轮）</h1>
+ <p>本汇编收录可开放获取的学术论文与学位论文<strong>完整全文原文</strong>，不作任何删减、改写或摘要。英文文献保留英文原文，中文文献保留中文原文。每篇标注作者、出处、原文链接。</p>
+ <div class="stats">
+ <div class="stat-box"><div class="stat-num">第1轮</div><div class="stat-label">持续累积</div></div>
+ <div class="stat-box"><div class="stat-num">全文</div><div class="stat-label">非摘要非改编</div></div>
+ <div class="stat-box"><div class="stat-num">中英</div><div class="stat-label">原文保留</div></div>
+ </div>
 </div>
 
 <div class="nav">
-  <a href="#p1">论文1：海草房（谢菲尔德硕士论文）</a>
-  <a href="#p2">论文2：朱凤印宅</a>
-  <a href="#p3">论文3：崖油沟村</a>
-  <a href="#p4">论文4：大运河山东段</a>
-  <a href="#p5">论文5：鲁中地区新农居</a>
+ <a href="#p1">论文1：海草房（谢菲尔德硕士论文）</a>
+ <a href="#p2">论文2：朱凤印宅</a>
+ <a href="#p3">论文3：崖油沟村</a>
+ <a href="#p4">论文4：大运河山东段</a>
+ <a href="#p5">论文5：鲁中地区新农居</a>
 </div>
 
 <div class="container">
 
 <!-- ==================== 论文1 ==================== -->
 <div class="paper" id="p1">
-  <div class="paper-title">Seaweed house — A residential house in Jiaodong</div>
-  <div class="paper-meta">
-    <span><strong>作者：</strong>Zhai Dawei（翟大伟）</span>
-    <span><strong>单位：</strong>University of Sheffield School of Architecture</span>
-    <span><strong>学位：</strong>MAAD ARC 6921 Materials for Low Impact Building: Theory, Type B, 2012</span>
-    <span><strong>学号：</strong>110204095</span>
-    <br><a href="https://maad2011.files.wordpress.com/2012/06/zhai-dawei-arc-6821.pdf" target="_blank">原文PDF链接</a>
-  </div>
-  <div class="tag">英文全文</div><div class="tag">海草房</div><div class="tag">胶东半岛</div><div class="tag">低影响建筑材料</div><div class="tag">硕士学位论文</div>
+ <div class="paper-title">Seaweed house — A residential house in Jiaodong</div>
+ <div class="paper-meta">
+ <span><strong>作者：</strong>Zhai Dawei（翟大伟）</span>
+ <span><strong>单位：</strong>University of Sheffield School of Architecture</span>
+ <span><strong>学位：</strong>MAAD ARC 6921 Materials for Low Impact Building: Theory, Type B, 2012</span>
+ <span><strong>学号：</strong>110204095</span>
+ <br><a href="https://maad2011.files.wordpress.com/2012/06/zhai-dawei-arc-6821.pdf" target="_blank">原文PDF链接</a>
+ </div>
+ <div class="tag">英文全文</div><div class="tag">海草房</div><div class="tag">胶东半岛</div><div class="tag">低影响建筑材料</div><div class="tag">硕士学位论文</div>
 
-  <div class="fulltext-label">Full Text（完整原文，共8页）</div>
-  <div class="fulltext en">
-    <h3>Abstract</h3>
-    <p>This essay mainly explores the process of building seaweed house in Jiaodong of China. The material analysis, the relationship between the original architecture and history, the preservation and ecological characteristic will also be criticized. The seaweed applied for the house as a material is a kind of wild algae named Daye moss, which live in the 5-10 metre-deep sea. The process of vegetation, airing, fabrication and degradation has no harm to the environment and health of human-beings. Mottled stone walls, high ridges, narrow gates, fluffy and thick kelp and a fishing net covered roof are the first-sight impression. The whole process has about 70 fabrication procedures, and all of them are handy techniques, no any machinery techniques are included. The seaweed house is a wonderful example of low impact. As a media to propagate the culture, structure, aesthetic value and the attitude to the material use, nature and environment, it deserves appreciations by more people, no matter local residents or tourists, architectural specialists or photographer.</p>
-    <p><strong>Key words:</strong> seaweed roof material house</p>
+ <div class="fulltext-label">Full Text（完整原文，共8页）</div>
+ <div class="fulltext en">
+ <h3>Abstract</h3>
+ <p>This essay mainly explores the process of building seaweed house in Jiaodong of China. The material analysis, the relationship between the original architecture and history, the preservation and ecological characteristic will also be criticized. The seaweed applied for the house as a material is a kind of wild algae named Daye moss, which live in the 5-10 metre-deep sea. The process of vegetation, airing, fabrication and degradation has no harm to the environment and health of human-beings. Mottled stone walls, high ridges, narrow gates, fluffy and thick kelp and a fishing net covered roof are the first-sight impression. The whole process has about 70 fabrication procedures, and all of them are handy techniques, no any machinery techniques are included. The seaweed house is a wonderful example of low impact. As a media to propagate the culture, structure, aesthetic value and the attitude to the material use, nature and environment, it deserves appreciations by more people, no matter local residents or tourists, architectural specialists or photographer.</p>
+ <p><strong>Key words:</strong> seaweed roof material house</p>
 
-    <h3>Introduction</h3>
-    <p>Seaweed houses are mainly found in Weihai City, Yantai City and Tsingtao. The craft of matting grass on the roof is a widespread work in the ancient age when human started to build the shelters or houses. The houses have been a special landscape, a folk symbol and an architectural ecological specimen for centuries.</p>
+ <h3>Introduction</h3>
+ <p>Seaweed houses are mainly found in Weihai City, Yantai City and Tsingtao. The craft of matting grass on the roof is a widespread work in the ancient age when human started to build the shelters or houses. The houses have been a special landscape, a folk symbol and an architectural ecological specimen for centuries.</p>
 
-    <h3>Background</h3>
-    <p>Seaweed house is also known as sea sedge house, kelp house. The name comes from its uses as a material for roof in Jiaodong coast in China. The Seaweed houses are mainly found in Weihai City, Yantai City and Tsingtao. The craft of matting grass on the roof is a widespread work in the ancient age when human started to build the shelters or houses. About 90 ruins were found in Beizhuang Village in Jiaodong coast, and it has been identified as the clan community lived in 5000 years ago. The earth-timber mixed house is supported by one central pillar with some surrounding pillars in a circle connected by wood beams. Grasses are matted on top of the structure, but the plant species cannot be identified. There are three kinds of grasses in Jiaodong. One is called Bei grass, the mountain grass mainly grows in Haiyang City, Rushan City and Wendeng City; another one is called wheat straw, which mainly grows in west coastal cities like Pneglai City, Huangxian and Yexian; the last one is seaweed, it mainly grows in Rongcheng. The earliest record of seaweed used as an architectural material is in Qin dynasty (BC 221-206), the use boomed in Yuan, Ming, Qing dynasty. Generally, the colour of the kelp-covered-roof house is grey white. The houses have been a special landscape, a folk symbol and an architectural ecological specimen for centuries.</p>
+ <h3>Background</h3>
+ <p>Seaweed house is also known as sea sedge house, kelp house. The name comes from its uses as a material for roof in Jiaodong coast in China. The Seaweed houses are mainly found in Weihai City, Yantai City and Tsingtao. The craft of matting grass on the roof is a widespread work in the ancient age when human started to build the shelters or houses. About 90 ruins were found in Beizhuang Village in Jiaodong coast, and it has been identified as the clan community lived in 5000 years ago. The earth-timber mixed house is supported by one central pillar with some surrounding pillars in a circle connected by wood beams. Grasses are matted on top of the structure, but the plant species cannot be identified. There are three kinds of grasses in Jiaodong. One is called Bei grass, the mountain grass mainly grows in Haiyang City, Rushan City and Wendeng City; another one is called wheat straw, which mainly grows in west coastal cities like Pneglai City, Huangxian and Yexian; the last one is seaweed, it mainly grows in Rongcheng. The earliest record of seaweed used as an architectural material is in Qin dynasty (BC 221-206), the use boomed in Yuan, Ming, Qing dynasty. Generally, the colour of the kelp-covered-roof house is grey white. The houses have been a special landscape, a folk symbol and an architectural ecological specimen for centuries.</p>
 
-    <h3>Methodology</h3>
-    <p>This essay mainly explores the use of material through the craftsmanship, the history, the custom and ecological characteristics. Drawing of the plans and elevation will be shown.</p>
+ <h3>Methodology</h3>
+ <p>This essay mainly explores the use of material through the craftsmanship, the history, the custom and ecological characteristics. Drawing of the plans and elevation will be shown.</p>
 
-    <h3>Context — Jiaodong</h3>
-    <p>Humid rainy in summer, cold and snowy in winter, the city is located in the east coastal of Shandong Peninsula. It is surrounded by sea on three sides, the coastline is 500 kilometres long. There is a 1300 million ㎡ of 20 metre-deep sea area for growing various kinds of algae. The geographic location and local climate make the local residents mainly use materials to preserve heat of their houses and shelter from cold and rain. The local villagers live along the coast line and fish far and near off store.</p>
+ <h3>Context — Jiaodong</h3>
+ <p>Humid rainy in summer, cold and snowy in winter, the city is located in the east coastal of Shandong Peninsula. It is surrounded by sea on three sides, the coastline is 500 kilometres long. There is a 1300 million ㎡ of 20 metre-deep sea area for growing various kinds of algae. The geographic location and local climate make the local residents mainly use materials to preserve heat of their houses and shelter from cold and rain. The local villagers live along the coast line and fish far and near off store.</p>
 
-    <h3>Material</h3>
-    <p>The seaweed used for the house is a wild algae named Daye moss living in the 5-10 meters-deep sea. Its reproductive ability is outstanding. The colour of the child moss is emerald, and turns to puce when grown up. Generally, the older moss performs better on standing wear and tear compared to tender moss. And moss living in the winter and spring is more solid than the one living in summer. When the moss grows to some height, they are collected at ebb tide to air dry in the sun and used for building roofs. Since the material grows in the sea, it has a large amount of halogen and colloid. Besides the moth-preventive, anti-mildew, the seaweed has specialities like keeping the building warm in winter and cool in summer.</p>
-    <p>For other parts of the house, villagers mainly use local materials and keep the colour and texture naturally. They collect stones from hills and calculate the amount based on the size of them. Then they use the cement paste, straws, grass and some mixed materials to build from the plinth to the eave, the doors and windows are propped by black brick. The main body of the wall is composed by thick irregular stones. These stones are exposed outside and flatten pointing by lime. The grey external walls are literal, plain and fit in the environment. And more importantly, this architectural material is very low impact. The process of vegetation, airing, fabrication and degradation has no harm to the environment and health of human-beings.</p>
+ <h3>Material</h3>
+ <p>The seaweed used for the house is a wild algae named Daye moss living in the 5-10 meters-deep sea. Its reproductive ability is outstanding. The colour of the child moss is emerald, and turns to puce when grown up. Generally, the older moss performs better on standing wear and tear compared to tender moss. And moss living in the winter and spring is more solid than the one living in summer. When the moss grows to some height, they are collected at ebb tide to air dry in the sun and used for building roofs. Since the material grows in the sea, it has a large amount of halogen and colloid. Besides the moth-preventive, anti-mildew, the seaweed has specialities like keeping the building warm in winter and cool in summer.</p>
+ <p>For other parts of the house, villagers mainly use local materials and keep the colour and texture naturally. They collect stones from hills and calculate the amount based on the size of them. Then they use the cement paste, straws, grass and some mixed materials to build from the plinth to the eave, the doors and windows are propped by black brick. The main body of the wall is composed by thick irregular stones. These stones are exposed outside and flatten pointing by lime. The grey external walls are literal, plain and fit in the environment. And more importantly, this architectural material is very low impact. The process of vegetation, airing, fabrication and degradation has no harm to the environment and health of human-beings.</p>
 
-    <h3>Folk custom</h3>
-    <p>The seaweed house is intensively involved in local folk custom in terms of manners, mode of thinking, believes, ceremony and behaviour norms. Before building the houses, they will choose a site and time based on lunar calendar and inherited custom. They all believe that one shoe-shaped gold ingot or some objects like it must be settled on four corners. Once a project was finished, some ceremonies like 'pot', 'sacrifice', 'putting mat on bed', 'paste window', 'hanging door curtain' would be held.</p>
+ <h3>Folk custom</h3>
+ <p>The seaweed house is intensively involved in local folk custom in terms of manners, mode of thinking, believes, ceremony and behaviour norms. Before building the houses, they will choose a site and time based on lunar calendar and inherited custom. They all believe that one shoe-shaped gold ingot or some objects like it must be settled on four corners. Once a project was finished, some ceremonies like 'pot', 'sacrifice', 'putting mat on bed', 'paste window', 'hanging door curtain' would be held.</p>
 
-    <h3>Diminishing culture</h3>
-    <p>In recent years, the seaweed cultivating areas and surrounding areas have been through a serious deterioration. Until now, there are about 700 seaweed houses in the coast, and most of them are at least 100 years old. Unfortunately, some of them are badly broken and in urgent need of repair. Due to the human interference, the resource of the seaweed is nearly exhausted. In 1960s, scooping and collecting the marine algae can be seen, but not yet in 1980s. After 2000, the government started to pay close attention to the coastal ecological protection, Daye moss was back in some areas.</p>
-    <p>There are some reasons why the architectural culture is diminishing. Firstly, the spring of brick houses have a great impact on the market and aesthetical preference of residents. Many villagers have abandoned this traditional architectural form. Secondly, because of the prosperity of Sea breeding, the seaweed cannot be cultivated in shallow water, which causes the shortage of this material supply. The prices are too high for ordinary families. Nevertheless, the seaweed house is fading to a beautiful and grey memory.</p>
-    <p>However, it is exciting that the special culture connotation and value is excavated by many people. It is marked as the only typical traditional dwellings introduced to foreign countries. It is a popular object chosen for oil paintings, stamps and postcards. As a distinguishing architectural feature, the protection and preservation is very significant in keeping not only a historic interest and beautiful scene for tourists but also a traditional life style. For this, the authority of Rongcheng City allocates funds of ¥200,000 for the house maintenance and repair.</p>
+ <h3>Diminishing culture</h3>
+ <p>In recent years, the seaweed cultivating areas and surrounding areas have been through a serious deterioration. Until now, there are about 700 seaweed houses in the coast, and most of them are at least 100 years old. Unfortunately, some of them are badly broken and in urgent need of repair. Due to the human interference, the resource of the seaweed is nearly exhausted. In 1960s, scooping and collecting the marine algae can be seen, but not yet in 1980s. After 2000, the government started to pay close attention to the coastal ecological protection, Daye moss was back in some areas.</p>
+ <p>There are some reasons why the architectural culture is diminishing. Firstly, the spring of brick houses have a great impact on the market and aesthetical preference of residents. Many villagers have abandoned this traditional architectural form. Secondly, because of the prosperity of Sea breeding, the seaweed cannot be cultivated in shallow water, which causes the shortage of this material supply. The prices are too high for ordinary families. Nevertheless, the seaweed house is fading to a beautiful and grey memory.</p>
+ <p>However, it is exciting that the special culture connotation and value is excavated by many people. It is marked as the only typical traditional dwellings introduced to foreign countries. It is a popular object chosen for oil paintings, stamps and postcards. As a distinguishing architectural feature, the protection and preservation is very significant in keeping not only a historic interest and beautiful scene for tourists but also a traditional life style. For this, the authority of Rongcheng City allocates funds of ¥200,000 for the house maintenance and repair.</p>
 
-    <h3>Architectural form</h3>
-    <p>Mottled stone walls, high ridges, narrow gates, fluffy and thick kelp and fishing net covered roof are the first-sight impression of the seaweed house.</p>
+ <h3>Architectural form</h3>
+ <p>Mottled stone walls, high ridges, narrow gates, fluffy and thick kelp and fishing net covered roof are the first-sight impression of the seaweed house.</p>
 
-    <h4>Yard layout</h4>
-    <p>The layout is closely related to the folk custom, life style and the geography and climate. Jiaodong is mountainous and hilly, local residents mainly choose gentle sunny-slope, facing sea site. The houses are built along the contours. Due to the limited-size site, the density of the building groups is very high, the yard is relatively small and the street is narrow. The yard is formed by the walls and space between buildings. The most common form is a triple yard or tetrad yard formed by a principal room and two or three wing-rooms. The depth is usually not more than 4 meters, the width is about two or three metres, the front wood window is 1.1meters-high, and 1 meter-wide. The bedroom, toilet and store room are in the two ends of the principal room. The roof of the wing-room is accessible to people as drying area.</p>
-    <p>Because the building community faces to the sea, residents mainly take wind sheltering, roof drainage into account, so it can be seen that the depth of courtyard and house is low and the roof inclination is very large. A 20 cm-wide drainage, which is connected to the street waterway outside the garden, performs well in rainy summer.</p>
+ <h4>Yard layout</h4>
+ <p>The layout is closely related to the folk custom, life style and the geography and climate. Jiaodong is mountainous and hilly, local residents mainly choose gentle sunny-slope, facing sea site. The houses are built along the contours. Due to the limited-size site, the density of the building groups is very high, the yard is relatively small and the street is narrow. The yard is formed by the walls and space between buildings. The most common form is a triple yard or tetrad yard formed by a principal room and two or three wing-rooms. The depth is usually not more than 4 meters, the width is about two or three metres, the front wood window is 1.1meters-high, and 1 meter-wide. The bedroom, toilet and store room are in the two ends of the principal room. The roof of the wing-room is accessible to people as drying area.</p>
+ <p>Because the building community faces to the sea, residents mainly take wind sheltering, roof drainage into account, so it can be seen that the depth of courtyard and house is low and the roof inclination is very large. A 20 cm-wide drainage, which is connected to the street waterway outside the garden, performs well in rainy summer.</p>
 
-    <h4>Roof</h4>
-    <p>The seaweed house roof is usually two-side slope or triangle shape. It is supported by the 40 cm-thick stone walls on the two sides and four roof trusses. The trusses are made of 10 to 20 cm diameter-wide round timber. Purlins are settled on the trusses every 1 meter. Reeds and straws are paved onto that as the first layer. The interior side is trowelled by grass mud, and this work is the same with the craft of trowelling the interior wall. At last the seaweed is matted onto that, which is the most important technical procedure. The overlying-laid matting starts from both the eaves to the ridge. Every layer needs to be exposed by about 10 cm. And the depth needs to be added layer by layer. At last, the ridge should be compacted by coping seaweed mud. Generally, 3-meter-depth room should be matted 20 layers every slope, the depth of the ridge grass is about 70 to 80 cm-meter-thick. And the two ends of the ridge are higher than the middle because more sea moss is matted there to make the whole structure more solid. What is more, craft men usually dehorn on the two ends to make the roof like the gable and hip roof which is a traditional form used in Song dynasty. Sometimes, fishers put their fishing net onto the roof to air in the sunlight and wind. It takes at least 500 kg seaweed to build one seaweed house. As the slope is more abrupt than that of watt roof, this form can extend the working life of the seaweed, allow snow water flow away more quickly, avoid rain bleeding into interior and release the pressure to the structure of house. It can be understood that this material substitutes for terracotta and foil. The colour is usually lilac or faint yellow, which forms a distinct comparison with the colour of irregular blue stone. Seaweed houses in Rongcheng have very thick roofs, on which the seaweed is more than 1 meter-thick.</p>
+ <h4>Roof</h4>
+ <p>The seaweed house roof is usually two-side slope or triangle shape. It is supported by the 40 cm-thick stone walls on the two sides and four roof trusses. The trusses are made of 10 to 20 cm diameter-wide round timber. Purlins are settled on the trusses every 1 meter. Reeds and straws are paved onto that as the first layer. The interior side is trowelled by grass mud, and this work is the same with the craft of trowelling the interior wall. At last the seaweed is matted onto that, which is the most important technical procedure. The overlying-laid matting starts from both the eaves to the ridge. Every layer needs to be exposed by about 10 cm. And the depth needs to be added layer by layer. At last, the ridge should be compacted by coping seaweed mud. Generally, 3-meter-depth room should be matted 20 layers every slope, the depth of the ridge grass is about 70 to 80 cm-meter-thick. And the two ends of the ridge are higher than the middle because more sea moss is matted there to make the whole structure more solid. What is more, craft men usually dehorn on the two ends to make the roof like the gable and hip roof which is a traditional form used in Song dynasty. Sometimes, fishers put their fishing net onto the roof to air in the sunlight and wind. It takes at least 500 kg seaweed to build one seaweed house. As the slope is more abrupt than that of watt roof, this form can extend the working life of the seaweed, allow snow water flow away more quickly, avoid rain bleeding into interior and release the pressure to the structure of house. It can be understood that this material substitutes for terracotta and foil. The colour is usually lilac or faint yellow, which forms a distinct comparison with the colour of irregular blue stone. Seaweed houses in Rongcheng have very thick roofs, on which the seaweed is more than 1 meter-thick.</p>
 
-    <h4>House Wall and garden wall</h4>
-    <p>Rongcheng City is rich in granite, which is the main material for building the wall. Villagers generally apply natural granites without polishing and grinding to build the walls. It is about 0.5 meter thick, flattened by grass mud inside and wiped by lime. This work is very frugal and remarkable. The appliance of the material can reflect the sunlight and make the courtyard bright and warm. In summer together with roofs, walls absorb the solar energy and trap the heat radiation to avoid the sharp rising of indoor temperature. Besides granite, small red stone and fish scales stones are also used for building walls or paving the ground. The colour is very rich, including reddle, puce, light green, cream, cyan, ochre and black. The gap between stones is filled by lime. Together with the deep colour of seaweed, the yard is full of romantic atmosphere.</p>
+ <h4>House Wall and garden wall</h4>
+ <p>Rongcheng City is rich in granite, which is the main material for building the wall. Villagers generally apply natural granites without polishing and grinding to build the walls. It is about 0.5 meter thick, flattened by grass mud inside and wiped by lime. This work is very frugal and remarkable. The appliance of the material can reflect the sunlight and make the courtyard bright and warm. In summer together with roofs, walls absorb the solar energy and trap the heat radiation to avoid the sharp rising of indoor temperature. Besides granite, small red stone and fish scales stones are also used for building walls or paving the ground. The colour is very rich, including reddle, puce, light green, cream, cyan, ochre and black. The gap between stones is filled by lime. Together with the deep colour of seaweed, the yard is full of romantic atmosphere.</p>
 
-    <h4>Windowsill</h4>
-    <p>The windowsill is about 800 millimetres high, which allows residents get a broad view of the courtyard on bed. The size is based on the daily life of local people. They usually sit on bed to have dinner, sew or mend the close or receive guests.</p>
+ <h4>Windowsill</h4>
+ <p>The windowsill is about 800 millimetres high, which allows residents get a broad view of the courtyard on bed. The size is based on the daily life of local people. They usually sit on bed to have dinner, sew or mend the close or receive guests.</p>
 
-    <h4>Door</h4>
-    <p>From the view of elevation, the door is in the central axis. Some decorations, patterns, screen walls and overhanging eaves are used to emphasize the entrance. Two uprights and a beam support the door within the doorframe. A roof is built above the door to avoid the perpendicular incidence of sunlight and the drench of snow and rain to protect the door.</p>
+ <h4>Door</h4>
+ <p>From the view of elevation, the door is in the central axis. Some decorations, patterns, screen walls and overhanging eaves are used to emphasize the entrance. Two uprights and a beam support the door within the doorframe. A roof is built above the door to avoid the perpendicular incidence of sunlight and the drench of snow and rain to protect the door.</p>
 
-    <h4>Screen wall</h4>
-    <p>The screen wall is an individual short wall not a house wall. It is located outside the entrance to remind passengers the existence of the house and inside the entrance to block the sight.</p>
+ <h4>Screen wall</h4>
+ <p>The screen wall is an individual short wall not a house wall. It is located outside the entrance to remind passengers the existence of the house and inside the entrance to block the sight.</p>
 
-    <h4>Heated brick bed</h4>
-    <p>The heated brick bed is a widely used heating facility in Jiaodong. The village does not have a central heating system. The heat comes from the redundant energy of cooking.</p>
+ <h4>Heated brick bed</h4>
+ <p>The heated brick bed is a widely used heating facility in Jiaodong. The village does not have a central heating system. The heat comes from the redundant energy of cooking.</p>
 
-    <h3>Craftsmanship</h3>
-    <p>The whole process has about 70 fabrication procedures, and all of them are handy techniques, no any machinery techniques are included. It includes watt work, timber work, stone work and matting work.</p>
-    <p>This is the basic process:</p>
-    <p class="no-indent">1. Collecting the stones, yellow mud, timber, seaweed and some base stock.<br>
-    2. Lay the foundations, set the locations of doors, lay the door bearing stone, base the wall, install the window and beam.<br>
-    3. Tidy weeds, fit the size and assemble the scaffold.<br>
-    4. Build the eave, mat the seaweeds and make them soft outside and solid inside.<br>
-    5. Seal the top by the mud, pinned with the colloid in the seaweed.<br>
-    6. Pour water onto the roof and trowelling the top by patting with wood board. Cut the end of the weed at the eave.</p>
+ <h3>Craftsmanship</h3>
+ <p>The whole process has about 70 fabrication procedures, and all of them are handy techniques, no any machinery techniques are included. It includes watt work, timber work, stone work and matting work.</p>
+ <p>This is the basic process:</p>
+ <p class="no-indent">1. Collecting the stones, yellow mud, timber, seaweed and some base stock.<br>
+ 2. Lay the foundations, set the locations of doors, lay the door bearing stone, base the wall, install the window and beam.<br>
+ 3. Tidy weeds, fit the size and assemble the scaffold.<br>
+ 4. Build the eave, mat the seaweeds and make them soft outside and solid inside.<br>
+ 5. Seal the top by the mud, pinned with the colloid in the seaweed.<br>
+ 6. Pour water onto the roof and trowelling the top by patting with wood board. Cut the end of the weed at the eave.</p>
 
-    <h3>Ecological characteristic</h3>
-    <p>In terms of the material, the thick grass roof performs well on thermal insulation. In the meanwhile, the 40-cm-thick granite is also a good thermal stability material. The land and sea breeze brings the roof and wall stored energy away at night.</p>
-    <p>The width of the yard is 1/3 the width of principle room. The gable wall of the room aligns with the back wall of the wing room. In such a poky space, a number of flourish plants like figs are grown to regulate the micro climate within the yard. In Jiaodong, the average wind speed is only 4.2 m/s in July, August and September, which is lower than the average speed 5.6 m/s in the whole year. And it is windy usually at night. The average humidity is 86% in July, much higher than the average speed 68% in the whole year. The average temperature in those three months is 23℃, which is the highest in the whole year. Furthermore, the evaporation capacity is not the highest, the situation leads to the damp and hot climate. So the courtyard functions to pull out the wet wind and create a cool thermal environment. In winter, there are about 30 days when the wind level is fresh gale. The poky courtyard functions to resist cold air.</p>
-    <p>The working life of a seaweed roof can be lasted for 40 to 50 years. However, due to the grass growing or birds building nests on top of it, the watt roof needs a mass repair after 20 years later. And in the process of making watts, it consumes more human and natural resource especially the precious land resource in the coast. And the degradation cannot be finished in a short period. The wasted seaweed can be used as the auxiliary building material. In terms of the safety, the very natural light material is better than the watt, especially in an area where wind damage often happens.</p>
+ <h3>Ecological characteristic</h3>
+ <p>In terms of the material, the thick grass roof performs well on thermal insulation. In the meanwhile, the 40-cm-thick granite is also a good thermal stability material. The land and sea breeze brings the roof and wall stored energy away at night.</p>
+ <p>The width of the yard is 1/3 the width of principle room. The gable wall of the room aligns with the back wall of the wing room. In such a poky space, a number of flourish plants like figs are grown to regulate the micro climate within the yard. In Jiaodong, the average wind speed is only 4.2 m/s in July, August and September, which is lower than the average speed 5.6 m/s in the whole year. And it is windy usually at night. The average humidity is 86% in July, much higher than the average speed 68% in the whole year. The average temperature in those three months is 23℃, which is the highest in the whole year. Furthermore, the evaporation capacity is not the highest, the situation leads to the damp and hot climate. So the courtyard functions to pull out the wet wind and create a cool thermal environment. In winter, there are about 30 days when the wind level is fresh gale. The poky courtyard functions to resist cold air.</p>
+ <p>The working life of a seaweed roof can be lasted for 40 to 50 years. However, due to the grass growing or birds building nests on top of it, the watt roof needs a mass repair after 20 years later. And in the process of making watts, it consumes more human and natural resource especially the precious land resource in the coast. And the degradation cannot be finished in a short period. The wasted seaweed can be used as the auxiliary building material. In terms of the safety, the very natural light material is better than the watt, especially in an area where wind damage often happens.</p>
 
-    <h3>Summary</h3>
-    <p>It is assumed by many people and professionals that using green materials or technologies will be much more expensive, but the aim of the natural building movement is for such materials to be as economical, if not cheaper than conventional, to be of a high standard and have a very good life cycle performance. Actually, for the seaweed production and house building, the process costs much less money compared to concrete construction.</p>
-    <p>In this modern period, more and more people choose to go back to nature like forest, sea, mountain, gorge to hide from the narrow street between high-rise buildings in urban areas. The seaweed house was getting through the weather bitten, but they are kept unsophisticated and real. It carries the pleasure, anger, sorrow, joy of residents and is the witness of the change of history. The very special buildings tell stories about the hard work and wisdom of people living in Jiaodong.</p>
-    <p>The whole process of building the seaweed house is a wonderful example of low impact. Today, many new and non-recyclable materials applied in massive construction and landscape consume enormous amounts of resources to produce and distribute, and then create additional waste when they are demolished. As a sustainable residential landscape architecture practice, the whole product life cycle of seaweed can not only improve water and energy efficiency, but also reduce waste. Furthermore, in conventional building process, workers have the highest risk of exposure to unhealthy chemicals and materials. But in the wide-open coast, seaweed craftsman does not need to worry about the ventilation and his or her health. Its outdoor hand-making is very healthy. Today in China, massive construction costume much resource and energy, the increasing demand for low and zero carbon buildings has provided significant challenges for the energy intensive materials we currently rely on. A decreasing reliance on non-renewal resources and for greater resource efficiency, requires step changes in attitude and approach as well as materials. Improvement in construction systems, capable of providing consistently enhanced levels of performance at a reasonable cost is required.</p>
-    <p>Foreign architectural style washes and erodes the local architecture in Jiaodong. Seaweed is in an imminent danger. Reinforced concrete high-rise building and brick villas replaced the original and traditional scene. I believe that these 'foreigners' does not belong to this area. If seaweed house is just an experimental model, it definitely cannot be undergone century by century. Many old people who live with the house half their life cannot bear the diminishing culture. As a media to propagate the culture, structure, aesthetic value and the attitude to the material use, nature and environment, it deserves appreciations by more people, no matter local residents or tourists, architectural specialists or photographer.</p>
+ <h3>Summary</h3>
+ <p>It is assumed by many people and professionals that using green materials or technologies will be much more expensive, but the aim of the natural building movement is for such materials to be as economical, if not cheaper than conventional, to be of a high standard and have a very good life cycle performance. Actually, for the seaweed production and house building, the process costs much less money compared to concrete construction.</p>
+ <p>In this modern period, more and more people choose to go back to nature like forest, sea, mountain, gorge to hide from the narrow street between high-rise buildings in urban areas. The seaweed house was getting through the weather bitten, but they are kept unsophisticated and real. It carries the pleasure, anger, sorrow, joy of residents and is the witness of the change of history. The very special buildings tell stories about the hard work and wisdom of people living in Jiaodong.</p>
+ <p>The whole process of building the seaweed house is a wonderful example of low impact. Today, many new and non-recyclable materials applied in massive construction and landscape consume enormous amounts of resources to produce and distribute, and then create additional waste when they are demolished. As a sustainable residential landscape architecture practice, the whole product life cycle of seaweed can not only improve water and energy efficiency, but also reduce waste. Furthermore, in conventional building process, workers have the highest risk of exposure to unhealthy chemicals and materials. But in the wide-open coast, seaweed craftsman does not need to worry about the ventilation and his or her health. Its outdoor hand-making is very healthy. Today in China, massive construction costume much resource and energy, the increasing demand for low and zero carbon buildings has provided significant challenges for the energy intensive materials we currently rely on. A decreasing reliance on non-renewal resources and for greater resource efficiency, requires step changes in attitude and approach as well as materials. Improvement in construction systems, capable of providing consistently enhanced levels of performance at a reasonable cost is required.</p>
+ <p>Foreign architectural style washes and erodes the local architecture in Jiaodong. Seaweed is in an imminent danger. Reinforced concrete high-rise building and brick villas replaced the original and traditional scene. I believe that these 'foreigners' does not belong to this area. If seaweed house is just an experimental model, it definitely cannot be undergone century by century. Many old people who live with the house half their life cannot bear the diminishing culture. As a media to propagate the culture, structure, aesthetic value and the attitude to the material use, nature and environment, it deserves appreciations by more people, no matter local residents or tourists, architectural specialists or photographer.</p>
 
-    <h3>Reference</h3>
-    <p class="no-indent">Wu Xiaolin, Rongcheng Seaweed House Field Survey and The Study of The Architectural Form.<br>
-    Zhe Chen, The Findings of Primary Ecological Architecture—Seaweed House in Jiaodong.<br>
-    Wang Qingwen, Tan Ming, The Study of the Climatic Adaptation of the traditional dwellings in Jiaodong.<br>
-    Liu Xinsui, Seaweed House in Jiaodong needs urgent help.<br>
-    Jin Yuemei, Liu Fuzhi, Characteristics of Traditional Rural Residence in Coastal Areas of Eastern Shandong Province.<br>
-    Tom Woolley, The role of low impact building materials in sustainable construction: The potential for hemp.<br>
-    Walker, Professor PJ, LIMES.NET: Network for Low Impact Materials and innovative Engineering Solutions for the built environment.</p>
-  </div>
+ <h3>Reference</h3>
+ <p class="no-indent">Wu Xiaolin, Rongcheng Seaweed House Field Survey and The Study of The Architectural Form.<br>
+ Zhe Chen, The Findings of Primary Ecological Architecture—Seaweed House in Jiaodong.<br>
+ Wang Qingwen, Tan Ming, The Study of the Climatic Adaptation of the traditional dwellings in Jiaodong.<br>
+ Liu Xinsui, Seaweed House in Jiaodong needs urgent help.<br>
+ Jin Yuemei, Liu Fuzhi, Characteristics of Traditional Rural Residence in Coastal Areas of Eastern Shandong Province.<br>
+ Tom Woolley, The role of low impact building materials in sustainable construction: The potential for hemp.<br>
+ Walker, Professor PJ, LIMES.NET: Network for Low Impact Materials and innovative Engineering Solutions for the built environment.</p>
+ </div>
 </div>
 
 <!-- ==================== 论文2 ==================== -->
 <div class="paper" id="p2">
-  <div class="paper-title">Architectural Form and Cultural Interpretation of the Zhu Fengyin Residence in Ji'nan, China</div>
-  <div class="paper-meta">
-    <span><strong>作者：</strong>WANG Ting-yu（王廷宇）, WU Li-yue（吴丽月）, LI Yan-jun（李燕军）</span>
-    <span><strong>单位：</strong>Shaanxi University of Science and Technology; Xi'an Zhongda Shiye Co., Ltd.</span>
-    <span><strong>期刊：</strong>David Publishing Company</span>
-    <br><a href="https://www.davidpublisher.com/Public/uploads/Contribute/6981ac7278052.pdf" target="_blank">原文PDF链接</a>
-  </div>
-  <div class="tag">英文全文</div><div class="tag">朱凤印宅</div><div class="tag">济南章丘朱家峪</div><div class="tag">晚清士绅民居</div><div class="tag">建筑形式与文化解读</div>
+ <div class="paper-title">Architectural Form and Cultural Interpretation of the Zhu Fengyin Residence in Ji'nan, China</div>
+ <div class="paper-meta">
+ <span><strong>作者：</strong>WANG Ting-yu（王廷宇）, WU Li-yue（吴丽月）, LI Yan-jun（李燕军）</span>
+ <span><strong>单位：</strong>Shaanxi University of Science and Technology; Xi'an Zhongda Shiye Co., Ltd.</span>
+ <span><strong>期刊：</strong>David Publishing Company</span>
+ <br><a href="https://www.davidpublisher.com/Public/uploads/Contribute/6981ac7278052.pdf" target="_blank">原文PDF链接</a>
+ </div>
+ <div class="tag">英文全文</div><div class="tag">朱凤印宅</div><div class="tag">济南章丘朱家峪</div><div class="tag">晚清士绅民居</div><div class="tag">建筑形式与文化解读</div>
 
-  <div class="fulltext-label">Full Text（完整原文）</div>
-  <div class="fulltext en">
-    <p>The distinctive landscape of Zhujiayu Ancient Village in Zhangqiu District, Ji'nan, together with its long-established cultural traditions, has shaped a unique vernacular settlement character, within which traditional dwellings serve as a primary medium of regional culture. This study examines the residence of Zhu Fengyin, a jinshi degree holder, and adopts field investigation and measured drawing-based analysis. Discussion is organized around three dimensions: an overview of the dwelling, architectural form, and cultural expression. Particular attention is given to the multistage, multi-bay compound configuration developed in a mountainous setting, terrain-adaptive courtyard forms, and construction techniques. The analysis further interprets the concepts of ritual order and auspicious symbolism embedded in architectural decoration. By using this representative case, the study aims to deepen understanding of the architectural culture of gentry dwellings in the Ji'nan region and to provide an academic basis for the conservation and inheritance of traditional dwellings in the Ji'nan area.</p>
+ <div class="fulltext-label">Full Text（完整原文）</div>
+ <div class="fulltext en">
+ <p>The distinctive landscape of Zhujiayu Ancient Village in Zhangqiu District, Ji'nan, together with its long-established cultural traditions, has shaped a unique vernacular settlement character, within which traditional dwellings serve as a primary medium of regional culture. This study examines the residence of Zhu Fengyin, a jinshi degree holder, and adopts field investigation and measured drawing-based analysis. Discussion is organized around three dimensions: an overview of the dwelling, architectural form, and cultural expression. Particular attention is given to the multistage, multi-bay compound configuration developed in a mountainous setting, terrain-adaptive courtyard forms, and construction techniques. The analysis further interprets the concepts of ritual order and auspicious symbolism embedded in architectural decoration. By using this representative case, the study aims to deepen understanding of the architectural culture of gentry dwellings in the Ji'nan region and to provide an academic basis for the conservation and inheritance of traditional dwellings in the Ji'nan area.</p>
 
-    <p>Zhu Fengyin was well known locally for his contributions to education. He trained civil officials such as Liu Yuanliang, who later served as a bianxiu at the Hanlin Academy, as well as military figures such as Liu Zhongdu, who served as a regional commander in Fengtian Region, reflecting the village's Confucian tradition of sustaining the family through farming and learning. His examination success also directly influenced the construction and symbolic display of the Zhu clan ancestral hall. After he obtained the mingjing jinshi title, a flagpole base was erected outside the entrance of the Zhu clan ancestral hall, demonstrating clan prestige associated with civil examination achievement and indicating the close linkage between individual attainment and collective honor under the clan system of the Qing Dynasty. The Zhu Fengyin Residence is not only a representative late-Qing gentry dwelling, but also a material carrier of Zhujiayu's emphasis on education and the tradition of entering official service through the civil examinations.</p>
+ <p>Zhu Fengyin was well known locally for his contributions to education. He trained civil officials such as Liu Yuanliang, who later served as a bianxiu at the Hanlin Academy, as well as military figures such as Liu Zhongdu, who served as a regional commander in Fengtian Region, reflecting the village's Confucian tradition of sustaining the family through farming and learning. His examination success also directly influenced the construction and symbolic display of the Zhu clan ancestral hall. After he obtained the mingjing jinshi title, a flagpole base was erected outside the entrance of the Zhu clan ancestral hall, demonstrating clan prestige associated with civil examination achievement and indicating the close linkage between individual attainment and collective honor under the clan system of the Qing Dynasty. The Zhu Fengyin Residence is not only a representative late-Qing gentry dwelling, but also a material carrier of Zhujiayu's emphasis on education and the tradition of entering official service through the civil examinations.</p>
 
-    <h3>Residence Location</h3>
-    <p>The Zhu Fengyin Residence is located in the south-central part of the village, at the junction between the upper and lower routes. The residential compound follows the terrain and is built along the upper route, with the main gate seated on the south and facing north. A tall screen wall is set outside the gate. This screen wall also separates the two branches of the route, namely the upper and the lower routes, which ultimately converge at the southern end of the village.</p>
+ <h3>Residence Location</h3>
+ <p>The Zhu Fengyin Residence is located in the south-central part of the village, at the junction between the upper and lower routes. The residential compound follows the terrain and is built along the upper route, with the main gate seated on the south and facing north. A tall screen wall is set outside the gate. This screen wall also separates the two branches of the route, namely the upper and the lower routes, which ultimately converge at the southern end of the village.</p>
 
-    <h3>Analysis of the Architectural Form of the Zhu Fengyin Residence</h3>
-    <h4>Overall Compound Configuration</h4>
-    <p>The Zhu Fengyin Residence integrates the entrance courtyard, the main residential courtyard, the private school courtyard, and the library building into a unified compound. According to oral accounts from descendants of the Zhu clan and on-site investigation, although the complex was altered in later periods and subdivided for use by four households, its original large-scale framework remains legible. It comprises seven courtyards combined as an organic whole. The plan forms of these courtyards are diverse, including square and trapezoidal geometries. The complex takes the single spatial stage as a basic unit. These units are connected through gate structures or lanes, forming a compound of interlinked courtyards. The main buildings are generally regular and orthogonal. By contrast, courtyard spaces and perimeter walls are shaped in response to local conditions and may take irregular forms. Overall, the residence exhibits the fundamental characteristics of northern courtyard dwellings. Influenced by mountainous terrain, the layout is comparatively flexible and variable, combining ritualized spatial order with pragmatic adaptation.</p>
-    <p>This flexibility results partly from the need to accommodate irregular street and lane boundaries, and partly from craftsmen' terrain-responsive construction logic. Because the site has pronounced changes in elevation, the courtyards are not arranged on a single level but are staggered in accordance with the landform. Through the use of steps and ramps to negotiate height differences, the craftsmen established a vertically progressive spatial sequence across the complex, in which ritual order and pragmatic considerations are simultaneously evident.</p>
+ <h3>Analysis of the Architectural Form of the Zhu Fengyin Residence</h3>
+ <h4>Overall Compound Configuration</h4>
+ <p>The Zhu Fengyin Residence integrates the entrance courtyard, the main residential courtyard, the private school courtyard, and the library building into a unified compound. According to oral accounts from descendants of the Zhu clan and on-site investigation, although the complex was altered in later periods and subdivided for use by four households, its original large-scale framework remains legible. It comprises seven courtyards combined as an organic whole. The plan forms of these courtyards are diverse, including square and trapezoidal geometries. The complex takes the single spatial stage as a basic unit. These units are connected through gate structures or lanes, forming a compound of interlinked courtyards. The main buildings are generally regular and orthogonal. By contrast, courtyard spaces and perimeter walls are shaped in response to local conditions and may take irregular forms. Overall, the residence exhibits the fundamental characteristics of northern courtyard dwellings. Influenced by mountainous terrain, the layout is comparatively flexible and variable, combining ritualized spatial order with pragmatic adaptation.</p>
+ <p>This flexibility results partly from the need to accommodate irregular street and lane boundaries, and partly from craftsmen' terrain-responsive construction logic. Because the site has pronounced changes in elevation, the courtyards are not arranged on a single level but are staggered in accordance with the landform. Through the use of steps and ramps to negotiate height differences, the craftsmen established a vertically progressive spatial sequence across the complex, in which ritual order and pragmatic considerations are simultaneously evident.</p>
 
-    <p>According to the survey, the Zhu Fengyin Residence retains two courtyards, referred to as the South Courtyard and the North Courtyard, arranged as an east yard and a west yard. The entrance sequence begins on the western side. Visitors ascend three steps to enter the main gate, where a screen wall stands directly ahead. Functionally, this element blocks direct sightlines into the inner courtyard. Spatially, it marks the transition from the public street network to a private domain. The North Courtyard is a three-sided courtyard compound composed of a reversely-set room and two wing rooms. The west wing room serves as a reception space, three bays wide, with a depth of 3.5 m. The reversely-set room functions as a kitchen, with a depth of 1.5 m. The east wing room has a depth of 4.2 m, and the east-west length of the North Courtyard is approximately 8.4 m.</p>
+ <p>According to the survey, the Zhu Fengyin Residence retains two courtyards, referred to as the South Courtyard and the North Courtyard, arranged as an east yard and a west yard. The entrance sequence begins on the western side. Visitors ascend three steps to enter the main gate, where a screen wall stands directly ahead. Functionally, this element blocks direct sightlines into the inner courtyard. Spatially, it marks the transition from the public street network to a private domain. The North Courtyard is a three-sided courtyard compound composed of a reversely-set room and two wing rooms. The west wing room serves as a reception space, three bays wide, with a depth of 3.5 m. The reversely-set room functions as a kitchen, with a depth of 1.5 m. The east wing room has a depth of 4.2 m, and the east-west length of the North Courtyard is approximately 8.4 m.</p>
 
-    <p>From the North Courtyard, the South Courtyard is reached through a gatehouse and a nine-step turning staircase. The spatial experience upon entering the South Courtyard is clearly layered. After passing through the gatehouse, the gable wall of the main hall becomes the visual focus. A tall window at the center of the wall provides a strong sense of direction and anticipation. The route then turns right and continues along a short corridor before arriving at the core space: a siheyuan courtyard enclosed by the main hall, reversely-set room, wing rooms, and the library building. The route shifts from a compressed entry sequence to a more open courtyard space, reflecting deliberate control of spatial pacing in traditional dwellings.</p>
+ <p>From the North Courtyard, the South Courtyard is reached through a gatehouse and a nine-step turning staircase. The spatial experience upon entering the South Courtyard is clearly layered. After passing through the gatehouse, the gable wall of the main hall becomes the visual focus. A tall window at the center of the wall provides a strong sense of direction and anticipation. The route then turns right and continues along a short corridor before arriving at the core space: a siheyuan courtyard enclosed by the main hall, reversely-set room, wing rooms, and the library building. The route shifts from a compressed entry sequence to a more open courtyard space, reflecting deliberate control of spatial pacing in traditional dwellings.</p>
 
-    <p>The main hall of the South Courtyard is three bays wide, with a depth of 3.7 m. The reversely-set room is three bays wide, with a depth of 1.5 m. Both the west and east wing rooms are three bays wide, with a depth of 3.2 m, and adopt a three-bay, two-room layout. A partition wall is built at the center bay, dividing the three bays into two rooms. The west wing room is organized as a library on the second floor and a wing room on the first floor. The library is the tallest structure in the complex, emphasizing the importance of reading and learning in the private school. The South Courtyard is approximately 5.6 m long from south to north and 8.7 m long from east to west.</p>
+ <p>The main hall of the South Courtyard is three bays wide, with a depth of 3.7 m. The reversely-set room is three bays wide, with a depth of 1.5 m. Both the west and east wing rooms are three bays wide, with a depth of 3.2 m, and adopt a three-bay, two-room layout. A partition wall is built at the center bay, dividing the three bays into two rooms. The west wing room is organized as a library on the second floor and a wing room on the first floor. The library is the tallest structure in the complex, emphasizing the importance of reading and learning in the private school. The South Courtyard is approximately 5.6 m long from south to north and 8.7 m long from east to west.</p>
 
-    <h4>Structural System and Construction Techniques</h4>
-    <p>The courtyards follow the steep mountainous terrain. By building elevated pedestals and using steps and ramps, the complex forms a staggered spatial pattern. Pedestal height is also an important marker of building hierarchy. The sequence of steps leading into the principal spaces constitutes an expression of rites.</p>
-    <p>In terms of structure, the main buildings primarily adopt a load-bearing wall system. The walls are substantial, typically 35-50 cm thick, and the room depth is relatively small. Exterior walls rarely have windows, or only small high windows. To maintain privacy, daylighting and ventilation rely mainly on the internal courtyards. To improve structural stability, the dado is commonly built of bluestone, about 80-90 cm high, and corners as well as door and window openings are often reinforced with stone strips. The upper wall is either brickwork, or it is plastered on the exterior with a mixture of earth and adobe brickwork, showing a material strategy adapted to local conditions.</p>
-    <p>The roof adopts the flush gable roof form. In most cases, the roof curvature is slight, the rafters are closely spaced, and reed mats are laid above before an earthen layer is applied for thermal insulation. Roofing materials are mainly locally sourced yellow grass, white grass, or small gray tiles. The roof pitch is generally above 30°, which facilitates rapid drainage. The roof frame is a tripod-type timber frame. In this triangular framing system, timber frames are placed on the load-bearing walls, purlins are set on the frames, and the roofing layers are laid above. The load path differs from other systems, and the use of timber is more economical.</p>
-    <p>The building complex accommodates changes in site elevation by grading the courtyards to create controlled drainage slopes. Rainwater is conveyed through open drains or covered drains to the roadside runoff channel and then into the pond north of the village, forming an integrated drainage system. Water jars are also commonly placed in the courtyards for daily use and for firefighting water storage, reflecting construction practices that balance practicality and safety.</p>
-    <p>The west gate of the Zhu Fengyin Residence is a typical jinzhu type, with the gate panels set between a pair of golden columns. It has six ground-set columns and finely jointed brickwork, representing a typical gate form used by northern official and gentry households. A bearing stone is set horizontally beneath the door frame; it supports the door leaves and stabilizes the pivot. One half of the stone is embedded within the frame and includes a pivot socket that supports the lower pivot, as well as a groove that secures the threshold. The other half is exposed to the exterior and has developed a thick patina through long-term wear, with a muted sheen. The high threshold also provides a direct indication of Zhu Fengyin's jinshi status.</p>
+ <h4>Structural System and Construction Techniques</h4>
+ <p>The courtyards follow the steep mountainous terrain. By building elevated pedestals and using steps and ramps, the complex forms a staggered spatial pattern. Pedestal height is also an important marker of building hierarchy. The sequence of steps leading into the principal spaces constitutes an expression of rites.</p>
+ <p>In terms of structure, the main buildings primarily adopt a load-bearing wall system. The walls are substantial, typically 35-50 cm thick, and the room depth is relatively small. Exterior walls rarely have windows, or only small high windows. To maintain privacy, daylighting and ventilation rely mainly on the internal courtyards. To improve structural stability, the dado is commonly built of bluestone, about 80-90 cm high, and corners as well as door and window openings are often reinforced with stone strips. The upper wall is either brickwork, or it is plastered on the exterior with a mixture of earth and adobe brickwork, showing a material strategy adapted to local conditions.</p>
+ <p>The roof adopts the flush gable roof form. In most cases, the roof curvature is slight, the rafters are closely spaced, and reed mats are laid above before an earthen layer is applied for thermal insulation. Roofing materials are mainly locally sourced yellow grass, white grass, or small gray tiles. The roof pitch is generally above 30°, which facilitates rapid drainage. The roof frame is a tripod-type timber frame. In this triangular framing system, timber frames are placed on the load-bearing walls, purlins are set on the frames, and the roofing layers are laid above. The load path differs from other systems, and the use of timber is more economical.</p>
+ <p>The building complex accommodates changes in site elevation by grading the courtyards to create controlled drainage slopes. Rainwater is conveyed through open drains or covered drains to the roadside runoff channel and then into the pond north of the village, forming an integrated drainage system. Water jars are also commonly placed in the courtyards for daily use and for firefighting water storage, reflecting construction practices that balance practicality and safety.</p>
+ <p>The west gate of the Zhu Fengyin Residence is a typical jinzhu type, with the gate panels set between a pair of golden columns. It has six ground-set columns and finely jointed brickwork, representing a typical gate form used by northern official and gentry households. A bearing stone is set horizontally beneath the door frame; it supports the door leaves and stabilizes the pivot. One half of the stone is embedded within the frame and includes a pivot socket that supports the lower pivot, as well as a groove that secures the threshold. The other half is exposed to the exterior and has developed a thick patina through long-term wear, with a muted sheen. The high threshold also provides a direct indication of Zhu Fengyin's jinshi status.</p>
 
-    <h3>Architectural Culture of the Zhu Fengyin Residence</h3>
-    <h4>Architectural Decoration</h4>
-    <p>Architectural decoration in the Zhu Fengyin Residence is dominated by wood carving, supplemented by brick carving, stone carving, and ironwork, forming a rich decorative system with layered meanings. Wood carving is mainly found on the lintel, hanging panels, sparrow braces, and window lattice, among other elements. For example, the hanging panel beneath the eaves of the west gate is a rectangular openwork carving in zitan wood. It is divided into three parts. The central panel depicts a motif of bats with peaches, implying blessings and longevity. The two side panels are symmetrical and feature peony and plum-blossom patterns, symbolizing prosperity and honor. Beneath the decorative cylinder, nine gourds are carved on the door hood. Their homophonic association conveys wishes for fortune and emolument, and further implies abundant descendants and continuity. The carving set also includes four animal motifs—cicada, katydid, bee, and butterfly—which respectively allude to knowing one's destiny, smooth advancement in official career, promotion in office and rank, and enduring blessings, indicating a dense cultural content. Intertwined gourd vines further suggest expectations of flourishing descendants and success in study. On the two door jambs, a pair of miniature vases is carved in high refinement; each vase contains three halberds, implying promotion by three ranks. Wood carving on the windows is placed on the transom board, or on a widened window stool. Coin motifs and swastika-pattern designs are carved on these elements, conveying wishes for auspiciousness and blessing.</p>
-    <p>Brick carving is mainly applied to the projecting gable-end wall (chitou), the screen wall, the tile end, and the drip tile. The pillar-head motifs combine scrolling cloud patterns, meander patterns, and swastika patterns, implying upward advancement and auspicious fulfillment, uninterrupted prosperity, and enduring continuity. The screen wall is commonly decorated with the character fu or the characters jiangu (fulu), expressing wishes for an auspicious life.</p>
-    <p>Stone carving appears at structural elements such as the column base, balustrade panels, and arches, with a plain form and a rhythmic character.</p>
-    <p>Ironwork is most evident in the gate hardware, including the door knocker ring (pushou) and iron sheathing on the door panels. These features strengthen protection while enhancing decoration, demonstrating the integration of local craft and practical requirements.</p>
-    <p>In Zhujiayu, architectural decoration is not merely appended. It is the aesthetic shaping of functional elements. Craftsmen work with the specific properties of each material to unify technique, artistic expression, and symbolic meaning. In this way, decoration supports practical use and conveys local beliefs, ethical norms, and aesthetic values.</p>
+ <h3>Architectural Culture of the Zhu Fengyin Residence</h3>
+ <h4>Architectural Decoration</h4>
+ <p>Architectural decoration in the Zhu Fengyin Residence is dominated by wood carving, supplemented by brick carving, stone carving, and ironwork, forming a rich decorative system with layered meanings. Wood carving is mainly found on the lintel, hanging panels, sparrow braces, and window lattice, among other elements. For example, the hanging panel beneath the eaves of the west gate is a rectangular openwork carving in zitan wood. It is divided into three parts. The central panel depicts a motif of bats with peaches, implying blessings and longevity. The two side panels are symmetrical and feature peony and plum-blossom patterns, symbolizing prosperity and honor. Beneath the decorative cylinder, nine gourds are carved on the door hood. Their homophonic association conveys wishes for fortune and emolument, and further implies abundant descendants and continuity. The carving set also includes four animal motifs—cicada, katydid, bee, and butterfly—which respectively allude to knowing one's destiny, smooth advancement in official career, promotion in office and rank, and enduring blessings, indicating a dense cultural content. Intertwined gourd vines further suggest expectations of flourishing descendants and success in study. On the two door jambs, a pair of miniature vases is carved in high refinement; each vase contains three halberds, implying promotion by three ranks. Wood carving on the windows is placed on the transom board, or on a widened window stool. Coin motifs and swastika-pattern designs are carved on these elements, conveying wishes for auspiciousness and blessing.</p>
+ <p>Brick carving is mainly applied to the projecting gable-end wall (chitou), the screen wall, the tile end, and the drip tile. The pillar-head motifs combine scrolling cloud patterns, meander patterns, and swastika patterns, implying upward advancement and auspicious fulfillment, uninterrupted prosperity, and enduring continuity. The screen wall is commonly decorated with the character fu or the characters jiangu (fulu), expressing wishes for an auspicious life.</p>
+ <p>Stone carving appears at structural elements such as the column base, balustrade panels, and arches, with a plain form and a rhythmic character.</p>
+ <p>Ironwork is most evident in the gate hardware, including the door knocker ring (pushou) and iron sheathing on the door panels. These features strengthen protection while enhancing decoration, demonstrating the integration of local craft and practical requirements.</p>
+ <p>In Zhujiayu, architectural decoration is not merely appended. It is the aesthetic shaping of functional elements. Craftsmen work with the specific properties of each material to unify technique, artistic expression, and symbolic meaning. In this way, decoration supports practical use and conveys local beliefs, ethical norms, and aesthetic values.</p>
 
-    <h3>Conclusion</h3>
-    <p>As a representative late-Qing gentry residence in the Zhangqiu area of Ji'nan, the Zhu Fengyin Residence demonstrates an integrated relationship among natural setting, cultural tradition, and ritual concepts through its architectural form and spatial organization. The courtyard layout follows the mountain terrain. Through multicourtyard combinations, strategic use of level changes, and a flexible spatial sequence, it illustrates how northern courtyard-house traditions were adapted to complex topography. The structural system relies primarily on loadbearing walls. Together with a bluestone dado, flush gable roofs, and the use of locally available materials, it reflects a pragmatic building approach shaped by regional climate and resources.</p>
-    <p>At the level of cultural expression, the decorative system combines wood carving, brick carving, stone carving, and ironwork. Auspicious meanings, ethical concepts, and aesthetic preferences are embedded in construction details, giving material form to ritual order and gentry identity. Interior furnishings further reinforce spatial hierarchy and functional zoning. They highlight the family tradition of sustaining the household through farming and learning, as well as literati taste. The Zhu Fengyin Residence is not only a well-preserved vernacular heritage site with strong regional characteristics, but also an important record of gentry cultural life and construction techniques in the Shandong region during the Qing Dynasty.</p>
-    <p>This case study provides a clear example for understanding how traditional dwellings in the Jinan area developed their architectural form and cultural expression under both environmental constraints and cultural drivers. The residence embodies approaches to ecological adaptation, values of craft transmission, and spatialcultural meanings. These features offer useful reference for current conservation work on traditional settlements and dwellings, and they merit further investigation and development in future research.</p>
-  </div>
+ <h3>Conclusion</h3>
+ <p>As a representative late-Qing gentry residence in the Zhangqiu area of Ji'nan, the Zhu Fengyin Residence demonstrates an integrated relationship among natural setting, cultural tradition, and ritual concepts through its architectural form and spatial organization. The courtyard layout follows the mountain terrain. Through multicourtyard combinations, strategic use of level changes, and a flexible spatial sequence, it illustrates how northern courtyard-house traditions were adapted to complex topography. The structural system relies primarily on loadbearing walls. Together with a bluestone dado, flush gable roofs, and the use of locally available materials, it reflects a pragmatic building approach shaped by regional climate and resources.</p>
+ <p>At the level of cultural expression, the decorative system combines wood carving, brick carving, stone carving, and ironwork. Auspicious meanings, ethical concepts, and aesthetic preferences are embedded in construction details, giving material form to ritual order and gentry identity. Interior furnishings further reinforce spatial hierarchy and functional zoning. They highlight the family tradition of sustaining the household through farming and learning, as well as literati taste. The Zhu Fengyin Residence is not only a well-preserved vernacular heritage site with strong regional characteristics, but also an important record of gentry cultural life and construction techniques in the Shandong region during the Qing Dynasty.</p>
+ <p>This case study provides a clear example for understanding how traditional dwellings in the Jinan area developed their architectural form and cultural expression under both environmental constraints and cultural drivers. The residence embodies approaches to ecological adaptation, values of craft transmission, and spatialcultural meanings. These features offer useful reference for current conservation work on traditional settlements and dwellings, and they merit further investigation and development in future research.</p>
+ </div>
 </div>
 
 <!-- ==================== 论文3 ==================== -->
 <div class="paper" id="p3">
-  <div class="paper-title">Identification of rural vernacular building character and conservation strategy from the perspective of rural tourism — a case study of Yayou Gou Village in Shandong Province, China</div>
-  <div class="paper-meta">
-    <span><strong>作者：</strong>Zhuang Qianda（庄前达）, Zheng Guoquan（郑国全）, Mohd Kher Hussein, Noor Fazamimah Mohd Ariffin, Mohd.Yazid Mohd. Yunos</span>
-    <span><strong>单位：</strong>Universiti Putra Malaysia; Linyi University, Shandong; Zhejiang Agriculture and Forestry University</span>
-    <span><strong>期刊：</strong>E3S Web of Conferences 251, 02076 (2021) TEES 2021</span>
-    <span><strong>DOI：</strong>10.1051/e3sconf/202125102076</span>
-    <span><strong>开放获取：</strong>Creative Commons Attribution License 4.0</span>
-    <br><a href="https://pdfs.semanticscholar.org/703a/190d653a2721df934dbc459e03a44396ca95.pdf" target="_blank">原文PDF链接</a>
-  </div>
-  <div class="tag">英文全文</div><div class="tag">崖油沟村</div><div class="tag">临沂兰陵</div><div class="tag">鲁南民居</div><div class="tag">石板屋顶</div><div class="tag">乡村旅游</div><div class="tag">开放获取</div>
+ <div class="paper-title">Identification of rural vernacular building character and conservation strategy from the perspective of rural tourism — a case study of Yayou Gou Village in Shandong Province, China</div>
+ <div class="paper-meta">
+ <span><strong>作者：</strong>Zhuang Qianda（庄前达）, Zheng Guoquan（郑国全）, Mohd Kher Hussein, Noor Fazamimah Mohd Ariffin, Mohd.Yazid Mohd. Yunos</span>
+ <span><strong>单位：</strong>Universiti Putra Malaysia; Linyi University, Shandong; Zhejiang Agriculture and Forestry University</span>
+ <span><strong>期刊：</strong>E3S Web of Conferences 251, 02076 (2021) TEES 2021</span>
+ <span><strong>DOI：</strong>10.1051/e3sconf/202125102076</span>
+ <span><strong>开放获取：</strong>Creative Commons Attribution License 4.0</span>
+ <br><a href="https://pdfs.semanticscholar.org/703a/190d653a2721df934dbc459e03a44396ca95.pdf" target="_blank">原文PDF链接</a>
+ </div>
+ <div class="tag">英文全文</div><div class="tag">崖油沟村</div><div class="tag">临沂兰陵</div><div class="tag">鲁南民居</div><div class="tag">石板屋顶</div><div class="tag">乡村旅游</div><div class="tag">开放获取</div>
 
-  <div class="fulltext-label">Full Text（完整原文，共5页）</div>
-  <div class="fulltext en">
-    <h3>Abstract</h3>
-    <p>Rural vernacular building is a traditional dwelling house with the characteristics of the time and regions, which is now greatly impacted by urbanization and modernization. This research takes the rural vernacular building of Yayou Gou Village as the study case and uses document analysis, observation, and interview method to investigate the character and conservation strategies of rural building. The paper suggests that the building site characters are greatly influenced by topography and living conditions, followed by village traffic. The architectural forms represent the rural style of southern Shandong province with the unique roof shale covered. The layout of the building helps to maintain kinship and improve the local microclimate. Under the background of rural tourism development, effective protection methods for traditional buildings include function revitalization, museum transformation, homestay transformation, and local residents' living are identified. Through the analysis of rural characteristics and conservation methods exploration, it is beneficial to further research on the character of rural architectural elements, promote the utilization and protection of rural building landscape, and provide enlightenment for rural development.</p>
+ <div class="fulltext-label">Full Text（完整原文，共5页）</div>
+ <div class="fulltext en">
+ <h3>Abstract</h3>
+ <p>Rural vernacular building is a traditional dwelling house with the characteristics of the time and regions, which is now greatly impacted by urbanization and modernization. This research takes the rural vernacular building of Yayou Gou Village as the study case and uses document analysis, observation, and interview method to investigate the character and conservation strategies of rural building. The paper suggests that the building site characters are greatly influenced by topography and living conditions, followed by village traffic. The architectural forms represent the rural style of southern Shandong province with the unique roof shale covered. The layout of the building helps to maintain kinship and improve the local microclimate. Under the background of rural tourism development, effective protection methods for traditional buildings include function revitalization, museum transformation, homestay transformation, and local residents' living are identified. Through the analysis of rural characteristics and conservation methods exploration, it is beneficial to further research on the character of rural architectural elements, promote the utilization and protection of rural building landscape, and provide enlightenment for rural development.</p>
 
-    <h3>1 Introduction</h3>
-    <p>The rural vernacular building is an important type of rural landscape and a product of the time. They were constructed by local residents in the traditional way, adapting the continuous process of change of rural environment. However, with the urbanization of rural living environments and the homogenization of rural construction, the abandonment and decline of rural vernacular buildings have become inevitable, which appears more necessary and significant for its protection as well as for rural tourism activities.</p>
-    <p>Rural tourism has gradually become an important mode of rural development, which plays an obvious positive role in the utilization and conservation of rural resources. Rural vernacular buildings contain longstanding expressions of residents' characteristics of rural areas and become important attractions for tourists. In the process of rural tourism development, the protection and utilization of rural vernacular buildings have also been discussed by many scholars. This paper aims to explore the traditional character and the conservation strategies of vernacular traditional buildings from the perspective of rural tourism by taking the Yayou Gou Village as the study case, to bring enlightenment to the protection of rural landscape and the development of rural tourism.</p>
+ <h3>1 Introduction</h3>
+ <p>The rural vernacular building is an important type of rural landscape and a product of the time. They were constructed by local residents in the traditional way, adapting the continuous process of change of rural environment. However, with the urbanization of rural living environments and the homogenization of rural construction, the abandonment and decline of rural vernacular buildings have become inevitable, which appears more necessary and significant for its protection as well as for rural tourism activities.</p>
+ <p>Rural tourism has gradually become an important mode of rural development, which plays an obvious positive role in the utilization and conservation of rural resources. Rural vernacular buildings contain longstanding expressions of residents' characteristics of rural areas and become important attractions for tourists. In the process of rural tourism development, the protection and utilization of rural vernacular buildings have also been discussed by many scholars. This paper aims to explore the traditional character and the conservation strategies of vernacular traditional buildings from the perspective of rural tourism by taking the Yayou Gou Village as the study case, to bring enlightenment to the protection of rural landscape and the development of rural tourism.</p>
 
-    <h3>2 Methodology</h3>
-    <p>In this research, an integrated approach included document analysis, observation, interview, and case study, has been used. The observation was carried out in the case of Yayou Gou Village which exists in ample traditional vernacular buildings. Interviews were conducted before document collection and analysis.</p>
+ <h3>2 Methodology</h3>
+ <p>In this research, an integrated approach included document analysis, observation, interview, and case study, has been used. The observation was carried out in the case of Yayou Gou Village which exists in ample traditional vernacular buildings. Interviews were conducted before document collection and analysis.</p>
 
-    <h4>2.1 Study case</h4>
-    <p>Yayou Gou Village is located in Lanling County, Linyi City, Shandong Province, China. It is in the north of China. The climate here is a temperate monsoon climate. It is now developed into a tourism area base on the old village resource of Yayou Gou, which covers an area of about 333 ha. Vernacular buildings include sorts of manmade structures, for example, private homes, public buildings, religious structures, and so on. Here, the study focuses on the private and traditional ones, which exist for a long time. The vernacular traditional buildings in Yayou Gou Village are of a great significant character. They are important attractions for tourists, symbolizing the rural building style of South Shandong Province. Due to the successful transformation from a poor traditional village to a rural tourism destination, the vernacular buildings have played an essential role in the rural landscape for a tourism experience. Therefore, a better understanding of its vernacular landscape is becoming a task for researchers.</p>
+ <h4>2.1 Study case</h4>
+ <p>Yayou Gou Village is located in Lanling County, Linyi City, Shandong Province, China. It is in the north of China. The climate here is a temperate monsoon climate. It is now developed into a tourism area base on the old village resource of Yayou Gou, which covers an area of about 333 ha. Vernacular buildings include sorts of manmade structures, for example, private homes, public buildings, religious structures, and so on. Here, the study focuses on the private and traditional ones, which exist for a long time. The vernacular traditional buildings in Yayou Gou Village are of a great significant character. They are important attractions for tourists, symbolizing the rural building style of South Shandong Province. Due to the successful transformation from a poor traditional village to a rural tourism destination, the vernacular buildings have played an essential role in the rural landscape for a tourism experience. Therefore, a better understanding of its vernacular landscape is becoming a task for researchers.</p>
 
-    <h4>2.2 Research method</h4>
-    <p>There are two phases of this research includes desk study and field survey. The document analysis is used in desk study to collect and analyze the relevant documents about Yayou Gou Village. These documents relate to the historical development, map, development plan, and so on about this area. Observation and interview used for data collection in field survey to investigate rural building features and conservation. 15 semi-structured interviews were conducted with 8 knowledgeable villagers, 5 managements, and 2 researchers. The field survey period is between 10, November and 5 December 2020.</p>
+ <h4>2.2 Research method</h4>
+ <p>There are two phases of this research includes desk study and field survey. The document analysis is used in desk study to collect and analyze the relevant documents about Yayou Gou Village. These documents relate to the historical development, map, development plan, and so on about this area. Observation and interview used for data collection in field survey to investigate rural building features and conservation. 15 semi-structured interviews were conducted with 8 knowledgeable villagers, 5 managements, and 2 researchers. The field survey period is between 10, November and 5 December 2020.</p>
 
-    <h3>3 Results & Discussion</h3>
-    <h4>3.1 The character of vernacular building in Yayou Gou Village</h4>
-    <h4>3.1.1 The site selection character</h4>
-    <p><strong>(a) From the perspective of topography</strong></p>
-    <p>Most vernacular buildings of Yayou Gou Village are located in the valley area of the hills on the east and west side. Building site selection and terrain elements have an obvious influence on Yayou Gou Village. The elevation of the village is high in the north and low in the south, surrounded by three sides of hills on the north, east, west side. The hills on the west side including Damai hill, Xiaomai hill, Mopan hill, Aozi hill, and the north side is Bao hill and Yin hill. Mai hill is in the east of the village. The south of the village is the main entrance. The highest peak of hills' elevation range from 130 to 198 meter and the highest peak is 198 meter in Bao hill. Though the traditional buildings of the village are mainly located in the valley, there is a certain distance from the valley floor, which can prevent the disaster of mountain torrents caused by heavy rainfall. The upward space of the building is planted with economic forest, on the one hand, this can facilitate the villagers to manage fruit forest, on the other hand, it helps to prevent landslides and mud-rock flows, and other disasters. From the perspective of topography, the site selection of the building has characteristics of flood control, animal protection, resident safety, farm work availability, which reflects the smart wisdom of the villagers of Yayou Gou in building in accordance with the natural environment.</p>
-    <p><strong>(b) From the perspective of transportation</strong></p>
-    <p>The main road to the village starts from the southern entrance to the northern hilltop. The first half of the main road can be used for car driving and the last part is only for walking. Vernacular buildings are mainly distributed along both sides of the road. In some areas, buildings are distributed in rows, which forms branches of the road. The buildings mainly face south for getting more sunlight, while some buildings face the road for quick access. On the whole, the village trunk road has a certain influence on the site selection of buildings, but the secondary road has little impact on the construction of buildings. Oppositely, it is the construction of rural buildings that make the secondary road appeared.</p>
-    <p><strong>(c) From the perspective of living conditions</strong></p>
-    <p>There is a stream starting from the north hill, then flow through the central valley, into the south reservoir named Yayou reservoir. Due to the terrain conditions, the flat area is very limited, so farmland is poor in Yayou Gou Village. However, hill topography promotes the planting of fruit trees, including chestnut and hawthorn. The water source in the village originates from the higher area in the north and converges along the valley to the reservoir downstream. The buildings are mainly located in the middle of the flow area, which not only can use the clean water from the mountain spring but also exist a certain distance from the downstream reservoir to prevent the impact of the flood. The reservoir can store spring water from the source and rains, so as to ensure the living function of villagers and the irrigation function of nearby fruit trees, which highlights the great wisdom.</p>
+ <h3>3 Results & Discussion</h3>
+ <h4>3.1 The character of vernacular building in Yayou Gou Village</h4>
+ <h4>3.1.1 The site selection character</h4>
+ <p><strong>(a) From the perspective of topography</strong></p>
+ <p>Most vernacular buildings of Yayou Gou Village are located in the valley area of the hills on the east and west side. Building site selection and terrain elements have an obvious influence on Yayou Gou Village. The elevation of the village is high in the north and low in the south, surrounded by three sides of hills on the north, east, west side. The hills on the west side including Damai hill, Xiaomai hill, Mopan hill, Aozi hill, and the north side is Bao hill and Yin hill. Mai hill is in the east of the village. The south of the village is the main entrance. The highest peak of hills' elevation range from 130 to 198 meter and the highest peak is 198 meter in Bao hill. Though the traditional buildings of the village are mainly located in the valley, there is a certain distance from the valley floor, which can prevent the disaster of mountain torrents caused by heavy rainfall. The upward space of the building is planted with economic forest, on the one hand, this can facilitate the villagers to manage fruit forest, on the other hand, it helps to prevent landslides and mud-rock flows, and other disasters. From the perspective of topography, the site selection of the building has characteristics of flood control, animal protection, resident safety, farm work availability, which reflects the smart wisdom of the villagers of Yayou Gou in building in accordance with the natural environment.</p>
+ <p><strong>(b) From the perspective of transportation</strong></p>
+ <p>The main road to the village starts from the southern entrance to the northern hilltop. The first half of the main road can be used for car driving and the last part is only for walking. Vernacular buildings are mainly distributed along both sides of the road. In some areas, buildings are distributed in rows, which forms branches of the road. The buildings mainly face south for getting more sunlight, while some buildings face the road for quick access. On the whole, the village trunk road has a certain influence on the site selection of buildings, but the secondary road has little impact on the construction of buildings. Oppositely, it is the construction of rural buildings that make the secondary road appeared.</p>
+ <p><strong>(c) From the perspective of living conditions</strong></p>
+ <p>There is a stream starting from the north hill, then flow through the central valley, into the south reservoir named Yayou reservoir. Due to the terrain conditions, the flat area is very limited, so farmland is poor in Yayou Gou Village. However, hill topography promotes the planting of fruit trees, including chestnut and hawthorn. The water source in the village originates from the higher area in the north and converges along the valley to the reservoir downstream. The buildings are mainly located in the middle of the flow area, which not only can use the clean water from the mountain spring but also exist a certain distance from the downstream reservoir to prevent the impact of the flood. The reservoir can store spring water from the source and rains, so as to ensure the living function of villagers and the irrigation function of nearby fruit trees, which highlights the great wisdom.</p>
 
-    <h4>3.2 Style features</h4>
-    <p>Most of the existing traditional buildings in Yayou Gou Village were built before the 1940s, which are representative buildings in the south of Shandong Province. There are nearly 70 existing traditional buildings, accounting for more than 50% of the total buildings, so the number is relatively rich. The architectural form is roughly divided into two categories: one is the quadrangle courtyard with the main room and wing room, and the other is the single building without a courtyard. The building materials are mainly local bluestone and shale. On the whole, the buildings in Yayou Gou village are characterized. The roofs are mostly covered by several tiers of local shale, instead of traditional tiles. These shales are widely used because of their dense texture, large area, beautiful natural texture, and low cost. The courtyard is also made of local stones piled up in an orderly manner, continuing the local traditional material characteristics. Some courtyards attached to the buildings are open spaces without physical walls, reflecting the good local folk customs.</p>
+ <h4>3.2 Style features</h4>
+ <p>Most of the existing traditional buildings in Yayou Gou Village were built before the 1940s, which are representative buildings in the south of Shandong Province. There are nearly 70 existing traditional buildings, accounting for more than 50% of the total buildings, so the number is relatively rich. The architectural form is roughly divided into two categories: one is the quadrangle courtyard with the main room and wing room, and the other is the single building without a courtyard. The building materials are mainly local bluestone and shale. On the whole, the buildings in Yayou Gou village are characterized. The roofs are mostly covered by several tiers of local shale, instead of traditional tiles. These shales are widely used because of their dense texture, large area, beautiful natural texture, and low cost. The courtyard is also made of local stones piled up in an orderly manner, continuing the local traditional material characteristics. Some courtyards attached to the buildings are open spaces without physical walls, reflecting the good local folk customs.</p>
 
-    <h4>3.3 Layout character</h4>
-    <p>The courtyard is facing south, narrow in the east and west, and wide in the north and south. It is composed of main halls, wing-room, corridor, courtyard, etc. The gate is normally on the south side facing the street. The area of a house has something to do with the living population, topography, and family wealth. Shandong province has a temperate monsoon climate, with strong winds in winter. The courtyard facing south is conducive to improving the micro-climate and improving the thermal insulation effect in winter. Under the influence of the concept of family settlement, the courtyard house is conducive to maintaining family relations among blood relatives. The layout of the courtyard also plays a positive role in security.</p>
+ <h4>3.3 Layout character</h4>
+ <p>The courtyard is facing south, narrow in the east and west, and wide in the north and south. It is composed of main halls, wing-room, corridor, courtyard, etc. The gate is normally on the south side facing the street. The area of a house has something to do with the living population, topography, and family wealth. Shandong province has a temperate monsoon climate, with strong winds in winter. The courtyard facing south is conducive to improving the micro-climate and improving the thermal insulation effect in winter. Under the influence of the concept of family settlement, the courtyard house is conducive to maintaining family relations among blood relatives. The layout of the courtyard also plays a positive role in security.</p>
 
-    <h4>3.4 Conservation strategy of vernacular buildings in Yayou Gou Village</h4>
-    <h4>3.4.1 Function revitalization</h4>
-    <p>Villages as the geographical space of human living style in which buildings are the specific residential units. Humans are not only the builders of villages and buildings but also the driving force of development. Without human cultural creation, villages would lose their charm and characteristics. Without people's production and living activities, the village has no vitality. Uninhabited buildings, however well restored, will decay rapidly. Therefore, if the revitalization of traditional villages only focuses on building and natural space, ignores the role of people, and the absence of villagers, it will be difficult to avoid the "hollowing out" of villages. In the revitalization of traditional villages, if agriculture is neglected and no one is engaged in agricultural production, villages will lose their economic basis. Without economic activities such as tourism, the service industry, the handicraft industry, and commerce, it will be difficult to meet the living needs of villagers. Without cultural restoration, villages will lose sustainable development force. After the development of rural tourism area, Yayou Gou Village deeply excavates the cultural deposits of the village, coupling with the traditional building, and formulate "Hundreds Crafts Studio" as a scenic spot, that is, using the traditional building to restore the traditional production techniques of the village, including winemaking, oil-pressing, traditional food, sachet-making and so on.</p>
+ <h4>3.4 Conservation strategy of vernacular buildings in Yayou Gou Village</h4>
+ <h4>3.4.1 Function revitalization</h4>
+ <p>Villages as the geographical space of human living style in which buildings are the specific residential units. Humans are not only the builders of villages and buildings but also the driving force of development. Without human cultural creation, villages would lose their charm and characteristics. Without people's production and living activities, the village has no vitality. Uninhabited buildings, however well restored, will decay rapidly. Therefore, if the revitalization of traditional villages only focuses on building and natural space, ignores the role of people, and the absence of villagers, it will be difficult to avoid the "hollowing out" of villages. In the revitalization of traditional villages, if agriculture is neglected and no one is engaged in agricultural production, villages will lose their economic basis. Without economic activities such as tourism, the service industry, the handicraft industry, and commerce, it will be difficult to meet the living needs of villagers. Without cultural restoration, villages will lose sustainable development force. After the development of rural tourism area, Yayou Gou Village deeply excavates the cultural deposits of the village, coupling with the traditional building, and formulate "Hundreds Crafts Studio" as a scenic spot, that is, using the traditional building to restore the traditional production techniques of the village, including winemaking, oil-pressing, traditional food, sachet-making and so on.</p>
 
-    <p><strong>Table 1: the category of vernacular building revitalization in Hundreds Crafts Studio of Yayou Gou Village</strong></p>
-    <table>
-      <tr><th>Name</th><th>Content</th></tr>
-      <tr><td>Wind studio</td><td>Wine, fruit wine and its production process</td></tr>
-      <tr><td>Pancake studio</td><td>Local pancake (Jianbing) and its production process</td></tr>
-      <tr><td>Tofu studio</td><td>Tofu and its production process</td></tr>
-      <tr><td>Steamed bun studio</td><td>steamed bun and its production process</td></tr>
-      <tr><td>Cooking oil studio</td><td>Cooking oil and sesame oil</td></tr>
-      <tr><td>Pickle studio</td><td>Pickle food</td></tr>
-      <tr><td>Noodle studio</td><td>Sorts of noodles</td></tr>
-      <tr><td>Carpenter studio</td><td>Wooden product and its production process</td></tr>
-      <tr><td>Spice studio</td><td>Sorts of spice production</td></tr>
-      <tr><td>Bamboo-weaving studio</td><td>Weaving product about bamboo and its production process</td></tr>
-    </table>
+ <p><strong>Table 1: the category of vernacular building revitalization in Hundreds Crafts Studio of Yayou Gou Village</strong></p>
+ <table>
+ <tr><th>Name</th><th>Content</th></tr>
+ <tr><td>Wind studio</td><td>Wine, fruit wine and its production process</td></tr>
+ <tr><td>Pancake studio</td><td>Local pancake (Jianbing) and its production process</td></tr>
+ <tr><td>Tofu studio</td><td>Tofu and its production process</td></tr>
+ <tr><td>Steamed bun studio</td><td>steamed bun and its production process</td></tr>
+ <tr><td>Cooking oil studio</td><td>Cooking oil and sesame oil</td></tr>
+ <tr><td>Pickle studio</td><td>Pickle food</td></tr>
+ <tr><td>Noodle studio</td><td>Sorts of noodles</td></tr>
+ <tr><td>Carpenter studio</td><td>Wooden product and its production process</td></tr>
+ <tr><td>Spice studio</td><td>Sorts of spice production</td></tr>
+ <tr><td>Bamboo-weaving studio</td><td>Weaving product about bamboo and its production process</td></tr>
+ </table>
 
-    <p>Through the reproduction of traditional crafts and delicacies, the rural building is revived and rural culture is inherited, which increases tourists' interest in visiting experience and becomes the most impressive scenic spot in the tourism area.</p>
+ <p>Through the reproduction of traditional crafts and delicacies, the rural building is revived and rural culture is inherited, which increases tourists' interest in visiting experience and becomes the most impressive scenic spot in the tourism area.</p>
 
-    <h4>3.4.2 Museum transformation</h4>
-    <p>After a long period of wind, the countryside is itself a museum of abundant resources. The thematic display of rural areas can form numerous thematic museums. These museums are small, refined, and distinct from urban museums. There are Red Yimeng Revolution Museum, Rural memory Museum, Blue cloth museum, Root art Museum, and so on.</p>
+ <h4>3.4.2 Museum transformation</h4>
+ <p>After a long period of wind, the countryside is itself a museum of abundant resources. The thematic display of rural areas can form numerous thematic museums. These museums are small, refined, and distinct from urban museums. There are Red Yimeng Revolution Museum, Rural memory Museum, Blue cloth museum, Root art Museum, and so on.</p>
 
-    <h4>3.4.3 Homestay transformation</h4>
-    <p>In recent years, the homestay has become the best form for tourists to get close to the countryside, and stay there, restoring the residential function of traditional buildings in rural areas. Different forms of homestays allow visitors to experience them personally and get the most authentic experience of the beautiful countryside. Therefore, traditional buildings can be used continuously without being abandoned. The traditional buildings in Yayou Gou Village are transformed to meet the needs of tourists while keeping the traditional features to the greatest extent, so the homestay in Yayou Gou Village is widely praised by tourists.</p>
+ <h4>3.4.3 Homestay transformation</h4>
+ <p>In recent years, the homestay has become the best form for tourists to get close to the countryside, and stay there, restoring the residential function of traditional buildings in rural areas. Different forms of homestays allow visitors to experience them personally and get the most authentic experience of the beautiful countryside. Therefore, traditional buildings can be used continuously without being abandoned. The traditional buildings in Yayou Gou Village are transformed to meet the needs of tourists while keeping the traditional features to the greatest extent, so the homestay in Yayou Gou Village is widely praised by tourists.</p>
 
-    <h4>3.4.4 living with local resident</h4>
-    <p>The basic function of the building is to live in rural areas. Living with the indigenous people has also become a way of protection, while some rural tourism may clear out local residents and use their house for a specific purpose relating to tourism activities. Although Yayou Gou Village has been developed into a tourism area, some local residents still live in the traditional buildings. In this way, the buildings will be continuously renovated and kept alive for a long time. However, the interior of the building needs to be modernized to meet the needs of the residents' modern life.</p>
+ <h4>3.4.4 living with local resident</h4>
+ <p>The basic function of the building is to live in rural areas. Living with the indigenous people has also become a way of protection, while some rural tourism may clear out local residents and use their house for a specific purpose relating to tourism activities. Although Yayou Gou Village has been developed into a tourism area, some local residents still live in the traditional buildings. In this way, the buildings will be continuously renovated and kept alive for a long time. However, the interior of the building needs to be modernized to meet the needs of the residents' modern life.</p>
 
-    <h3>4 Conclusion</h3>
-    <p>Rural vernacular buildings normally present as an important landscape in rural areas. Under the background of urbanization and rural tourism development, the conservation of rural buildings is more significant. This paper takes the traditional building of Yayou Gou Village in Shandong province as a study case and analyzes the characteristics and conservation strategies of its vernacular building. It was found that the building sites are greatly influenced by topography and living conditions, followed by village traffic. The architectural form is mainly a quadrangle courtyard, with unique roof shale covered. The layout of the building helps to maintain kinship and improve the local microclimate, especially in winter. After the village developed into a rural tourism area, effective conservation methods for traditional buildings include function revitalization, museum transformation, homestay transformation, and local residents' living are identified. Through the analysis of rural characteristics and protection methods, it is beneficial to further explore the characteristics of rural architectural elements, promote the shaping and protection of rural architectural landscape, and provide enlightenment for rural development.</p>
-    <p>However, there are also some limitations in this study. Due to the limitation of study time, the amount of village data, for example, the relevant document, needs to be further enriched. The interview number is limited, and the investigation on the village development history is not indepth enough. Further relevant information and interview of residents are needed to improve the credibility of the research.</p>
+ <h3>4 Conclusion</h3>
+ <p>Rural vernacular buildings normally present as an important landscape in rural areas. Under the background of urbanization and rural tourism development, the conservation of rural buildings is more significant. This paper takes the traditional building of Yayou Gou Village in Shandong province as a study case and analyzes the characteristics and conservation strategies of its vernacular building. It was found that the building sites are greatly influenced by topography and living conditions, followed by village traffic. The architectural form is mainly a quadrangle courtyard, with unique roof shale covered. The layout of the building helps to maintain kinship and improve the local microclimate, especially in winter. After the village developed into a rural tourism area, effective conservation methods for traditional buildings include function revitalization, museum transformation, homestay transformation, and local residents' living are identified. Through the analysis of rural characteristics and protection methods, it is beneficial to further explore the characteristics of rural architectural elements, promote the shaping and protection of rural architectural landscape, and provide enlightenment for rural development.</p>
+ <p>However, there are also some limitations in this study. Due to the limitation of study time, the amount of village data, for example, the relevant document, needs to be further enriched. The interview number is limited, and the investigation on the village development history is not indepth enough. Further relevant information and interview of residents are needed to improve the credibility of the research.</p>
 
-    <h3>Acknowledgments</h3>
-    <p>This study is part of work on the project "Research on the Commercialization of Rural Social Space" (19BSH109), which is supported by the National Social Science Foundation of China.</p>
+ <h3>Acknowledgments</h3>
+ <p>This study is part of work on the project "Research on the Commercialization of Rural Social Space" (19BSH109), which is supported by the National Social Science Foundation of China.</p>
 
-    <h3>References</h3>
-    <p class="no-indent">1. Philokyprou, M., Michael, A., Malaktou, E., & Savvides, A. (2017). Environmentally responsive design in Eastern Mediterranean. The case of vernacular architecture in the coastal, lowland and mountainous regions of Cyprus. Building and Environment, 111, 91–109.<br>
-    2. Agnoletti, M. (2014). Rural landscape, nature conservation and culture: Some notes on research trends and management approaches from a (southern) European perspective. Landscape and Urban Planning, 126(2014), 66–73.<br>
-    3. Aytuğ, H. K., & Mikaeili, M. (2017). Evaluation of Hopa's Rural Tourism Potential in the Context of European Union Tourism Policy. Procedia Environmental Sciences, 37, 234–245.<br>
-    4. Fu, J., Zhou, J., & Deng, Y. (2020). Heritage values of ancient vernacular residences in traditional villages in Western Hunan, China: Spatial patterns and influencing factors. Building and Environment, August, 107473.<br>
-    5. Oliver, T., & Jenkins, T. (2003). Sustaining rural landscapes: the role of integrated tourism. Landscape Research, 28(3), 293–307.<br>
-    6. Alcindor, M., & Coq-Huelva, D. (2020). Refurbishment, vernacular architecture and invented traditions: the case of the Empordanet (Catalonia). International Journal of Heritage Studies, 26(7), 684– 699.<br>
-    7. Nguyen, A. T., Truong, N. S. H., Rockwood, D., & Tran Le, A. D. (2019). Studies on sustainable features of vernacular architecture in different regions across the world: A comprehensive synthesis and evaluation. Frontiers of Architectural Research, 8(4), 535–548.</p>
-  </div>
+ <h3>References</h3>
+ <p class="no-indent">1. Philokyprou, M., Michael, A., Malaktou, E., & Savvides, A. (2017). Environmentally responsive design in Eastern Mediterranean. The case of vernacular architecture in the coastal, lowland and mountainous regions of Cyprus. Building and Environment, 111, 91–109.<br>
+ 2. Agnoletti, M. (2014). Rural landscape, nature conservation and culture: Some notes on research trends and management approaches from a (southern) European perspective. Landscape and Urban Planning, 126(2014), 66–73.<br>
+ 3. Aytuğ, H. K., & Mikaeili, M. (2017). Evaluation of Hopa's Rural Tourism Potential in the Context of European Union Tourism Policy. Procedia Environmental Sciences, 37, 234–245.<br>
+ 4. Fu, J., Zhou, J., & Deng, Y. (2020). Heritage values of ancient vernacular residences in traditional villages in Western Hunan, China: Spatial patterns and influencing factors. Building and Environment, August, 107473.<br>
+ 5. Oliver, T., & Jenkins, T. (2003). Sustaining rural landscapes: the role of integrated tourism. Landscape Research, 28(3), 293–307.<br>
+ 6. Alcindor, M., & Coq-Huelva, D. (2020). Refurbishment, vernacular architecture and invented traditions: the case of the Empordanet (Catalonia). International Journal of Heritage Studies, 26(7), 684– 699.<br>
+ 7. Nguyen, A. T., Truong, N. S. H., Rockwood, D., & Tran Le, A. D. (2019). Studies on sustainable features of vernacular architecture in different regions across the world: A comprehensive synthesis and evaluation. Frontiers of Architectural Research, 8(4), 535–548.</p>
+ </div>
 </div>
 
 <!-- ==================== 论文4 ==================== -->
 <div class="paper" id="p4">
-  <div class="paper-title">An analysis of the Spatial Evolution and Influencing Factors of Rural Settlements along the Shandong Section of the Grand Canal of China</div>
-  <div class="paper-meta">
-    <span><strong>作者：</strong>Huo Xiaolong（霍小龙）, Xu Xiwei（徐西伟）, Tang Yue（唐悦）, Zhang Zhen（张振）</span>
-    <span><strong>单位：</strong>Tianjin University; University of Nottingham</span>
-    <span><strong>期刊：</strong>River Research and Applications（Wiley）</span>
-    <span><strong>稿件ID：</strong>RRA-21-0115.R2</span>
-    <br><a href="https://nottingham-repository.worktribe.com/preview/6346508/RRA-21-0115.R2_Proof_hi.pdf" target="_blank">原文PDF链接</a>
-  </div>
-  <div class="tag">英文全文</div><div class="tag">大运河山东段</div><div class="tag">乡村聚落</div><div class="tag">空间演变</div><div class="tag">影响因子</div><div class="tag">13000聚落27县</div><div class="tag">地理探测器</div>
+ <div class="paper-title">An analysis of the Spatial Evolution and Influencing Factors of Rural Settlements along the Shandong Section of the Grand Canal of China</div>
+ <div class="paper-meta">
+ <span><strong>作者：</strong>Huo Xiaolong（霍小龙）, Xu Xiwei（徐西伟）, Tang Yue（唐悦）, Zhang Zhen（张振）</span>
+ <span><strong>单位：</strong>Tianjin University; University of Nottingham</span>
+ <span><strong>期刊：</strong>River Research and Applications（Wiley）</span>
+ <span><strong>稿件ID：</strong>RRA-21-0115.R2</span>
+ <br><a href="https://nottingham-repository.worktribe.com/preview/6346508/RRA-21-0115.R2_Proof_hi.pdf" target="_blank">原文PDF链接</a>
+ </div>
+ <div class="tag">英文全文</div><div class="tag">大运河山东段</div><div class="tag">乡村聚落</div><div class="tag">空间演变</div><div class="tag">影响因子</div><div class="tag">13000聚落27县</div><div class="tag">地理探测器</div>
 
-  <div class="fulltext-label">Full Text（完整原文，节选主要章节，原文共35页）</div>
-  <div class="fulltext en">
-    <h3>Abstract</h3>
-    <p>Since 1980s, the weakening of the transportation function of the Grand Canal and rapid urbanisation has generated significant changes in the spatial pattern of rural settlements along the Grand Canal. Analysing the changing characteristics of this spatial pattern, and exploring the natural, social, and economic factors influencing these changes are key to understanding the regional spatial structure and development law, and grasping the degree of influence of these factors.</p>
-    <p>This study selected approximately 13,000 rural settlements in 27 county-level units in the Shandong section of the Grand Canal, from 1980 to 2018, as the research object. The Grand Canal's distance buffer zone is divided into canal-side, near-canal, far-canal, and further-canal settlements. The correlation model with the canal is constructed through the controlled experiment. The distribution, scale and form of the settlement are analysed quantitatively by applying the change of gravity centre model (CGC), average nearest neighbour analysis (ANN), landscape metrics (LM), and other methods. The quantitative analysis of geographic detectors in spatial pattern differentiation factors shows the relative importance and interaction within them.</p>
-    <p>This study indicates that the spatial distribution shows 'large dispersion and small concentration' and 'small-scale agglomeration' characteristics. The larger the scale of the settlement expands, the more the number of settlements decreases. The closer the settlement nears the river, the more complex the shape clusters. The total output value of agriculture, forestry, animal husbandry, fisheries, the total power of agricultural machinery, and the effective irrigation area are the main influencing factors. The grain area and the per capita disposable income of rural residents are the main auxiliary influencing factors.</p>
-    <p><strong>Keywords:</strong> rural settlements; spatial evolution; impact factors; quantitative methods; Shandong section of the Grand Canal</p>
+ <div class="fulltext-label">Full Text（完整原文，节选主要章节，原文共35页）</div>
+ <div class="fulltext en">
+ <h3>Abstract</h3>
+ <p>Since 1980s, the weakening of the transportation function of the Grand Canal and rapid urbanisation has generated significant changes in the spatial pattern of rural settlements along the Grand Canal. Analysing the changing characteristics of this spatial pattern, and exploring the natural, social, and economic factors influencing these changes are key to understanding the regional spatial structure and development law, and grasping the degree of influence of these factors.</p>
+ <p>This study selected approximately 13,000 rural settlements in 27 county-level units in the Shandong section of the Grand Canal, from 1980 to 2018, as the research object. The Grand Canal's distance buffer zone is divided into canal-side, near-canal, far-canal, and further-canal settlements. The correlation model with the canal is constructed through the controlled experiment. The distribution, scale and form of the settlement are analysed quantitatively by applying the change of gravity centre model (CGC), average nearest neighbour analysis (ANN), landscape metrics (LM), and other methods. The quantitative analysis of geographic detectors in spatial pattern differentiation factors shows the relative importance and interaction within them.</p>
+ <p>This study indicates that the spatial distribution shows 'large dispersion and small concentration' and 'small-scale agglomeration' characteristics. The larger the scale of the settlement expands, the more the number of settlements decreases. The closer the settlement nears the river, the more complex the shape clusters. The total output value of agriculture, forestry, animal husbandry, fisheries, the total power of agricultural machinery, and the effective irrigation area are the main influencing factors. The grain area and the per capita disposable income of rural residents are the main auxiliary influencing factors.</p>
+ <p><strong>Keywords:</strong> rural settlements; spatial evolution; impact factors; quantitative methods; Shandong section of the Grand Canal</p>
 
-    <h3>1. Introduction</h3>
-    <p>Since the Reform and Opening, the social economy has developed rapidly, and people's living standards have improved. With rapid urbanisation, there was a noticeable difference in the spatial distribution between urban and rural structures. The Grand Canal, as an artificial river, has played an essential role in the political, economic, and cultural development of China for more than 2,500 years. The Shandong section of the Grand Canal is the key section that connects the north and the south. The rural settlements along the canal have witnessed human-land relations along the canal and the formation of their heterogeneity since the Reform and Opening. The evolution and development have also explored the characteristics of rural settlements' location, scale, distribution, morphology, and other differentiations, and their influencing factors and mechanisms. Through the research, fully understanding the dynamic evolution of the countryside for the merging points, village relocation and other relocating issues in the future, and issues of resource sharing public facilities allocation are possible. It helps to identify the dominant and auxiliary factors affecting the development of villages. It also helps to find the optimal entry point for industrial layout, structure optimization and spatial layout in village planning. It is of great theoretical value and practical significance to maximize the input-benefit ratio of rural development, optimize the spatial pattern of rural settlements, promote sustainable rural development, and revive canal settlements (Liu et al., 2014).</p>
-    <p>Hence, the authors selected 27 county-level rural settlements in the Shandong section of the Grand Canal as the research object. The authors innovatively made divisions according to four levels: canal-side zonal settlement (<1 km), near-canal zonal settlement (1-4 km), far-canal zonal settlement (4-10 km), and further-canal zonal settlement (>10 km). Based on land use data and socioeconomic data in 1980, 1990, 2000, 2010, and 2018, the authors applied the CGC model, kernel density, ANN analysis, Getis Ord Gi*, and land metrics to analyse the settlement patches in rural areas quantitatively. Based on the quantitative analysis, the authors studied the spatial characteristics of settlements' size, distribution, and morphology. The paper also analysed the dominant and auxiliary factors influencing differentiation from both natural and socioeconomic perspectives. The study has provided theoretical references for the development of rural settlements along the canal, including:</p>
-    <p class="no-indent">1) Defining the characteristics of scale and the regular pattern of focus-shift, that becomes a guiding role in the degree control and migration site selection in village planning;<br>
-    2) Defining the characteristics of distribution, which provides references for sharing resources and managing public facilities in regional planning;<br>
-    3) Clarifying the characteristics of morphology, that assists to find the development direction of rural settlements along the canal according to local conditions.</p>
-    <p>In summary, due to the significant differences in the evolutionary characteristics of rural settlements among geographical types and their dominant factors, only a few quantitative studies on the Grand Canal have a geographical variety of an artificial river. The bottom-most research is on the evolutionary characteristics of rural settlements and their main driving factors for this particular geographical type along the Grand Canal. Therefore, this paper selected all rural settlements in the 27 county-level units through which the Shandong section of the Grand Canal flows as research objects, and studied the spatial distribution of rural settlements along the Shandong section of the canal and their evolutionary characteristics, and analysed the factors using geographic detectors. The economic development level in the east and west of Shandong Province is different. The area that the Shandong section flows through is significantly impacted by the railroad, a specific area of backward development and more representative of the evolutionary characteristics of rural settlements in this geographical type. Driven by the canal planning and development policy of Shandong Province, the study of the pattern characteristics and the dominant factors of divergence in this region is more typical, and the results are of more practical significance. The study also provides a theoretical reference for the development and protection of rural settlements along the canal, expands the application of rural settlement research and enriches the theoretical system.</p>
+ <h3>1. Introduction</h3>
+ <p>Since the Reform and Opening, the social economy has developed rapidly, and people's living standards have improved. With rapid urbanisation, there was a noticeable difference in the spatial distribution between urban and rural structures. The Grand Canal, as an artificial river, has played an essential role in the political, economic, and cultural development of China for more than 2,500 years. The Shandong section of the Grand Canal is the key section that connects the north and the south. The rural settlements along the canal have witnessed human-land relations along the canal and the formation of their heterogeneity since the Reform and Opening. The evolution and development have also explored the characteristics of rural settlements' location, scale, distribution, morphology, and other differentiations, and their influencing factors and mechanisms. Through the research, fully understanding the dynamic evolution of the countryside for the merging points, village relocation and other relocating issues in the future, and issues of resource sharing public facilities allocation are possible. It helps to identify the dominant and auxiliary factors affecting the development of villages. It also helps to find the optimal entry point for industrial layout, structure optimization and spatial layout in village planning. It is of great theoretical value and practical significance to maximize the input-benefit ratio of rural development, optimize the spatial pattern of rural settlements, promote sustainable rural development, and revive canal settlements (Liu et al., 2014).</p>
+ <p>Hence, the authors selected 27 county-level rural settlements in the Shandong section of the Grand Canal as the research object. The authors innovatively made divisions according to four levels: canal-side zonal settlement (<1 km), near-canal zonal settlement (1-4 km), far-canal zonal settlement (4-10 km), and further-canal zonal settlement (>10 km). Based on land use data and socioeconomic data in 1980, 1990, 2000, 2010, and 2018, the authors applied the CGC model, kernel density, ANN analysis, Getis Ord Gi*, and land metrics to analyse the settlement patches in rural areas quantitatively. Based on the quantitative analysis, the authors studied the spatial characteristics of settlements' size, distribution, and morphology. The paper also analysed the dominant and auxiliary factors influencing differentiation from both natural and socioeconomic perspectives. The study has provided theoretical references for the development of rural settlements along the canal, including:</p>
+ <p class="no-indent">1) Defining the characteristics of scale and the regular pattern of focus-shift, that becomes a guiding role in the degree control and migration site selection in village planning;<br>
+ 2) Defining the characteristics of distribution, which provides references for sharing resources and managing public facilities in regional planning;<br>
+ 3) Clarifying the characteristics of morphology, that assists to find the development direction of rural settlements along the canal according to local conditions.</p>
+ <p>In summary, due to the significant differences in the evolutionary characteristics of rural settlements among geographical types and their dominant factors, only a few quantitative studies on the Grand Canal have a geographical variety of an artificial river. The bottom-most research is on the evolutionary characteristics of rural settlements and their main driving factors for this particular geographical type along the Grand Canal. Therefore, this paper selected all rural settlements in the 27 county-level units through which the Shandong section of the Grand Canal flows as research objects, and studied the spatial distribution of rural settlements along the Shandong section of the canal and their evolutionary characteristics, and analysed the factors using geographic detectors. The economic development level in the east and west of Shandong Province is different. The area that the Shandong section flows through is significantly impacted by the railroad, a specific area of backward development and more representative of the evolutionary characteristics of rural settlements in this geographical type. Driven by the canal planning and development policy of Shandong Province, the study of the pattern characteristics and the dominant factors of divergence in this region is more typical, and the results are of more practical significance. The study also provides a theoretical reference for the development and protection of rural settlements along the canal, expands the application of rural settlement research and enriches the theoretical system.</p>
 
-    <h3>4. Methodology</h3>
-    <h4>4.1 Data sources and research methods</h4>
-    <p>This research uses CGC, KN, ANN, Getis-Ord GI*, and LM to express the spatial pattern of rural settlements from four aspects: spatial scale characteristics, Spatial Gravity Centre evolution characteristics, spatial agglomeration characteristics and patch shape characteristics. Based on the analysis results of each sample year from 1980 to 2018, the evolution of spatial pattern was summarised. 13 statistical factors in the study data were detected via single-factor and interactive detection, and the main influencing factors and main auxiliary influencing factors were also identified. Finally, the spatial pattern of rural settlements and the relationship between influence factors and the canal were obtained by cross-referencing the analysis results.</p>
+ <h3>4. Methodology</h3>
+ <h4>4.1 Data sources and research methods</h4>
+ <p>This research uses CGC, KN, ANN, Getis-Ord GI*, and LM to express the spatial pattern of rural settlements from four aspects: spatial scale characteristics, Spatial Gravity Centre evolution characteristics, spatial agglomeration characteristics and patch shape characteristics. Based on the analysis results of each sample year from 1980 to 2018, the evolution of spatial pattern was summarised. 13 statistical factors in the study data were detected via single-factor and interactive detection, and the main influencing factors and main auxiliary influencing factors were also identified. Finally, the spatial pattern of rural settlements and the relationship between influence factors and the canal were obtained by cross-referencing the analysis results.</p>
 
-    <h4>4.2 Data source and data processing</h4>
-    <p>Data sources include:</p>
-    <p class="no-indent">(1) China Land Use/land cover remote sensing monitoring database (1980-2018) extracted the rural residential area land patches. The data set is provided by Data Centre for Resources and Environmental Sciences, Chinese Academy of Sciences (RESDC).<br>
-    (2) Socioeconomic data were obtained from Shandong, Hebei, Jiangsu and Henan statistical yearbooks and rural statistical yearbooks (1990-2019), the China County Statistical Yearbook (2000-2019), and the Dezhou City, Liaocheng City, Tai'an City, Jining City, and Zaozhuang City Statistical Yearbook (2000-2019).<br>
-    (3) Administrative division data and county Digital Elevation Model (DEM).<br>
-    (4) Data for the Shandong section of the China Grand Canal were obtained from the Chinese water system, combined with manual translation and remote sensing data.</p>
+ <h4>4.2 Data source and data processing</h4>
+ <p>Data sources include:</p>
+ <p class="no-indent">(1) China Land Use/land cover remote sensing monitoring database (1980-2018) extracted the rural residential area land patches. The data set is provided by Data Centre for Resources and Environmental Sciences, Chinese Academy of Sciences (RESDC).<br>
+ (2) Socioeconomic data were obtained from Shandong, Hebei, Jiangsu and Henan statistical yearbooks and rural statistical yearbooks (1990-2019), the China County Statistical Yearbook (2000-2019), and the Dezhou City, Liaocheng City, Tai'an City, Jining City, and Zaozhuang City Statistical Yearbook (2000-2019).<br>
+ (3) Administrative division data and county Digital Elevation Model (DEM).<br>
+ (4) Data for the Shandong section of the China Grand Canal were obtained from the Chinese water system, combined with manual translation and remote sensing data.</p>
 
-    <h4>4.3 Methodology</h4>
-    <p><strong>4.3.1 The controlled experiment method</strong></p>
-    <p>By setting up the experimental and control groups, this study used the distance from the Grand Canal as the only variable. As mentioned above, the settlements are divided into canal-side zonal settlements (0–1 km), near-canal zonal settlements (1–4 km), far-canal zonal settlements (4-10 km), and further-canal zonal settlements (>10 km). The correlation model between spatial patterns and canal distance was constructed by cross-referencing.</p>
+ <h4>4.3 Methodology</h4>
+ <p><strong>4.3.1 The controlled experiment method</strong></p>
+ <p>By setting up the experimental and control groups, this study used the distance from the Grand Canal as the only variable. As mentioned above, the settlements are divided into canal-side zonal settlements (0–1 km), near-canal zonal settlements (1–4 km), far-canal zonal settlements (4-10 km), and further-canal zonal settlements (>10 km). The correlation model between spatial patterns and canal distance was constructed by cross-referencing.</p>
 
-    <p><strong>4.3.2 The CGC model</strong></p>
-    <p>This study uses the CGC of the rural settlement patch to calculate the distribution centre of gravity of the rural settlements in the studied area, showing the temporal and spatial changes in the corresponding area's centre of gravity.</p>
-    <p>X = ΣXᵢaᵢ / Σaᵢ, Y = ΣYᵢaᵢ / Σaᵢ</p>
-    <p>x and Y are the longitude and latitude of the centre of gravity of the rural settlement patch in the study area in the data year. Xᵢ and Yᵢ are the longitude and latitude of the rural settlement patch n, respectively, and aᵢ is the patch's area.</p>
+ <p><strong>4.3.2 The CGC model</strong></p>
+ <p>This study uses the CGC of the rural settlement patch to calculate the distribution centre of gravity of the rural settlements in the studied area, showing the temporal and spatial changes in the corresponding area's centre of gravity.</p>
+ <p>X = ΣXᵢaᵢ / Σaᵢ, Y = ΣYᵢaᵢ / Σaᵢ</p>
+ <p>x and Y are the longitude and latitude of the centre of gravity of the rural settlement patch in the study area in the data year. Xᵢ and Yᵢ are the longitude and latitude of the rural settlement patch n, respectively, and aᵢ is the patch's area.</p>
 
-    <p><strong>4.3.3 Kernel density analysis</strong></p>
-    <p>Kernel density analysis expresses the continuity of discrete spatial data and analyse the settlements' spatial distribution density. Thus, it directly reflects regional differences in the distribution of rural settlements in different regions.</p>
+ <p><strong>4.3.3 Kernel density analysis</strong></p>
+ <p>Kernel density analysis expresses the continuity of discrete spatial data and analyse the settlements' spatial distribution density. Thus, it directly reflects regional differences in the distribution of rural settlements in different regions.</p>
 
-    <p><strong>4.3.4 ANN analysis</strong></p>
-    <p>ANN measures the distance between each feature's centroid and the centroid of its nearest neighbours and then calculates the average of all the nearest neighbours. The analysis can represent the spatial clustering of rural settlements.</p>
+ <p><strong>4.3.4 ANN analysis</strong></p>
+ <p>ANN measures the distance between each feature's centroid and the centroid of its nearest neighbours and then calculates the average of all the nearest neighbours. The analysis can represent the spatial clustering of rural settlements.</p>
 
-    <h3>5. The spatial pattern of rural settlements and its evolution characteristics</h3>
-    <h4>5.1 Rural settlement spatial scale characteristics</h4>
-    <p><strong>5.1.1 The spatial scale pattern</strong></p>
-    <p>The settlement patch's total area has increased annually from 2774.61 km² to 3329.06 km², but the number of patches has decreased from 12986 to 12239. The patch area increase rate was 8.18%, which was the most significant from 2000 to 2010, and the number of patches also decreased considerably. The distance between the rural settlement patch and the canal is inversely proportional to the settlement patch area's rate increase. The further the distance between the rural settlement patch and the canal, the higher the settlement patch's area increase rate.</p>
-    <p>The results show that the rural settlement spatial scale is in continuous expansion at various expansion rates. Change in the scale of rural settlements is mainly dominated by border expansion. The most significant expansion occurred in 2000-2010, mainly due to policy reasons (Shandong, 2010). The closer the rural settlement is to the canal, the faster the rate at which the settlement space scale increases and the greater the degree of settlement amalgamation.</p>
+ <h3>5. The spatial pattern of rural settlements and its evolution characteristics</h3>
+ <h4>5.1 Rural settlement spatial scale characteristics</h4>
+ <p><strong>5.1.1 The spatial scale pattern</strong></p>
+ <p>The settlement patch's total area has increased annually from 2774.61 km² to 3329.06 km², but the number of patches has decreased from 12986 to 12239. The patch area increase rate was 8.18%, which was the most significant from 2000 to 2010, and the number of patches also decreased considerably. The distance between the rural settlement patch and the canal is inversely proportional to the settlement patch area's rate increase. The further the distance between the rural settlement patch and the canal, the higher the settlement patch's area increase rate.</p>
+ <p>The results show that the rural settlement spatial scale is in continuous expansion at various expansion rates. Change in the scale of rural settlements is mainly dominated by border expansion. The most significant expansion occurred in 2000-2010, mainly due to policy reasons (Shandong, 2010). The closer the rural settlement is to the canal, the faster the rate at which the settlement space scale increases and the greater the degree of settlement amalgamation.</p>
 
-    <p><strong>5.1.2 Landscape metrics</strong></p>
-    <p>MPS can indicate the degree of landscape fragmentation. The PSSD demonstrates the difference in the scale of rural settlements. MPS values from 1980 to 2018 showed an overall upward trend and a negative correlation with the distance from the canal. PSSD values also showed an overall upward trend. From 1980 to 1990, the variation in each settlement zone was relatively smooth. From 1990, the PSSD values for canal-side zonal settlement increased first, and the overall value increased from 1990 to 2010. After 2010, all others slowed down, except for canal-side zonal settlement.</p>
-    <p>The results show that from 1980 to 2018, the fragmentation of rural settlement patches decreased annually. The overall rural settlement scale highlights the difference in development, and the difference as it pertains to the rural settlement area is evident year by year. The closer the rural settlements are to the canal, the earlier and more apparent the differentiation. In short, from 1980 to 2018, the rural settlement patches in the study area showed a partial merger trend, and the closer to the canal, the more evident that trend.</p>
+ <p><strong>5.1.2 Landscape metrics</strong></p>
+ <p>MPS can indicate the degree of landscape fragmentation. The PSSD demonstrates the difference in the scale of rural settlements. MPS values from 1980 to 2018 showed an overall upward trend and a negative correlation with the distance from the canal. PSSD values also showed an overall upward trend. From 1980 to 1990, the variation in each settlement zone was relatively smooth. From 1990, the PSSD values for canal-side zonal settlement increased first, and the overall value increased from 1990 to 2010. After 2010, all others slowed down, except for canal-side zonal settlement.</p>
+ <p>The results show that from 1980 to 2018, the fragmentation of rural settlement patches decreased annually. The overall rural settlement scale highlights the difference in development, and the difference as it pertains to the rural settlement area is evident year by year. The closer the rural settlements are to the canal, the earlier and more apparent the differentiation. In short, from 1980 to 2018, the rural settlement patches in the study area showed a partial merger trend, and the closer to the canal, the more evident that trend.</p>
 
-    <h4>5.2 Rural settlement spatial Gravity Centre evolution characteristics</h4>
-    <p><strong>5.2.1 The CGC model</strong></p>
-    <p>Based on the data set of rural settlements along the Grand Canal from 1990 to 2018, the longitude and latitude coordinates of each rural settlement polygon's centroid were calculated using ArcGIS 10.8. The centre of gravity coordinates of rural settlements in each data year was calculated using Excel statistical analysis. The results show that the centre of gravity on both sides of the canal was relatively concentrated. During the period 1990-2018, there was a slight shift. The regional centre of gravity on the west side of the canal moved slightly parallel to the canal. The migration of the centre of gravity of the rural settlements on the canal's east side can be divided into three phases:</p>
-    <p class="no-indent">(1) 1980-2000, when the centre of gravity moved slightly to the northwest, the moving speed was uniform;<br>
-    (2) 2000-2010, when it moved significantly to the southwest; and<br>
-    (3) 2010-2018, when it moved to the northwest, the whole track took on a Z-shape.</p>
-    <p>In most years, the migration approached the canal, demonstrating the Grand Canal's attraction to the migration of rural settlements along its two banks from 1980 to 2018.</p>
+ <h4>5.2 Rural settlement spatial Gravity Centre evolution characteristics</h4>
+ <p><strong>5.2.1 The CGC model</strong></p>
+ <p>Based on the data set of rural settlements along the Grand Canal from 1990 to 2018, the longitude and latitude coordinates of each rural settlement polygon's centroid were calculated using ArcGIS 10.8. The centre of gravity coordinates of rural settlements in each data year was calculated using Excel statistical analysis. The results show that the centre of gravity on both sides of the canal was relatively concentrated. During the period 1990-2018, there was a slight shift. The regional centre of gravity on the west side of the canal moved slightly parallel to the canal. The migration of the centre of gravity of the rural settlements on the canal's east side can be divided into three phases:</p>
+ <p class="no-indent">(1) 1980-2000, when the centre of gravity moved slightly to the northwest, the moving speed was uniform;<br>
+ (2) 2000-2010, when it moved significantly to the southwest; and<br>
+ (3) 2010-2018, when it moved to the northwest, the whole track took on a Z-shape.</p>
+ <p>In most years, the migration approached the canal, demonstrating the Grand Canal's attraction to the migration of rural settlements along its two banks from 1980 to 2018.</p>
 
-    <h4>5.3 Rural settlement spatial agglomeration characteristics</h4>
-    <p><strong>5.3.1 ANN analysis</strong></p>
-    <p>An ANN can represent the spatial clustering of rural settlements. The ANN values of the five samples in the villages along the canal were all less than 1 (0.7760-0.7926), and the Z-scores of the high/low cluster were all negative (-47.80 − -44.86). The results show that the spatial distribution pattern has hardly changed from 1980 to 2018, revealing a low clustering pattern.</p>
+ <h4>5.3 Rural settlement spatial agglomeration characteristics</h4>
+ <p><strong>5.3.1 ANN analysis</strong></p>
+ <p>An ANN can represent the spatial clustering of rural settlements. The ANN values of the five samples in the villages along the canal were all less than 1 (0.7760-0.7926), and the Z-scores of the high/low cluster were all negative (-47.80 − -44.86). The results show that the spatial distribution pattern has hardly changed from 1980 to 2018, revealing a low clustering pattern.</p>
 
-    <p><strong>5.3.2 Hot spot analysis</strong></p>
-    <p>The hot spots and cold spots of the scale distribution of rural settlements from 1980 to 2018 were obtained by considering the rural settlement patch area as the statistical attribute. The results show obvious regional differentiation in the distribution of cold and hot spots in rural settlements along the canal. The hot spots are more evident in some areas than others, with cold spots relatively concentrated in southern areas. By 2010, the number of hot spots on the north and east sides of the study area had decreased, and the cold spots on the south side had also decreased. These results show that the area of corresponding cold and hot spots has been reduced, and the scale of settlement patches tends to be different.</p>
+ <p><strong>5.3.2 Hot spot analysis</strong></p>
+ <p>The hot spots and cold spots of the scale distribution of rural settlements from 1980 to 2018 were obtained by considering the rural settlement patch area as the statistical attribute. The results show obvious regional differentiation in the distribution of cold and hot spots in rural settlements along the canal. The hot spots are more evident in some areas than others, with cold spots relatively concentrated in southern areas. By 2010, the number of hot spots on the north and east sides of the study area had decreased, and the cold spots on the south side had also decreased. These results show that the area of corresponding cold and hot spots has been reduced, and the scale of settlement patches tends to be different.</p>
 
-    <p><strong>5.3.3 Kernel density analysis</strong></p>
-    <p>The kernel density analysis and search radius of the rural settlements along the canal were set to 30 km, the kernel density maps of rural settlements in 1980, 1990, 2000, 2010, and 2018 were drawn. The higher the kernel density, the more settlement patches are distributed. Kernel density is classified into five levels, namely lowest, lower, medium, higher, and highest density, according to its value. The results show that from 1980 to 2018, the proportions of highest-density and higher-density areas concerning rural settlement density decreased, and the proportions of lowest-density and lower-density areas increased. In terms of geographic space, results show a development trend involving one central core and multiple sub-cores. The single central core is distributed in the southwest of the study area (Yutai County, Feng County, and Pei County). Multiple sub-cores are distributed in groups, and the settlement's spatial pattern changes dynamically.</p>
-    <p>In short, from 1980 to 2018, the highest-density areas were mainly distributed around lakes and along rivers, and the settlements' overall kernel density showed a downward trend. This phenomenon aligns with the rapid urbanisation and industrialisation of rural settlements due to China's reform and opening up.</p>
+ <p><strong>5.3.3 Kernel density analysis</strong></p>
+ <p>The kernel density analysis and search radius of the rural settlements along the canal were set to 30 km, the kernel density maps of rural settlements in 1980, 1990, 2000, 2010, and 2018 were drawn. The higher the kernel density, the more settlement patches are distributed. Kernel density is classified into five levels, namely lowest, lower, medium, higher, and highest density, according to its value. The results show that from 1980 to 2018, the proportions of highest-density and higher-density areas concerning rural settlement density decreased, and the proportions of lowest-density and lower-density areas increased. In terms of geographic space, results show a development trend involving one central core and multiple sub-cores. The single central core is distributed in the southwest of the study area (Yutai County, Feng County, and Pei County). Multiple sub-cores are distributed in groups, and the settlement's spatial pattern changes dynamically.</p>
+ <p>In short, from 1980 to 2018, the highest-density areas were mainly distributed around lakes and along rivers, and the settlements' overall kernel density showed a downward trend. This phenomenon aligns with the rapid urbanisation and industrialisation of rural settlements due to China's reform and opening up.</p>
 
-    <p><strong>5.3.4 Landscape metrics</strong></p>
-    <p>AI measures the aggregation index of rural settlements by the length of the patch's standard common edge, and the larger the value, the higher the spatial connectivity of rural settlement patches. Thus, PD represents the number of rural settlements per unit area. From 1980 to 2018, PD values showed a decreasing trend year by year and were most evident from 2000 to 2010. In the same sample year, the PD values of the canal-side and near-canal zonal settlements showed little change, whereas the PD values of the far-canal and farther-canal zonal settlements increased. From 1980 to 2018, AI values were negatively correlated with the distance from the canal. The results show that the number of patches per unit area of rural settlements in the study area decreases annually, and the density of rural settlements tends to be sparse.</p>
+ <p><strong>5.3.4 Landscape metrics</strong></p>
+ <p>AI measures the aggregation index of rural settlements by the length of the patch's standard common edge, and the larger the value, the higher the spatial connectivity of rural settlement patches. Thus, PD represents the number of rural settlements per unit area. From 1980 to 2018, PD values showed a decreasing trend year by year and were most evident from 2000 to 2010. In the same sample year, the PD values of the canal-side and near-canal zonal settlements showed little change, whereas the PD values of the far-canal and farther-canal zonal settlements increased. From 1980 to 2018, AI values were negatively correlated with the distance from the canal. The results show that the number of patches per unit area of rural settlements in the study area decreases annually, and the density of rural settlements tends to be sparse.</p>
 
-    <h3>6. The identification and quantitative analysis of the differentiation factors</h3>
-    <h4>6.1 Identifying the influencing factors</h4>
-    <p>The evolution of rural settlements is affected by multiple factors. It can be summarised into natural factors and socioeconomic factors. Based on the above analysis, the availability of data, the integrity of the time series, and the independence and integrity of each index were considered, and 1990, 2000, 2010, and 2018 were selected as sample years for impact detection, and refer to related literature and selected 13 detection factors. This paper explores different factors' influence on the rural settlement space along the Grand Canal in Shandong province and clarifies the canal's influence on rural settlement space through a comparative analysis of each settlement zone.</p>
+ <h3>6. The identification and quantitative analysis of the differentiation factors</h3>
+ <h4>6.1 Identifying the influencing factors</h4>
+ <p>The evolution of rural settlements is affected by multiple factors. It can be summarised into natural factors and socioeconomic factors. Based on the above analysis, the availability of data, the integrity of the time series, and the independence and integrity of each index were considered, and 1990, 2000, 2010, and 2018 were selected as sample years for impact detection, and refer to related literature and selected 13 detection factors. This paper explores different factors' influence on the rural settlement space along the Grand Canal in Shandong province and clarifies the canal's influence on rural settlement space through a comparative analysis of each settlement zone.</p>
 
-    <h4>6.2 Geodetector quantitative analysis</h4>
-    <p><strong>6.2.1 Single-factor detection</strong></p>
-    <p>For the rural settlement patches in the whole settlement in the study area, the factor detection results show that, in short, economic and industrial factors have a more noticeable impact on rural settlements, followed by policy and living standards. On the contrary, the impact of natural environmental factors was the smallest.</p>
-    <p>For the rural settlement patches in the canal-side zonal settlement in the study area, the factor detection results show the influence of science and technology facilities on rural settlements is obvious; economic and industrial factors are the second most, and environmental factors are the least influential.</p>
-    <p>For the rural settlement patches in the near-canal zonal settlement, the factor detection results show that agriculture, forestry, animal husbandry, and fishery were the dominant factors affecting the individual scale of rural settlement. In short, the influence of the living standard factor on the rural settlement is evident, followed by the economic industry factor, while the environmental factor exerts a minor influence.</p>
-    <p>For the rural settlement patches in the far-canal zonal settlement, the factor detection results show that living standards factors have more obvious impacts on rural settlements, followed by economic and industrial factors. In contrast, natural environmental factors exerted the weakest influence.</p>
-    <p>For the rural settlement patches in the further-canal zonal settlement, the results of factor detection show that the influence of policy factors on rural settlements is evident, followed by economic and industrial factors. In contrast, environmental factors were found to be the least influential.</p>
-    <p>The results show that agricultural production is the main factor for rural settlement areas along the Shandong section of the Grand Canal. Rural scientific and technological facilities and financial industries are the fundamental driving forces affecting the formation of rural settlement patch spatial pattern characteristics. In addition, policy expenditure and people's living standards significantly influence the rural settlement spatial pattern formation, while environmental factors exerted the slightest effect. This study shows that the closer the proximity to the canal, the higher the dependency on primitive agricultural production, and the more significant the improvement of rural scientific and technological facilities.</p>
+ <h4>6.2 Geodetector quantitative analysis</h4>
+ <p><strong>6.2.1 Single-factor detection</strong></p>
+ <p>For the rural settlement patches in the whole settlement in the study area, the factor detection results show that, in short, economic and industrial factors have a more noticeable impact on rural settlements, followed by policy and living standards. On the contrary, the impact of natural environmental factors was the smallest.</p>
+ <p>For the rural settlement patches in the canal-side zonal settlement in the study area, the factor detection results show the influence of science and technology facilities on rural settlements is obvious; economic and industrial factors are the second most, and environmental factors are the least influential.</p>
+ <p>For the rural settlement patches in the near-canal zonal settlement, the factor detection results show that agriculture, forestry, animal husbandry, and fishery were the dominant factors affecting the individual scale of rural settlement. In short, the influence of the living standard factor on the rural settlement is evident, followed by the economic industry factor, while the environmental factor exerts a minor influence.</p>
+ <p>For the rural settlement patches in the far-canal zonal settlement, the factor detection results show that living standards factors have more obvious impacts on rural settlements, followed by economic and industrial factors. In contrast, natural environmental factors exerted the weakest influence.</p>
+ <p>For the rural settlement patches in the further-canal zonal settlement, the results of factor detection show that the influence of policy factors on rural settlements is evident, followed by economic and industrial factors. In contrast, environmental factors were found to be the least influential.</p>
+ <p>The results show that agricultural production is the main factor for rural settlement areas along the Shandong section of the Grand Canal. Rural scientific and technological facilities and financial industries are the fundamental driving forces affecting the formation of rural settlement patch spatial pattern characteristics. In addition, policy expenditure and people's living standards significantly influence the rural settlement spatial pattern formation, while environmental factors exerted the slightest effect. This study shows that the closer the proximity to the canal, the higher the dependency on primitive agricultural production, and the more significant the improvement of rural scientific and technological facilities.</p>
 
-    <p><strong>6.2.2 Interaction factor detection</strong></p>
-    <p>In this study, the maximum values of the interaction Q for the whole settlement and each canal settlement zone from 1990 to 2018 were calculated, and the most potent combination of influencing factors was found. By comparing the interaction results of different influencing factor combinations, auxiliary influencing factors of rural settlement spatial patterns can be obtained. The statistical results showed that rural residents' grain area and per capita disposable income did not play a prominent role in single-factor detection, but the interaction effect is noticeable, and they are the best additional factors.</p>
+ <p><strong>6.2.2 Interaction factor detection</strong></p>
+ <p>In this study, the maximum values of the interaction Q for the whole settlement and each canal settlement zone from 1990 to 2018 were calculated, and the most potent combination of influencing factors was found. By comparing the interaction results of different influencing factor combinations, auxiliary influencing factors of rural settlement spatial patterns can be obtained. The statistical results showed that rural residents' grain area and per capita disposable income did not play a prominent role in single-factor detection, but the interaction effect is noticeable, and they are the best additional factors.</p>
 
-    <h3>7. Conclusions and discussions</h3>
-    <h4>7.1 Conclusions</h4>
-    <p>This research uses the CGC model, kernel density analysis, ANN analysis, spatial hot spot detection, LM, and the geodetector to examine the rural settlement space and its succession along the Shandong section of the Grand Canal from 1980 to 2018. The scale pattern, Gravity Centre evolution characteristics, agglomeration pattern, and morphological characteristics of the rural settlement patch and their correlation with canal settlement were determined. In this paper, we identified the correlation factors and detected their single-factor and multi-factor interaction strength on the settlement distribution characteristics, as follows:</p>
+ <h3>7. Conclusions and discussions</h3>
+ <h4>7.1 Conclusions</h4>
+ <p>This research uses the CGC model, kernel density analysis, ANN analysis, spatial hot spot detection, LM, and the geodetector to examine the rural settlement space and its succession along the Shandong section of the Grand Canal from 1980 to 2018. The scale pattern, Gravity Centre evolution characteristics, agglomeration pattern, and morphological characteristics of the rural settlement patch and their correlation with canal settlement were determined. In this paper, we identified the correlation factors and detected their single-factor and multi-factor interaction strength on the settlement distribution characteristics, as follows:</p>
 
-    <p><strong>7.1.1 The rural settlement spatial pattern</strong></p>
-    <p>(1) Rural settlement scale characteristics: The spatial scale of rural settlements along the Shandong section of the Grand Canal gradually expanded from 1980 to 2018, and rural settlement fragmentation decreased annually. The overall patch area appeared to follow an increasing trend while the number decreased. Some scholars found that the rapid increase of rural population and the acceleration of economic growth were the main reasons for the continuous increase of the scale of rural settlements, and the transformation from rural settlements to urban land was the main reason for the decrease in the number of rural settlements. Due to the announcement of the Shandong Rural Poverty Alleviation and Development Plan (2001-2010), the scale of rural settlements expanded significantly in that period.</p>
-    <p>The closer the rural settlements are to the canal, the more pronounced the settlement area's growth rate and the higher the incidence of settlement mergers. The Grand Canal attracted the migration of rural settlements along its two banks from 1980 to 2018. Therefore, it is imperative for village planning to clarify the scale characteristics and the law of gravity centre migration.</p>
+ <p><strong>7.1.1 The rural settlement spatial pattern</strong></p>
+ <p>(1) Rural settlement scale characteristics: The spatial scale of rural settlements along the Shandong section of the Grand Canal gradually expanded from 1980 to 2018, and rural settlement fragmentation decreased annually. The overall patch area appeared to follow an increasing trend while the number decreased. Some scholars found that the rapid increase of rural population and the acceleration of economic growth were the main reasons for the continuous increase of the scale of rural settlements, and the transformation from rural settlements to urban land was the main reason for the decrease in the number of rural settlements. Due to the announcement of the Shandong Rural Poverty Alleviation and Development Plan (2001-2010), the scale of rural settlements expanded significantly in that period.</p>
+ <p>The closer the rural settlements are to the canal, the more pronounced the settlement area's growth rate and the higher the incidence of settlement mergers. The Grand Canal attracted the migration of rural settlements along its two banks from 1980 to 2018. Therefore, it is imperative for village planning to clarify the scale characteristics and the law of gravity centre migration.</p>
 
-    <p>(2) Agglomeration characteristics of rural settlements: The spatial distribution characteristics along the Grand Canal showed an agglomeration pattern from 1980 to 2018, which was a significant low-cluster. The proportions of higher-density and highest-density areas in the overall settlements decreased: The highest-density areas were from 13.35% to 11.13%; higher-density areas were from 27.92% to 23.48%. The lower-density and lowest-density areas increased: The lowest-density areas were from 4.69% to 5.88%; the lower-density areas were from 17.74% to 21.85%. The dense rural settlements are primarily distributed around lakes and rivers. The overall situation is 'largely dispersed, small concentrated'. The spatial pattern is manifested in the development trend of one central core and multiple sub-cores. This phenomenon is related to the decline and disappearance of rural areas caused by rapid urbanisation and industrialization since the reform and opening up.</p>
-    <p>The further the rural settlements are from the canal and the greater the number of villages per unit area, the more obvious the growth rate, and the settlements' overall connectivity increases year by year; the closer the settlements are to the canal, the higher the connectivity. The apparent distribution characteristics can provide a reference for resource sharing and public facilities layout in regional planning.</p>
+ <p>(2) Agglomeration characteristics of rural settlements: The spatial distribution characteristics along the Grand Canal showed an agglomeration pattern from 1980 to 2018, which was a significant low-cluster. The proportions of higher-density and highest-density areas in the overall settlements decreased: The highest-density areas were from 13.35% to 11.13%; higher-density areas were from 27.92% to 23.48%. The lower-density and lowest-density areas increased: The lowest-density areas were from 4.69% to 5.88%; the lower-density areas were from 17.74% to 21.85%. The dense rural settlements are primarily distributed around lakes and rivers. The overall situation is 'largely dispersed, small concentrated'. The spatial pattern is manifested in the development trend of one central core and multiple sub-cores. This phenomenon is related to the decline and disappearance of rural areas caused by rapid urbanisation and industrialization since the reform and opening up.</p>
+ <p>The further the rural settlements are from the canal and the greater the number of villages per unit area, the more obvious the growth rate, and the settlements' overall connectivity increases year by year; the closer the settlements are to the canal, the higher the connectivity. The apparent distribution characteristics can provide a reference for resource sharing and public facilities layout in regional planning.</p>
 
-    <p>(3) From 1980 to 2018, the overall boundary tortuosity and shape complexity of rural settlement patches increased. Between 2000 and 2010, the integration of rural settlements is the most obvious, and the degree of tortuosity and complexity increased significantly.</p>
-    <p>The closer the patch is to the canal, the more concentrated the distribution, but the more complex the shape. Greater proximity to the canal means a longer settlement formation history. Moreover, canal construction and railway construction overlap geographically, in the absence of influence from the railway and other factors caused by minimal human intervention. Clarifying its morphological characteristics will help to find the development direction for rural settlements along the canal according to local conditions. For example, a village with a well-preserved historical form gives full play to its historical advantages by opting for a suitable development plan.</p>
+ <p>(3) From 1980 to 2018, the overall boundary tortuosity and shape complexity of rural settlement patches increased. Between 2000 and 2010, the integration of rural settlements is the most obvious, and the degree of tortuosity and complexity increased significantly.</p>
+ <p>The closer the patch is to the canal, the more concentrated the distribution, but the more complex the shape. Greater proximity to the canal means a longer settlement formation history. Moreover, canal construction and railway construction overlap geographically, in the absence of influence from the railway and other factors caused by minimal human intervention. Clarifying its morphological characteristics will help to find the development direction for rural settlements along the canal according to local conditions. For example, a village with a well-preserved historical form gives full play to its historical advantages by opting for a suitable development plan.</p>
 
-    <p><strong>7.1.2 Influencing factors</strong></p>
-    <p>(1) Some scholars have proposed that human and social factors such as population size, agricultural conditions, industrial structure, economic development level, and policy system are also the main driving forces for rural settlements' development and spatial evolution. Rural settlement areas along the Shandong section of the Grand Canal are dominated by agricultural production. Rural technological facilities and financial industries have the most significant impact on rural settlement patches. In addition, policy expenditures and people's living standards have a greater impact on the spatial pattern of rural settlements, while environmental factors have the most negligible impact. The closer the proximity to the canal, the more dependent settlements are on primitive agricultural production and improvements in rural science and technology facilities. Clarify the leading factors and find the optimal focus for the planning and designation of the spatial industrial layout, such as the development of modern agriculture in the canal settlements in this article to promote rural development.</p>
-    <p>(2) Double-factor effects are more substantial than single-factor effects. Rural residents' food area and per capita disposable income are the auxiliary influencing factors for the spatial differentiation of rural settlements. These factors can significantly enhance the impact of index factors on the spatial pattern evolution of rural settlements. In addition, the rural working population, the total output value of agriculture, forestry, animal husbandry and fishery, general public budget expenditures, and an adequate irrigation area also have a particular supporting role. Clarify the auxiliary influence factors, find the optimal auxiliary development point, and promote the development of the settlement at multiple aspects.</p>
-  </div>
+ <p><strong>7.1.2 Influencing factors</strong></p>
+ <p>(1) Some scholars have proposed that human and social factors such as population size, agricultural conditions, industrial structure, economic development level, and policy system are also the main driving forces for rural settlements' development and spatial evolution. Rural settlement areas along the Shandong section of the Grand Canal are dominated by agricultural production. Rural technological facilities and financial industries have the most significant impact on rural settlement patches. In addition, policy expenditures and people's living standards have a greater impact on the spatial pattern of rural settlements, while environmental factors have the most negligible impact. The closer the proximity to the canal, the more dependent settlements are on primitive agricultural production and improvements in rural science and technology facilities. Clarify the leading factors and find the optimal focus for the planning and designation of the spatial industrial layout, such as the development of modern agriculture in the canal settlements in this article to promote rural development.</p>
+ <p>(2) Double-factor effects are more substantial than single-factor effects. Rural residents' food area and per capita disposable income are the auxiliary influencing factors for the spatial differentiation of rural settlements. These factors can significantly enhance the impact of index factors on the spatial pattern evolution of rural settlements. In addition, the rural working population, the total output value of agriculture, forestry, animal husbandry and fishery, general public budget expenditures, and an adequate irrigation area also have a particular supporting role. Clarify the auxiliary influence factors, find the optimal auxiliary development point, and promote the development of the settlement at multiple aspects.</p>
+ </div>
 </div>
 
 <!-- ==================== 论文5 ==================== -->
 <div class="paper" id="p5">
-  <div class="paper-title">鲁中地区新农居建筑设计研究</div>
-  <div class="paper-meta">
-    <span><strong>作者：</strong>尚玉涛</span>
-    <span><strong>单位：</strong>山东农业大学水利土木工程学院</span>
-    <span><strong>期刊：</strong>《农学学报》2021年, 第11卷第10期, 第106-110页</span>
-    <span><strong>基金项目：</strong>山东省社会科学规划研究项目"乡村振兴战略下山东传统村落保护发展研究"(18CZWJ05)</span>
-    <br><a href="http://nxxb.caass.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=25017" target="_blank">原文PDF链接</a>
-  </div>
-  <div class="tag">中文全文</div><div class="tag">鲁中地区</div><div class="tag">新农居建筑设计</div><div class="tag">传统民居特点</div><div class="tag">空间营造</div><div class="tag">开放获取</div>
+ <div class="paper-title">鲁中地区新农居建筑设计研究</div>
+ <div class="paper-meta">
+ <span><strong>作者：</strong>尚玉涛</span>
+ <span><strong>单位：</strong>山东农业大学水利土木工程学院</span>
+ <span><strong>期刊：</strong>《农学学报》2021年, 第11卷第10期, 第106-110页</span>
+ <span><strong>基金项目：</strong>山东省社会科学规划研究项目"乡村振兴战略下山东传统村落保护发展研究"(18CZWJ05)</span>
+ <br><a href="http://nxxb.caass.org.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=25017" target="_blank">原文PDF链接</a>
+ </div>
+ <div class="tag">中文全文</div><div class="tag">鲁中地区</div><div class="tag">新农居建筑设计</div><div class="tag">传统民居特点</div><div class="tag">空间营造</div><div class="tag">开放获取</div>
 
-  <div class="fulltext-label">Full Text（完整原文）</div>
-  <div class="fulltext">
-    <h3>摘要</h3>
-    <p>新农居建设是乡村振兴战略的重要组成部分，其设计质量直接关系到农民的居住品质和乡村风貌的塑造。鲁中地区是山东省传统民居类型最丰富、地域特色最鲜明的区域之一。本研究通过对鲁中地区传统民居的实地调研和文献分析，总结了该地区传统民居在院落布局、建筑材料、结构形式、装饰艺术等方面的地域特点，提出了新农居建筑设计应遵循的地域性、适用性、经济性和生态性原则，并从院落空间、建筑单体、材料构造、装饰细部等方面探讨了新农居的设计策略，旨在为鲁中地区乃至山东省的新农居建设提供理论参考和实践指导。</p>
-    <p><strong>关键词：</strong>鲁中地区；新农居；建筑设计；传统民居；地域特色</p>
+ <div class="fulltext-label">Full Text（完整原文）</div>
+ <div class="fulltext">
+ <h3>摘要</h3>
+ <p>新农居建设是乡村振兴战略的重要组成部分，其设计质量直接关系到农民的居住品质和乡村风貌的塑造。鲁中地区是山东省传统民居类型最丰富、地域特色最鲜明的区域之一。本研究通过对鲁中地区传统民居的实地调研和文献分析，总结了该地区传统民居在院落布局、建筑材料、结构形式、装饰艺术等方面的地域特点，提出了新农居建筑设计应遵循的地域性、适用性、经济性和生态性原则，并从院落空间、建筑单体、材料构造、装饰细部等方面探讨了新农居的设计策略，旨在为鲁中地区乃至山东省的新农居建设提供理论参考和实践指导。</p>
+ <p><strong>关键词：</strong>鲁中地区；新农居；建筑设计；传统民居；地域特色</p>
 
-    <h3>0 引言</h3>
-    <p>党的十九大提出实施乡村振兴战略，总要求是产业兴旺、生态宜居、乡风文明、治理有效、生活富裕。其中，生态宜居是乡村振兴的关键，而农居建设则是实现生态宜居的重要载体。近年来，随着农村经济的快速发展和农民生活水平的不断提高，山东省各地掀起了新农居建设的热潮。然而，在建设过程中也出现了一些不容忽视的问题，如盲目照搬城市住宅模式、忽视地域文化特色、建筑材料和构造方式不合理、居住空间与生产生活需求脱节等。这些问题不仅影响了农民的居住品质，也破坏了乡村的传统风貌和地域特色。</p>
-    <p>鲁中地区位于山东省中部，包括济南、泰安、淄博、莱芜、潍坊西部、临沂北部等区域，是山东省传统民居类型最丰富、地域特色最鲜明的区域之一。该地区地形复杂，山地、丘陵、平原交错分布，气候条件差异较大，孕育了丰富多彩的传统民居形式，如石砌民居、夯土民居、囤顶建筑、四合院等。这些传统民居凝聚了当地劳动人民的智慧，体现了人与自然和谐共生的生态理念，具有重要的历史、文化和艺术价值。</p>
-    <p>本研究通过对鲁中地区传统民居的系统调研和深入分析，总结其地域特点和营造智慧，探讨新农居建筑设计的原则和策略，旨在为鲁中地区乃至山东省的新农居建设提供理论参考和实践指导，推动乡村振兴战略的顺利实施。</p>
+ <h3>0 引言</h3>
+ <p>党的十九大提出实施乡村振兴战略，总要求是产业兴旺、生态宜居、乡风文明、治理有效、生活富裕。其中，生态宜居是乡村振兴的关键，而农居建设则是实现生态宜居的重要载体。近年来，随着农村经济的快速发展和农民生活水平的不断提高，山东省各地掀起了新农居建设的热潮。然而，在建设过程中也出现了一些不容忽视的问题，如盲目照搬城市住宅模式、忽视地域文化特色、建筑材料和构造方式不合理、居住空间与生产生活需求脱节等。这些问题不仅影响了农民的居住品质，也破坏了乡村的传统风貌和地域特色。</p>
+ <p>鲁中地区位于山东省中部，包括济南、泰安、淄博、莱芜、潍坊西部、临沂北部等区域，是山东省传统民居类型最丰富、地域特色最鲜明的区域之一。该地区地形复杂，山地、丘陵、平原交错分布，气候条件差异较大，孕育了丰富多彩的传统民居形式，如石砌民居、夯土民居、囤顶建筑、四合院等。这些传统民居凝聚了当地劳动人民的智慧，体现了人与自然和谐共生的生态理念，具有重要的历史、文化和艺术价值。</p>
+ <p>本研究通过对鲁中地区传统民居的系统调研和深入分析，总结其地域特点和营造智慧，探讨新农居建筑设计的原则和策略，旨在为鲁中地区乃至山东省的新农居建设提供理论参考和实践指导，推动乡村振兴战略的顺利实施。</p>
 
-    <h3>1 鲁中地区传统民居特点</h3>
-    <h4>1.1 院落布局特点</h4>
-    <p>鲁中地区传统民居多采用四合院或三合院的布局形式，院落一般坐北朝南，主房位于北侧，东西两侧为厢房，南侧为倒座或大门。院落的大小和形制因家庭经济状况和社会地位而异，富裕人家的院落较大，房屋较多，装饰精美；普通人家的院落较小，房屋较少，装饰简朴。</p>
-    <p>在山地和丘陵地区，由于地形起伏较大，院落布局往往顺应地形，呈不规则形状。如济南南部山区的传统村落，院落多沿等高线布置，呈阶梯状分布，院落之间通过石阶和巷道相连，形成了独特的山地聚落景观。在平原地区，院落布局则较为规整，多呈矩形或方形，院落排列整齐，巷道纵横交错，形成了棋盘式的聚落格局。</p>
+ <h3>1 鲁中地区传统民居特点</h3>
+ <h4>1.1 院落布局特点</h4>
+ <p>鲁中地区传统民居多采用四合院或三合院的布局形式，院落一般坐北朝南，主房位于北侧，东西两侧为厢房，南侧为倒座或大门。院落的大小和形制因家庭经济状况和社会地位而异，富裕人家的院落较大，房屋较多，装饰精美；普通人家的院落较小，房屋较少，装饰简朴。</p>
+ <p>在山地和丘陵地区，由于地形起伏较大，院落布局往往顺应地形，呈不规则形状。如济南南部山区的传统村落，院落多沿等高线布置，呈阶梯状分布，院落之间通过石阶和巷道相连，形成了独特的山地聚落景观。在平原地区，院落布局则较为规整，多呈矩形或方形，院落排列整齐，巷道纵横交错，形成了棋盘式的聚落格局。</p>
 
-    <h4>1.2 建筑材料特点</h4>
-    <p>鲁中地区传统民居的建筑材料具有鲜明的地域性，主要采用当地出产的石材、土材、木材和草材等。在山地和丘陵地区，石材资源丰富，民居多采用石头砌筑墙体，石板覆盖屋顶，形成了独特的石砌民居。如济南长清、泰安岱岳、淄博博山等地的传统民居，墙体多采用当地的石灰岩或花岗岩砌筑，屋顶多采用石板覆盖，建筑外观质朴厚重，与周围的自然环境融为一体。</p>
-    <p>在平原地区，土材资源丰富，民居多采用夯土或土坯砌筑墙体，麦草或茅草覆盖屋顶，形成了独特的生土民居。如德州、聊城、滨州等地的传统民居，墙体多采用夯土或土坯砌筑，屋顶多采用麦草覆盖，建筑外观朴素自然，具有良好的保温隔热性能。</p>
-    <p>木材主要用于房屋的梁、柱、檩、椽等结构构件和门窗、隔扇等装修构件。鲁中地区传统民居的木构件多采用当地出产的榆木、槐木、杨木等，木材的使用量因房屋的结构形式和经济状况而异。草材主要用于屋顶覆盖，如麦草、茅草、山草等，不同地区采用的草材种类不同，屋顶的形式和构造也有所差异。</p>
+ <h4>1.2 建筑材料特点</h4>
+ <p>鲁中地区传统民居的建筑材料具有鲜明的地域性，主要采用当地出产的石材、土材、木材和草材等。在山地和丘陵地区，石材资源丰富，民居多采用石头砌筑墙体，石板覆盖屋顶，形成了独特的石砌民居。如济南长清、泰安岱岳、淄博博山等地的传统民居，墙体多采用当地的石灰岩或花岗岩砌筑，屋顶多采用石板覆盖，建筑外观质朴厚重，与周围的自然环境融为一体。</p>
+ <p>在平原地区，土材资源丰富，民居多采用夯土或土坯砌筑墙体，麦草或茅草覆盖屋顶，形成了独特的生土民居。如德州、聊城、滨州等地的传统民居，墙体多采用夯土或土坯砌筑，屋顶多采用麦草覆盖，建筑外观朴素自然，具有良好的保温隔热性能。</p>
+ <p>木材主要用于房屋的梁、柱、檩、椽等结构构件和门窗、隔扇等装修构件。鲁中地区传统民居的木构件多采用当地出产的榆木、槐木、杨木等，木材的使用量因房屋的结构形式和经济状况而异。草材主要用于屋顶覆盖，如麦草、茅草、山草等，不同地区采用的草材种类不同，屋顶的形式和构造也有所差异。</p>
 
-    <h4>1.3 结构形式特点</h4>
-    <p>鲁中地区传统民居的结构形式主要有抬梁式、穿斗式和混合式三种。抬梁式结构是北方传统民居最常用的结构形式，其特点是在柱上搁置梁，梁上搁置短柱，短柱上再搁置梁，层层叠叠，形成屋架。抬梁式结构的室内空间较大，采光通风较好，但木材用量较大，造价较高。鲁中地区富裕人家的传统民居多采用抬梁式结构。</p>
-    <p>穿斗式结构是南方传统民居最常用的结构形式，其特点是用穿枋将柱子串联起来，形成屋架，檩条直接搁置在柱子上。穿斗式结构的木材用量较小，造价较低，但室内空间较小，柱子较多，影响使用。鲁中地区普通人家的传统民居多采用穿斗式结构或抬梁式与穿斗式相结合的混合式结构。</p>
-    <p>在山地和丘陵地区，由于石材资源丰富，传统民居多采用石墙承重的结构形式，即墙体由石头砌筑，檩条直接搁置在墙体上，不设梁柱。这种结构形式的木材用量极小，造价低廉，施工简便，但室内空间较小，采光通风较差。如济南南部山区的石砌民居，多采用石墙承重的结构形式，房屋的进深较小，窗户较小，室内较为昏暗。</p>
+ <h4>1.3 结构形式特点</h4>
+ <p>鲁中地区传统民居的结构形式主要有抬梁式、穿斗式和混合式三种。抬梁式结构是北方传统民居最常用的结构形式，其特点是在柱上搁置梁，梁上搁置短柱，短柱上再搁置梁，层层叠叠，形成屋架。抬梁式结构的室内空间较大，采光通风较好，但木材用量较大，造价较高。鲁中地区富裕人家的传统民居多采用抬梁式结构。</p>
+ <p>穿斗式结构是南方传统民居最常用的结构形式，其特点是用穿枋将柱子串联起来，形成屋架，檩条直接搁置在柱子上。穿斗式结构的木材用量较小，造价较低，但室内空间较小，柱子较多，影响使用。鲁中地区普通人家的传统民居多采用穿斗式结构或抬梁式与穿斗式相结合的混合式结构。</p>
+ <p>在山地和丘陵地区，由于石材资源丰富，传统民居多采用石墙承重的结构形式，即墙体由石头砌筑，檩条直接搁置在墙体上，不设梁柱。这种结构形式的木材用量极小，造价低廉，施工简便，但室内空间较小，采光通风较差。如济南南部山区的石砌民居，多采用石墙承重的结构形式，房屋的进深较小，窗户较小，室内较为昏暗。</p>
 
-    <h4>1.4 装饰艺术特点</h4>
-    <p>鲁中地区传统民居的装饰艺术具有鲜明的地域特色，主要包括砖雕、木雕、石雕和彩绘等。砖雕主要用于门楼、影壁、屋脊、墀头等部位，题材多为吉祥图案、花鸟鱼虫、人物故事等。木雕主要用于门窗、隔扇、梁枋、雀替等部位，题材多为吉祥图案、花鸟鱼虫、人物故事等。石雕主要用于柱础、门枕、台阶、栏杆等部位，题材多为吉祥图案、花鸟鱼虫、人物故事等。彩绘主要用于梁枋、天花板、门窗等部位，题材多为吉祥图案、花鸟鱼虫、人物故事等。</p>
-    <p>鲁中地区传统民居的装饰艺术具有浓厚的乡土气息和文化内涵，体现了当地人民对美好生活的向往和追求。装饰的题材和内容多与当地的历史文化、民俗风情、宗教信仰等密切相关，具有鲜明的地域特色和时代特征。装饰的工艺和技法多为当地工匠世代相传，具有独特的艺术风格和技术水平。</p>
+ <h4>1.4 装饰艺术特点</h4>
+ <p>鲁中地区传统民居的装饰艺术具有鲜明的地域特色，主要包括砖雕、木雕、石雕和彩绘等。砖雕主要用于门楼、影壁、屋脊、墀头等部位，题材多为吉祥图案、花鸟鱼虫、人物故事等。木雕主要用于门窗、隔扇、梁枋、雀替等部位，题材多为吉祥图案、花鸟鱼虫、人物故事等。石雕主要用于柱础、门枕、台阶、栏杆等部位，题材多为吉祥图案、花鸟鱼虫、人物故事等。彩绘主要用于梁枋、天花板、门窗等部位，题材多为吉祥图案、花鸟鱼虫、人物故事等。</p>
+ <p>鲁中地区传统民居的装饰艺术具有浓厚的乡土气息和文化内涵，体现了当地人民对美好生活的向往和追求。装饰的题材和内容多与当地的历史文化、民俗风情、宗教信仰等密切相关，具有鲜明的地域特色和时代特征。装饰的工艺和技法多为当地工匠世代相传，具有独特的艺术风格和技术水平。</p>
 
-    <h3>2 新农居建筑设计原则</h3>
-    <h4>2.1 地域性原则</h4>
-    <p>地域性是新农居建筑设计的首要原则。新农居设计应充分尊重和体现当地的地域文化特色，继承和发扬传统民居的营造智慧，避免盲目照搬城市住宅模式或其他地区的建筑风格。在院落布局、建筑形式、材料构造、装饰细部等方面，应与当地的自然环境、历史文化、民俗风情相协调，塑造具有地域特色的乡村风貌。</p>
+ <h3>2 新农居建筑设计原则</h3>
+ <h4>2.1 地域性原则</h4>
+ <p>地域性是新农居建筑设计的首要原则。新农居设计应充分尊重和体现当地的地域文化特色，继承和发扬传统民居的营造智慧，避免盲目照搬城市住宅模式或其他地区的建筑风格。在院落布局、建筑形式、材料构造、装饰细部等方面，应与当地的自然环境、历史文化、民俗风情相协调，塑造具有地域特色的乡村风貌。</p>
 
-    <h4>2.2 适用性原则</h4>
-    <p>适用性是新农居建筑设计的核心原则。新农居设计应充分考虑农民的生产生活需求，合理组织居住空间和生产空间，满足农民的日常居住、农业生产、家庭副业、社交活动等多种功能需求。在院落布局、房间划分、设施配置等方面，应符合农民的生活习惯和使用方式，提高居住的舒适性和便利性。</p>
+ <h4>2.2 适用性原则</h4>
+ <p>适用性是新农居建筑设计的核心原则。新农居设计应充分考虑农民的生产生活需求，合理组织居住空间和生产空间，满足农民的日常居住、农业生产、家庭副业、社交活动等多种功能需求。在院落布局、房间划分、设施配置等方面，应符合农民的生活习惯和使用方式，提高居住的舒适性和便利性。</p>
 
-    <h4>2.3 经济性原则</h4>
-    <p>经济性是新农居建筑设计的重要原则。新农居设计应充分考虑农民的经济承受能力，合理控制建筑造价，降低建设成本和使用成本。在材料选择、结构形式、施工方式等方面，应优先采用当地出产的建筑材料和传统的施工工艺，减少材料运输和人工费用，提高建筑的性价比。</p>
+ <h4>2.3 经济性原则</h4>
+ <p>经济性是新农居建筑设计的重要原则。新农居设计应充分考虑农民的经济承受能力，合理控制建筑造价，降低建设成本和使用成本。在材料选择、结构形式、施工方式等方面，应优先采用当地出产的建筑材料和传统的施工工艺，减少材料运输和人工费用，提高建筑的性价比。</p>
 
-    <h4>2.4 生态性原则</h4>
-    <p>生态性是新农居建筑设计的发展方向。新农居设计应充分考虑建筑与自然环境的和谐共生，采用节能、节水、节材、节地的生态技术，减少建筑对环境的负面影响。在建筑布局、材料选择、构造方式、设备配置等方面，应充分利用当地的自然资源和气候条件，提高建筑的能源利用效率，改善室内的热舒适环境。</p>
+ <h4>2.4 生态性原则</h4>
+ <p>生态性是新农居建筑设计的发展方向。新农居设计应充分考虑建筑与自然环境的和谐共生，采用节能、节水、节材、节地的生态技术，减少建筑对环境的负面影响。在建筑布局、材料选择、构造方式、设备配置等方面，应充分利用当地的自然资源和气候条件，提高建筑的能源利用效率，改善室内的热舒适环境。</p>
 
-    <h3>3 新农居建筑设计策略</h3>
-    <h4>3.1 院落空间设计</h4>
-    <p>院落是传统民居的核心空间，也是农民生产生活的重要场所。新农居院落设计应继承传统民居院落布局的优点，结合现代生活需求进行优化和创新。在院落布局上，应保持坐北朝南的传统格局，主房位于北侧，东西两侧为厢房，南侧为大门或倒座，形成南北通透、东西对称的院落空间。在院落大小上，应根据家庭人口和生产需求合理确定，一般以150~250平方米为宜。在院落功能上，应合理划分居住空间、生产空间、储物空间、绿化空间等，满足农民的多种功能需求。</p>
-    <p>在山地和丘陵地区，院落布局应顺应地形，采用台地式或错层式布局，减少土方工程量，保护自然生态环境。在平原地区，院落布局应较为规整，采用矩形或方形布局，提高土地利用效率。在院落景观设计上，应结合当地的自然条件和文化特色，种植果树、蔬菜、花卉等，营造具有乡土气息的院落景观。</p>
+ <h3>3 新农居建筑设计策略</h3>
+ <h4>3.1 院落空间设计</h4>
+ <p>院落是传统民居的核心空间，也是农民生产生活的重要场所。新农居院落设计应继承传统民居院落布局的优点，结合现代生活需求进行优化和创新。在院落布局上，应保持坐北朝南的传统格局，主房位于北侧，东西两侧为厢房，南侧为大门或倒座，形成南北通透、东西对称的院落空间。在院落大小上，应根据家庭人口和生产需求合理确定，一般以150~250平方米为宜。在院落功能上，应合理划分居住空间、生产空间、储物空间、绿化空间等，满足农民的多种功能需求。</p>
+ <p>在山地和丘陵地区，院落布局应顺应地形，采用台地式或错层式布局，减少土方工程量，保护自然生态环境。在平原地区，院落布局应较为规整，采用矩形或方形布局，提高土地利用效率。在院落景观设计上，应结合当地的自然条件和文化特色，种植果树、蔬菜、花卉等，营造具有乡土气息的院落景观。</p>
 
-    <h4>3.2 建筑单体设计</h4>
-    <p>建筑单体是新农居的主体建筑，其设计质量直接关系到农民的居住品质。新农居建筑单体设计应继承传统民居建筑形式的优点，结合现代生活需求进行优化和创新。在建筑平面上，应采用多开间、小进深的布局形式，一般以3~5开间为宜，进深以6~8米为宜，提高建筑的采光通风效果。在建筑层高上，应根据当地的气候条件和使用需求合理确定，一般以3.0~3.3米为宜，既保证室内的空间感，又避免过高造成的能源浪费。在建筑立面上，应继承传统民居的比例关系和造型元素，采用坡屋顶、厚墙体、小窗户等传统建筑形式，塑造具有地域特色的建筑外观。</p>
-    <p>在房间功能划分上，应根据农民的生活习惯和使用需求合理确定，一般包括客厅、卧室、厨房、餐厅、卫生间、储物间等。客厅应位于主房的中间位置，面积较大，采光通风较好，是家庭活动和接待客人的主要场所。卧室应位于主房的两侧或厢房内，面积适中，私密性较好，满足家庭成员的休息需求。厨房和餐厅应位于主房的一侧或倒座内，与客厅和卧室既有联系又有分隔，避免油烟和噪音对居住空间的影响。卫生间应位于院内或室内，配备冲水马桶、洗手盆、淋浴等设施，满足农民的卫生需求。</p>
+ <h4>3.2 建筑单体设计</h4>
+ <p>建筑单体是新农居的主体建筑，其设计质量直接关系到农民的居住品质。新农居建筑单体设计应继承传统民居建筑形式的优点，结合现代生活需求进行优化和创新。在建筑平面上，应采用多开间、小进深的布局形式，一般以3~5开间为宜，进深以6~8米为宜，提高建筑的采光通风效果。在建筑层高上，应根据当地的气候条件和使用需求合理确定，一般以3.0~3.3米为宜，既保证室内的空间感，又避免过高造成的能源浪费。在建筑立面上，应继承传统民居的比例关系和造型元素，采用坡屋顶、厚墙体、小窗户等传统建筑形式，塑造具有地域特色的建筑外观。</p>
+ <p>在房间功能划分上，应根据农民的生活习惯和使用需求合理确定，一般包括客厅、卧室、厨房、餐厅、卫生间、储物间等。客厅应位于主房的中间位置，面积较大，采光通风较好，是家庭活动和接待客人的主要场所。卧室应位于主房的两侧或厢房内，面积适中，私密性较好，满足家庭成员的休息需求。厨房和餐厅应位于主房的一侧或倒座内，与客厅和卧室既有联系又有分隔，避免油烟和噪音对居住空间的影响。卫生间应位于院内或室内，配备冲水马桶、洗手盆、淋浴等设施，满足农民的卫生需求。</p>
 
-    <h4>3.3 材料构造设计</h4>
-    <p>材料构造是新农居建筑设计的重要内容，直接关系到建筑的质量、造价和性能。新农居材料构造设计应继承传统民居材料构造的优点，结合现代建筑技术进行优化和创新。在墙体材料上，应优先采用当地出产的石材、土材、砖材等，如山地和丘陵地区可采用石头砌筑墙体，平原地区可采用夯土或土坯砌筑墙体，经济条件较好的地区可采用砖砌筑墙体。在墙体构造上，应采用复合墙体构造，如外保温墙体、夹心保温墙体等，提高墙体的保温隔热性能。在墙体厚度上，应根据当地的气候条件和保温要求合理确定，一般以370~500毫米为宜。</p>
-    <p>在屋顶材料上，应优先采用当地出产的草材、石材、瓦材等，如山地和丘陵地区可采用石板覆盖屋顶，平原地区可采用麦草或茅草覆盖屋顶，经济条件较好的地区可采用瓦覆盖屋顶。在屋顶构造上，应采用坡屋顶构造，坡度一般以25°~35°为宜，既保证排水效果，又避免过大的风荷载。在屋顶保温上，应在屋面基层上铺设保温层，如聚苯板、岩棉板、草泥层等，提高屋顶的保温隔热性能。在门窗材料上，应优先采用木材、塑钢、断桥铝合金等，门窗的尺寸和位置应合理确定，既保证采光通风效果，又避免过大的热损失。</p>
+ <h4>3.3 材料构造设计</h4>
+ <p>材料构造是新农居建筑设计的重要内容，直接关系到建筑的质量、造价和性能。新农居材料构造设计应继承传统民居材料构造的优点，结合现代建筑技术进行优化和创新。在墙体材料上，应优先采用当地出产的石材、土材、砖材等，如山地和丘陵地区可采用石头砌筑墙体，平原地区可采用夯土或土坯砌筑墙体，经济条件较好的地区可采用砖砌筑墙体。在墙体构造上，应采用复合墙体构造，如外保温墙体、夹心保温墙体等，提高墙体的保温隔热性能。在墙体厚度上，应根据当地的气候条件和保温要求合理确定，一般以370~500毫米为宜。</p>
+ <p>在屋顶材料上，应优先采用当地出产的草材、石材、瓦材等，如山地和丘陵地区可采用石板覆盖屋顶，平原地区可采用麦草或茅草覆盖屋顶，经济条件较好的地区可采用瓦覆盖屋顶。在屋顶构造上，应采用坡屋顶构造，坡度一般以25°~35°为宜，既保证排水效果，又避免过大的风荷载。在屋顶保温上，应在屋面基层上铺设保温层，如聚苯板、岩棉板、草泥层等，提高屋顶的保温隔热性能。在门窗材料上，应优先采用木材、塑钢、断桥铝合金等，门窗的尺寸和位置应合理确定，既保证采光通风效果，又避免过大的热损失。</p>
 
-    <h4>3.4 装饰细部设计</h4>
-    <p>装饰细部是新农居建筑设计的点睛之笔，直接关系到建筑的艺术效果和文化内涵。新农居装饰细部设计应继承传统民居装饰艺术的优点，结合现代审美需求进行优化和创新。在装饰题材上，应优先采用当地传统的吉祥图案、花鸟鱼虫、人物故事等，体现当地的历史文化和民俗风情。在装饰部位上，应重点装饰门楼、影壁、屋脊、墀头、门窗、柱础等部位，突出建筑的重点和亮点。在装饰工艺上，应优先采用当地传统的砖雕、木雕、石雕、彩绘等工艺，体现当地工匠的技艺水平和艺术风格。</p>
-    <p>在装饰细部设计中，应注意避免过度装饰和盲目堆砌，坚持"少而精"的原则，在关键部位进行重点装饰，其他部位保持简洁朴素。在装饰材料的选择上，应优先采用当地出产的砖、木、石等材料，减少材料运输费用，降低装饰造价。在装饰色彩的选择上，应优先采用当地传统的色彩搭配，如青砖灰瓦、红门绿窗等，塑造具有地域特色的建筑色彩。</p>
+ <h4>3.4 装饰细部设计</h4>
+ <p>装饰细部是新农居建筑设计的点睛之笔，直接关系到建筑的艺术效果和文化内涵。新农居装饰细部设计应继承传统民居装饰艺术的优点，结合现代审美需求进行优化和创新。在装饰题材上，应优先采用当地传统的吉祥图案、花鸟鱼虫、人物故事等，体现当地的历史文化和民俗风情。在装饰部位上，应重点装饰门楼、影壁、屋脊、墀头、门窗、柱础等部位，突出建筑的重点和亮点。在装饰工艺上，应优先采用当地传统的砖雕、木雕、石雕、彩绘等工艺，体现当地工匠的技艺水平和艺术风格。</p>
+ <p>在装饰细部设计中，应注意避免过度装饰和盲目堆砌，坚持"少而精"的原则，在关键部位进行重点装饰，其他部位保持简洁朴素。在装饰材料的选择上，应优先采用当地出产的砖、木、石等材料，减少材料运输费用，降低装饰造价。在装饰色彩的选择上，应优先采用当地传统的色彩搭配，如青砖灰瓦、红门绿窗等，塑造具有地域特色的建筑色彩。</p>
 
-    <h3>4 总结</h3>
-    <p>新农居建设是乡村振兴战略的重要组成部分，其设计质量直接关系到农民的居住品质和乡村风貌的塑造。鲁中地区传统民居具有丰富的地域特色和深厚的文化内涵，是新农居设计的重要资源和灵感来源。本研究通过对鲁中地区传统民居的系统调研和深入分析，总结了该地区传统民居在院落布局、建筑材料、结构形式、装饰艺术等方面的地域特点，提出了新农居建筑设计应遵循的地域性、适用性、经济性和生态性原则，并从院落空间、建筑单体、材料构造、装饰细部等方面探讨了新农居的设计策略。</p>
-    <p>在新农居建筑设计中，应充分尊重和体现当地的地域文化特色，继承和发扬传统民居的营造智慧，避免盲目照搬城市住宅模式或其他地区的建筑风格。应充分考虑农民的生产生活需求，合理组织居住空间和生产空间，满足农民的多种功能需求。应充分考虑农民的经济承受能力，合理控制建筑造价，降低建设成本和使用成本。应充分考虑建筑与自然环境的和谐共生，采用节能、节水、节材、节地的生态技术，减少建筑对环境的负面影响。</p>
-    <p>本研究旨在为鲁中地区乃至山东省的新农居建设提供理论参考和实践指导，推动乡村振兴战略的顺利实施。由于时间和精力有限，本研究还存在一些不足之处，如对传统民居营造技艺的定量分析不够深入，对新农居设计的实践验证不够充分等，有待在今后的研究中进一步完善和深化。</p>
+ <h3>4 总结</h3>
+ <p>新农居建设是乡村振兴战略的重要组成部分，其设计质量直接关系到农民的居住品质和乡村风貌的塑造。鲁中地区传统民居具有丰富的地域特色和深厚的文化内涵，是新农居设计的重要资源和灵感来源。本研究通过对鲁中地区传统民居的系统调研和深入分析，总结了该地区传统民居在院落布局、建筑材料、结构形式、装饰艺术等方面的地域特点，提出了新农居建筑设计应遵循的地域性、适用性、经济性和生态性原则，并从院落空间、建筑单体、材料构造、装饰细部等方面探讨了新农居的设计策略。</p>
+ <p>在新农居建筑设计中，应充分尊重和体现当地的地域文化特色，继承和发扬传统民居的营造智慧，避免盲目照搬城市住宅模式或其他地区的建筑风格。应充分考虑农民的生产生活需求，合理组织居住空间和生产空间，满足农民的多种功能需求。应充分考虑农民的经济承受能力，合理控制建筑造价，降低建设成本和使用成本。应充分考虑建筑与自然环境的和谐共生，采用节能、节水、节材、节地的生态技术，减少建筑对环境的负面影响。</p>
+ <p>本研究旨在为鲁中地区乃至山东省的新农居建设提供理论参考和实践指导，推动乡村振兴战略的顺利实施。由于时间和精力有限，本研究还存在一些不足之处，如对传统民居营造技艺的定量分析不够深入，对新农居设计的实践验证不够充分等，有待在今后的研究中进一步完善和深化。</p>
 
-    <h3>参考文献</h3>
-    <p class="no-indent">[1] 姜波. 乡村振兴齐鲁样板背景下，山东传统民居的文化特色与传承[C]//在路上：乡村复兴论坛文集（八）·松阳卷. 2019.<br>
-    [2] 徐达, 胡安娜, 王学勇. 齐鲁传统民居保护与发展策略探析[J]. 山东农业大学学报(自然科学版), 2018, 49(4): 702-705.<br>
-    [3] 陈淑飞, 许艳. 乡村振兴战略下山东传统村落保护发展研究[J]. 山东社会科学, 2019(3): 123-128.<br>
-    [4] 卢海永, 胡海燕, 苗磊, 等. 鲁中山区传统民居形式与地域特征分析[J]. 山东农业大学学报(自然科学版), 2017, 48(5): 745-750.<br>
-    [5] 尹航, 赵鸣. 鲁中山地村落石砌民居形态与结构特征研究[J]. 中国园林, 2018, 34(增刊): 89-93.<br>
-    [6] 朱曦, 马亚. 卧云铺村传统民居营造技艺探析[J]. 专题研究, 2023(3): 45-50.<br>
-    [7] 岳甲林. 近现代齐鲁地区囤顶建筑形式演变研究[J]. 艺术科技, 2019, 32(8): 56-57.<br>
-    [8] 黄晓曼, 张广贺. 山东囤顶建筑木作营造体系研究——以泰安常庄古聚落为例[J]. 家具与室内装饰, 2020(5): 112-115.<br>
-    [9] 赵鹏飞. 山东运河生土民居实例探析[J]. 华中建筑, 2010, 28(9): 156-159.<br>
-    [10] 高海燕. 山东传统民居门面装饰解读[J]. 徐州建筑职业技术学院学报, 2009, 9(2): 23-26.</p>
-  </div>
+ <h3>参考文献</h3>
+ <p class="no-indent">[1] 姜波. 乡村振兴齐鲁样板背景下，山东传统民居的文化特色与传承[C]//在路上：乡村复兴论坛文集（八）·松阳卷. 2019.<br>
+ [2] 徐达, 胡安娜, 王学勇. 齐鲁传统民居保护与发展策略探析[J]. 山东农业大学学报(自然科学版), 2018, 49(4): 702-705.<br>
+ [3] 陈淑飞, 许艳. 乡村振兴战略下山东传统村落保护发展研究[J]. 山东社会科学, 2019(3): 123-128.<br>
+ [4] 卢海永, 胡海燕, 苗磊, 等. 鲁中山区传统民居形式与地域特征分析[J]. 山东农业大学学报(自然科学版), 2017, 48(5): 745-750.<br>
+ [5] 尹航, 赵鸣. 鲁中山地村落石砌民居形态与结构特征研究[J]. 中国园林, 2018, 34(增刊): 89-93.<br>
+ [6] 朱曦, 马亚. 卧云铺村传统民居营造技艺探析[J]. 专题研究, 2023(3): 45-50.<br>
+ [7] 岳甲林. 近现代齐鲁地区囤顶建筑形式演变研究[J]. 艺术科技, 2019, 32(8): 56-57.<br>
+ [8] 黄晓曼, 张广贺. 山东囤顶建筑木作营造体系研究——以泰安常庄古聚落为例[J]. 家具与室内装饰, 2020(5): 112-115.<br>
+ [9] 赵鹏飞. 山东运河生土民居实例探析[J]. 华中建筑, 2010, 28(9): 156-159.<br>
+ [10] 高海燕. 山东传统民居门面装饰解读[J]. 徐州建筑职业技术学院学报, 2009, 9(2): 23-26.</p>
+ </div>
 </div>
 
 </div><!-- container -->
 
 <div class="footer">
-  <p><strong>山东民居与建筑学术文献全文原文汇编（第1轮）</strong></p>
-  <p>本轮收录 5 篇可开放获取的学术论文与学位论文<strong>完整全文原文</strong>，不作任何删减、改写或摘要</p>
-  <p>英文文献保留英文原文，中文文献保留中文原文，每篇标注作者、出处、原文链接</p>
-  <p>文件位置：C:\Users\wade_dell\OneDrive\zlibrary\山东民居建筑村落资料\</p>
-  <p>下一轮将继续搜集更多可开放获取的全文论文，持续累积</p>
+ <p><strong>山东民居与建筑学术文献全文原文汇编（第1轮）</strong></p>
+ <p>本轮收录 5 篇可开放获取的学术论文与学位论文<strong>完整全文原文</strong>，不作任何删减、改写或摘要</p>
+ <p>英文文献保留英文原文，中文文献保留中文原文，每篇标注作者、出处、原文链接</p>
+ <p>文件位置：C:\Users\wade_dell\OneDrive\zlibrary\山东民居建筑村落资料\</p>
+ <p>下一轮将继续搜集更多可开放获取的全文论文，持续累积</p>
 </div>
 
+
+
+<!-- ARCHIVE BOTTOM NAV -->
+<nav id="__bottom_nav" style="background:#1a1a1a;color:#b0b0b0;padding:10px 16px;display:flex;flex-wrap:wrap;gap:2px;justify-content:center;align-items:center;font-size:11px;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif;margin-top:20px;border-top:3px solid #9e3a2c;">
+ <a href="#top" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Top</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../#cat-01" style="color:#c45a4b;text-decoration:none;padding:3px 7px;border-radius:3px;">省级建筑</a>
+ <a href="../../#cat-02" style="color:#3d6b5e;text-decoration:none;padding:3px 7px;border-radius:3px;">村落民居</a>
+ <a href="../../#cat-03" style="color:#a8844a;text-decoration:none;padding:3px 7px;border-radius:3px;">海外研究</a>
+ <a href="../../#cat-04" style="color:#d4c8b0;text-decoration:none;padding:3px 7px;border-radius:3px;">体风分析</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../index.json" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Data</a>
+ <a href="https://github.com/Wadesha/architecture-daily" target="_blank" rel="noopener" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;">Repo</a>
+ <span style="color:#6b6b6b;padding:0 2px;font-size:10px;">·</span>
+ <a href="../../" style="color:#b0b0b0;text-decoration:none;padding:3px 7px;border-radius:3px;"> 首页 Home</a>
+</nav>
+<!-- /ARCHIVE BOTTOM NAV -->
+<nav id="arch-nav-bot">
+  <a href="#top">↑ 顶部</a><span class="sep">·</span>
+  <a href="../../index.html">← 目录</a>
+</nav>
 </body>
 </html>
 

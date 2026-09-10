@@ -1,728 +1,728 @@
 [
-  {
-    "id": 1,
-    "cn": "斗拱",
-    "en": "Bracket Set (Dougong)",
-    "category": "建筑结构",
-    "def_zh": "斗拱是中国古代建筑中柱梁之间的承重构件，由方形的斗、升和弓形的拱、昂层层叠加而成，将屋檐重量均匀传递到柱子上。江苏地区的斗拱在明清时期逐渐装饰化，苏州园林建筑中的斗拱小巧精致，与北方雄浑的斗拱风格形成鲜明对比。",
-    "def_en": "The bracket set (dougong) is a load-bearing component between columns and beams in ancient Chinese architecture, composed of square blocks (dou/sheng) and bow-shaped arms (gong/ang) stacked in layers, distributing eave weight evenly to columns. In Jiangsu, Ming-Qing bracket sets became increasingly decorative; those in Suzhou gardens are small and exquisite, contrasting with the robust northern style.",
-    "examples": "苏州文庙、南京明孝陵、扬州个园",
-    "related": [
-      "叉手",
-      "托脚",
-      "卷棚顶",
-      "苏式彩画"
-    ]
-  },
-  {
-    "id": 2,
-    "cn": "卷棚顶",
-    "en": "Round Ridge Roof (Juanpengding)",
-    "category": "建筑结构",
-    "def_zh": "卷棚顶是中国古建筑屋顶形式之一，没有正脊，屋顶前后坡相接处呈弧形曲面，以筒瓦覆盖。卷棚顶线条柔和优美，在江苏园林建筑中广泛使用，尤其适用于轩、榭、廊等小品建筑，与江南水乡的温婉气质相得益彰。",
-    "def_en": "The round ridge roof (juanpengding) is a traditional Chinese roof form without a main ridge, where the front and rear slopes meet in a gentle arc covered with semi-cylindrical tiles. With soft, elegant lines, it is widely used in Jiangsu garden architecture, particularly for pavilions, terraces, and corridors, complementing the gentle character of Jiangnan water towns.",
-    "examples": "拙政园梧竹幽居、留园明瑟楼、网师园濯缨水阁",
-    "related": [
-      "歇山顶",
-      "硬山顶",
-      "苏式彩画"
-    ]
-  },
-  {
-    "id": 3,
-    "cn": "马头墙",
-    "en": "Horse-Head Wall (Matouqiang)",
-    "category": "建筑结构",
-    "def_zh": "马头墙是江南民居中高出屋顶的封火墙，因顶端形似马头而得名。其功能是在密集的民居中阻隔火势蔓延，同时具有强烈的装饰效果。江苏南部和上海地区的马头墙多为阶梯状，层层叠落，粉刷成白色，与青瓦形成鲜明对比，是江南水乡的标志性元素。",
-    "def_en": "The horse-head wall (matouqiang) is a fire wall rising above the roof in Jiangnan residences, named for its horse-head-shaped top. It prevents fire spread in dense residential areas while serving as a strong decorative element. In southern Jiangsu and Shanghai, horse-head walls are typically stepped, layered, and whitewashed, contrasting sharply with dark tiles—a signature element of Jiangnan water towns.",
-    "examples": "周庄古镇、同里古镇、上海朱家角古镇",
-    "related": [
-      "粉墙黛瓦",
-      "江南民居",
-      "水乡古镇"
-    ]
-  },
-  {
-    "id": 4,
-    "cn": "粉墙黛瓦",
-    "en": "White Walls and Black Tiles (Fenqiang Daiwa)",
-    "category": "建筑结构",
-    "def_zh": "粉墙黛瓦是江南建筑最典型的外观特征：墙面以白灰粉刷，屋顶覆盖青黑色小瓦。黑白对比简洁素雅，与江南水乡的小桥流水共同构成诗意的画面。这种风格在江苏苏州、无锡、常州及上海地区的传统民居和园林中普遍存在。",
-    "def_en": "White walls and black tiles (fenqiang daiwa) is the most typical visual feature of Jiangnan architecture: walls plastered white with lime, roofs covered with dark grey small tiles. The stark black-white contrast is simple and elegant, forming poetic scenes with the small bridges and flowing water of Jiangnan. This style is ubiquitous in traditional residences and gardens in Suzhou, Wuxi, Changzhou, and Shanghai.",
-    "examples": "苏州平江路、无锡清名桥、上海新场古镇",
-    "related": [
-      "马头墙",
-      "江南民居",
-      "水乡古镇"
-    ]
-  },
-  {
-    "id": 5,
-    "cn": "花窗",
-    "en": "Ornamental Window (Huachuang)",
-    "category": "建筑结构",
-    "def_zh": "花窗是江南园林和民居中具有装饰性的窗户，以砖、木、石等材料雕刻成各种图案，如冰裂纹、海棠纹、回纹、万字纹等。花窗既分隔空间又不隔绝视线，通过窗孔取景，形成'框景'效果。苏州园林中的花窗式样多达数百种，是江南建筑装饰艺术的精华。",
-    "def_en": "Ornamental windows (huachuang) are decorative windows in Jiangnan gardens and residences, carved from brick, wood, or stone into patterns such as ice-crack, begonia, meander, and swastika motifs. They divide space without blocking views, creating 'framed scenery' through the openings. Suzhou gardens feature hundreds of window patterns, representing the essence of Jiangnan architectural decoration.",
-    "examples": "拙政园、留园、网师园、沧浪亭",
-    "related": [
-      "漏窗",
-      "框景",
-      "借景",
-      "挂落"
-    ]
-  },
-  {
-    "id": 6,
-    "cn": "漏窗",
-    "en": "Lattice Window (Louchuang)",
-    "category": "建筑结构",
-    "def_zh": "漏窗是一种镂空的花窗，窗洞内以砖瓦或木石构成各种几何图案和动植物纹样，光线和空气可以透过，同时起到装饰和框景作用。漏窗在苏州园林中运用最为广泛，沧浪亭的108式漏窗最为著名，被誉为'漏窗博物馆'。",
-    "def_en": "Lattice windows (louchuang) are openwork ornamental windows with geometric, plant, or animal patterns formed by brick, tile, wood, or stone inside the opening, allowing light and air to pass through while serving decorative and framing purposes. Most extensively used in Suzhou gardens, the 108 lattice window patterns at Canglang Pavilion are renowned as a 'museum of lattice windows'.",
-    "examples": "沧浪亭、狮子林、艺圃",
-    "related": [
-      "花窗",
-      "框景",
-      "借景"
-    ]
-  },
-  {
-    "id": 7,
-    "cn": "挂落",
-    "en": "Hanging Lattice (Gualuo)",
-    "category": "建筑结构",
-    "def_zh": "挂落是中国传统建筑中檐柱之间悬挂的装饰性构件，通常为镂空木雕，安装在廊柱之间的上方，形如倒挂的楣子。挂落在江苏园林建筑中极为常见，图案多为万字纹、回纹、冰裂纹等，既装饰空间又不影响通行，是江南建筑精致工艺的体现。",
-    "def_en": "Hanging lattice (gualuo) is a decorative component suspended between eaves columns in traditional Chinese architecture, usually an openwork wood carving installed above the passage between corridor columns, resembling an inverted lintel. Extremely common in Jiangsu garden architecture, its patterns include swastika, meander, and ice-crack motifs—decorating space without obstructing passage, embodying the exquisite craftsmanship of Jiangnan architecture.",
-    "examples": "拙政园、留园、上海豫园",
-    "related": [
-      "花窗",
-      "美人靠",
-      "轩"
-    ]
-  },
-  {
-    "id": 8,
-    "cn": "美人靠",
-    "en": "Beauty's Rest (Meirenkao)",
-    "category": "建筑结构",
-    "def_zh": "美人靠是江南园林中设置在廊、榭、阁外侧的弧形靠背坐凳，因形似美人倚靠而得名。通常用木材制成，靠背呈优雅的弧线，既可供人坐憩观景，又是优美的建筑装饰。美人靠与水面、花木配合，营造出江南园林特有的闲适意境。",
-    "def_en": "Beauty's rest (meirenkao) is a curved backrest bench installed outside corridors, terraces, and pavilions in Jiangnan gardens, named for its resemblance to a leaning beauty. Usually made of wood with an elegantly curved backrest, it provides seating for viewing scenery while serving as graceful architectural decoration. Combined with water and plants, it creates the distinctive leisurely atmosphere of Jiangnan gardens.",
-    "examples": "拙政园小飞虹、留园明瑟楼、网师园濯缨水阁",
-    "related": [
-      "轩",
-      "榭",
-      "廊",
-      "挂落"
-    ]
-  },
-  {
-    "id": 9,
-    "cn": "须弥座",
-    "en": "Sumeru Pedestal (Xumizuo)",
-    "category": "建筑结构",
-    "def_zh": "须弥座是中国古代建筑和雕塑中常用的台基形式，源自佛教须弥山的意象，由多层线脚和束腰组成，造型庄重华丽。江苏地区的须弥座多见于寺庙佛塔、宫殿坛庙和重要建筑的台基，南京明孝陵的须弥座雕刻精美，是明初官式建筑的代表。",
-    "def_en": "The Sumeru pedestal (xumizuo) is a common platform form in ancient Chinese architecture and sculpture, derived from the Buddhist Mount Sumeru, composed of multiple moldings and a constricted waist, with a solemn and ornate form. In Jiangsu, Sumeru pedestals are found in temple pagodas, palace temples, and important building foundations; the exquisitely carved pedestals at Ming Xiaoling in Nanjing represent early Ming official architecture.",
-    "examples": "南京明孝陵、苏州云岩寺塔、扬州大明寺",
-    "related": [
-      "佛塔",
-      "宫殿建筑",
-      "台基"
-    ]
-  },
-  {
-    "id": 10,
-    "cn": "苏式彩画",
-    "en": "Suzhou-Style Painted Decoration (Sushi Caihua)",
-    "category": "建筑结构",
-    "def_zh": "苏式彩画是中国古建筑彩画的三大流派之一，起源于苏州，流行于江南园林和民居。与北方和玺彩画、旋子彩画的庄重不同，苏式彩画题材丰富，包括山水、花鸟、人物、故事等，色彩柔和淡雅，构图灵活，多用于园林建筑的梁枋、挂落等处。",
-    "def_en": "Suzhou-style painted decoration (sushi caihua) is one of the three major schools of ancient Chinese architectural painting, originating in Suzhou and popular in Jiangnan gardens and residences. Unlike the solemn imperial and revolving-flower paintings of the north, Suzhou-style painting features rich subjects including landscapes, flowers, birds, figures, and stories, with soft colors and flexible composition, used on beams, lintels, and hanging lattices in garden buildings.",
-    "examples": "拙政园、留园、苏州狮子林",
-    "related": [
-      "和玺彩画",
-      "旋子彩画",
-      "挂落"
-    ]
-  },
-  {
-    "id": 11,
-    "cn": "楠木厅",
-    "en": "Nanmu Hall (Nanmu Ting)",
-    "category": "建筑结构",
-    "def_zh": "楠木厅是全部或主要构件用金丝楠木建造的厅堂，是江南民居和园林中等级最高的建筑形式。楠木质地坚硬、纹理美观、有香气且防蛀，极为珍贵。江苏地区保存有多处楠木厅，如苏州网师园的万卷堂、南京朝天宫的敬一亭等，是研究江南建筑工艺的重要实物。",
-    "def_en": "A nanmu hall is a hall built entirely or primarily with golden-thread nanmu wood, the highest-grade building form in Jiangnan residences and gardens. Nanmu is hard, beautifully grained, fragrant, and insect-resistant, making it extremely precious. Several nanmu halls survive in Jiangsu, including the Wanjuan Hall at Wangshi Garden in Suzhou and the Jingyi Pavilion at Chaotian Palace in Nanjing—important artifacts for studying Jiangnan building craftsmanship.",
-    "examples": "网师园万卷堂、南京朝天宫、苏州东山雕花楼",
-    "related": [
-      "鸳鸯厅",
-      "四面厅",
-      "花篮厅"
-    ]
-  },
-  {
-    "id": 12,
-    "cn": "叉手",
-    "en": "Forked Hand (Chashou)",
-    "category": "建筑结构",
-    "def_zh": "叉手是中国古代建筑梁架结构中的斜撑构件，呈人字形，支撑在平梁上方与脊槫之间，起固定脊槫的作用。叉手在唐宋建筑中普遍使用，明清时期逐渐被脊柱取代。江苏地区的宋代和元代建筑中仍可见叉手实例，如苏州虎丘塔、南京栖霞寺舍利塔等。",
-    "def_en": "The forked hand (chashou) is a diagonal brace in ancient Chinese timber framing, V-shaped, supporting between the top of the flat beam and the ridge purlin to fix it in place. Common in Tang-Song architecture, it was gradually replaced by the ridge column in the Ming-Qing period. Surviving examples in Jiangsu include the Tiger Hill Pagoda in Suzhou and the Qixia Temple Stupa in Nanjing.",
-    "examples": "苏州云岩寺塔、南京栖霞寺舍利塔、扬州大明寺",
-    "related": [
-      "托脚",
-      "驼峰",
-      "斗拱"
-    ]
-  },
-  {
-    "id": 13,
-    "cn": "江南园林",
-    "en": "Jiangnan Garden (Jiangnan Yuanlin)",
-    "category": "建筑类型",
-    "def_zh": "江南园林是中国古典园林的代表流派，主要分布在苏州、扬州、南京、无锡、上海等地，以私家园林为主。其特点是在有限空间内模拟自然山水，运用借景、对景、框景等手法，建筑与山水花木融为一体。苏州拙政园、留园、网师园、环秀山庄等9座园林被列入世界文化遗产。",
-    "def_en": "Jiangnan gardens are the representative school of classical Chinese gardens, mainly distributed in Suzhou, Yangzhou, Nanjing, Wuxi, and Shanghai, primarily private gardens. They simulate natural landscapes within limited space using techniques such as borrowed scenery, opposite scenery, and framed scenery, integrating architecture with mountains, water, and plants. Nine Suzhou gardens including Humble Administrator's Garden, Lingering Garden, Master of Nets Garden, and Mountain Villa with Embracing Beauty are UNESCO World Heritage Sites.",
-    "examples": "拙政园、留园、网师园、个园、豫园",
-    "related": [
-      "借景",
-      "对景",
-      "框景",
-      "叠山理水"
-    ]
-  },
-  {
-    "id": 14,
-    "cn": "水乡古镇",
-    "en": "Water Town (Shuixiang Guzhen)",
-    "category": "建筑类型",
-    "def_zh": "水乡古镇是江南地区依水而建的传统城镇，以河成街、桥街相连、粉墙黛瓦为特征。江苏和上海地区保存有众多水乡古镇，如周庄、同里、甪直、木渎、朱家角、新场等。古镇内河道纵横，古桥众多，民居临水而建，是江南水乡文化的活态博物馆。",
-    "def_en": "Water towns are traditional towns built along waterways in the Jiangnan region, characterized by streets along rivers, bridges connecting streets, and white walls with dark tiles. Numerous water towns survive in Jiangsu and Shanghai, including Zhouzhuang, Tongli, Luzhi, Mudu, Zhujiajiao, and Xinchang. With crisscrossing waterways, many ancient bridges, and waterside residences, they are living museums of Jiangnan water town culture.",
-    "examples": "周庄、同里、甪直、朱家角、新场",
-    "related": [
-      "粉墙黛瓦",
-      "马头墙",
-      "古桥",
-      "江南民居"
-    ]
-  },
-  {
-    "id": 15,
-    "cn": "江南民居",
-    "en": "Jiangnan Residence (Jiangnan Minju)",
-    "category": "建筑类型",
-    "def_zh": "江南民居是长江下游地区的传统居住建筑，多为砖木结构的二层楼房，布局紧凑，院落较小（称为'天井'），以利通风采光。外观粉墙黛瓦，内部雕刻精美，苏州的东山、西山和上海的陆家嘴等地保存有大量明清江南民居。江南民居体现了适应南方湿热气候的建筑智慧。",
-    "def_en": "Jiangnan residences are traditional dwellings in the lower Yangtze region, mostly two-story brick-wood structures with compact layouts and small courtyards (called 'tianjing') for ventilation and light. With white walls, dark tiles, and exquisite interior carvings, numerous Ming-Qing Jiangnan residences survive in Suzhou's Dongshan and Xishan areas and Shanghai's Lujiazui. They embody architectural wisdom adapted to the humid southern climate.",
-    "examples": "苏州东山陆巷古村、无锡严家桥、上海高桥古镇",
-    "related": [
-      "粉墙黛瓦",
-      "马头墙",
-      "天井",
-      "水乡古镇"
-    ]
-  },
-  {
-    "id": 16,
-    "cn": "楼阁式塔",
-    "en": "Pavilion-Style Pagoda (Lougeshi Ta)",
-    "category": "建筑类型",
-    "def_zh": "楼阁式塔是中国佛塔的主要类型之一，源于印度窣堵坡与中国楼阁的结合，塔身多层，每层有门窗、斗拱、平座等，可登临远眺。江苏地区楼阁式塔数量众多，苏州云岩寺塔（虎丘塔）、报恩寺塔（北寺塔）、瑞光塔，南京鸡鸣寺塔，扬州大明寺栖灵塔等都是著名实例。",
-    "def_en": "Pavilion-style pagodas are a major type of Chinese Buddhist pagoda, derived from the combination of Indian stupas and Chinese pavilions, with multiple stories featuring doors, windows, bracket sets, and balconies for climbing and viewing. Jiangsu has numerous pavilion-style pagodas, including the Tiger Hill Pagoda (Yunyan Temple Pagoda), North Temple Pagoda (Baoen Temple Pagoda), and Ruiguang Pagoda in Suzhou, Jiming Temple Pagoda in Nanjing, and Qiling Pagoda at Daming Temple in Yangzhou.",
-    "examples": "苏州云岩寺塔、苏州报恩寺塔、南京鸡鸣寺塔",
-    "related": [
-      "密檐式塔",
-      "佛塔",
-      "砖木结构"
-    ]
-  },
-  {
-    "id": 17,
-    "cn": "密檐式塔",
-    "en": "Multi-Eaved Pagoda (Miyanshi Ta)",
-    "category": "建筑类型",
-    "def_zh": "密檐式塔是中国佛塔的主要类型之一，第一层塔身较高，以上各层塔檐紧密重叠，多为实心，不可登临。江苏地区的密檐式塔以南京栖霞寺舍利塔最为著名，为五代南唐时期的石塔，雕刻精美。此外，苏州灵岩寺塔、镇江甘露寺铁塔等也属此类。",
-    "def_en": "Multi-eaved pagodas are a major type of Chinese Buddhist pagoda, with a tall first story followed by closely stacked eaves above, usually solid and not climbable. The most famous in Jiangsu is the Qixia Temple Stupa in Nanjing, a stone pagoda from the Southern Tang period of the Five Dynasties with exquisite carvings. Others include the Lingyan Temple Pagoda in Suzhou and the Ganlu Temple Iron Pagoda in Zhenjiang.",
-    "examples": "南京栖霞寺舍利塔、苏州灵岩寺塔、镇江甘露寺铁塔",
-    "related": [
-      "楼阁式塔",
-      "佛塔",
-      "石塔"
-    ]
-  },
-  {
-    "id": 18,
-    "cn": "寺庙",
-    "en": "Buddhist Temple (Simiao)",
-    "category": "建筑类型",
-    "def_zh": "江苏地区佛教历史悠久，寺庙众多，著名的有苏州寒山寺、西园寺、灵岩山寺，南京栖霞寺、鸡鸣寺、灵谷寺，扬州大明寺、高旻寺，镇江金山寺、焦山定慧寺、隆昌寺，上海龙华寺、玉佛寺、沉香阁等。这些寺庙多为明清建筑，保存有佛像、经幢、碑刻等珍贵文物。",
-    "def_en": "Jiangsu has a long Buddhist history with numerous temples, including Hanshan Temple, Xiyuan Temple, and Lingyanshan Temple in Suzhou; Qixia Temple, Jiming Temple, and Linggu Temple in Nanjing; Daming Temple and Gaomin Temple in Yangzhou; Jinshan Temple, Jiaoshan Dingshui Temple, and Longchang Temple in Zhenjiang; and Longhua Temple, Jade Buddha Temple, and Chenxiang Pavilion in Shanghai. Most are Ming-Qing buildings preserving precious artifacts such as Buddhist statues, scripture pillars, and steles.",
-    "examples": "苏州寒山寺、南京栖霞寺、扬州大明寺、上海龙华寺",
-    "related": [
-      "佛塔",
-      "经幢",
-      "石窟",
-      "彩塑"
-    ]
-  },
-  {
-    "id": 19,
-    "cn": "陵墓",
-    "en": "Mausoleum (Lingmu)",
-    "category": "建筑类型",
-    "def_zh": "江苏地区保存有多处重要古代陵墓，南京明孝陵是明太祖朱元璋的陵墓，2003年被列入世界文化遗产，其神道石刻和方城明楼是明代帝陵制度的开创者。此外还有南京南唐二陵、中山陵（近代）、镇江句容南朝陵墓石刻等，是研究中国古代陵寝制度的重要实物。",
-    "def_en": "Jiangsu preserves several important ancient mausoleums. Ming Xiaoling in Nanjing, the tomb of the Hongwu Emperor (founder of the Ming dynasty), was listed as a UNESCO World Heritage Site in 2003; its spirit way stone carvings and square city with Ming tower pioneered the Ming imperial mausoleum system. Others include the Two Mausoleums of the Southern Tang in Nanjing, Sun Yat-sen Mausoleum (modern), and the Southern Dynasties tomb stone carvings in Jurong, Zhenjiang—important artifacts for studying ancient Chinese mausoleum systems.",
-    "examples": "南京明孝陵、南京南唐二陵、句容南朝陵墓石刻",
-    "related": [
-      "石像生",
-      "神道",
-      "须弥座",
-      "世界文化遗产"
-    ]
-  },
-  {
-    "id": 20,
-    "cn": "城墙",
-    "en": "City Wall (Chengqiang)",
-    "category": "建筑类型",
-    "def_zh": "江苏地区保存有多处古代城墙，南京明城墙是世界上现存最长的砖石结构城墙，全长35.2公里，始建于1366年，中华门瓮城是中国现存最大的瓮城。苏州盘门是中国现存唯一的水陆并联城门。这些城墙是研究古代城市防御体系的重要实物。",
-    "def_en": "Jiangsu preserves several ancient city walls. The Nanjing Ming City Wall is the world's longest surviving brick-stone city wall, 35.2 km long, begun in 1366; the Zhonghua Gate barbican is China's largest surviving barbican. Suzhou's Panmen is China's only surviving combined land-water gate. These walls are important artifacts for studying ancient urban defense systems.",
-    "examples": "南京明城墙、中华门瓮城、苏州盘门",
-    "related": [
-      "瓮城",
-      "城门",
-      "古代城市"
-    ]
-  },
-  {
-    "id": 21,
-    "cn": "会馆",
-    "en": "Guild Hall (Huiguan)",
-    "category": "建筑类型",
-    "def_zh": "会馆是明清时期同乡或同业在城市中建立的聚会场所，多为建筑精美、装饰华丽的院落。江苏地区的会馆以苏州全晋会馆（现苏州博物馆）、上海三山会馆、苏州潮州会馆等为代表，建筑融合了南北风格，砖雕、木雕、石雕精美，是研究明清商业和建筑文化的重要实物。",
-    "def_en": "Guild halls were gathering places established by people from the same hometown or trade in cities during the Ming-Qing period, usually exquisitely built and decorated courtyards. Representative examples in Jiangsu include the Quanjin Guild Hall in Suzhou (now Suzhou Museum), the Sanshan Guild Hall in Shanghai, and the Chaozhou Guild Hall in Suzhou. Their architecture blends northern and southern styles with exquisite brick, wood, and stone carvings—important artifacts for studying Ming-Qing commerce and architectural culture.",
-    "examples": "苏州全晋会馆、上海三山会馆、苏州潮州会馆",
-    "related": [
-      "戏台",
-      "砖雕",
-      "木雕",
-      "晋商"
-    ]
-  },
-  {
-    "id": 22,
-    "cn": "古桥",
-    "en": "Ancient Bridge (Guqiao)",
-    "category": "建筑类型",
-    "def_zh": "江苏地区水网密布，古桥众多，形式多样，包括石拱桥、石梁桥、廊桥等。苏州宝带桥是中国现存最长的多孔石拱桥，全长317米，53孔；扬州五亭桥是中国园林桥的经典之作；周庄双桥、同里三桥等水乡古桥则与古镇融为一体。这些古桥是江南水乡文化的重要组成部分。",
-    "def_en": "With its dense water network, Jiangsu has numerous ancient bridges in various forms including stone arch bridges, stone beam bridges, and covered bridges. Suzhou's Baodai Bridge is China's longest surviving multi-arch stone bridge, 317 meters long with 53 arches; Yangzhou's Five-Pavilion Bridge is a classic Chinese garden bridge; water town bridges like Zhouzhuang's Twin Bridges and Tongli's Three Bridges integrate with the ancient towns. These bridges are essential components of Jiangnan water town culture.",
-    "examples": "苏州宝带桥、扬州五亭桥、周庄双桥",
-    "related": [
-      "水乡古镇",
-      "石拱桥",
-      "廊桥"
-    ]
-  },
-  {
-    "id": 23,
-    "cn": "孔庙",
-    "en": "Confucian Temple (Kongmiao)",
-    "category": "建筑类型",
-    "def_zh": "孔庙（文庙）是祭祀孔子和地方教育中心的建筑，江苏地区保存有多处孔庙。南京夫子庙是中国四大文庙之一，现为著名的文化商业区；苏州文庙始建于北宋，保存有宋代石刻《天文图》《地理图》等珍贵文物；上海嘉定孔庙是江南地区保存最完整的孔庙之一。",
-    "def_en": "Confucian temples (wenmiao) are buildings for worshipping Confucius and serving as local education centers. Several survive in Jiangsu. Nanjing's Fuzimiao is one of China's Four Great Confucian Temples, now a famous cultural and commercial district; Suzhou's Confucian Temple, founded in the Northern Song, preserves precious Song stone carvings including the 'Astronomical Chart' and 'Geographical Chart'; Shanghai's Jiading Confucian Temple is one of the best-preserved in Jiangnan.",
-    "examples": "南京夫子庙、苏州文庙、上海嘉定孔庙",
-    "related": [
-      "学宫",
-      "牌坊",
-      "碑刻"
-    ]
-  },
-  {
-    "id": 24,
-    "cn": "私家园林",
-    "en": "Private Garden (Sijia Yuanlin)",
-    "category": "建筑类型",
-    "def_zh": "私家园林是江南园林的主体，由文人、官僚、富商营建，追求'虽由人作，宛自天开'的意境。与皇家园林的宏大不同，私家园林小巧精致，注重空间层次和文化内涵。江苏私家园林以苏州为最，扬州个园以叠石闻名，上海豫园是明代私人园林的代表。",
-    "def_en": "Private gardens are the main body of Jiangnan gardens, built by literati, officials, and wealthy merchants, pursuing the ideal of 'though made by man, looks like nature'. Unlike the grandeur of imperial gardens, private gardens are small and exquisite, emphasizing spatial layers and cultural meaning. Suzhou has the finest private gardens; Yangzhou's Ge Garden is famous for rockery piling; Shanghai's Yu Garden is a representative Ming private garden.",
-    "examples": "拙政园、留园、个园、豫园、网师园",
-    "related": [
-      "江南园林",
-      "借景",
-      "叠山理水",
-      "文人园林"
-    ]
-  },
-  {
-    "id": 25,
-    "cn": "楼阁",
-    "en": "Tower-Pavilion (Louge)",
-    "category": "建筑类型",
-    "def_zh": "楼阁是中国古代多层建筑的统称，在江苏地区多见于园林、寺庙和城市中。著名的有南京阅江楼、鼓楼，苏州钟楼、多宝楼，扬州文昌阁，上海大境阁等。楼阁多为砖木结构，造型优美，既是观景平台，又是城市地标。江苏的楼阁建筑体现了江南建筑精巧秀丽的风格。",
-    "def_en": "Tower-pavilions are multi-story ancient Chinese buildings, found in gardens, temples, and cities throughout Jiangsu. Famous examples include Yuejiang Tower and the Drum Tower in Nanjing, the Bell Tower and Duobao Tower in Suzhou, Wenchang Pavilion in Yangzhou, and Dajing Pavilion in Shanghai. Mostly brick-wood structures with elegant forms, they serve as viewing platforms and city landmarks, embodying the delicate and graceful style of Jiangnan architecture.",
-    "examples": "南京阅江楼、南京鼓楼、扬州文昌阁",
-    "related": [
-      "园林建筑",
-      "钟楼",
-      "鼓楼"
-    ]
-  },
-  {
-    "id": 26,
-    "cn": "砖雕",
-    "en": "Brick Carving (Zhuandiao)",
-    "category": "建筑装饰",
-    "def_zh": "砖雕是在青砖上雕刻图案的建筑装饰工艺，江苏地区的砖雕以苏州、扬州、南京为代表，题材包括人物故事、花鸟虫鱼、山水楼阁等，工艺精细，层次丰富。苏州东山雕花楼的砖雕被誉为'江南第一砖雕'，是江南砖雕艺术的巅峰之作。",
-    "def_en": "Brick carving is an architectural decorative technique of carving patterns on grey bricks, represented in Jiangsu by Suzhou, Yangzhou, and Nanjing. Subjects include figure stories, flowers, birds, insects, fish, landscapes, and pavilions, with fine craftsmanship and rich layers. The brick carvings at Suzhou's Dongshan Carved Building are known as the 'finest brick carvings in Jiangnan', representing the pinnacle of the art.",
-    "examples": "苏州东山雕花楼、扬州个园、南京甘熙宅第",
-    "related": [
-      "木雕",
-      "石雕",
-      "苏式彩画"
-    ]
-  },
-  {
-    "id": 27,
-    "cn": "木雕",
-    "en": "Wood Carving (Mudiao)",
-    "category": "建筑装饰",
-    "def_zh": "木雕是江南建筑中最常见的装饰工艺，多用于梁枋、雀替、挂落、门窗等处。江苏木雕以苏州、扬州为中心，技法包括浮雕、透雕、圆雕等，题材丰富，工艺精湛。苏州网师园、拙政园的木雕，扬州个园、何园的木雕都是江南木雕艺术的精品。",
-    "def_en": "Wood carving is the most common decorative technique in Jiangnan architecture, used on beams, spandrels, hanging lattices, doors, and windows. Centered in Suzhou and Yangzhou, Jiangsu wood carving employs relief, openwork, and round carving techniques with rich subjects and superb craftsmanship. The wood carvings at Suzhou's Wangshi Garden and Humble Administrator's Garden, and Yangzhou's Ge Garden and He Garden are fine examples of Jiangnan wood carving art.",
-    "examples": "拙政园、网师园、扬州个园、苏州东山雕花楼",
-    "related": [
-      "砖雕",
-      "石雕",
-      "挂落",
-      "雀替"
-    ]
-  },
-  {
-    "id": 28,
-    "cn": "石雕",
-    "en": "Stone Carving (Shidiao)",
-    "category": "建筑装饰",
-    "def_zh": "石雕是在石材上雕刻图案的装饰工艺，江苏地区的石雕多见于牌坊、桥梁、台基、碑刻等处。南京明孝陵神道的石像生、苏州文庙的宋代石刻、扬州五亭桥的石雕栏板都是江南石雕艺术的代表。江苏石雕风格细腻，与北方的雄浑形成对比。",
-    "def_en": "Stone carving is a decorative technique of carving patterns on stone, found in Jiangsu on memorial arches, bridges, pedestals, and steles. The spirit way stone statues at Ming Xiaoling in Nanjing, the Song stone carvings at Suzhou Confucian Temple, and the stone railings at Yangzhou's Five-Pavilion Bridge are representative of Jiangnan stone carving art. The style is delicate, contrasting with the robust northern tradition.",
-    "examples": "南京明孝陵石像生、苏州文庙石刻、扬州五亭桥",
-    "related": [
-      "砖雕",
-      "木雕",
-      "牌坊",
-      "碑刻"
-    ]
-  },
-  {
-    "id": 29,
-    "cn": "太湖石",
-    "en": "Taihu Stone (Taihushi)",
-    "category": "建筑装饰",
-    "def_zh": "太湖石是江南园林中最重要的叠山材料，因产于太湖而得名，以'瘦、皱、漏、透'为审美标准。太湖石形态奇特，孔洞丰富，是模拟自然山景的最佳材料。苏州留园的冠云峰、上海豫园的玉玲珑、苏州环秀山庄的假山都是太湖石叠山的经典之作。",
-    "def_en": "Taihu stone is the most important rockery material in Jiangnan gardens, named for its origin in Lake Taihu, judged by the aesthetic standards of 'thin, wrinkled, leaky, and transparent'. With bizarre shapes and abundant holes, it is ideal for simulating natural mountain scenery. The Guanyun Peak at Suzhou's Lingering Garden, the Yulinglong at Shanghai's Yu Garden, and the rockery at Suzhou's Mountain Villa with Embracing Beauty are classic Taihu stone rockeries.",
-    "examples": "留园冠云峰、豫园玉玲珑、环秀山庄假山",
-    "related": [
-      "叠山理水",
-      "黄石",
-      "假山",
-      "江南园林"
-    ]
-  },
-  {
-    "id": 30,
-    "cn": "黄石",
-    "en": "Yellow Stone (Huangshi)",
-    "category": "建筑装饰",
-    "def_zh": "黄石是江南园林中另一种重要的叠山材料，颜色黄褐，质地坚硬，棱角分明，与太湖石的圆润玲珑形成对比。黄石叠山风格雄浑刚健，多用于表现北方山景。扬州个园的秋山以黄石叠成，是江南黄石假山的代表作。",
-    "def_en": "Yellow stone is another important rockery material in Jiangnan gardens, yellowish-brown in color, hard in texture, with sharp edges—contrasting with the rounded and exquisite Taihu stone. Yellow stone rockeries have a vigorous and sturdy style, often used to represent northern mountain scenery. The Autumn Mountain at Yangzhou's Ge Garden, built with yellow stone, is a representative Jiangnan yellow stone rockery.",
-    "examples": "扬州个园秋山、苏州耦园假山",
-    "related": [
-      "太湖石",
-      "叠山理水",
-      "假山"
-    ]
-  },
-  {
-    "id": 31,
-    "cn": "叠山理水",
-    "en": "Rockery and Water Management (Dieshan Lishui)",
-    "category": "建筑装饰",
-    "def_zh": "叠山理水是中国古典园林的核心造园手法，即人工堆叠假山和梳理水体，在有限空间内模拟自然山水。江南园林的叠山讲究'虽由人作，宛自天开'，理水讲究曲折自然。苏州环秀山庄的假山被陈从周誉为'江南园林假山之冠'，是叠山艺术的巅峰。",
-    "def_en": "Rockery piling and water management are the core techniques of classical Chinese gardening—artificially stacking rockeries and arranging water to simulate natural landscapes within limited space. Jiangnan garden rockeries strive for 'though made by man, looks like nature', while water arrangement emphasizes winding naturalness. The rockery at Suzhou's Mountain Villa with Embracing Beauty was praised by Chen Congzhou as the 'finest rockery in Jiangnan gardens', representing the pinnacle of the art.",
-    "examples": "环秀山庄、拙政园、个园、留园",
-    "related": [
-      "太湖石",
-      "黄石",
-      "借景",
-      "江南园林"
-    ]
-  },
-  {
-    "id": 32,
-    "cn": "借景",
-    "en": "Borrowed Scenery (Jiejing)",
-    "category": "建筑装饰",
-    "def_zh": "借景是中国古典园林的重要造园手法，即将园外的景色引入园内视线，扩大空间感。借景分为远借、邻借、仰借、俯借、应时而借等。江苏园林中借景运用极为精妙，如拙政园借景北寺塔，无锡寄畅园借景惠山，南京瞻园借景聚宝门等。",
-    "def_en": "Borrowed scenery is an important classical Chinese gardening technique of bringing external scenery into the garden's views to expand spatial perception. It includes distant borrowing, adjacent borrowing, upward borrowing, downward borrowing, and seasonal borrowing. Jiangsu gardens use borrowed scenery exquisitely—for example, Humble Administrator's Garden borrows the North Temple Pagoda, Wuxi's Jichang Garden borrows Mount Hui, and Nanjing's Zhan Garden borrows the Jubao Gate.",
-    "examples": "拙政园借北寺塔、寄畅园借惠山",
-    "related": [
-      "对景",
-      "框景",
-      "江南园林",
-      "造园手法"
-    ]
-  },
-  {
-    "id": 33,
-    "cn": "框景",
-    "en": "Framed Scenery (Kuangjing)",
-    "category": "建筑装饰",
-    "def_zh": "框景是中国古典园林的造园手法，利用门窗、洞口等将外部景色框入其中，形成如画的画面。江南园林中的花窗、漏窗、月洞门都是框景的常用手段。苏州拙政园的梧竹幽居、留园的揖峰轩都是框景的经典实例。",
-    "def_en": "Framed scenery is a classical Chinese gardening technique of using doors, windows, and openings to frame external scenery like a painting. Ornamental windows, lattice windows, and moon gates in Jiangnan gardens are common framing devices. Suzhou's Humble Administrator's Garden (Wuzhu Youju Pavilion) and Lingering Garden (Yifeng Xuan) are classic examples of framed scenery.",
-    "examples": "拙政园梧竹幽居、留园揖峰轩、网师园",
-    "related": [
-      "花窗",
-      "漏窗",
-      "借景",
-      "对景"
-    ]
-  },
-  {
-    "id": 34,
-    "cn": "对景",
-    "en": "Opposite Scenery (Duijing)",
-    "category": "建筑装饰",
-    "def_zh": "对景是中国古典园林的造园手法，即在轴线或视线的两端布置相互呼应的景点，使观者在任一位置都能看到优美的画面。江南园林中对景运用广泛，如拙政园的远香堂与雪香云蔚亭互为对景，留园的涵碧山房与明瑟楼互为对景。",
-    "def_en": "Opposite scenery is a classical Chinese gardening technique of placing mutually echoing scenic spots at both ends of an axis or sightline, so viewers see beautiful compositions from either position. Widely used in Jiangnan gardens—for example, Humble Administrator's Garden's Yuanxiang Hall and Xuexiang Yunwei Pavilion face each other, as do Lingering Garden's Hanbi Shanfang and Mingse Tower.",
-    "examples": "拙政园远香堂、留园涵碧山房",
-    "related": [
-      "借景",
-      "框景",
-      "江南园林",
-      "造园手法"
-    ]
-  },
-  {
-    "id": 35,
-    "cn": "藻井",
-    "en": "Caisson Ceiling (Zaojing)",
-    "category": "建筑装饰",
-    "def_zh": "藻井是中国古代建筑天花板上的装饰性凹面结构，通常为方形、多边形或圆形，层层叠涩，中心雕刻或绘制龙凤、莲花等图案。藻井具有神圣性，多用于宫殿、寺庙的重要殿堂。江苏地区的藻井以苏州玄妙观三清殿、南京朝天宫、上海沉香阁等为代表。",
-    "def_en": "The caisson ceiling (zaojing) is a decorative sunken structure in ancient Chinese ceilings, usually square, polygonal, or circular, with stacked moldings and a center carved or painted with dragons, phoenixes, or lotuses. With sacred connotations, it is used in important halls of palaces and temples. Representative examples in Jiangsu include the Sanqing Hall at Suzhou's Xuanmiao Temple, Nanjing's Chaotian Palace, and Shanghai's Chenxiang Pavilion.",
-    "examples": "苏州玄妙观三清殿、南京朝天宫、上海沉香阁",
-    "related": [
-      "天宫楼阁",
-      "斗拱",
-      "宫殿建筑"
-    ]
-  },
-  {
-    "id": 36,
-    "cn": "金砖",
-    "en": "Gold Brick (Jinzhuan)",
-    "category": "建筑材料",
-    "def_zh": "金砖是苏州御窑烧制的优质铺地方砖，因质地细密、敲击有金属声而得名，并非真金。金砖制作工艺复杂，需经取土、炼泥、制坯、烧制等多道工序，专为皇家宫殿使用。北京故宫的地砖多为苏州御窑金砖，苏州陆慕御窑遗址是金砖的原产地。",
-    "def_en": "Gold bricks (jinzhuan) are high-quality floor tiles fired at the imperial kilns in Suzhou, named for their fine texture and metallic sound when struck—not actual gold. The complex production process includes soil extraction, clay preparation, molding, and firing, made exclusively for imperial palaces. Most floor tiles in Beijing's Forbidden City are Suzhou imperial kiln gold bricks; the Lumu Imperial Kiln Site in Suzhou is their place of origin.",
-    "examples": "苏州陆慕御窑遗址、北京故宫、苏州文庙",
-    "related": [
-      "御窑",
-      "砖瓦",
-      "官式建筑"
-    ]
-  },
-  {
-    "id": 37,
-    "cn": "小青瓦",
-    "en": "Small Grey Tile (Xiaoqingwa)",
-    "category": "建筑材料",
-    "def_zh": "小青瓦是江南建筑最常用的屋面材料，以黏土烧制而成，呈青灰色，体积小巧，铺设灵活。小青瓦与白粉墙配合形成'粉墙黛瓦'的典型江南风貌。江苏地区的小青瓦制作历史悠久，苏州、无锡、宜兴等地都是传统产瓦区。",
-    "def_en": "Small grey tiles are the most common roofing material in Jiangnan architecture, fired from clay into grey-blue, small, flexible tiles. Combined with white plastered walls, they create the typical 'white walls and dark tiles' Jiangnan aesthetic. Jiangsu has a long history of small grey tile production, with Suzhou, Wuxi, and Yixing as traditional tile-making centers.",
-    "examples": "苏州平江路、周庄古镇、上海朱家角",
-    "related": [
-      "粉墙黛瓦",
-      "马头墙",
-      "江南民居"
-    ]
-  },
-  {
-    "id": 38,
-    "cn": "金山石",
-    "en": "Jinshan Stone (Jinshanshi)",
-    "category": "建筑材料",
-    "def_zh": "金山石是苏州金山出产的花岗岩，质地坚硬，色泽青灰，是江南地区最常用的建筑石材，多用于台基、台阶、桥梁、牌坊等。苏州园林中的假山、石桥、石栏多采用金山石，苏州宝带桥、盘门等古建筑均大量使用金山石。",
-    "def_en": "Jinshan stone is a granite quarried at Jinshan in Suzhou, hard and grey-blue in color, the most commonly used building stone in Jiangnan for pedestals, steps, bridges, and memorial arches. Rockeries, stone bridges, and stone railings in Suzhou gardens mostly use Jinshan stone; ancient buildings such as Suzhou's Baodai Bridge and Panmen Gate use it extensively.",
-    "examples": "苏州宝带桥、苏州盘门、拙政园石桥",
-    "related": [
-      "石雕",
-      "台基",
-      "古桥"
-    ]
-  },
-  {
-    "id": 39,
-    "cn": "琉璃瓦",
-    "en": "Glazed Tile (Liuliwa)",
-    "category": "建筑材料",
-    "def_zh": "琉璃瓦是表面施釉的陶瓦，色彩鲜艳，防水耐用，多用于宫殿、寺庙等高等级建筑。江苏地区的琉璃瓦以南京明孝陵、苏州文庙、扬州天宁寺等为代表。南京官窑曾是明代重要的琉璃烧制中心，大报恩寺琉璃塔（已毁）曾被誉为'天下第一塔'。",
-    "def_en": "Glazed tiles are ceramic tiles with a glazed surface, brightly colored, waterproof, and durable, used in high-grade buildings such as palaces and temples. Representative examples in Jiangsu include Ming Xiaoling in Nanjing, Suzhou Confucian Temple, and Tianning Temple in Yangzhou. Nanjing's official kilns were an important Ming glazed tile center; the Porcelain Pagoda of Dabaoen Temple (destroyed) was once known as the 'finest tower under heaven'.",
-    "examples": "南京明孝陵、苏州文庙、扬州天宁寺",
-    "related": [
-      "宫殿建筑",
-      "寺庙",
-      "琉璃塔"
-    ]
-  },
-  {
-    "id": 40,
-    "cn": "楠木",
-    "en": "Nanmu Wood (Nanmu)",
-    "category": "建筑材料",
-    "def_zh": "楠木是中国最珍贵的建筑木材之一，质地坚硬，纹理美观，有香气，防蛀防腐。金丝楠木是楠木中的极品，因木纹中有金丝而得名。江苏地区的重要建筑多使用楠木，如苏州网师园万卷堂、南京朝天宫等，楠木厅是江南建筑中等级最高的厅堂。",
-    "def_en": "Nanmu is one of China's most precious building timbers—hard, beautifully grained, fragrant, and insect- and rot-resistant. Golden-thread nanmu is the finest variety, named for golden threads in its grain. Important buildings in Jiangsu use nanmu, such as the Wanjuan Hall at Suzhou's Wangshi Garden and Nanjing's Chaotian Palace; nanmu halls are the highest-grade halls in Jiangnan architecture.",
-    "examples": "网师园万卷堂、南京朝天宫、苏州东山雕花楼",
-    "related": [
-      "楠木厅",
-      "鸳鸯厅",
-      "四面厅"
-    ]
-  },
-  {
-    "id": 41,
-    "cn": "世界文化遗产",
-    "en": "World Cultural Heritage",
-    "category": "文化背景",
-    "def_zh": "江苏地区拥有多项世界文化遗产：苏州古典园林（1997年列入，9座园林）、南京明孝陵（2003年，作为明清皇家陵寝扩展项目）、中国大运河（2014年，江苏段沿线多处遗产点）、黄（渤）海候鸟栖息地（2019年，盐城）。这些遗产是江苏古建筑和文化景观的精华。",
-    "def_en": "Jiangsu has multiple UNESCO World Cultural Heritage sites: Classical Gardens of Suzhou (listed 1997, 9 gardens), Ming Xiaoling in Nanjing (2003, as extension of Imperial Tombs of the Ming and Qing Dynasties), the Grand Canal of China (2014, with multiple heritage points along the Jiangsu section), and Migratory Bird Sanctuaries along the Coast of the Yellow Sea-Bohai Gulf (2019, Yancheng). These represent the essence of Jiangsu's ancient architecture and cultural landscapes.",
-    "examples": "苏州古典园林、南京明孝陵、中国大运河江苏段",
-    "related": [
-      "江南园林",
-      "陵墓",
-      "大运河"
-    ]
-  },
-  {
-    "id": 42,
-    "cn": "大运河",
-    "en": "The Grand Canal (Da Yunhe)",
-    "category": "文化背景",
-    "def_zh": "中国大运河是世界上最长的人工运河，全长2700公里，2014年列入世界文化遗产。江苏段是大运河的核心区段，沿线保存有大量古建筑，如苏州盘门、山塘街，扬州瘦西湖、个园，镇江西津渡，无锡清名桥，常州青果巷等。大运河孕育了江苏的水乡文化和商业文明。",
-    "def_en": "The Grand Canal of China is the world's longest artificial waterway, 2,700 km long, listed as a UNESCO World Heritage Site in 2014. The Jiangsu section is the core segment, preserving numerous ancient buildings along its banks, including Suzhou's Panmen Gate and Shantang Street, Yangzhou's Slender West Lake and Ge Garden, Zhenjiang's Xijin Ferry, Wuxi's Qingming Bridge, and Changzhou's Qingguo Lane. The Grand Canal nurtured Jiangsu's water town culture and commercial civilization.",
-    "examples": "苏州山塘街、扬州瘦西湖、镇江西津渡、无锡清名桥",
-    "related": [
-      "水乡古镇",
-      "会馆",
-      "古桥",
-      "世界文化遗产"
-    ]
-  },
-  {
-    "id": 43,
-    "cn": "文人园林",
-    "en": "Literati Garden (Wenren Yuanlin)",
-    "category": "文化背景",
-    "def_zh": "文人园林是中国古典园林的重要类型，由文人、画家设计或参与营建，追求诗情画意和隐逸意境。江苏是文人园林的发源地和中心，苏州拙政园（王献臣）、网师园（史正志）、艺圃（文震孟）等都与文人密切相关。文人园林体现了中国文人'达则兼济天下，穷则独善其身'的人生哲学。",
-    "def_en": "Literati gardens are an important type of classical Chinese garden, designed or built with participation from literati and painters, pursuing poetic, painterly, and reclusive aesthetics. Jiangsu is the birthplace and center of literati gardens—Suzhou's Humble Administrator's Garden (Wang Xianchen), Master of Nets Garden (Shi Zhengzhi), and Yi Garden (Wen Zhenmeng) are all closely associated with literati. They embody the Chinese literati philosophy of 'when successful, serve the world; when frustrated, cultivate oneself'.",
-    "examples": "拙政园、网师园、艺圃、耦园",
-    "related": [
-      "江南园林",
-      "私家园林",
-      "借景",
-      "叠山理水"
-    ]
-  },
-  {
-    "id": 44,
-    "cn": "江南文化",
-    "en": "Jiangnan Culture (Jiangnan Wenhua)",
-    "category": "文化背景",
-    "def_zh": "江南文化是长江下游地区形成的地域文化，以崇文重教、精致典雅、工商并重为特征。江苏是江南文化的核心区域，苏州、扬州、南京、无锡等城市都是江南文化的代表。江南文化在建筑上体现为粉墙黛瓦、小桥流水、园林精巧，在文化上体现为诗词、书画、戏曲、工艺的繁荣。",
-    "def_en": "Jiangnan culture is a regional culture formed in the lower Yangtze region, characterized by reverence for education, refinement and elegance, and a balance of commerce and industry. Jiangsu is the core region of Jiangnan culture, with Suzhou, Yangzhou, Nanjing, and Wuxi as representative cities. In architecture, Jiangnan culture manifests as white walls, dark tiles, small bridges, flowing water, and exquisite gardens; in culture, as prosperity in poetry, calligraphy, painting, opera, and crafts.",
-    "examples": "苏州、扬州、南京、无锡",
-    "related": [
-      "江南园林",
-      "江南民居",
-      "水乡古镇",
-      "文人园林"
-    ]
-  },
-  {
-    "id": 45,
-    "cn": "金陵文化",
-    "en": "Jinling Culture (Jinling Wenhua)",
-    "category": "文化背景",
-    "def_zh": "金陵文化是以南京为中心的地域文化，南京古称金陵，是六朝古都、十朝都会。金陵文化兼具南北特色，既有江南的温婉，又有北方的雄浑。南京的古建筑体现了这种融合：明孝陵的规制宏大，夫子庙的市井繁华，栖霞寺的佛教传统，总统府的近代变革，都是金陵文化的物质载体。",
-    "def_en": "Jinling culture is a regional culture centered on Nanjing, anciently called Jinling, capital of the Six Dynasties and capital of ten dynasties. Jinling culture blends northern and southern characteristics, combining Jiangnan gentleness with northern robustness. Nanjing's ancient architecture reflects this fusion: the grand scale of Ming Xiaoling, the bustling market of Fuzimiao, the Buddhist tradition of Qixia Temple, and the modern transformation of the Presidential Palace are all material carriers of Jinling culture.",
-    "examples": "南京明孝陵、夫子庙、栖霞寺、总统府",
-    "related": [
-      "陵墓",
-      "孔庙",
-      "寺庙",
-      "城墙"
-    ]
-  },
-  {
-    "id": 46,
-    "cn": "淮扬文化",
-    "en": "Huaiyang Culture (Huaiyang Wenhua)",
-    "category": "文化背景",
-    "def_zh": "淮扬文化是以扬州为中心的地域文化，因地处淮河与长江之间而得名。扬州在唐代就是'扬一益二'的繁华都市，清代以盐商文化闻名。淮扬文化在建筑上体现为扬州园林的精巧奢华（个园、何园）、大运河的商业繁荣、扬州八怪的艺术创新。淮扬菜是中国四大菜系之一。",
-    "def_en": "Huaiyang culture is a regional culture centered on Yangzhou, named for its location between the Huai River and Yangtze. Yangzhou was already a prosperous city in the Tang dynasty ('Yangzhou first, Yizhou second'), and in the Qing dynasty it was famous for salt merchant culture. In architecture, Huaiyang culture manifests as the exquisite luxury of Yangzhou gardens (Ge Garden, He Garden), the commercial prosperity of the Grand Canal, and the artistic innovation of the Eight Eccentrics of Yangzhou. Huaiyang cuisine is one of China's four major cuisines.",
-    "examples": "扬州个园、何园、瘦西湖、大运河",
-    "related": [
-      "江南园林",
-      "大运河",
-      "盐商",
-      "会馆"
-    ]
-  },
-  {
-    "id": 47,
-    "cn": "海派文化",
-    "en": "Shanghai-Style Culture (Haipai Wenhua)",
-    "category": "文化背景",
-    "def_zh": "海派文化是上海开埠后形成的地域文化，以中西融合、兼收并蓄、创新求变为特征。上海的古建筑既保留了江南传统（豫园、龙华寺、朱家角古镇），又融合了西方元素（外滩建筑群、石库门里弄）。石库门是海派建筑的代表，将江南民居与西方联排住宅结合，是近代上海城市文化的象征。",
-    "def_en": "Shanghai-style (haipai) culture is a regional culture formed after Shanghai's opening as a treaty port, characterized by East-West fusion, eclecticism, and innovation. Shanghai's ancient architecture preserves Jiangnan traditions (Yu Garden, Longhua Temple, Zhujiajiao Ancient Town) while integrating Western elements (the Bund buildings, shikumen lane houses). Shikumen, combining Jiangnan residences with Western row houses, is representative of haipai architecture and a symbol of modern Shanghai urban culture.",
-    "examples": "上海豫园、龙华寺、石库门里弄、朱家角古镇",
-    "related": [
-      "江南民居",
-      "水乡古镇",
-      "会馆",
-      "近代建筑"
-    ]
-  },
-  {
-    "id": 48,
-    "cn": "盐商建筑",
-    "en": "Salt Merchant Architecture (Yanshang Jianzhu)",
-    "category": "文化背景",
-    "def_zh": "盐商建筑是明清时期扬州盐商营建的住宅和园林，以奢华精巧著称。清代扬州盐商富甲天下，他们营建的个园、何园、片石山房等园林，以及大量盐商住宅，代表了江南建筑的最高工艺水平。盐商建筑的特点是规模宏大、装饰精美、融合南北风格，是研究明清商业文化的重要实物。",
-    "def_en": "Salt merchant architecture refers to residences and gardens built by Yangzhou salt merchants during the Ming-Qing period, known for luxury and refinement. Qing dynasty Yangzhou salt merchants were among the wealthiest in China; their gardens such as Ge Garden, He Garden, and Pianshi Shanfang, along with numerous salt merchant residences, represent the highest craftsmanship level of Jiangnan architecture. Characterized by large scale, exquisite decoration, and blended northern-southern styles, they are important artifacts for studying Ming-Qing commercial culture.",
-    "examples": "扬州个园、何园、片石山房、卢氏盐商住宅",
-    "related": [
-      "江南园林",
-      "会馆",
-      "淮扬文化",
-      "砖雕"
-    ]
-  },
-  {
-    "id": 49,
-    "cn": "经幢",
-    "en": "Scripture Pillar (Jingchuang)",
-    "category": "文化背景",
-    "def_zh": "经幢是中国古代佛教石刻建筑，为八角形或圆形石柱，上刻佛经，多立于寺庙殿前。江苏地区保存有多处古代经幢，如南京栖霞寺的南唐经幢、苏州虎丘云岩寺的唐代经幢、镇江隆昌寺的明代经幢等。经幢是研究佛教传播和石刻艺术的重要实物。",
-    "def_en": "Scripture pillars (jingchuang) are ancient Chinese Buddhist stone structures—octagonal or round stone pillars inscribed with Buddhist scriptures, usually erected in front of temple halls. Several ancient scripture pillars survive in Jiangsu, including the Southern Tang pillars at Nanjing's Qixia Temple, Tang pillars at Suzhou's Tiger Hill Yunyan Temple, and Ming pillars at Zhenjiang's Longchang Temple. They are important artifacts for studying Buddhist propagation and stone carving art.",
-    "examples": "南京栖霞寺经幢、苏州虎丘经幢、镇江隆昌寺经幢",
-    "related": [
-      "寺庙",
-      "佛塔",
-      "石雕",
-      "石窟"
-    ]
-  },
-  {
-    "id": 50,
-    "cn": "牌坊",
-    "en": "Memorial Arch (Paifang)",
-    "category": "文化背景",
-    "def_zh": "牌坊是中国古代标志性建筑，多为石构或木构，用于表彰功德、标志空间。江苏地区牌坊众多，苏州文庙的牌坊群、南京夫子庙的天下文枢坊、扬州个园的汉学堂牌坊等都是代表。牌坊建筑融合了结构美与装饰美，是江南建筑艺术的重要组成部分。",
-    "def_en": "Memorial arches (paifang) are landmark ancient Chinese structures, usually stone or wooden, used to commend merit and mark spaces. Jiangsu has numerous memorial arches, including the arch group at Suzhou Confucian Temple, the 'Tianxia Wenshu' Arch at Nanjing's Fuzimiao, and the Hanxuetang Arch at Yangzhou's Ge Garden. Combining structural and decorative beauty, memorial arches are an important component of Jiangnan architectural art.",
-    "examples": "苏州文庙牌坊、南京夫子庙牌坊、扬州个园牌坊",
-    "related": [
-      "孔庙",
-      "石雕",
-      "门楼",
-      "古代城市"
-    ]
-  }
+ {
+ "id": 1,
+ "cn": "斗拱",
+ "en": "Bracket Set (Dougong)",
+ "category": "建筑结构",
+ "def_zh": "斗拱是中国古代建筑中柱梁之间的承重构件，由方形的斗、升和弓形的拱、昂层层叠加而成，将屋檐重量均匀传递到柱子上。江苏地区的斗拱在明清时期逐渐装饰化，苏州园林建筑中的斗拱小巧精致，与北方雄浑的斗拱风格形成鲜明对比。",
+ "def_en": "The bracket set (dougong) is a load-bearing component between columns and beams in ancient Chinese architecture, composed of square blocks (dou/sheng) and bow-shaped arms (gong/ang) stacked in layers, distributing eave weight evenly to columns. In Jiangsu, Ming-Qing bracket sets became increasingly decorative; those in Suzhou gardens are small and exquisite, contrasting with the robust northern style.",
+ "examples": "苏州文庙、南京明孝陵、扬州个园",
+ "related": [
+ "叉手",
+ "托脚",
+ "卷棚顶",
+ "苏式彩画"
+ ]
+ },
+ {
+ "id": 2,
+ "cn": "卷棚顶",
+ "en": "Round Ridge Roof (Juanpengding)",
+ "category": "建筑结构",
+ "def_zh": "卷棚顶是中国古建筑屋顶形式之一，没有正脊，屋顶前后坡相接处呈弧形曲面，以筒瓦覆盖。卷棚顶线条柔和优美，在江苏园林建筑中广泛使用，尤其适用于轩、榭、廊等小品建筑，与江南水乡的温婉气质相得益彰。",
+ "def_en": "The round ridge roof (juanpengding) is a traditional Chinese roof form without a main ridge, where the front and rear slopes meet in a gentle arc covered with semi-cylindrical tiles. With soft, elegant lines, it is widely used in Jiangsu garden architecture, particularly for pavilions, terraces, and corridors, complementing the gentle character of Jiangnan water towns.",
+ "examples": "拙政园梧竹幽居、留园明瑟楼、网师园濯缨水阁",
+ "related": [
+ "歇山顶",
+ "硬山顶",
+ "苏式彩画"
+ ]
+ },
+ {
+ "id": 3,
+ "cn": "马头墙",
+ "en": "Horse-Head Wall (Matouqiang)",
+ "category": "建筑结构",
+ "def_zh": "马头墙是江南民居中高出屋顶的封火墙，因顶端形似马头而得名。其功能是在密集的民居中阻隔火势蔓延，同时具有强烈的装饰效果。江苏南部和上海地区的马头墙多为阶梯状，层层叠落，粉刷成白色，与青瓦形成鲜明对比，是江南水乡的标志性元素。",
+ "def_en": "The horse-head wall (matouqiang) is a fire wall rising above the roof in Jiangnan residences, named for its horse-head-shaped top. It prevents fire spread in dense residential areas while serving as a strong decorative element. In southern Jiangsu and Shanghai, horse-head walls are typically stepped, layered, and whitewashed, contrasting sharply with dark tiles—a signature element of Jiangnan water towns.",
+ "examples": "周庄古镇、同里古镇、上海朱家角古镇",
+ "related": [
+ "粉墙黛瓦",
+ "江南民居",
+ "水乡古镇"
+ ]
+ },
+ {
+ "id": 4,
+ "cn": "粉墙黛瓦",
+ "en": "White Walls and Black Tiles (Fenqiang Daiwa)",
+ "category": "建筑结构",
+ "def_zh": "粉墙黛瓦是江南建筑最典型的外观特征：墙面以白灰粉刷，屋顶覆盖青黑色小瓦。黑白对比简洁素雅，与江南水乡的小桥流水共同构成诗意的画面。这种风格在江苏苏州、无锡、常州及上海地区的传统民居和园林中普遍存在。",
+ "def_en": "White walls and black tiles (fenqiang daiwa) is the most typical visual feature of Jiangnan architecture: walls plastered white with lime, roofs covered with dark grey small tiles. The stark black-white contrast is simple and elegant, forming poetic scenes with the small bridges and flowing water of Jiangnan. This style is ubiquitous in traditional residences and gardens in Suzhou, Wuxi, Changzhou, and Shanghai.",
+ "examples": "苏州平江路、无锡清名桥、上海新场古镇",
+ "related": [
+ "马头墙",
+ "江南民居",
+ "水乡古镇"
+ ]
+ },
+ {
+ "id": 5,
+ "cn": "花窗",
+ "en": "Ornamental Window (Huachuang)",
+ "category": "建筑结构",
+ "def_zh": "花窗是江南园林和民居中具有装饰性的窗户，以砖、木、石等材料雕刻成各种图案，如冰裂纹、海棠纹、回纹、万字纹等。花窗既分隔空间又不隔绝视线，通过窗孔取景，形成'框景'效果。苏州园林中的花窗式样多达数百种，是江南建筑装饰艺术的精华。",
+ "def_en": "Ornamental windows (huachuang) are decorative windows in Jiangnan gardens and residences, carved from brick, wood, or stone into patterns such as ice-crack, begonia, meander, and swastika motifs. They divide space without blocking views, creating 'framed scenery' through the openings. Suzhou gardens feature hundreds of window patterns, representing the essence of Jiangnan architectural decoration.",
+ "examples": "拙政园、留园、网师园、沧浪亭",
+ "related": [
+ "漏窗",
+ "框景",
+ "借景",
+ "挂落"
+ ]
+ },
+ {
+ "id": 6,
+ "cn": "漏窗",
+ "en": "Lattice Window (Louchuang)",
+ "category": "建筑结构",
+ "def_zh": "漏窗是一种镂空的花窗，窗洞内以砖瓦或木石构成各种几何图案和动植物纹样，光线和空气可以透过，同时起到装饰和框景作用。漏窗在苏州园林中运用最为广泛，沧浪亭的108式漏窗最为著名，被誉为'漏窗博物馆'。",
+ "def_en": "Lattice windows (louchuang) are openwork ornamental windows with geometric, plant, or animal patterns formed by brick, tile, wood, or stone inside the opening, allowing light and air to pass through while serving decorative and framing purposes. Most extensively used in Suzhou gardens, the 108 lattice window patterns at Canglang Pavilion are renowned as a 'museum of lattice windows'.",
+ "examples": "沧浪亭、狮子林、艺圃",
+ "related": [
+ "花窗",
+ "框景",
+ "借景"
+ ]
+ },
+ {
+ "id": 7,
+ "cn": "挂落",
+ "en": "Hanging Lattice (Gualuo)",
+ "category": "建筑结构",
+ "def_zh": "挂落是中国传统建筑中檐柱之间悬挂的装饰性构件，通常为镂空木雕，安装在廊柱之间的上方，形如倒挂的楣子。挂落在江苏园林建筑中极为常见，图案多为万字纹、回纹、冰裂纹等，既装饰空间又不影响通行，是江南建筑精致工艺的体现。",
+ "def_en": "Hanging lattice (gualuo) is a decorative component suspended between eaves columns in traditional Chinese architecture, usually an openwork wood carving installed above the passage between corridor columns, resembling an inverted lintel. Extremely common in Jiangsu garden architecture, its patterns include swastika, meander, and ice-crack motifs—decorating space without obstructing passage, embodying the exquisite craftsmanship of Jiangnan architecture.",
+ "examples": "拙政园、留园、上海豫园",
+ "related": [
+ "花窗",
+ "美人靠",
+ "轩"
+ ]
+ },
+ {
+ "id": 8,
+ "cn": "美人靠",
+ "en": "Beauty's Rest (Meirenkao)",
+ "category": "建筑结构",
+ "def_zh": "美人靠是江南园林中设置在廊、榭、阁外侧的弧形靠背坐凳，因形似美人倚靠而得名。通常用木材制成，靠背呈优雅的弧线，既可供人坐憩观景，又是优美的建筑装饰。美人靠与水面、花木配合，营造出江南园林特有的闲适意境。",
+ "def_en": "Beauty's rest (meirenkao) is a curved backrest bench installed outside corridors, terraces, and pavilions in Jiangnan gardens, named for its resemblance to a leaning beauty. Usually made of wood with an elegantly curved backrest, it provides seating for viewing scenery while serving as graceful architectural decoration. Combined with water and plants, it creates the distinctive leisurely atmosphere of Jiangnan gardens.",
+ "examples": "拙政园小飞虹、留园明瑟楼、网师园濯缨水阁",
+ "related": [
+ "轩",
+ "榭",
+ "廊",
+ "挂落"
+ ]
+ },
+ {
+ "id": 9,
+ "cn": "须弥座",
+ "en": "Sumeru Pedestal (Xumizuo)",
+ "category": "建筑结构",
+ "def_zh": "须弥座是中国古代建筑和雕塑中常用的台基形式，源自佛教须弥山的意象，由多层线脚和束腰组成，造型庄重华丽。江苏地区的须弥座多见于寺庙佛塔、宫殿坛庙和重要建筑的台基，南京明孝陵的须弥座雕刻精美，是明初官式建筑的代表。",
+ "def_en": "The Sumeru pedestal (xumizuo) is a common platform form in ancient Chinese architecture and sculpture, derived from the Buddhist Mount Sumeru, composed of multiple moldings and a constricted waist, with a solemn and ornate form. In Jiangsu, Sumeru pedestals are found in temple pagodas, palace temples, and important building foundations; the exquisitely carved pedestals at Ming Xiaoling in Nanjing represent early Ming official architecture.",
+ "examples": "南京明孝陵、苏州云岩寺塔、扬州大明寺",
+ "related": [
+ "佛塔",
+ "宫殿建筑",
+ "台基"
+ ]
+ },
+ {
+ "id": 10,
+ "cn": "苏式彩画",
+ "en": "Suzhou-Style Painted Decoration (Sushi Caihua)",
+ "category": "建筑结构",
+ "def_zh": "苏式彩画是中国古建筑彩画的三大流派之一，起源于苏州，流行于江南园林和民居。与北方和玺彩画、旋子彩画的庄重不同，苏式彩画题材丰富，包括山水、花鸟、人物、故事等，色彩柔和淡雅，构图灵活，多用于园林建筑的梁枋、挂落等处。",
+ "def_en": "Suzhou-style painted decoration (sushi caihua) is one of the three major schools of ancient Chinese architectural painting, originating in Suzhou and popular in Jiangnan gardens and residences. Unlike the solemn imperial and revolving-flower paintings of the north, Suzhou-style painting features rich subjects including landscapes, flowers, birds, figures, and stories, with soft colors and flexible composition, used on beams, lintels, and hanging lattices in garden buildings.",
+ "examples": "拙政园、留园、苏州狮子林",
+ "related": [
+ "和玺彩画",
+ "旋子彩画",
+ "挂落"
+ ]
+ },
+ {
+ "id": 11,
+ "cn": "楠木厅",
+ "en": "Nanmu Hall (Nanmu Ting)",
+ "category": "建筑结构",
+ "def_zh": "楠木厅是全部或主要构件用金丝楠木建造的厅堂，是江南民居和园林中等级最高的建筑形式。楠木质地坚硬、纹理美观、有香气且防蛀，极为珍贵。江苏地区保存有多处楠木厅，如苏州网师园的万卷堂、南京朝天宫的敬一亭等，是研究江南建筑工艺的重要实物。",
+ "def_en": "A nanmu hall is a hall built entirely or primarily with golden-thread nanmu wood, the highest-grade building form in Jiangnan residences and gardens. Nanmu is hard, beautifully grained, fragrant, and insect-resistant, making it extremely precious. Several nanmu halls survive in Jiangsu, including the Wanjuan Hall at Wangshi Garden in Suzhou and the Jingyi Pavilion at Chaotian Palace in Nanjing—important artifacts for studying Jiangnan building craftsmanship.",
+ "examples": "网师园万卷堂、南京朝天宫、苏州东山雕花楼",
+ "related": [
+ "鸳鸯厅",
+ "四面厅",
+ "花篮厅"
+ ]
+ },
+ {
+ "id": 12,
+ "cn": "叉手",
+ "en": "Forked Hand (Chashou)",
+ "category": "建筑结构",
+ "def_zh": "叉手是中国古代建筑梁架结构中的斜撑构件，呈人字形，支撑在平梁上方与脊槫之间，起固定脊槫的作用。叉手在唐宋建筑中普遍使用，明清时期逐渐被脊柱取代。江苏地区的宋代和元代建筑中仍可见叉手实例，如苏州虎丘塔、南京栖霞寺舍利塔等。",
+ "def_en": "The forked hand (chashou) is a diagonal brace in ancient Chinese timber framing, V-shaped, supporting between the top of the flat beam and the ridge purlin to fix it in place. Common in Tang-Song architecture, it was gradually replaced by the ridge column in the Ming-Qing period. Surviving examples in Jiangsu include the Tiger Hill Pagoda in Suzhou and the Qixia Temple Stupa in Nanjing.",
+ "examples": "苏州云岩寺塔、南京栖霞寺舍利塔、扬州大明寺",
+ "related": [
+ "托脚",
+ "驼峰",
+ "斗拱"
+ ]
+ },
+ {
+ "id": 13,
+ "cn": "江南园林",
+ "en": "Jiangnan Garden (Jiangnan Yuanlin)",
+ "category": "建筑类型",
+ "def_zh": "江南园林是中国古典园林的代表流派，主要分布在苏州、扬州、南京、无锡、上海等地，以私家园林为主。其特点是在有限空间内模拟自然山水，运用借景、对景、框景等手法，建筑与山水花木融为一体。苏州拙政园、留园、网师园、环秀山庄等9座园林被列入世界文化遗产。",
+ "def_en": "Jiangnan gardens are the representative school of classical Chinese gardens, mainly distributed in Suzhou, Yangzhou, Nanjing, Wuxi, and Shanghai, primarily private gardens. They simulate natural landscapes within limited space using techniques such as borrowed scenery, opposite scenery, and framed scenery, integrating architecture with mountains, water, and plants. Nine Suzhou gardens including Humble Administrator's Garden, Lingering Garden, Master of Nets Garden, and Mountain Villa with Embracing Beauty are UNESCO World Heritage Sites.",
+ "examples": "拙政园、留园、网师园、个园、豫园",
+ "related": [
+ "借景",
+ "对景",
+ "框景",
+ "叠山理水"
+ ]
+ },
+ {
+ "id": 14,
+ "cn": "水乡古镇",
+ "en": "Water Town (Shuixiang Guzhen)",
+ "category": "建筑类型",
+ "def_zh": "水乡古镇是江南地区依水而建的传统城镇，以河成街、桥街相连、粉墙黛瓦为特征。江苏和上海地区保存有众多水乡古镇，如周庄、同里、甪直、木渎、朱家角、新场等。古镇内河道纵横，古桥众多，民居临水而建，是江南水乡文化的活态博物馆。",
+ "def_en": "Water towns are traditional towns built along waterways in the Jiangnan region, characterized by streets along rivers, bridges connecting streets, and white walls with dark tiles. Numerous water towns survive in Jiangsu and Shanghai, including Zhouzhuang, Tongli, Luzhi, Mudu, Zhujiajiao, and Xinchang. With crisscrossing waterways, many ancient bridges, and waterside residences, they are living museums of Jiangnan water town culture.",
+ "examples": "周庄、同里、甪直、朱家角、新场",
+ "related": [
+ "粉墙黛瓦",
+ "马头墙",
+ "古桥",
+ "江南民居"
+ ]
+ },
+ {
+ "id": 15,
+ "cn": "江南民居",
+ "en": "Jiangnan Residence (Jiangnan Minju)",
+ "category": "建筑类型",
+ "def_zh": "江南民居是长江下游地区的传统居住建筑，多为砖木结构的二层楼房，布局紧凑，院落较小（称为'天井'），以利通风采光。外观粉墙黛瓦，内部雕刻精美，苏州的东山、西山和上海的陆家嘴等地保存有大量明清江南民居。江南民居体现了适应南方湿热气候的建筑智慧。",
+ "def_en": "Jiangnan residences are traditional dwellings in the lower Yangtze region, mostly two-story brick-wood structures with compact layouts and small courtyards (called 'tianjing') for ventilation and light. With white walls, dark tiles, and exquisite interior carvings, numerous Ming-Qing Jiangnan residences survive in Suzhou's Dongshan and Xishan areas and Shanghai's Lujiazui. They embody architectural wisdom adapted to the humid southern climate.",
+ "examples": "苏州东山陆巷古村、无锡严家桥、上海高桥古镇",
+ "related": [
+ "粉墙黛瓦",
+ "马头墙",
+ "天井",
+ "水乡古镇"
+ ]
+ },
+ {
+ "id": 16,
+ "cn": "楼阁式塔",
+ "en": "Pavilion-Style Pagoda (Lougeshi Ta)",
+ "category": "建筑类型",
+ "def_zh": "楼阁式塔是中国佛塔的主要类型之一，源于印度窣堵坡与中国楼阁的结合，塔身多层，每层有门窗、斗拱、平座等，可登临远眺。江苏地区楼阁式塔数量众多，苏州云岩寺塔（虎丘塔）、报恩寺塔（北寺塔）、瑞光塔，南京鸡鸣寺塔，扬州大明寺栖灵塔等都是著名实例。",
+ "def_en": "Pavilion-style pagodas are a major type of Chinese Buddhist pagoda, derived from the combination of Indian stupas and Chinese pavilions, with multiple stories featuring doors, windows, bracket sets, and balconies for climbing and viewing. Jiangsu has numerous pavilion-style pagodas, including the Tiger Hill Pagoda (Yunyan Temple Pagoda), North Temple Pagoda (Baoen Temple Pagoda), and Ruiguang Pagoda in Suzhou, Jiming Temple Pagoda in Nanjing, and Qiling Pagoda at Daming Temple in Yangzhou.",
+ "examples": "苏州云岩寺塔、苏州报恩寺塔、南京鸡鸣寺塔",
+ "related": [
+ "密檐式塔",
+ "佛塔",
+ "砖木结构"
+ ]
+ },
+ {
+ "id": 17,
+ "cn": "密檐式塔",
+ "en": "Multi-Eaved Pagoda (Miyanshi Ta)",
+ "category": "建筑类型",
+ "def_zh": "密檐式塔是中国佛塔的主要类型之一，第一层塔身较高，以上各层塔檐紧密重叠，多为实心，不可登临。江苏地区的密檐式塔以南京栖霞寺舍利塔最为著名，为五代南唐时期的石塔，雕刻精美。此外，苏州灵岩寺塔、镇江甘露寺铁塔等也属此类。",
+ "def_en": "Multi-eaved pagodas are a major type of Chinese Buddhist pagoda, with a tall first story followed by closely stacked eaves above, usually solid and not climbable. The most famous in Jiangsu is the Qixia Temple Stupa in Nanjing, a stone pagoda from the Southern Tang period of the Five Dynasties with exquisite carvings. Others include the Lingyan Temple Pagoda in Suzhou and the Ganlu Temple Iron Pagoda in Zhenjiang.",
+ "examples": "南京栖霞寺舍利塔、苏州灵岩寺塔、镇江甘露寺铁塔",
+ "related": [
+ "楼阁式塔",
+ "佛塔",
+ "石塔"
+ ]
+ },
+ {
+ "id": 18,
+ "cn": "寺庙",
+ "en": "Buddhist Temple (Simiao)",
+ "category": "建筑类型",
+ "def_zh": "江苏地区佛教历史悠久，寺庙众多，著名的有苏州寒山寺、西园寺、灵岩山寺，南京栖霞寺、鸡鸣寺、灵谷寺，扬州大明寺、高旻寺，镇江金山寺、焦山定慧寺、隆昌寺，上海龙华寺、玉佛寺、沉香阁等。这些寺庙多为明清建筑，保存有佛像、经幢、碑刻等珍贵文物。",
+ "def_en": "Jiangsu has a long Buddhist history with numerous temples, including Hanshan Temple, Xiyuan Temple, and Lingyanshan Temple in Suzhou; Qixia Temple, Jiming Temple, and Linggu Temple in Nanjing; Daming Temple and Gaomin Temple in Yangzhou; Jinshan Temple, Jiaoshan Dingshui Temple, and Longchang Temple in Zhenjiang; and Longhua Temple, Jade Buddha Temple, and Chenxiang Pavilion in Shanghai. Most are Ming-Qing buildings preserving precious artifacts such as Buddhist statues, scripture pillars, and steles.",
+ "examples": "苏州寒山寺、南京栖霞寺、扬州大明寺、上海龙华寺",
+ "related": [
+ "佛塔",
+ "经幢",
+ "石窟",
+ "彩塑"
+ ]
+ },
+ {
+ "id": 19,
+ "cn": "陵墓",
+ "en": "Mausoleum (Lingmu)",
+ "category": "建筑类型",
+ "def_zh": "江苏地区保存有多处重要古代陵墓，南京明孝陵是明太祖朱元璋的陵墓，2003年被列入世界文化遗产，其神道石刻和方城明楼是明代帝陵制度的开创者。此外还有南京南唐二陵、中山陵（近代）、镇江句容南朝陵墓石刻等，是研究中国古代陵寝制度的重要实物。",
+ "def_en": "Jiangsu preserves several important ancient mausoleums. Ming Xiaoling in Nanjing, the tomb of the Hongwu Emperor (founder of the Ming dynasty), was listed as a UNESCO World Heritage Site in 2003; its spirit way stone carvings and square city with Ming tower pioneered the Ming imperial mausoleum system. Others include the Two Mausoleums of the Southern Tang in Nanjing, Sun Yat-sen Mausoleum (modern), and the Southern Dynasties tomb stone carvings in Jurong, Zhenjiang—important artifacts for studying ancient Chinese mausoleum systems.",
+ "examples": "南京明孝陵、南京南唐二陵、句容南朝陵墓石刻",
+ "related": [
+ "石像生",
+ "神道",
+ "须弥座",
+ "世界文化遗产"
+ ]
+ },
+ {
+ "id": 20,
+ "cn": "城墙",
+ "en": "City Wall (Chengqiang)",
+ "category": "建筑类型",
+ "def_zh": "江苏地区保存有多处古代城墙，南京明城墙是世界上现存最长的砖石结构城墙，全长35.2公里，始建于1366年，中华门瓮城是中国现存最大的瓮城。苏州盘门是中国现存唯一的水陆并联城门。这些城墙是研究古代城市防御体系的重要实物。",
+ "def_en": "Jiangsu preserves several ancient city walls. The Nanjing Ming City Wall is the world's longest surviving brick-stone city wall, 35.2 km long, begun in 1366; the Zhonghua Gate barbican is China's largest surviving barbican. Suzhou's Panmen is China's only surviving combined land-water gate. These walls are important artifacts for studying ancient urban defense systems.",
+ "examples": "南京明城墙、中华门瓮城、苏州盘门",
+ "related": [
+ "瓮城",
+ "城门",
+ "古代城市"
+ ]
+ },
+ {
+ "id": 21,
+ "cn": "会馆",
+ "en": "Guild Hall (Huiguan)",
+ "category": "建筑类型",
+ "def_zh": "会馆是明清时期同乡或同业在城市中建立的聚会场所，多为建筑精美、装饰华丽的院落。江苏地区的会馆以苏州全晋会馆（现苏州博物馆）、上海三山会馆、苏州潮州会馆等为代表，建筑融合了南北风格，砖雕、木雕、石雕精美，是研究明清商业和建筑文化的重要实物。",
+ "def_en": "Guild halls were gathering places established by people from the same hometown or trade in cities during the Ming-Qing period, usually exquisitely built and decorated courtyards. Representative examples in Jiangsu include the Quanjin Guild Hall in Suzhou (now Suzhou Museum), the Sanshan Guild Hall in Shanghai, and the Chaozhou Guild Hall in Suzhou. Their architecture blends northern and southern styles with exquisite brick, wood, and stone carvings—important artifacts for studying Ming-Qing commerce and architectural culture.",
+ "examples": "苏州全晋会馆、上海三山会馆、苏州潮州会馆",
+ "related": [
+ "戏台",
+ "砖雕",
+ "木雕",
+ "晋商"
+ ]
+ },
+ {
+ "id": 22,
+ "cn": "古桥",
+ "en": "Ancient Bridge (Guqiao)",
+ "category": "建筑类型",
+ "def_zh": "江苏地区水网密布，古桥众多，形式多样，包括石拱桥、石梁桥、廊桥等。苏州宝带桥是中国现存最长的多孔石拱桥，全长317米，53孔；扬州五亭桥是中国园林桥的经典之作；周庄双桥、同里三桥等水乡古桥则与古镇融为一体。这些古桥是江南水乡文化的重要组成部分。",
+ "def_en": "With its dense water network, Jiangsu has numerous ancient bridges in various forms including stone arch bridges, stone beam bridges, and covered bridges. Suzhou's Baodai Bridge is China's longest surviving multi-arch stone bridge, 317 meters long with 53 arches; Yangzhou's Five-Pavilion Bridge is a classic Chinese garden bridge; water town bridges like Zhouzhuang's Twin Bridges and Tongli's Three Bridges integrate with the ancient towns. These bridges are essential components of Jiangnan water town culture.",
+ "examples": "苏州宝带桥、扬州五亭桥、周庄双桥",
+ "related": [
+ "水乡古镇",
+ "石拱桥",
+ "廊桥"
+ ]
+ },
+ {
+ "id": 23,
+ "cn": "孔庙",
+ "en": "Confucian Temple (Kongmiao)",
+ "category": "建筑类型",
+ "def_zh": "孔庙（文庙）是祭祀孔子和地方教育中心的建筑，江苏地区保存有多处孔庙。南京夫子庙是中国四大文庙之一，现为著名的文化商业区；苏州文庙始建于北宋，保存有宋代石刻《天文图》《地理图》等珍贵文物；上海嘉定孔庙是江南地区保存最完整的孔庙之一。",
+ "def_en": "Confucian temples (wenmiao) are buildings for worshipping Confucius and serving as local education centers. Several survive in Jiangsu. Nanjing's Fuzimiao is one of China's Four Great Confucian Temples, now a famous cultural and commercial district; Suzhou's Confucian Temple, founded in the Northern Song, preserves precious Song stone carvings including the 'Astronomical Chart' and 'Geographical Chart'; Shanghai's Jiading Confucian Temple is one of the best-preserved in Jiangnan.",
+ "examples": "南京夫子庙、苏州文庙、上海嘉定孔庙",
+ "related": [
+ "学宫",
+ "牌坊",
+ "碑刻"
+ ]
+ },
+ {
+ "id": 24,
+ "cn": "私家园林",
+ "en": "Private Garden (Sijia Yuanlin)",
+ "category": "建筑类型",
+ "def_zh": "私家园林是江南园林的主体，由文人、官僚、富商营建，追求'虽由人作，宛自天开'的意境。与皇家园林的宏大不同，私家园林小巧精致，注重空间层次和文化内涵。江苏私家园林以苏州为最，扬州个园以叠石闻名，上海豫园是明代私人园林的代表。",
+ "def_en": "Private gardens are the main body of Jiangnan gardens, built by literati, officials, and wealthy merchants, pursuing the ideal of 'though made by man, looks like nature'. Unlike the grandeur of imperial gardens, private gardens are small and exquisite, emphasizing spatial layers and cultural meaning. Suzhou has the finest private gardens; Yangzhou's Ge Garden is famous for rockery piling; Shanghai's Yu Garden is a representative Ming private garden.",
+ "examples": "拙政园、留园、个园、豫园、网师园",
+ "related": [
+ "江南园林",
+ "借景",
+ "叠山理水",
+ "文人园林"
+ ]
+ },
+ {
+ "id": 25,
+ "cn": "楼阁",
+ "en": "Tower-Pavilion (Louge)",
+ "category": "建筑类型",
+ "def_zh": "楼阁是中国古代多层建筑的统称，在江苏地区多见于园林、寺庙和城市中。著名的有南京阅江楼、鼓楼，苏州钟楼、多宝楼，扬州文昌阁，上海大境阁等。楼阁多为砖木结构，造型优美，既是观景平台，又是城市地标。江苏的楼阁建筑体现了江南建筑精巧秀丽的风格。",
+ "def_en": "Tower-pavilions are multi-story ancient Chinese buildings, found in gardens, temples, and cities throughout Jiangsu. Famous examples include Yuejiang Tower and the Drum Tower in Nanjing, the Bell Tower and Duobao Tower in Suzhou, Wenchang Pavilion in Yangzhou, and Dajing Pavilion in Shanghai. Mostly brick-wood structures with elegant forms, they serve as viewing platforms and city landmarks, embodying the delicate and graceful style of Jiangnan architecture.",
+ "examples": "南京阅江楼、南京鼓楼、扬州文昌阁",
+ "related": [
+ "园林建筑",
+ "钟楼",
+ "鼓楼"
+ ]
+ },
+ {
+ "id": 26,
+ "cn": "砖雕",
+ "en": "Brick Carving (Zhuandiao)",
+ "category": "建筑装饰",
+ "def_zh": "砖雕是在青砖上雕刻图案的建筑装饰工艺，江苏地区的砖雕以苏州、扬州、南京为代表，题材包括人物故事、花鸟虫鱼、山水楼阁等，工艺精细，层次丰富。苏州东山雕花楼的砖雕被誉为'江南第一砖雕'，是江南砖雕艺术的巅峰之作。",
+ "def_en": "Brick carving is an architectural decorative technique of carving patterns on grey bricks, represented in Jiangsu by Suzhou, Yangzhou, and Nanjing. Subjects include figure stories, flowers, birds, insects, fish, landscapes, and pavilions, with fine craftsmanship and rich layers. The brick carvings at Suzhou's Dongshan Carved Building are known as the 'finest brick carvings in Jiangnan', representing the pinnacle of the art.",
+ "examples": "苏州东山雕花楼、扬州个园、南京甘熙宅第",
+ "related": [
+ "木雕",
+ "石雕",
+ "苏式彩画"
+ ]
+ },
+ {
+ "id": 27,
+ "cn": "木雕",
+ "en": "Wood Carving (Mudiao)",
+ "category": "建筑装饰",
+ "def_zh": "木雕是江南建筑中最常见的装饰工艺，多用于梁枋、雀替、挂落、门窗等处。江苏木雕以苏州、扬州为中心，技法包括浮雕、透雕、圆雕等，题材丰富，工艺精湛。苏州网师园、拙政园的木雕，扬州个园、何园的木雕都是江南木雕艺术的精品。",
+ "def_en": "Wood carving is the most common decorative technique in Jiangnan architecture, used on beams, spandrels, hanging lattices, doors, and windows. Centered in Suzhou and Yangzhou, Jiangsu wood carving employs relief, openwork, and round carving techniques with rich subjects and superb craftsmanship. The wood carvings at Suzhou's Wangshi Garden and Humble Administrator's Garden, and Yangzhou's Ge Garden and He Garden are fine examples of Jiangnan wood carving art.",
+ "examples": "拙政园、网师园、扬州个园、苏州东山雕花楼",
+ "related": [
+ "砖雕",
+ "石雕",
+ "挂落",
+ "雀替"
+ ]
+ },
+ {
+ "id": 28,
+ "cn": "石雕",
+ "en": "Stone Carving (Shidiao)",
+ "category": "建筑装饰",
+ "def_zh": "石雕是在石材上雕刻图案的装饰工艺，江苏地区的石雕多见于牌坊、桥梁、台基、碑刻等处。南京明孝陵神道的石像生、苏州文庙的宋代石刻、扬州五亭桥的石雕栏板都是江南石雕艺术的代表。江苏石雕风格细腻，与北方的雄浑形成对比。",
+ "def_en": "Stone carving is a decorative technique of carving patterns on stone, found in Jiangsu on memorial arches, bridges, pedestals, and steles. The spirit way stone statues at Ming Xiaoling in Nanjing, the Song stone carvings at Suzhou Confucian Temple, and the stone railings at Yangzhou's Five-Pavilion Bridge are representative of Jiangnan stone carving art. The style is delicate, contrasting with the robust northern tradition.",
+ "examples": "南京明孝陵石像生、苏州文庙石刻、扬州五亭桥",
+ "related": [
+ "砖雕",
+ "木雕",
+ "牌坊",
+ "碑刻"
+ ]
+ },
+ {
+ "id": 29,
+ "cn": "太湖石",
+ "en": "Taihu Stone (Taihushi)",
+ "category": "建筑装饰",
+ "def_zh": "太湖石是江南园林中最重要的叠山材料，因产于太湖而得名，以'瘦、皱、漏、透'为审美标准。太湖石形态奇特，孔洞丰富，是模拟自然山景的最佳材料。苏州留园的冠云峰、上海豫园的玉玲珑、苏州环秀山庄的假山都是太湖石叠山的经典之作。",
+ "def_en": "Taihu stone is the most important rockery material in Jiangnan gardens, named for its origin in Lake Taihu, judged by the aesthetic standards of 'thin, wrinkled, leaky, and transparent'. With bizarre shapes and abundant holes, it is ideal for simulating natural mountain scenery. The Guanyun Peak at Suzhou's Lingering Garden, the Yulinglong at Shanghai's Yu Garden, and the rockery at Suzhou's Mountain Villa with Embracing Beauty are classic Taihu stone rockeries.",
+ "examples": "留园冠云峰、豫园玉玲珑、环秀山庄假山",
+ "related": [
+ "叠山理水",
+ "黄石",
+ "假山",
+ "江南园林"
+ ]
+ },
+ {
+ "id": 30,
+ "cn": "黄石",
+ "en": "Yellow Stone (Huangshi)",
+ "category": "建筑装饰",
+ "def_zh": "黄石是江南园林中另一种重要的叠山材料，颜色黄褐，质地坚硬，棱角分明，与太湖石的圆润玲珑形成对比。黄石叠山风格雄浑刚健，多用于表现北方山景。扬州个园的秋山以黄石叠成，是江南黄石假山的代表作。",
+ "def_en": "Yellow stone is another important rockery material in Jiangnan gardens, yellowish-brown in color, hard in texture, with sharp edges—contrasting with the rounded and exquisite Taihu stone. Yellow stone rockeries have a vigorous and sturdy style, often used to represent northern mountain scenery. The Autumn Mountain at Yangzhou's Ge Garden, built with yellow stone, is a representative Jiangnan yellow stone rockery.",
+ "examples": "扬州个园秋山、苏州耦园假山",
+ "related": [
+ "太湖石",
+ "叠山理水",
+ "假山"
+ ]
+ },
+ {
+ "id": 31,
+ "cn": "叠山理水",
+ "en": "Rockery and Water Management (Dieshan Lishui)",
+ "category": "建筑装饰",
+ "def_zh": "叠山理水是中国古典园林的核心造园手法，即人工堆叠假山和梳理水体，在有限空间内模拟自然山水。江南园林的叠山讲究'虽由人作，宛自天开'，理水讲究曲折自然。苏州环秀山庄的假山被陈从周誉为'江南园林假山之冠'，是叠山艺术的巅峰。",
+ "def_en": "Rockery piling and water management are the core techniques of classical Chinese gardening—artificially stacking rockeries and arranging water to simulate natural landscapes within limited space. Jiangnan garden rockeries strive for 'though made by man, looks like nature', while water arrangement emphasizes winding naturalness. The rockery at Suzhou's Mountain Villa with Embracing Beauty was praised by Chen Congzhou as the 'finest rockery in Jiangnan gardens', representing the pinnacle of the art.",
+ "examples": "环秀山庄、拙政园、个园、留园",
+ "related": [
+ "太湖石",
+ "黄石",
+ "借景",
+ "江南园林"
+ ]
+ },
+ {
+ "id": 32,
+ "cn": "借景",
+ "en": "Borrowed Scenery (Jiejing)",
+ "category": "建筑装饰",
+ "def_zh": "借景是中国古典园林的重要造园手法，即将园外的景色引入园内视线，扩大空间感。借景分为远借、邻借、仰借、俯借、应时而借等。江苏园林中借景运用极为精妙，如拙政园借景北寺塔，无锡寄畅园借景惠山，南京瞻园借景聚宝门等。",
+ "def_en": "Borrowed scenery is an important classical Chinese gardening technique of bringing external scenery into the garden's views to expand spatial perception. It includes distant borrowing, adjacent borrowing, upward borrowing, downward borrowing, and seasonal borrowing. Jiangsu gardens use borrowed scenery exquisitely—for example, Humble Administrator's Garden borrows the North Temple Pagoda, Wuxi's Jichang Garden borrows Mount Hui, and Nanjing's Zhan Garden borrows the Jubao Gate.",
+ "examples": "拙政园借北寺塔、寄畅园借惠山",
+ "related": [
+ "对景",
+ "框景",
+ "江南园林",
+ "造园手法"
+ ]
+ },
+ {
+ "id": 33,
+ "cn": "框景",
+ "en": "Framed Scenery (Kuangjing)",
+ "category": "建筑装饰",
+ "def_zh": "框景是中国古典园林的造园手法，利用门窗、洞口等将外部景色框入其中，形成如画的画面。江南园林中的花窗、漏窗、月洞门都是框景的常用手段。苏州拙政园的梧竹幽居、留园的揖峰轩都是框景的经典实例。",
+ "def_en": "Framed scenery is a classical Chinese gardening technique of using doors, windows, and openings to frame external scenery like a painting. Ornamental windows, lattice windows, and moon gates in Jiangnan gardens are common framing devices. Suzhou's Humble Administrator's Garden (Wuzhu Youju Pavilion) and Lingering Garden (Yifeng Xuan) are classic examples of framed scenery.",
+ "examples": "拙政园梧竹幽居、留园揖峰轩、网师园",
+ "related": [
+ "花窗",
+ "漏窗",
+ "借景",
+ "对景"
+ ]
+ },
+ {
+ "id": 34,
+ "cn": "对景",
+ "en": "Opposite Scenery (Duijing)",
+ "category": "建筑装饰",
+ "def_zh": "对景是中国古典园林的造园手法，即在轴线或视线的两端布置相互呼应的景点，使观者在任一位置都能看到优美的画面。江南园林中对景运用广泛，如拙政园的远香堂与雪香云蔚亭互为对景，留园的涵碧山房与明瑟楼互为对景。",
+ "def_en": "Opposite scenery is a classical Chinese gardening technique of placing mutually echoing scenic spots at both ends of an axis or sightline, so viewers see beautiful compositions from either position. Widely used in Jiangnan gardens—for example, Humble Administrator's Garden's Yuanxiang Hall and Xuexiang Yunwei Pavilion face each other, as do Lingering Garden's Hanbi Shanfang and Mingse Tower.",
+ "examples": "拙政园远香堂、留园涵碧山房",
+ "related": [
+ "借景",
+ "框景",
+ "江南园林",
+ "造园手法"
+ ]
+ },
+ {
+ "id": 35,
+ "cn": "藻井",
+ "en": "Caisson Ceiling (Zaojing)",
+ "category": "建筑装饰",
+ "def_zh": "藻井是中国古代建筑天花板上的装饰性凹面结构，通常为方形、多边形或圆形，层层叠涩，中心雕刻或绘制龙凤、莲花等图案。藻井具有神圣性，多用于宫殿、寺庙的重要殿堂。江苏地区的藻井以苏州玄妙观三清殿、南京朝天宫、上海沉香阁等为代表。",
+ "def_en": "The caisson ceiling (zaojing) is a decorative sunken structure in ancient Chinese ceilings, usually square, polygonal, or circular, with stacked moldings and a center carved or painted with dragons, phoenixes, or lotuses. With sacred connotations, it is used in important halls of palaces and temples. Representative examples in Jiangsu include the Sanqing Hall at Suzhou's Xuanmiao Temple, Nanjing's Chaotian Palace, and Shanghai's Chenxiang Pavilion.",
+ "examples": "苏州玄妙观三清殿、南京朝天宫、上海沉香阁",
+ "related": [
+ "天宫楼阁",
+ "斗拱",
+ "宫殿建筑"
+ ]
+ },
+ {
+ "id": 36,
+ "cn": "金砖",
+ "en": "Gold Brick (Jinzhuan)",
+ "category": "建筑材料",
+ "def_zh": "金砖是苏州御窑烧制的优质铺地方砖，因质地细密、敲击有金属声而得名，并非真金。金砖制作工艺复杂，需经取土、炼泥、制坯、烧制等多道工序，专为皇家宫殿使用。北京故宫的地砖多为苏州御窑金砖，苏州陆慕御窑遗址是金砖的原产地。",
+ "def_en": "Gold bricks (jinzhuan) are high-quality floor tiles fired at the imperial kilns in Suzhou, named for their fine texture and metallic sound when struck—not actual gold. The complex production process includes soil extraction, clay preparation, molding, and firing, made exclusively for imperial palaces. Most floor tiles in Beijing's Forbidden City are Suzhou imperial kiln gold bricks; the Lumu Imperial Kiln Site in Suzhou is their place of origin.",
+ "examples": "苏州陆慕御窑遗址、北京故宫、苏州文庙",
+ "related": [
+ "御窑",
+ "砖瓦",
+ "官式建筑"
+ ]
+ },
+ {
+ "id": 37,
+ "cn": "小青瓦",
+ "en": "Small Grey Tile (Xiaoqingwa)",
+ "category": "建筑材料",
+ "def_zh": "小青瓦是江南建筑最常用的屋面材料，以黏土烧制而成，呈青灰色，体积小巧，铺设灵活。小青瓦与白粉墙配合形成'粉墙黛瓦'的典型江南风貌。江苏地区的小青瓦制作历史悠久，苏州、无锡、宜兴等地都是传统产瓦区。",
+ "def_en": "Small grey tiles are the most common roofing material in Jiangnan architecture, fired from clay into grey-blue, small, flexible tiles. Combined with white plastered walls, they create the typical 'white walls and dark tiles' Jiangnan aesthetic. Jiangsu has a long history of small grey tile production, with Suzhou, Wuxi, and Yixing as traditional tile-making centers.",
+ "examples": "苏州平江路、周庄古镇、上海朱家角",
+ "related": [
+ "粉墙黛瓦",
+ "马头墙",
+ "江南民居"
+ ]
+ },
+ {
+ "id": 38,
+ "cn": "金山石",
+ "en": "Jinshan Stone (Jinshanshi)",
+ "category": "建筑材料",
+ "def_zh": "金山石是苏州金山出产的花岗岩，质地坚硬，色泽青灰，是江南地区最常用的建筑石材，多用于台基、台阶、桥梁、牌坊等。苏州园林中的假山、石桥、石栏多采用金山石，苏州宝带桥、盘门等古建筑均大量使用金山石。",
+ "def_en": "Jinshan stone is a granite quarried at Jinshan in Suzhou, hard and grey-blue in color, the most commonly used building stone in Jiangnan for pedestals, steps, bridges, and memorial arches. Rockeries, stone bridges, and stone railings in Suzhou gardens mostly use Jinshan stone; ancient buildings such as Suzhou's Baodai Bridge and Panmen Gate use it extensively.",
+ "examples": "苏州宝带桥、苏州盘门、拙政园石桥",
+ "related": [
+ "石雕",
+ "台基",
+ "古桥"
+ ]
+ },
+ {
+ "id": 39,
+ "cn": "琉璃瓦",
+ "en": "Glazed Tile (Liuliwa)",
+ "category": "建筑材料",
+ "def_zh": "琉璃瓦是表面施釉的陶瓦，色彩鲜艳，防水耐用，多用于宫殿、寺庙等高等级建筑。江苏地区的琉璃瓦以南京明孝陵、苏州文庙、扬州天宁寺等为代表。南京官窑曾是明代重要的琉璃烧制中心，大报恩寺琉璃塔（已毁）曾被誉为'天下第一塔'。",
+ "def_en": "Glazed tiles are ceramic tiles with a glazed surface, brightly colored, waterproof, and durable, used in high-grade buildings such as palaces and temples. Representative examples in Jiangsu include Ming Xiaoling in Nanjing, Suzhou Confucian Temple, and Tianning Temple in Yangzhou. Nanjing's official kilns were an important Ming glazed tile center; the Porcelain Pagoda of Dabaoen Temple (destroyed) was once known as the 'finest tower under heaven'.",
+ "examples": "南京明孝陵、苏州文庙、扬州天宁寺",
+ "related": [
+ "宫殿建筑",
+ "寺庙",
+ "琉璃塔"
+ ]
+ },
+ {
+ "id": 40,
+ "cn": "楠木",
+ "en": "Nanmu Wood (Nanmu)",
+ "category": "建筑材料",
+ "def_zh": "楠木是中国最珍贵的建筑木材之一，质地坚硬，纹理美观，有香气，防蛀防腐。金丝楠木是楠木中的极品，因木纹中有金丝而得名。江苏地区的重要建筑多使用楠木，如苏州网师园万卷堂、南京朝天宫等，楠木厅是江南建筑中等级最高的厅堂。",
+ "def_en": "Nanmu is one of China's most precious building timbers—hard, beautifully grained, fragrant, and insect- and rot-resistant. Golden-thread nanmu is the finest variety, named for golden threads in its grain. Important buildings in Jiangsu use nanmu, such as the Wanjuan Hall at Suzhou's Wangshi Garden and Nanjing's Chaotian Palace; nanmu halls are the highest-grade halls in Jiangnan architecture.",
+ "examples": "网师园万卷堂、南京朝天宫、苏州东山雕花楼",
+ "related": [
+ "楠木厅",
+ "鸳鸯厅",
+ "四面厅"
+ ]
+ },
+ {
+ "id": 41,
+ "cn": "世界文化遗产",
+ "en": "World Cultural Heritage",
+ "category": "文化背景",
+ "def_zh": "江苏地区拥有多项世界文化遗产：苏州古典园林（1997年列入，9座园林）、南京明孝陵（2003年，作为明清皇家陵寝扩展项目）、中国大运河（2014年，江苏段沿线多处遗产点）、黄（渤）海候鸟栖息地（2019年，盐城）。这些遗产是江苏古建筑和文化景观的精华。",
+ "def_en": "Jiangsu has multiple UNESCO World Cultural Heritage sites: Classical Gardens of Suzhou (listed 1997, 9 gardens), Ming Xiaoling in Nanjing (2003, as extension of Imperial Tombs of the Ming and Qing Dynasties), the Grand Canal of China (2014, with multiple heritage points along the Jiangsu section), and Migratory Bird Sanctuaries along the Coast of the Yellow Sea-Bohai Gulf (2019, Yancheng). These represent the essence of Jiangsu's ancient architecture and cultural landscapes.",
+ "examples": "苏州古典园林、南京明孝陵、中国大运河江苏段",
+ "related": [
+ "江南园林",
+ "陵墓",
+ "大运河"
+ ]
+ },
+ {
+ "id": 42,
+ "cn": "大运河",
+ "en": "The Grand Canal (Da Yunhe)",
+ "category": "文化背景",
+ "def_zh": "中国大运河是世界上最长的人工运河，全长2700公里，2014年列入世界文化遗产。江苏段是大运河的核心区段，沿线保存有大量古建筑，如苏州盘门、山塘街，扬州瘦西湖、个园，镇江西津渡，无锡清名桥，常州青果巷等。大运河孕育了江苏的水乡文化和商业文明。",
+ "def_en": "The Grand Canal of China is the world's longest artificial waterway, 2,700 km long, listed as a UNESCO World Heritage Site in 2014. The Jiangsu section is the core segment, preserving numerous ancient buildings along its banks, including Suzhou's Panmen Gate and Shantang Street, Yangzhou's Slender West Lake and Ge Garden, Zhenjiang's Xijin Ferry, Wuxi's Qingming Bridge, and Changzhou's Qingguo Lane. The Grand Canal nurtured Jiangsu's water town culture and commercial civilization.",
+ "examples": "苏州山塘街、扬州瘦西湖、镇江西津渡、无锡清名桥",
+ "related": [
+ "水乡古镇",
+ "会馆",
+ "古桥",
+ "世界文化遗产"
+ ]
+ },
+ {
+ "id": 43,
+ "cn": "文人园林",
+ "en": "Literati Garden (Wenren Yuanlin)",
+ "category": "文化背景",
+ "def_zh": "文人园林是中国古典园林的重要类型，由文人、画家设计或参与营建，追求诗情画意和隐逸意境。江苏是文人园林的发源地和中心，苏州拙政园（王献臣）、网师园（史正志）、艺圃（文震孟）等都与文人密切相关。文人园林体现了中国文人'达则兼济天下，穷则独善其身'的人生哲学。",
+ "def_en": "Literati gardens are an important type of classical Chinese garden, designed or built with participation from literati and painters, pursuing poetic, painterly, and reclusive aesthetics. Jiangsu is the birthplace and center of literati gardens—Suzhou's Humble Administrator's Garden (Wang Xianchen), Master of Nets Garden (Shi Zhengzhi), and Yi Garden (Wen Zhenmeng) are all closely associated with literati. They embody the Chinese literati philosophy of 'when successful, serve the world; when frustrated, cultivate oneself'.",
+ "examples": "拙政园、网师园、艺圃、耦园",
+ "related": [
+ "江南园林",
+ "私家园林",
+ "借景",
+ "叠山理水"
+ ]
+ },
+ {
+ "id": 44,
+ "cn": "江南文化",
+ "en": "Jiangnan Culture (Jiangnan Wenhua)",
+ "category": "文化背景",
+ "def_zh": "江南文化是长江下游地区形成的地域文化，以崇文重教、精致典雅、工商并重为特征。江苏是江南文化的核心区域，苏州、扬州、南京、无锡等城市都是江南文化的代表。江南文化在建筑上体现为粉墙黛瓦、小桥流水、园林精巧，在文化上体现为诗词、书画、戏曲、工艺的繁荣。",
+ "def_en": "Jiangnan culture is a regional culture formed in the lower Yangtze region, characterized by reverence for education, refinement and elegance, and a balance of commerce and industry. Jiangsu is the core region of Jiangnan culture, with Suzhou, Yangzhou, Nanjing, and Wuxi as representative cities. In architecture, Jiangnan culture manifests as white walls, dark tiles, small bridges, flowing water, and exquisite gardens; in culture, as prosperity in poetry, calligraphy, painting, opera, and crafts.",
+ "examples": "苏州、扬州、南京、无锡",
+ "related": [
+ "江南园林",
+ "江南民居",
+ "水乡古镇",
+ "文人园林"
+ ]
+ },
+ {
+ "id": 45,
+ "cn": "金陵文化",
+ "en": "Jinling Culture (Jinling Wenhua)",
+ "category": "文化背景",
+ "def_zh": "金陵文化是以南京为中心的地域文化，南京古称金陵，是六朝古都、十朝都会。金陵文化兼具南北特色，既有江南的温婉，又有北方的雄浑。南京的古建筑体现了这种融合：明孝陵的规制宏大，夫子庙的市井繁华，栖霞寺的佛教传统，总统府的近代变革，都是金陵文化的物质载体。",
+ "def_en": "Jinling culture is a regional culture centered on Nanjing, anciently called Jinling, capital of the Six Dynasties and capital of ten dynasties. Jinling culture blends northern and southern characteristics, combining Jiangnan gentleness with northern robustness. Nanjing's ancient architecture reflects this fusion: the grand scale of Ming Xiaoling, the bustling market of Fuzimiao, the Buddhist tradition of Qixia Temple, and the modern transformation of the Presidential Palace are all material carriers of Jinling culture.",
+ "examples": "南京明孝陵、夫子庙、栖霞寺、总统府",
+ "related": [
+ "陵墓",
+ "孔庙",
+ "寺庙",
+ "城墙"
+ ]
+ },
+ {
+ "id": 46,
+ "cn": "淮扬文化",
+ "en": "Huaiyang Culture (Huaiyang Wenhua)",
+ "category": "文化背景",
+ "def_zh": "淮扬文化是以扬州为中心的地域文化，因地处淮河与长江之间而得名。扬州在唐代就是'扬一益二'的繁华都市，清代以盐商文化闻名。淮扬文化在建筑上体现为扬州园林的精巧奢华（个园、何园）、大运河的商业繁荣、扬州八怪的艺术创新。淮扬菜是中国四大菜系之一。",
+ "def_en": "Huaiyang culture is a regional culture centered on Yangzhou, named for its location between the Huai River and Yangtze. Yangzhou was already a prosperous city in the Tang dynasty ('Yangzhou first, Yizhou second'), and in the Qing dynasty it was famous for salt merchant culture. In architecture, Huaiyang culture manifests as the exquisite luxury of Yangzhou gardens (Ge Garden, He Garden), the commercial prosperity of the Grand Canal, and the artistic innovation of the Eight Eccentrics of Yangzhou. Huaiyang cuisine is one of China's four major cuisines.",
+ "examples": "扬州个园、何园、瘦西湖、大运河",
+ "related": [
+ "江南园林",
+ "大运河",
+ "盐商",
+ "会馆"
+ ]
+ },
+ {
+ "id": 47,
+ "cn": "海派文化",
+ "en": "Shanghai-Style Culture (Haipai Wenhua)",
+ "category": "文化背景",
+ "def_zh": "海派文化是上海开埠后形成的地域文化，以中西融合、兼收并蓄、创新求变为特征。上海的古建筑既保留了江南传统（豫园、龙华寺、朱家角古镇），又融合了西方元素（外滩建筑群、石库门里弄）。石库门是海派建筑的代表，将江南民居与西方联排住宅结合，是近代上海城市文化的象征。",
+ "def_en": "Shanghai-style (haipai) culture is a regional culture formed after Shanghai's opening as a treaty port, characterized by East-West fusion, eclecticism, and innovation. Shanghai's ancient architecture preserves Jiangnan traditions (Yu Garden, Longhua Temple, Zhujiajiao Ancient Town) while integrating Western elements (the Bund buildings, shikumen lane houses). Shikumen, combining Jiangnan residences with Western row houses, is representative of haipai architecture and a symbol of modern Shanghai urban culture.",
+ "examples": "上海豫园、龙华寺、石库门里弄、朱家角古镇",
+ "related": [
+ "江南民居",
+ "水乡古镇",
+ "会馆",
+ "近代建筑"
+ ]
+ },
+ {
+ "id": 48,
+ "cn": "盐商建筑",
+ "en": "Salt Merchant Architecture (Yanshang Jianzhu)",
+ "category": "文化背景",
+ "def_zh": "盐商建筑是明清时期扬州盐商营建的住宅和园林，以奢华精巧著称。清代扬州盐商富甲天下，他们营建的个园、何园、片石山房等园林，以及大量盐商住宅，代表了江南建筑的最高工艺水平。盐商建筑的特点是规模宏大、装饰精美、融合南北风格，是研究明清商业文化的重要实物。",
+ "def_en": "Salt merchant architecture refers to residences and gardens built by Yangzhou salt merchants during the Ming-Qing period, known for luxury and refinement. Qing dynasty Yangzhou salt merchants were among the wealthiest in China; their gardens such as Ge Garden, He Garden, and Pianshi Shanfang, along with numerous salt merchant residences, represent the highest craftsmanship level of Jiangnan architecture. Characterized by large scale, exquisite decoration, and blended northern-southern styles, they are important artifacts for studying Ming-Qing commercial culture.",
+ "examples": "扬州个园、何园、片石山房、卢氏盐商住宅",
+ "related": [
+ "江南园林",
+ "会馆",
+ "淮扬文化",
+ "砖雕"
+ ]
+ },
+ {
+ "id": 49,
+ "cn": "经幢",
+ "en": "Scripture Pillar (Jingchuang)",
+ "category": "文化背景",
+ "def_zh": "经幢是中国古代佛教石刻建筑，为八角形或圆形石柱，上刻佛经，多立于寺庙殿前。江苏地区保存有多处古代经幢，如南京栖霞寺的南唐经幢、苏州虎丘云岩寺的唐代经幢、镇江隆昌寺的明代经幢等。经幢是研究佛教传播和石刻艺术的重要实物。",
+ "def_en": "Scripture pillars (jingchuang) are ancient Chinese Buddhist stone structures—octagonal or round stone pillars inscribed with Buddhist scriptures, usually erected in front of temple halls. Several ancient scripture pillars survive in Jiangsu, including the Southern Tang pillars at Nanjing's Qixia Temple, Tang pillars at Suzhou's Tiger Hill Yunyan Temple, and Ming pillars at Zhenjiang's Longchang Temple. They are important artifacts for studying Buddhist propagation and stone carving art.",
+ "examples": "南京栖霞寺经幢、苏州虎丘经幢、镇江隆昌寺经幢",
+ "related": [
+ "寺庙",
+ "佛塔",
+ "石雕",
+ "石窟"
+ ]
+ },
+ {
+ "id": 50,
+ "cn": "牌坊",
+ "en": "Memorial Arch (Paifang)",
+ "category": "文化背景",
+ "def_zh": "牌坊是中国古代标志性建筑，多为石构或木构，用于表彰功德、标志空间。江苏地区牌坊众多，苏州文庙的牌坊群、南京夫子庙的天下文枢坊、扬州个园的汉学堂牌坊等都是代表。牌坊建筑融合了结构美与装饰美，是江南建筑艺术的重要组成部分。",
+ "def_en": "Memorial arches (paifang) are landmark ancient Chinese structures, usually stone or wooden, used to commend merit and mark spaces. Jiangsu has numerous memorial arches, including the arch group at Suzhou Confucian Temple, the 'Tianxia Wenshu' Arch at Nanjing's Fuzimiao, and the Hanxuetang Arch at Yangzhou's Ge Garden. Combining structural and decorative beauty, memorial arches are an important component of Jiangnan architectural art.",
+ "examples": "苏州文庙牌坊、南京夫子庙牌坊、扬州个园牌坊",
+ "related": [
+ "孔庙",
+ "石雕",
+ "门楼",
+ "古代城市"
+ ]
+ }
 ]
