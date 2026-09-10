@@ -1,0 +1,4042 @@
+{
+  "title": "从传统民居到地区建筑 术语数据库",
+  "title_en": "Glossary of From Traditional Dwellings to Regional Architecture",
+  "author": "单德启",
+  "total_terms": 385,
+  "categories": [
+    "交通工具",
+    "产业概念",
+    "传统工艺",
+    "传统文化",
+    "保护内容",
+    "保护区划",
+    "保护原则",
+    "保护方式",
+    "保护概念",
+    "保护理念",
+    "保护策略",
+    "保护类型",
+    "农业模式",
+    "功能",
+    "功能区",
+    "功能概念",
+    "功能比喻",
+    "历史事件",
+    "历史人物",
+    "历史概念",
+    "历史民族",
+    "历史称谓",
+    "历史群体",
+    "历史街区",
+    "历史遗迹",
+    "参照案例",
+    "发展战略",
+    "发展概念",
+    "发展模式",
+    "发展路径",
+    "古村落",
+    "品质概念",
+    "哲学",
+    "哲学概念",
+    "园林手法",
+    "地方特产",
+    "地理",
+    "地理概念",
+    "城市概念",
+    "城市特色",
+    "城市现象",
+    "城市理念",
+    "城市空间",
+    "城市结构",
+    "城市色彩",
+    "城市设计",
+    "城镇特征",
+    "城镇类型",
+    "奖项",
+    "学术理念",
+    "学者",
+    "宗教称谓",
+    "实践案例",
+    "居住形式",
+    "建筑",
+    "建筑元素",
+    "建筑师",
+    "建筑形象",
+    "建筑意象",
+    "建筑材料",
+    "建筑案例",
+    "建筑概念",
+    "建筑空间",
+    "建筑类型",
+    "建筑风格",
+    "开发理念",
+    "思维方式",
+    "批判对象",
+    "批判概念",
+    "改建原则",
+    "改造类型",
+    "政策措施",
+    "政策概念",
+    "文体",
+    "文化传统",
+    "文化元素",
+    "文化概念",
+    "文化流派",
+    "文化特征",
+    "文化称谓",
+    "文学体裁",
+    "文献",
+    "方法论",
+    "旅游类型",
+    "时代背景",
+    "景点",
+    "景观特征",
+    "更新概念",
+    "更新理念",
+    "村落形态",
+    "村落现象",
+    "村落类型",
+    "村落要素",
+    "极端做法",
+    "案例",
+    "民居类型",
+    "民族文化",
+    "民族聚落",
+    "水利工程",
+    "水利设施",
+    "水形概念",
+    "环境概念",
+    "理念",
+    "理论概念",
+    "生态",
+    "生态伦理",
+    "生态概念",
+    "生活设施",
+    "研究方向",
+    "研究方法",
+    "研究阶段",
+    "研究领域",
+    "社会制度",
+    "社会概念",
+    "社会现象",
+    "社会结构",
+    "称号",
+    "空间概念",
+    "经济概念",
+    "结构形式",
+    "美学概念",
+    "考古",
+    "考古文化",
+    "职业概念",
+    "聚落类型",
+    "能源",
+    "色彩概念",
+    "营建原则",
+    "规划",
+    "规划原则",
+    "规划尺度",
+    "规划手法",
+    "规划方法",
+    "规划概念",
+    "规划理念",
+    "规划要求",
+    "规划误区",
+    "设计方法",
+    "设计概念",
+    "设计理念",
+    "设计策略",
+    "设计精髓",
+    "资源概念",
+    "转型概念",
+    "选址原则",
+    "风景区类型",
+    "风水"
+  ],
+  "terms": [
+    {
+      "term": "人与居住环境",
+      "en": "Human and Living Environment",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 1. 人与居住环境——中国传统民居聚落基本理论与实践的探索",
+        "第二篇 中国传统民居聚落的保护与更新 - 论中国传统民居村寨聚落的改造——中国建筑师神圣的历史使命"
+      ]
+    },
+    {
+      "term": "传统民居聚落",
+      "en": "Traditional Dwelling Settlement",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 1. 人与居住环境——中国传统民居聚落基本理论与实践的探索"
+      ]
+    },
+    {
+      "term": "院落式民居",
+      "en": "Courtyard-style Dwelling",
+      "category": "民居类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 1. 人与居住环境——中国传统民居聚落基本理论与实践的探索"
+      ]
+    },
+    {
+      "term": "楼居式民居",
+      "en": "Stilt/Tower-style Dwelling",
+      "category": "民居类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 1. 人与居住环境——中国传统民居聚落基本理论与实践的探索"
+      ]
+    },
+    {
+      "term": "穴居式民居",
+      "en": "Cave-style Dwelling",
+      "category": "民居类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 1. 人与居住环境——中国传统民居聚落基本理论与实践的探索"
+      ]
+    },
+    {
+      "term": "干栏式穿斗架木楼",
+      "en": "Stilt-style Through-frame Wooden Building",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 1. 人与居住环境——中国传统民居聚落基本理论与实践的探索"
+      ]
+    },
+    {
+      "term": "徽州天井式民居",
+      "en": "Huizhou Patio-style Dwelling",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 1. 人与居住环境——中国传统民居聚落基本理论与实践的探索"
+      ]
+    },
+    {
+      "term": "半坡仰韶文化",
+      "en": "Banpo Yangshao Culture",
+      "category": "考古",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 1. 人与居住环境——中国传统民居聚落基本理论与实践的探索"
+      ]
+    },
+    {
+      "term": "多元复合构成层次",
+      "en": "Pluralistic Composite Structural Layers",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 1. 人与居住环境——中国传统民居聚落基本理论与实践的探索"
+      ]
+    },
+    {
+      "term": "生态形态情态有机统一",
+      "en": "Organic Unity of Ecology, Form and Sentiment",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 1. 人与居住环境——中国传统民居聚落基本理论与实践的探索",
+        "第四篇 地区主义建筑和当代乡土人居环境 - 后记"
+      ]
+    },
+    {
+      "term": "留民营村生态农业",
+      "en": "Liuminying Village Ecological Agriculture",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 1. 人与居住环境——中国传统民居聚落基本理论与实践的探索"
+      ]
+    },
+    {
+      "term": "乡土建筑",
+      "en": "Vernacular Architecture",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 1. 人与居住环境——中国传统民居聚落基本理论与实践的探索"
+      ]
+    },
+    {
+      "term": "村溪",
+      "en": "Village Stream (cunxi)",
+      "category": "村落要素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 2. 村溪·天井·马头墙——徽州民居笔记之一"
+      ]
+    },
+    {
+      "term": "天井",
+      "en": "Patio (tianjing)",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 2. 村溪·天井·马头墙——徽州民居笔记之一",
+        "第一篇 人与居住环境——中国传统民居聚落 - 4. 徽州民居与传统建筑空间观——徽州民居笔记之三"
+      ]
+    },
+    {
+      "term": "马头墙",
+      "en": "Horse-head Wall (matouqiang)",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 2. 村溪·天井·马头墙——徽州民居笔记之一"
+      ]
+    },
+    {
+      "term": "徽州民居",
+      "en": "Huizhou Dwellings",
+      "category": "民居类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 2. 村溪·天井·马头墙——徽州民居笔记之一",
+        "第一篇 人与居住环境——中国传统民居聚落 - 3. 黟县宏村规划探源——徽州民居笔记之二"
+      ]
+    },
+    {
+      "term": "四水归堂",
+      "en": "Four Waters Returning to Hall (fengshui concept)",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 2. 村溪·天井·马头墙——徽州民居笔记之一",
+        "第一篇 人与居住环境——中国传统民居聚落 - 4. 徽州民居与传统建筑空间观——徽州民居笔记之三"
+      ]
+    },
+    {
+      "term": "有机品格",
+      "en": "Organic Character",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 2. 村溪·天井·马头墙——徽州民居笔记之一"
+      ]
+    },
+    {
+      "term": "粉墙黛瓦",
+      "en": "Powder Walls and Dark Tiles",
+      "category": "建筑形象",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 2. 村溪·天井·马头墙——徽州民居笔记之一"
+      ]
+    },
+    {
+      "term": "宏村月沼",
+      "en": "Hongcun Moon Marsh",
+      "category": "历史遗迹",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 2. 村溪·天井·马头墙——徽州民居笔记之一"
+      ]
+    },
+    {
+      "term": "共享空间",
+      "en": "Shared Space",
+      "category": "空间概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 2. 村溪·天井·马头墙——徽州民居笔记之一"
+      ]
+    },
+    {
+      "term": "封火墙",
+      "en": "Fire-sealing Wall",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 2. 村溪·天井·马头墙——徽州民居笔记之一"
+      ]
+    },
+    {
+      "term": "唐模西递",
+      "en": "Tangmo / Xidi (Huizhou villages)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 2. 村溪·天井·马头墙——徽州民居笔记之一"
+      ]
+    },
+    {
+      "term": "新安碑园多景园",
+      "en": "Xin'an Stele Garden / Duojing Garden",
+      "category": "建筑案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 2. 村溪·天井·马头墙——徽州民居笔记之一"
+      ]
+    },
+    {
+      "term": "宏村",
+      "en": "Hongcun Village (ox-shaped village)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 3. 黟县宏村规划探源——徽州民居笔记之二"
+      ]
+    },
+    {
+      "term": "牛形村落",
+      "en": "Ox-shaped Village (fengshui pattern)",
+      "category": "村落形态",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 3. 黟县宏村规划探源——徽州民居笔记之二"
+      ]
+    },
+    {
+      "term": "月沼",
+      "en": "Moon Marsh (Yuezhao)",
+      "category": "水利工程",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 3. 黟县宏村规划探源——徽州民居笔记之二",
+        "第一篇 人与居住环境——中国传统民居聚落 - 8. 乡土聚落的人文解读——《水脉宏村》的撰写特色"
+      ]
+    },
+    {
+      "term": "南湖",
+      "en": "South Lake (Nanhu)",
+      "category": "水利工程",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 3. 黟县宏村规划探源——徽州民居笔记之二",
+        "第一篇 人与居住环境——中国传统民居聚落 - 8. 乡土聚落的人文解读——《水脉宏村》的撰写特色"
+      ]
+    },
+    {
+      "term": "水圳",
+      "en": "Water Channel (shuizhen)",
+      "category": "水利工程",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 3. 黟县宏村规划探源——徽州民居笔记之二",
+        "第一篇 人与居住环境——中国传统民居聚落 - 8. 乡土聚落的人文解读——《水脉宏村》的撰写特色",
+        "第四篇 地区主义建筑和当代乡土人居环境 - 从传统乡土民居聚落到现代人居环境——关于住区环境和居住品质"
+      ]
+    },
+    {
+      "term": "汪思齐",
+      "en": "Wang Siqi (Hongcun planner)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 3. 黟县宏村规划探源——徽州民居笔记之二"
+      ]
+    },
+    {
+      "term": "何可达",
+      "en": "He Keda (fengshui master)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 3. 黟县宏村规划探源——徽州民居笔记之二"
+      ]
+    },
+    {
+      "term": "黟县",
+      "en": "Yixian County",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 3. 黟县宏村规划探源——徽州民居笔记之二"
+      ]
+    },
+    {
+      "term": "雷岗山",
+      "en": "Leigang Hill",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 3. 黟县宏村规划探源——徽州民居笔记之二"
+      ]
+    },
+    {
+      "term": "画桥",
+      "en": "Painting Bridge (Huqiao)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 3. 黟县宏村规划探源——徽州民居笔记之二"
+      ]
+    },
+    {
+      "term": "程朱理学",
+      "en": "Cheng-Zhu Neo-Confucianism",
+      "category": "哲学",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 3. 黟县宏村规划探源——徽州民居笔记之二"
+      ]
+    },
+    {
+      "term": "传统建筑空间观",
+      "en": "Traditional Architectural Space View",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 4. 徽州民居与传统建筑空间观——徽州民居笔记之三"
+      ]
+    },
+    {
+      "term": "序列空间",
+      "en": "Sequential Space",
+      "category": "空间概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 4. 徽州民居与传统建筑空间观——徽州民居笔记之三"
+      ]
+    },
+    {
+      "term": "虚实相生",
+      "en": "Virtual and Real Complementing Each Other",
+      "category": "美学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 4. 徽州民居与传统建筑空间观——徽州民居笔记之三",
+        "第一篇 人与居住环境——中国传统民居聚落 - 6. 生态与形态、情态的有机统一——传统民居聚落居住环境的生态意义",
+        "第四篇 地区主义建筑和当代乡土人居环境 - 画家·画室·画境 构思·构图·构建——从黄山艺术家中心方案设计看徽州当代乡土建筑创作"
+      ]
+    },
+    {
+      "term": "小中见大",
+      "en": "Seeing the Large in the Small",
+      "category": "美学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 4. 徽州民居与传统建筑空间观——徽州民居笔记之三"
+      ]
+    },
+    {
+      "term": "借景对景框景",
+      "en": "Borrowed/Opposite/Framed Scenery",
+      "category": "园林手法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 4. 徽州民居与传统建筑空间观——徽州民居笔记之三"
+      ]
+    },
+    {
+      "term": "园冶",
+      "en": "The Craft of Gardens (Yuan Ye)",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 4. 徽州民居与传统建筑空间观——徽州民居笔记之三"
+      ]
+    },
+    {
+      "term": "计成",
+      "en": "Ji Cheng (garden theorist)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 4. 徽州民居与传统建筑空间观——徽州民居笔记之三"
+      ]
+    },
+    {
+      "term": "花窗漏窗",
+      "en": "Flower Window / Lattice Window",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 4. 徽州民居与传统建筑空间观——徽州民居笔记之三"
+      ]
+    },
+    {
+      "term": "西递村",
+      "en": "Xidi Village",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 4. 徽州民居与传统建筑空间观——徽州民居笔记之三"
+      ]
+    },
+    {
+      "term": "室内外空间渗透",
+      "en": "Interior-Exterior Space Permeation",
+      "category": "空间概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 4. 徽州民居与传统建筑空间观——徽州民居笔记之三"
+      ]
+    },
+    {
+      "term": "徽派文化",
+      "en": "Huizhou-style Culture",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 5. 冲突与转化——文化变迁·文化圈与徽州民居试析"
+      ]
+    },
+    {
+      "term": "文化变迁",
+      "en": "Cultural Change",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 5. 冲突与转化——文化变迁·文化圈与徽州民居试析"
+      ]
+    },
+    {
+      "term": "文化圈",
+      "en": "Cultural Circle",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 5. 冲突与转化——文化变迁·文化圈与徽州民居试析"
+      ]
+    },
+    {
+      "term": "徽商",
+      "en": "Huizhou Merchants",
+      "category": "历史群体",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 5. 冲突与转化——文化变迁·文化圈与徽州民居试析"
+      ]
+    },
+    {
+      "term": "贾儒特征",
+      "en": "Confucian-Merchant Characteristics",
+      "category": "文化特征",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 5. 冲突与转化——文化变迁·文化圈与徽州民居试析"
+      ]
+    },
+    {
+      "term": "古越人山越",
+      "en": "Ancient Yue People (Shan Yue)",
+      "category": "历史民族",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 5. 冲突与转化——文化变迁·文化圈与徽州民居试析"
+      ]
+    },
+    {
+      "term": "中原移民",
+      "en": "Central Plains Migration",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 5. 冲突与转化——文化变迁·文化圈与徽州民居试析"
+      ]
+    },
+    {
+      "term": "建筑三绝",
+      "en": "Three Architectural Masterpieces (dwellings/halls/archways)",
+      "category": "建筑概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 5. 冲突与转化——文化变迁·文化圈与徽州民居试析"
+      ]
+    },
+    {
+      "term": "徽州版刻",
+      "en": "Huizhou Block Printing",
+      "category": "传统工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 5. 冲突与转化——文化变迁·文化圈与徽州民居试析"
+      ]
+    },
+    {
+      "term": "新安医学",
+      "en": "Xin'an Medicine",
+      "category": "传统文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 5. 冲突与转化——文化变迁·文化圈与徽州民居试析"
+      ]
+    },
+    {
+      "term": "徽剧京剧之源",
+      "en": "Huizhou Opera (source of Peking Opera)",
+      "category": "传统文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 5. 冲突与转化——文化变迁·文化圈与徽州民居试析"
+      ]
+    },
+    {
+      "term": "聚族而居",
+      "en": "Living in Clan Groups",
+      "category": "社会结构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 5. 冲突与转化——文化变迁·文化圈与徽州民居试析"
+      ]
+    },
+    {
+      "term": "天人合一",
+      "en": "Unity of Heaven and Human",
+      "category": "哲学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 6. 生态与形态、情态的有机统一——传统民居聚落居住环境的生态意义"
+      ]
+    },
+    {
+      "term": "生态观",
+      "en": "Ecological View",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 6. 生态与形态、情态的有机统一——传统民居聚落居住环境的生态意义"
+      ]
+    },
+    {
+      "term": "形态观",
+      "en": "Formal View",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 6. 生态与形态、情态的有机统一——传统民居聚落居住环境的生态意义"
+      ]
+    },
+    {
+      "term": "情态观",
+      "en": "Sentimental View",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 6. 生态与形态、情态的有机统一——传统民居聚落居住环境的生态意义"
+      ]
+    },
+    {
+      "term": "风水林",
+      "en": "Fengshui Forest",
+      "category": "生态",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 6. 生态与形态、情态的有机统一——传统民居聚落居住环境的生态意义"
+      ]
+    },
+    {
+      "term": "乡规民约",
+      "en": "Village Rules and Agreements",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 6. 生态与形态、情态的有机统一——传统民居聚落居住环境的生态意义"
+      ]
+    },
+    {
+      "term": "负阴抱阳背山面水",
+      "en": "Backing Yin Embracing Yang / Backing Mountains Facing Water",
+      "category": "选址原则",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 6. 生态与形态、情态的有机统一——传统民居聚落居住环境的生态意义"
+      ]
+    },
+    {
+      "term": "留民营村",
+      "en": "Liuminying Village (ecological agriculture)",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 6. 生态与形态、情态的有机统一——传统民居聚落居住环境的生态意义"
+      ]
+    },
+    {
+      "term": "小张庄",
+      "en": "Xiaozhangzhuang (ecological village)",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 6. 生态与形态、情态的有机统一——传统民居聚落居住环境的生态意义"
+      ]
+    },
+    {
+      "term": "耕读传家",
+      "en": "Farming and Studying as Family Tradition",
+      "category": "文化传统",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 6. 生态与形态、情态的有机统一——传统民居聚落居住环境的生态意义"
+      ]
+    },
+    {
+      "term": "局部生态平衡",
+      "en": "Local Ecological Balance",
+      "category": "生态概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 6. 生态与形态、情态的有机统一——传统民居聚落居住环境的生态意义",
+        "第二篇 中国传统民居聚落的保护与更新 - 广西融水县整垛寨苗寨木楼的改建——对中国西南山区干栏式传统民居的思考和探索"
+      ]
+    },
+    {
+      "term": "开平碉楼",
+      "en": "Kaiping Diaolou (Watchtowers)",
+      "category": "民居类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 7. 开平侨乡碉楼"
+      ]
+    },
+    {
+      "term": "侨乡",
+      "en": "Overseas Chinese Hometown",
+      "category": "地理概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 7. 开平侨乡碉楼"
+      ]
+    },
+    {
+      "term": "四邑",
+      "en": "Siyi (Four Counties)",
+      "category": "地理概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 7. 开平侨乡碉楼"
+      ]
+    },
+    {
+      "term": "燕子窝",
+      "en": "Swallow Nest (projecting turret)",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 7. 开平侨乡碉楼"
+      ]
+    },
+    {
+      "term": "泥楼",
+      "en": "Mud Tower",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 7. 开平侨乡碉楼"
+      ]
+    },
+    {
+      "term": "青砖楼",
+      "en": "Blue-Brick Tower",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 7. 开平侨乡碉楼"
+      ]
+    },
+    {
+      "term": "钢筋混凝土楼",
+      "en": "Reinforced Concrete Tower",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 7. 开平侨乡碉楼"
+      ]
+    },
+    {
+      "term": "平廊式",
+      "en": "Flat-Corridor Style",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 7. 开平侨乡碉楼"
+      ]
+    },
+    {
+      "term": "廊楼式",
+      "en": "Corridor-Tower Style",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 7. 开平侨乡碉楼"
+      ]
+    },
+    {
+      "term": "赛堡式挑台",
+      "en": "Castle-Style Platform",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 7. 开平侨乡碉楼"
+      ]
+    },
+    {
+      "term": "巴洛克洛可可风格",
+      "en": "Baroque and Rococo Style",
+      "category": "建筑风格",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 7. 开平侨乡碉楼"
+      ]
+    },
+    {
+      "term": "枪眼",
+      "en": "Gun Port / Embrasure",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 7. 开平侨乡碉楼"
+      ]
+    },
+    {
+      "term": "水脉宏村",
+      "en": "Water Veins of Hongcun (book)",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 8. 乡土聚落的人文解读——《水脉宏村》的撰写特色"
+      ]
+    },
+    {
+      "term": "人文视角",
+      "en": "Humanistic Perspective",
+      "category": "研究方法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 8. 乡土聚落的人文解读——《水脉宏村》的撰写特色"
+      ]
+    },
+    {
+      "term": "汪森强",
+      "en": "Wang Senqiang (author, 95th gen Wang)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 8. 乡土聚落的人文解读——《水脉宏村》的撰写特色"
+      ]
+    },
+    {
+      "term": "人与水相生",
+      "en": "Humans and Water Coexisting",
+      "category": "哲学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 8. 乡土聚落的人文解读——《水脉宏村》的撰写特色"
+      ]
+    },
+    {
+      "term": "散文诗",
+      "en": "Prose Poem",
+      "category": "文学体裁",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 8. 乡土聚落的人文解读——《水脉宏村》的撰写特色"
+      ]
+    },
+    {
+      "term": "乡土哲学",
+      "en": "Vernacular Philosophy",
+      "category": "哲学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 8. 乡土聚落的人文解读——《水脉宏村》的撰写特色"
+      ]
+    },
+    {
+      "term": "承志堂",
+      "en": "Chengzhi Hall",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 8. 乡土聚落的人文解读——《水脉宏村》的撰写特色"
+      ]
+    },
+    {
+      "term": "石碣头",
+      "en": "Stone Weir (Shijietou)",
+      "category": "水利工程",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 8. 乡土聚落的人文解读——《水脉宏村》的撰写特色"
+      ]
+    },
+    {
+      "term": "家族情乡土情",
+      "en": "Family Affection / Hometown Affection",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一篇 人与居住环境——中国传统民居聚落 - 8. 乡土聚落的人文解读——《水脉宏村》的撰写特色"
+      ]
+    },
+    {
+      "term": "野性思维",
+      "en": "Savage Thought (La Pensée Sauvage)",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 乡土民居与\"野性思维\"——中国民居学术研究的思考"
+      ]
+    },
+    {
+      "term": "列维斯特劳斯",
+      "en": "Lévi-Strauss",
+      "category": "学者",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 乡土民居与\"野性思维\"——中国民居学术研究的思考"
+      ]
+    },
+    {
+      "term": "野性的思维",
+      "en": "The Savage Mind (book)",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 乡土民居与\"野性思维\"——中国民居学术研究的思考"
+      ]
+    },
+    {
+      "term": "原广司",
+      "en": "Hiroshi Hara (Japanese architect)",
+      "category": "建筑师",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 乡土民居与\"野性思维\"——中国民居学术研究的思考"
+      ]
+    },
+    {
+      "term": "哈桑法athy",
+      "en": "Hassan Fathy (Egyptian architect)",
+      "category": "建筑师",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 乡土民居与\"野性思维\"——中国民居学术研究的思考"
+      ]
+    },
+    {
+      "term": "干栏木楼",
+      "en": "Stilt House (Ganlan)",
+      "category": "民居类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 乡土民居与\"野性思维\"——中国民居学术研究的思考"
+      ]
+    },
+    {
+      "term": "风雨桥",
+      "en": "Wind-and-Rain Bridge",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 乡土民居与\"野性思维\"——中国民居学术研究的思考"
+      ]
+    },
+    {
+      "term": "鼓楼",
+      "en": "Drum Tower",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 乡土民居与\"野性思维\"——中国民居学术研究的思考"
+      ]
+    },
+    {
+      "term": "因地制宜",
+      "en": "Adapting to Local Conditions",
+      "category": "营建原则",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 乡土民居与\"野性思维\"——中国民居学术研究的思考",
+        "第二篇 中国传统民居聚落的保护与更新 - 论中国传统民居村寨聚落的改造——中国建筑师神圣的历史使命"
+      ]
+    },
+    {
+      "term": "就地取材",
+      "en": "Using Local Materials",
+      "category": "营建原则",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 乡土民居与\"野性思维\"——中国民居学术研究的思考"
+      ]
+    },
+    {
+      "term": "儒道互补",
+      "en": "Confucian-Daoist Complementarity",
+      "category": "哲学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 乡土民居与\"野性思维\"——中国民居学术研究的思考"
+      ]
+    },
+    {
+      "term": "具体性整体性思维",
+      "en": "Concrete and Holistic Thinking",
+      "category": "思维方式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 乡土民居与\"野性思维\"——中国民居学术研究的思考"
+      ]
+    },
+    {
+      "term": "干栏式木楼",
+      "en": "Ganlan Stilt Wooden House",
+      "category": "民居类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 广西融水县整垛寨苗寨木楼的改建——对中国西南山区干栏式传统民居的思考和探索"
+      ]
+    },
+    {
+      "term": "融水县整垛寨",
+      "en": "Zhengduo Village, Rongshui County",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 广西融水县整垛寨苗寨木楼的改建——对中国西南山区干栏式传统民居的思考和探索"
+      ]
+    },
+    {
+      "term": "苗寨",
+      "en": "Miao Village",
+      "category": "民族聚落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 广西融水县整垛寨苗寨木楼的改建——对中国西南山区干栏式传统民居的思考和探索"
+      ]
+    },
+    {
+      "term": "芦笙坪芦笙柱",
+      "en": "Lusheng Square / Lusheng Pillar",
+      "category": "民族文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 广西融水县整垛寨苗寨木楼的改建——对中国西南山区干栏式传统民居的思考和探索",
+        "第二篇 中国传统民居聚落的保护与更新 - 欠发达地区传统民居聚落改造的求索——广西融水苗寨木楼改建的实践和理论探讨"
+      ]
+    },
+    {
+      "term": "鸡腿架空层",
+      "en": "Chicken-leg Raised Ground Floor",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 广西融水县整垛寨苗寨木楼的改建——对中国西南山区干栏式传统民居的思考和探索"
+      ]
+    },
+    {
+      "term": "火塘",
+      "en": "Fire Pit",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 广西融水县整垛寨苗寨木楼的改建——对中国西南山区干栏式传统民居的思考和探索"
+      ]
+    },
+    {
+      "term": "卯榫技术",
+      "en": "Mortise-and-Tenon Technology",
+      "category": "传统工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 广西融水县整垛寨苗寨木楼的改建——对中国西南山区干栏式传统民居的思考和探索"
+      ]
+    },
+    {
+      "term": "以旧更新",
+      "en": "Renewing with the Old",
+      "category": "改建原则",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 广西融水县整垛寨苗寨木楼的改建——对中国西南山区干栏式传统民居的思考和探索",
+        "第二篇 中国传统民居聚落的保护与更新 - 论中国传统民居村寨聚落的改造——中国建筑师神圣的历史使命",
+        "第二篇 中国传统民居聚落的保护与更新 - 欠发达地区传统民居聚落改造的求索——广西融水苗寨木楼改建的实践和理论探讨"
+      ]
+    },
+    {
+      "term": "群众参与",
+      "en": "Mass Participation",
+      "category": "改建原则",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 广西融水县整垛寨苗寨木楼的改建——对中国西南山区干栏式传统民居的思考和探索",
+        "第二篇 中国传统民居聚落的保护与更新 - 论中国传统民居村寨聚落的改造——中国建筑师神圣的历史使命",
+        "第二篇 中国传统民居聚落的保护与更新 - 欠发达地区传统民居聚落改造的求索——广西融水苗寨木楼改建的实践和理论探讨"
+      ]
+    },
+    {
+      "term": "水泥空心砖",
+      "en": "Cement Hollow Brick",
+      "category": "建筑材料",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 广西融水县整垛寨苗寨木楼的改建——对中国西南山区干栏式传统民居的思考和探索",
+        "第二篇 中国传统民居聚落的保护与更新 - 欠发达地区传统民居聚落改造的求索——广西融水苗寨木楼改建的实践和理论探讨"
+      ]
+    },
+    {
+      "term": "整体思维",
+      "en": "Holistic Thinking",
+      "category": "思维方式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 广西融水县整垛寨苗寨木楼的改建——对中国西南山区干栏式传统民居的思考和探索",
+        "第二篇 中国传统民居聚落的保护与更新 - 欠发达地区传统民居聚落改造的求索——广西融水苗寨木楼改建的实践和理论探讨"
+      ]
+    },
+    {
+      "term": "传统民居聚落改造",
+      "en": "Traditional Dwelling Settlement Reconstruction",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 论中国传统民居村寨聚落的改造——中国建筑师神圣的历史使命"
+      ]
+    },
+    {
+      "term": "整体思维系统思维",
+      "en": "Holistic Thinking / Systems Thinking",
+      "category": "思维方式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 论中国传统民居村寨聚落的改造——中国建筑师神圣的历史使命"
+      ]
+    },
+    {
+      "term": "没有建筑师的建筑",
+      "en": "Architecture Without Architects",
+      "category": "建筑概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 论中国传统民居村寨聚落的改造——中国建筑师神圣的历史使命"
+      ]
+    },
+    {
+      "term": "路家寨改建",
+      "en": "Lujiazhai Reconstruction",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 论中国传统民居村寨聚落的改造——中国建筑师神圣的历史使命"
+      ]
+    },
+    {
+      "term": "下里巴人到阳春白雪",
+      "en": "From Popular to Refined",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 论中国传统民居村寨聚落的改造——中国建筑师神圣的历史使命"
+      ]
+    },
+    {
+      "term": "乡村生态环境",
+      "en": "Rural Ecological Environment",
+      "category": "生态概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 论中国传统民居村寨聚落的改造——中国建筑师神圣的历史使命"
+      ]
+    },
+    {
+      "term": "中国建筑师历史使命",
+      "en": "Historical Mission of Chinese Architects",
+      "category": "职业概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 论中国传统民居村寨聚落的改造——中国建筑师神圣的历史使命"
+      ]
+    },
+    {
+      "term": "传统建筑文化传承",
+      "en": "Inheritance of Traditional Architectural Culture",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 论中国传统民居村寨聚落的改造——中国建筑师神圣的历史使命"
+      ]
+    },
+    {
+      "term": "干栏",
+      "en": "Ganlan (Stilt House)",
+      "category": "民居类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 干栏的时空轨迹——广西融水苗寨木楼改建的思辨"
+      ]
+    },
+    {
+      "term": "穿斗木构架",
+      "en": "Through-Column Wooden Frame",
+      "category": "结构形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 干栏的时空轨迹——广西融水苗寨木楼改建的思辨"
+      ]
+    },
+    {
+      "term": "卯榫技艺",
+      "en": "Mortise-and-Tenon Technology",
+      "category": "传统工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 干栏的时空轨迹——广西融水苗寨木楼改建的思辨"
+      ]
+    },
+    {
+      "term": "河姆渡文化",
+      "en": "Hemudu Culture",
+      "category": "考古文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 干栏的时空轨迹——广西融水苗寨木楼改建的思辨"
+      ]
+    },
+    {
+      "term": "百越",
+      "en": "Baiyue (Hundred Yue)",
+      "category": "历史民族",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 干栏的时空轨迹——广西融水苗寨木楼改建的思辨"
+      ]
+    },
+    {
+      "term": "构木为巢",
+      "en": "Building Trees as Nests",
+      "category": "历史概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 干栏的时空轨迹——广西融水苗寨木楼改建的思辨"
+      ]
+    },
+    {
+      "term": "巢居穴居",
+      "en": "Nest Dwelling / Cave Dwelling",
+      "category": "居住形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 干栏的时空轨迹——广西融水苗寨木楼改建的思辨"
+      ]
+    },
+    {
+      "term": "整垛寨改建",
+      "en": "Zhengduo Village Reconstruction",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 干栏的时空轨迹——广西融水苗寨木楼改建的思辨"
+      ]
+    },
+    {
+      "term": "田头寨改建",
+      "en": "Tiantou Village Reconstruction",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 干栏的时空轨迹——广西融水苗寨木楼改建的思辨"
+      ]
+    },
+    {
+      "term": "干栏文化",
+      "en": "Ganlan Culture",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 干栏的时空轨迹——广西融水苗寨木楼改建的思辨"
+      ]
+    },
+    {
+      "term": "传统民居双重性",
+      "en": "Dual Nature of Traditional Dwellings",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 干栏的时空轨迹——广西融水苗寨木楼改建的思辨"
+      ]
+    },
+    {
+      "term": "徐霞客游记",
+      "en": "Xu Xiake's Travel Diaries",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 干栏的时空轨迹——广西融水苗寨木楼改建的思辨"
+      ]
+    },
+    {
+      "term": "欠发达地区",
+      "en": "Underdeveloped Areas",
+      "category": "地理概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 欠发达地区传统民居聚落改造的求索——广西融水苗寨木楼改建的实践和理论探讨"
+      ]
+    },
+    {
+      "term": "融水苗族自治县",
+      "en": "Rongshui Miao Autonomous County",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 欠发达地区传统民居聚落改造的求索——广西融水苗寨木楼改建的实践和理论探讨"
+      ]
+    },
+    {
+      "term": "整垛寨",
+      "en": "Zhengduo Village",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 欠发达地区传统民居聚落改造的求索——广西融水苗寨木楼改建的实践和理论探讨"
+      ]
+    },
+    {
+      "term": "田头屯寨",
+      "en": "Tiantou Village",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 欠发达地区传统民居聚落改造的求索——广西融水苗寨木楼改建的实践和理论探讨"
+      ]
+    },
+    {
+      "term": "就地改建",
+      "en": "In-Situ Reconstruction",
+      "category": "改建原则",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 欠发达地区传统民居聚落改造的求索——广西融水苗寨木楼改建的实践和理论探讨"
+      ]
+    },
+    {
+      "term": "节柴灶",
+      "en": "Fuel-Saving Stove",
+      "category": "生活设施",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 欠发达地区传统民居聚落改造的求索——广西融水苗寨木楼改建的实践和理论探讨"
+      ]
+    },
+    {
+      "term": "沼气",
+      "en": "Biogas",
+      "category": "能源",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 欠发达地区传统民居聚落改造的求索——广西融水苗寨木楼改建的实践和理论探讨"
+      ]
+    },
+    {
+      "term": "东浦水街",
+      "en": "Dongpu Water Street",
+      "category": "历史街区",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴东浦水街的保护与更新"
+      ]
+    },
+    {
+      "term": "绍兴黄酒",
+      "en": "Shaoxing Yellow Rice Wine",
+      "category": "地方特产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴东浦水街的保护与更新"
+      ]
+    },
+    {
+      "term": "陆游",
+      "en": "Lu You (patriotic poet)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴东浦水街的保护与更新"
+      ]
+    },
+    {
+      "term": "徐锡麟",
+      "en": "Xu Xilin (revolutionary pioneer)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴东浦水街的保护与更新"
+      ]
+    },
+    {
+      "term": "乌篷船",
+      "en": "Black-Awning Boat (Wupengchuan)",
+      "category": "交通工具",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴东浦水街的保护与更新",
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴柯桥古镇\"有机秩序\"的建立",
+        "第四篇 地区主义建筑和当代乡土人居环境 - 可持续发展的历史文化街区刍议——绍兴鲁迅故里保护规划的思考与探索"
+      ]
+    },
+    {
+      "term": "花雕酒",
+      "en": "Huadiao Wine",
+      "category": "地方特产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴东浦水街的保护与更新"
+      ]
+    },
+    {
+      "term": "江南水乡",
+      "en": "Jiangnan Water Town",
+      "category": "地理概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴东浦水街的保护与更新",
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴柯桥古镇\"有机秩序\"的建立"
+      ]
+    },
+    {
+      "term": "动态保护多元保护",
+      "en": "Dynamic Protection / Pluralistic Protection",
+      "category": "保护理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴东浦水街的保护与更新"
+      ]
+    },
+    {
+      "term": "原状保护移植保护基因保护",
+      "en": "Original-State/Transplantation/Gene Protection",
+      "category": "保护方式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴东浦水街的保护与更新"
+      ]
+    },
+    {
+      "term": "民俗生活展示区",
+      "en": "Folk Life Display Zone",
+      "category": "功能区",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴东浦水街的保护与更新"
+      ]
+    },
+    {
+      "term": "酒文化展示区",
+      "en": "Wine Culture Display Zone",
+      "category": "功能区",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴东浦水街的保护与更新"
+      ]
+    },
+    {
+      "term": "小沈园乃翁亭",
+      "en": "Small Shen Garden / Naiweng Pavilion",
+      "category": "景点",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴东浦水街的保护与更新"
+      ]
+    },
+    {
+      "term": "柯桥古镇",
+      "en": "Keqiao Ancient Town",
+      "category": "历史街区",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴柯桥古镇\"有机秩序\"的建立"
+      ]
+    },
+    {
+      "term": "金柯桥",
+      "en": "Golden Keqiao",
+      "category": "历史称谓",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴柯桥古镇\"有机秩序\"的建立"
+      ]
+    },
+    {
+      "term": "有机秩序",
+      "en": "Organic Order",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴柯桥古镇\"有机秩序\"的建立"
+      ]
+    },
+    {
+      "term": "古运河",
+      "en": "Ancient Grand Canal",
+      "category": "水利工程",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴柯桥古镇\"有机秩序\"的建立"
+      ]
+    },
+    {
+      "term": "历史文化名镇",
+      "en": "Historical and Cultural Town",
+      "category": "称号",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴柯桥古镇\"有机秩序\"的建立"
+      ]
+    },
+    {
+      "term": "农贸集散地",
+      "en": "Agricultural Trade Distribution Center",
+      "category": "功能",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴柯桥古镇\"有机秩序\"的建立"
+      ]
+    },
+    {
+      "term": "小桥流水人家",
+      "en": "Small Bridges, Flowing Water, Households",
+      "category": "景观特征",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴柯桥古镇\"有机秩序\"的建立",
+        "第四篇 地区主义建筑和当代乡土人居环境 - 可持续发展的历史文化街区刍议——绍兴鲁迅故里保护规划的思考与探索"
+      ]
+    },
+    {
+      "term": "旅游开发规划",
+      "en": "Tourism Development Planning",
+      "category": "规划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴柯桥古镇\"有机秩序\"的建立"
+      ]
+    },
+    {
+      "term": "古镇游览区",
+      "en": "Ancient Town Tour Zone",
+      "category": "功能区",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴柯桥古镇\"有机秩序\"的建立"
+      ]
+    },
+    {
+      "term": "保护与开发良性循环",
+      "en": "Virtuous Cycle of Protection and Development",
+      "category": "理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - 绍兴柯桥古镇\"有机秩序\"的建立"
+      ]
+    },
+    {
+      "term": "城市化",
+      "en": "Urbanization",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - \"城市化\"+\"逆城市化\"=有中国特色的现代化"
+      ]
+    },
+    {
+      "term": "逆城市化",
+      "en": "Counter-Urbanization",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - \"城市化\"+\"逆城市化\"=有中国特色的现代化"
+      ]
+    },
+    {
+      "term": "有中国特色的现代化",
+      "en": "Modernization with Chinese Characteristics",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - \"城市化\"+\"逆城市化\"=有中国特色的现代化"
+      ]
+    },
+    {
+      "term": "城乡一体化",
+      "en": "Urban-Rural Integration",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - \"城市化\"+\"逆城市化\"=有中国特色的现代化",
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城郊视野中的乡村——安徽省芜湖市澛港镇龙华中心村规划设计",
+        "第四篇 地区主义建筑和当代乡土人居环境 - 后记"
+      ]
+    },
+    {
+      "term": "城中村",
+      "en": "Urban Village",
+      "category": "城市现象",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - \"城市化\"+\"逆城市化\"=有中国特色的现代化"
+      ]
+    },
+    {
+      "term": "花园城市生态城市",
+      "en": "Garden City / Ecological City",
+      "category": "城市理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - \"城市化\"+\"逆城市化\"=有中国特色的现代化"
+      ]
+    },
+    {
+      "term": "生态村",
+      "en": "Ecological Village",
+      "category": "村落类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - \"城市化\"+\"逆城市化\"=有中国特色的现代化"
+      ]
+    },
+    {
+      "term": "传统村落保护与更新奖",
+      "en": "European Traditional Village Protection and Renewal Award",
+      "category": "奖项",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - \"城市化\"+\"逆城市化\"=有中国特色的现代化"
+      ]
+    },
+    {
+      "term": "艾斯拓夫村",
+      "en": "Estorf Village (Germany)",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - \"城市化\"+\"逆城市化\"=有中国特色的现代化"
+      ]
+    },
+    {
+      "term": "广义建筑学",
+      "en": "Generalized Architecture (Wu Liangyong)",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - \"城市化\"+\"逆城市化\"=有中国特色的现代化"
+      ]
+    },
+    {
+      "term": "吴良镛",
+      "en": "Wu Liangyong (architect)",
+      "category": "学者",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - \"城市化\"+\"逆城市化\"=有中国特色的现代化"
+      ]
+    },
+    {
+      "term": "农业产业化",
+      "en": "Agricultural Industrialization",
+      "category": "经济概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二篇 中国传统民居聚落的保护与更新 - \"城市化\"+\"逆城市化\"=有中国特色的现代化"
+      ]
+    },
+    {
+      "term": "城市化农业产业化",
+      "en": "Urbanization / Agricultural Industrialization",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城市化和农业产业化背景下传统村镇和街区的结构更新"
+      ]
+    },
+    {
+      "term": "传统村镇结构更新",
+      "en": "Structural Renewal of Traditional Villages and Towns",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城市化和农业产业化背景下传统村镇和街区的结构更新"
+      ]
+    },
+    {
+      "term": "现代化传统当代乡土",
+      "en": "Modernized Tradition / Contemporary Vernacular",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城市化和农业产业化背景下传统村镇和街区的结构更新"
+      ]
+    },
+    {
+      "term": "三山镇总体规划",
+      "en": "Sanshan Town Master Plan",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城市化和农业产业化背景下传统村镇和街区的结构更新"
+      ]
+    },
+    {
+      "term": "澛港新镇",
+      "en": "Lugang New Town",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城市化和农业产业化背景下传统村镇和街区的结构更新"
+      ]
+    },
+    {
+      "term": "小城镇大战略",
+      "en": "Small Towns, Great Strategy",
+      "category": "政策概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城市化和农业产业化背景下传统村镇和街区的结构更新",
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 在\"小城镇，大战略\"论坛与小城镇旅游高级论坛上的两次发言",
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 从芜湖市三山镇规划引发的思考——中部地区小城镇规划探讨"
+      ]
+    },
+    {
+      "term": "又城又乡",
+      "en": "Both Urban and Rural",
+      "category": "空间概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城市化和农业产业化背景下传统村镇和街区的结构更新"
+      ]
+    },
+    {
+      "term": "近细远粗",
+      "en": "Detailed Near-Term, Rough Long-Term",
+      "category": "规划方法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城市化和农业产业化背景下传统村镇和街区的结构更新"
+      ]
+    },
+    {
+      "term": "分期建设基础先行",
+      "en": "Phased Construction, Infrastructure First",
+      "category": "规划原则",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城市化和农业产业化背景下传统村镇和街区的结构更新"
+      ]
+    },
+    {
+      "term": "鲁迅故里保护规划",
+      "en": "Lu Xun's Hometown Protection Plan",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城市化和农业产业化背景下传统村镇和街区的结构更新"
+      ]
+    },
+    {
+      "term": "历史街区保护",
+      "en": "Historic District Protection",
+      "category": "保护概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城市化和农业产业化背景下传统村镇和街区的结构更新"
+      ]
+    },
+    {
+      "term": "重点保护区传统风貌协调区",
+      "en": "Key Protection Zone / Traditional Style Coordination Zone",
+      "category": "保护区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城市化和农业产业化背景下传统村镇和街区的结构更新"
+      ]
+    },
+    {
+      "term": "中心村建设",
+      "en": "Central Village Construction",
+      "category": "规划概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城郊视野中的乡村——安徽省芜湖市澛港镇龙华中心村规划设计"
+      ]
+    },
+    {
+      "term": "城郊视野中的乡村",
+      "en": "Countryside in Suburban Vision",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城郊视野中的乡村——安徽省芜湖市澛港镇龙华中心村规划设计"
+      ]
+    },
+    {
+      "term": "龙华中心村",
+      "en": "Longhua Central Village",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城郊视野中的乡村——安徽省芜湖市澛港镇龙华中心村规划设计"
+      ]
+    },
+    {
+      "term": "澛港镇",
+      "en": "Lugang Town",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城郊视野中的乡村——安徽省芜湖市澛港镇龙华中心村规划设计",
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 传统小城镇保护与发展刍议"
+      ]
+    },
+    {
+      "term": "同质同构异质异构",
+      "en": "Homogeneous Isomorphism / Heterogeneous Isomorphism",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城郊视野中的乡村——安徽省芜湖市澛港镇龙华中心村规划设计"
+      ]
+    },
+    {
+      "term": "撤村并点撤乡建镇",
+      "en": "Merging Villages and Points / Merging Townships and Building Towns",
+      "category": "政策措施",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城郊视野中的乡村——安徽省芜湖市澛港镇龙华中心村规划设计"
+      ]
+    },
+    {
+      "term": "家园归属感",
+      "en": "Sense of Home Belonging",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城郊视野中的乡村——安徽省芜湖市澛港镇龙华中心村规划设计"
+      ]
+    },
+    {
+      "term": "社区凝聚力",
+      "en": "Community Cohesion",
+      "category": "社会概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城郊视野中的乡村——安徽省芜湖市澛港镇龙华中心村规划设计"
+      ]
+    },
+    {
+      "term": "居民参与",
+      "en": "Resident Participation",
+      "category": "规划方法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城郊视野中的乡村——安徽省芜湖市澛港镇龙华中心村规划设计"
+      ]
+    },
+    {
+      "term": "农村住宅产业化",
+      "en": "Rural Housing Industrialization",
+      "category": "产业概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城郊视野中的乡村——安徽省芜湖市澛港镇龙华中心村规划设计"
+      ]
+    },
+    {
+      "term": "通而不畅",
+      "en": "Connected but Not Through (road design)",
+      "category": "规划手法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 城郊视野中的乡村——安徽省芜湖市澛港镇龙华中心村规划设计"
+      ]
+    },
+    {
+      "term": "空心村",
+      "en": "Hollow Village",
+      "category": "村落现象",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - \"空心村\"改造规划设计——以安徽省巢湖地区空心村改造为例"
+      ]
+    },
+    {
+      "term": "空心村改造",
+      "en": "Hollow Village Reconstruction",
+      "category": "改造类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - \"空心村\"改造规划设计——以安徽省巢湖地区空心村改造为例"
+      ]
+    },
+    {
+      "term": "就地改造",
+      "en": "In-Situ Reconstruction",
+      "category": "改造类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - \"空心村\"改造规划设计——以安徽省巢湖地区空心村改造为例"
+      ]
+    },
+    {
+      "term": "部分易地改造",
+      "en": "Partial Relocation Reconstruction",
+      "category": "改造类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - \"空心村\"改造规划设计——以安徽省巢湖地区空心村改造为例"
+      ]
+    },
+    {
+      "term": "易地改造",
+      "en": "Relocation Reconstruction",
+      "category": "改造类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - \"空心村\"改造规划设计——以安徽省巢湖地区空心村改造为例"
+      ]
+    },
+    {
+      "term": "转型改造",
+      "en": "Transformation Reconstruction",
+      "category": "改造类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - \"空心村\"改造规划设计——以安徽省巢湖地区空心村改造为例"
+      ]
+    },
+    {
+      "term": "巢湖地区",
+      "en": "Chaohu Region",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - \"空心村\"改造规划设计——以安徽省巢湖地区空心村改造为例"
+      ]
+    },
+    {
+      "term": "都市中的村庄",
+      "en": "Village in the City",
+      "category": "城市现象",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - \"空心村\"改造规划设计——以安徽省巢湖地区空心村改造为例"
+      ]
+    },
+    {
+      "term": "槐林镇尚店村",
+      "en": "Shangdian Village, Huailin Town",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - \"空心村\"改造规划设计——以安徽省巢湖地区空心村改造为例"
+      ]
+    },
+    {
+      "term": "聚落空间形态异化",
+      "en": "Alienation of Settlement Spatial Form",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - \"空心村\"改造规划设计——以安徽省巢湖地区空心村改造为例"
+      ]
+    },
+    {
+      "term": "耕地资源节约",
+      "en": "Arable Land Resource Conservation",
+      "category": "资源概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - \"空心村\"改造规划设计——以安徽省巢湖地区空心村改造为例"
+      ]
+    },
+    {
+      "term": "农村现代化",
+      "en": "Rural Modernization",
+      "category": "发展概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - \"空心村\"改造规划设计——以安徽省巢湖地区空心村改造为例"
+      ]
+    },
+    {
+      "term": "文化复合体",
+      "en": "Cultural Complex",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 网络内外的传统街区——文化整体网络内外的价值评析"
+      ]
+    },
+    {
+      "term": "价值网络",
+      "en": "Value Network",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 网络内外的传统街区——文化整体网络内外的价值评析"
+      ]
+    },
+    {
+      "term": "传统街区",
+      "en": "Traditional District",
+      "category": "城市空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 网络内外的传统街区——文化整体网络内外的价值评析"
+      ]
+    },
+    {
+      "term": "网络内外",
+      "en": "Inside and Outside the Network",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 网络内外的传统街区——文化整体网络内外的价值评析"
+      ]
+    },
+    {
+      "term": "正方向逆方向",
+      "en": "Positive Direction / Reverse Direction",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 网络内外的传统街区——文化整体网络内外的价值评析"
+      ]
+    },
+    {
+      "term": "筛选和接纳机制",
+      "en": "Screening and Acceptance Mechanism",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 网络内外的传统街区——文化整体网络内外的价值评析"
+      ]
+    },
+    {
+      "term": "政治社会经济思想体系",
+      "en": "Political/Social/Economic/Ideological Systems",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 网络内外的传统街区——文化整体网络内外的价值评析"
+      ]
+    },
+    {
+      "term": "传统街区现代化更新",
+      "en": "Modernization Renewal of Traditional Districts",
+      "category": "更新概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 网络内外的传统街区——文化整体网络内外的价值评析"
+      ]
+    },
+    {
+      "term": "文化凝聚结构",
+      "en": "Cultural Cohesion Structure",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 网络内外的传统街区——文化整体网络内外的价值评析"
+      ]
+    },
+    {
+      "term": "时代化更新",
+      "en": "Contemporary Renewal",
+      "category": "更新概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 网络内外的传统街区——文化整体网络内外的价值评析"
+      ]
+    },
+    {
+      "term": "历史渊源传承",
+      "en": "Inheritance of Historical Origins",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 网络内外的传统街区——文化整体网络内外的价值评析"
+      ]
+    },
+    {
+      "term": "多元共存",
+      "en": "Pluralistic Coexistence",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 网络内外的传统街区——文化整体网络内外的价值评析"
+      ]
+    },
+    {
+      "term": "乡土的希望",
+      "en": "The Hope of the Vernacular",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 乡土的希望——从传统民居到小城镇建设"
+      ]
+    },
+    {
+      "term": "传统民居到小城镇建设",
+      "en": "From Traditional Dwellings to Small Town Construction",
+      "category": "发展路径",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 乡土的希望——从传统民居到小城镇建设"
+      ]
+    },
+    {
+      "term": "地域文化物质载体",
+      "en": "Material Carrier of Regional Culture",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 乡土的希望——从传统民居到小城镇建设"
+      ]
+    },
+    {
+      "term": "一方水土养一方人",
+      "en": "The Waters and Soil Nurture the People",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 乡土的希望——从传统民居到小城镇建设"
+      ]
+    },
+    {
+      "term": "精品乡土聚落保护",
+      "en": "Protection of Premium Vernacular Settlements",
+      "category": "保护类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 乡土的希望——从传统民居到小城镇建设"
+      ]
+    },
+    {
+      "term": "旅游转型",
+      "en": "Tourism Transformation",
+      "category": "发展模式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 乡土的希望——从传统民居到小城镇建设"
+      ]
+    },
+    {
+      "term": "扶贫更新改造",
+      "en": "Poverty-Alleviation Renewal and Reconstruction",
+      "category": "改造类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 乡土的希望——从传统民居到小城镇建设"
+      ]
+    },
+    {
+      "term": "城市边缘地区城乡结合",
+      "en": "Urban-Rural Integration in Urban Fringe Areas",
+      "category": "发展模式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 乡土的希望——从传统民居到小城镇建设"
+      ]
+    },
+    {
+      "term": "开辟新区保护老区",
+      "en": "Opening New Areas, Protecting Old Areas",
+      "category": "保护策略",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 乡土的希望——从传统民居到小城镇建设"
+      ]
+    },
+    {
+      "term": "民居建筑的保护",
+      "en": "Protection of Dwelling Architecture",
+      "category": "保护概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 乡土的希望——从传统民居到小城镇建设"
+      ]
+    },
+    {
+      "term": "建筑和人的双向交流",
+      "en": "Two-Way Interaction Between Architecture and People",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 乡土的希望——从传统民居到小城镇建设"
+      ]
+    },
+    {
+      "term": "批判的武器武器的批判",
+      "en": "Weapon of Criticism / Criticism of Weapons",
+      "category": "哲学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 乡土的希望——从传统民居到小城镇建设"
+      ]
+    },
+    {
+      "term": "历史文化城镇保护",
+      "en": "Historical and Cultural Town Protection",
+      "category": "保护概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 在\"小城镇，大战略\"论坛与小城镇旅游高级论坛上的两次发言"
+      ]
+    },
+    {
+      "term": "古民居保护二重性",
+      "en": "Dual Nature of Ancient Dwelling Protection",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 在\"小城镇，大战略\"论坛与小城镇旅游高级论坛上的两次发言"
+      ]
+    },
+    {
+      "term": "小城镇旅游开发",
+      "en": "Small Town Tourism Development",
+      "category": "发展概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 在\"小城镇，大战略\"论坛与小城镇旅游高级论坛上的两次发言"
+      ]
+    },
+    {
+      "term": "接待型小城镇",
+      "en": "Reception-Type Small Town",
+      "category": "城镇类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 在\"小城镇，大战略\"论坛与小城镇旅游高级论坛上的两次发言"
+      ]
+    },
+    {
+      "term": "参与型生态度假旅游",
+      "en": "Participatory Ecological Vacation Tourism",
+      "category": "旅游类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 在\"小城镇，大战略\"论坛与小城镇旅游高级论坛上的两次发言"
+      ]
+    },
+    {
+      "term": "花山迷窟",
+      "en": "Huashan Mystery Cave",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 在\"小城镇，大战略\"论坛与小城镇旅游高级论坛上的两次发言"
+      ]
+    },
+    {
+      "term": "巢湖风景区",
+      "en": "Chaohu Scenic Area",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 在\"小城镇，大战略\"论坛与小城镇旅游高级论坛上的两次发言"
+      ]
+    },
+    {
+      "term": "城乡一体考虑",
+      "en": "Urban-Rural Integrated Consideration",
+      "category": "规划理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 在\"小城镇，大战略\"论坛与小城镇旅游高级论坛上的两次发言"
+      ]
+    },
+    {
+      "term": "高水平规划",
+      "en": "High-Level Planning",
+      "category": "规划要求",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 在\"小城镇，大战略\"论坛与小城镇旅游高级论坛上的两次发言"
+      ]
+    },
+    {
+      "term": "学术文章洞里做旅游文章洞外做",
+      "en": "Academic Articles Inside Cave, Tourism Articles Outside Cave",
+      "category": "开发理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 在\"小城镇，大战略\"论坛与小城镇旅游高级论坛上的两次发言"
+      ]
+    },
+    {
+      "term": "立体农业",
+      "en": "Three-Dimensional Agriculture",
+      "category": "农业模式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 在\"小城镇，大战略\"论坛与小城镇旅游高级论坛上的两次发言"
+      ]
+    },
+    {
+      "term": "滨湖园林旅游风景区",
+      "en": "Lakeside Garden Tourism Scenic Area",
+      "category": "风景区类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 滨湖园林旅游风景区小城镇规划初探——结合巢湖市中庙镇总体规划实例"
+      ]
+    },
+    {
+      "term": "中庙镇",
+      "en": "Zhongmiao Town",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 滨湖园林旅游风景区小城镇规划初探——结合巢湖市中庙镇总体规划实例"
+      ]
+    },
+    {
+      "term": "巢湖",
+      "en": "Chaohu Lake",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 滨湖园林旅游风景区小城镇规划初探——结合巢湖市中庙镇总体规划实例"
+      ]
+    },
+    {
+      "term": "姥山岛",
+      "en": "Laoshan Island",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 滨湖园林旅游风景区小城镇规划初探——结合巢湖市中庙镇总体规划实例"
+      ]
+    },
+    {
+      "term": "文峰塔",
+      "en": "Wenfeng Pagoda",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 滨湖园林旅游风景区小城镇规划初探——结合巢湖市中庙镇总体规划实例"
+      ]
+    },
+    {
+      "term": "中庙寺院",
+      "en": "Zhongmiao Temple",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 滨湖园林旅游风景区小城镇规划初探——结合巢湖市中庙镇总体规划实例"
+      ]
+    },
+    {
+      "term": "昭忠祠",
+      "en": "Zhaozhong Shrine",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 滨湖园林旅游风景区小城镇规划初探——结合巢湖市中庙镇总体规划实例"
+      ]
+    },
+    {
+      "term": "自然生态系统",
+      "en": "Natural Ecosystem",
+      "category": "生态概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 滨湖园林旅游风景区小城镇规划初探——结合巢湖市中庙镇总体规划实例"
+      ]
+    },
+    {
+      "term": "生态平衡",
+      "en": "Ecological Balance",
+      "category": "生态概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 滨湖园林旅游风景区小城镇规划初探——结合巢湖市中庙镇总体规划实例"
+      ]
+    },
+    {
+      "term": "生态失调",
+      "en": "Ecological Imbalance",
+      "category": "生态概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 滨湖园林旅游风景区小城镇规划初探——结合巢湖市中庙镇总体规划实例"
+      ]
+    },
+    {
+      "term": "可持续发展",
+      "en": "Sustainable Development",
+      "category": "发展概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 滨湖园林旅游风景区小城镇规划初探——结合巢湖市中庙镇总体规划实例",
+        "第四篇 地区主义建筑和当代乡土人居环境 - 可持续发展的历史文化街区刍议——绍兴鲁迅故里保护规划的思考与探索"
+      ]
+    },
+    {
+      "term": "整旧如旧",
+      "en": "Restoring Old as Old",
+      "category": "保护原则",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 滨湖园林旅游风景区小城镇规划初探——结合巢湖市中庙镇总体规划实例"
+      ]
+    },
+    {
+      "term": "中部地区小城镇",
+      "en": "Small Towns in Central China",
+      "category": "城镇类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 从芜湖市三山镇规划引发的思考——中部地区小城镇规划探讨"
+      ]
+    },
+    {
+      "term": "三山镇",
+      "en": "Sanshan Town",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 从芜湖市三山镇规划引发的思考——中部地区小城镇规划探讨"
+      ]
+    },
+    {
+      "term": "小城镇大眼界",
+      "en": "Small Towns, Broad Vision",
+      "category": "规划理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 从芜湖市三山镇规划引发的思考——中部地区小城镇规划探讨"
+      ]
+    },
+    {
+      "term": "大战略小步走",
+      "en": "Great Strategy, Small Steps",
+      "category": "规划理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 从芜湖市三山镇规划引发的思考——中部地区小城镇规划探讨"
+      ]
+    },
+    {
+      "term": "高起点大手笔",
+      "en": "High Starting Point, Grand Scale",
+      "category": "规划误区",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 从芜湖市三山镇规划引发的思考——中部地区小城镇规划探讨"
+      ]
+    },
+    {
+      "term": "苏南模式温州模式",
+      "en": "Sunan Model / Wenzhou Model",
+      "category": "发展模式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 从芜湖市三山镇规划引发的思考——中部地区小城镇规划探讨"
+      ]
+    },
+    {
+      "term": "珠江三角洲模式",
+      "en": "Pearl River Delta Model",
+      "category": "发展模式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 从芜湖市三山镇规划引发的思考——中部地区小城镇规划探讨"
+      ]
+    },
+    {
+      "term": "城乡体系",
+      "en": "Urban-Rural System",
+      "category": "规划概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 从芜湖市三山镇规划引发的思考——中部地区小城镇规划探讨"
+      ]
+    },
+    {
+      "term": "区域发展区域规划",
+      "en": "Regional Development / Regional Planning",
+      "category": "规划概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 从芜湖市三山镇规划引发的思考——中部地区小城镇规划探讨"
+      ]
+    },
+    {
+      "term": "产业发展框架",
+      "en": "Industrial Development Framework",
+      "category": "规划概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 从芜湖市三山镇规划引发的思考——中部地区小城镇规划探讨"
+      ]
+    },
+    {
+      "term": "农村城市化战略",
+      "en": "Rural Urbanization Strategy",
+      "category": "发展战略",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 从芜湖市三山镇规划引发的思考——中部地区小城镇规划探讨"
+      ]
+    },
+    {
+      "term": "传统小城镇",
+      "en": "Traditional Small Town",
+      "category": "城镇类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 传统小城镇保护与发展刍议"
+      ]
+    },
+    {
+      "term": "聚落",
+      "en": "Settlement",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 传统小城镇保护与发展刍议"
+      ]
+    },
+    {
+      "term": "保护与发展",
+      "en": "Protection and Development",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 传统小城镇保护与发展刍议"
+      ]
+    },
+    {
+      "term": "绍兴东浦镇",
+      "en": "Dongpu Town, Shaoxing",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 传统小城镇保护与发展刍议"
+      ]
+    },
+    {
+      "term": "汉诺威",
+      "en": "Hannover (Germany)",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 传统小城镇保护与发展刍议"
+      ]
+    },
+    {
+      "term": "黄酒发源地",
+      "en": "Birthplace of Yellow Rice Wine",
+      "category": "文化称谓",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 传统小城镇保护与发展刍议"
+      ]
+    },
+    {
+      "term": "水街特征",
+      "en": "Water Street Characteristics",
+      "category": "城镇特征",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 传统小城镇保护与发展刍议"
+      ]
+    },
+    {
+      "term": "翻轩街廊",
+      "en": "Fanxuan Street Corridor",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 传统小城镇保护与发展刍议"
+      ]
+    },
+    {
+      "term": "新老建筑交相辉映",
+      "en": "New and Old Buildings Enhancing Each Other",
+      "category": "设计理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 传统小城镇保护与发展刍议"
+      ]
+    },
+    {
+      "term": "乡村型小镇向城市街区转型",
+      "en": "Transformation from Rural Small Town to Urban District",
+      "category": "转型概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 传统小城镇保护与发展刍议"
+      ]
+    },
+    {
+      "term": "一概不动推倒重来",
+      "en": "Not Touching Anything / Tearing Down and Rebuilding",
+      "category": "极端做法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三篇 城市化背景下传统聚落和小城镇建设 - 传统小城镇保护与发展刍议"
+      ]
+    },
+    {
+      "term": "中国民居学术研究",
+      "en": "Academic Research on Chinese Dwellings",
+      "category": "研究领域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 中国民居学术研究二十年回顾与展望"
+      ]
+    },
+    {
+      "term": "风景旅游区中的民居研究",
+      "en": "Dwelling Research in Scenic Tourism Areas",
+      "category": "研究阶段",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 中国民居学术研究二十年回顾与展望"
+      ]
+    },
+    {
+      "term": "云谷山庄",
+      "en": "Yungu Villa",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 中国民居学术研究二十年回顾与展望",
+        "第四篇 地区主义建筑和当代乡土人居环境 - 天工人巧 两臻其美——以黄山为例探讨风景名胜区建筑文化",
+        "第四篇 地区主义建筑和当代乡土人居环境 - 旅游设施与景观环境"
+      ]
+    },
+    {
+      "term": "动态保护有机更新",
+      "en": "Dynamic Protection, Organic Renewal",
+      "category": "保护理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 中国民居学术研究二十年回顾与展望"
+      ]
+    },
+    {
+      "term": "磨合萃取",
+      "en": "Adaptation and Extraction",
+      "category": "方法论",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 中国民居学术研究二十年回顾与展望"
+      ]
+    },
+    {
+      "term": "城市化和农业产业化",
+      "en": "Urbanization and Agricultural Industrialization",
+      "category": "时代背景",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 中国民居学术研究二十年回顾与展望"
+      ]
+    },
+    {
+      "term": "传统村镇和街区结构更新",
+      "en": "Structural Renewal of Traditional Villages, Towns, and Districts",
+      "category": "研究阶段",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 中国民居学术研究二十年回顾与展望"
+      ]
+    },
+    {
+      "term": "空心村现象",
+      "en": "Hollow Village Phenomenon",
+      "category": "社会现象",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 中国民居学术研究二十年回顾与展望"
+      ]
+    },
+    {
+      "term": "城乡双向动态研究",
+      "en": "Urban-Rural Two-Way Dynamic Research",
+      "category": "研究方法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 中国民居学术研究二十年回顾与展望"
+      ]
+    },
+    {
+      "term": "二元人居环境研究方法",
+      "en": "Dual Human Settlement Research Method",
+      "category": "研究方法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 中国民居学术研究二十年回顾与展望"
+      ]
+    },
+    {
+      "term": "中心村并村",
+      "en": "Central Village Merger",
+      "category": "规划概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 中国民居学术研究二十年回顾与展望"
+      ]
+    },
+    {
+      "term": "旅庙合一",
+      "en": "Integration of Temples and Tourism",
+      "category": "设计理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 中国民居学术研究二十年回顾与展望"
+      ]
+    },
+    {
+      "term": "九华山化城寺",
+      "en": "Huacheng Temple, Jiuhua Mountain",
+      "category": "建筑案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 放生池边二十年——九华山化城寺广场衰落现象与复兴途径的思考"
+      ]
+    },
+    {
+      "term": "化城寺广场",
+      "en": "Huacheng Temple Square",
+      "category": "城市空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 放生池边二十年——九华山化城寺广场衰落现象与复兴途径的思考"
+      ]
+    },
+    {
+      "term": "放生池",
+      "en": "Releasing Pond",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 放生池边二十年——九华山化城寺广场衰落现象与复兴途径的思考"
+      ]
+    },
+    {
+      "term": "九华镇",
+      "en": "Jiuhua Town",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 放生池边二十年——九华山化城寺广场衰落现象与复兴途径的思考"
+      ]
+    },
+    {
+      "term": "开山祖寺",
+      "en": "Founding Ancestral Temple",
+      "category": "宗教称谓",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 放生池边二十年——九华山化城寺广场衰落现象与复兴途径的思考"
+      ]
+    },
+    {
+      "term": "加法更新减法更新",
+      "en": "Addition Renewal / Subtraction Renewal",
+      "category": "更新理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 放生池边二十年——九华山化城寺广场衰落现象与复兴途径的思考"
+      ]
+    },
+    {
+      "term": "实体环境人文环境",
+      "en": "Physical Environment / Humanistic Environment",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 放生池边二十年——九华山化城寺广场衰落现象与复兴途径的思考"
+      ]
+    },
+    {
+      "term": "民族性和地区性",
+      "en": "Ethnicity and Regionality",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 放生池边二十年——九华山化城寺广场衰落现象与复兴途径的思考"
+      ]
+    },
+    {
+      "term": "前导空间",
+      "en": "Introductory Space",
+      "category": "空间概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 放生池边二十年——九华山化城寺广场衰落现象与复兴途径的思考"
+      ]
+    },
+    {
+      "term": "环境形态记忆",
+      "en": "Environmental Form Memory",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 放生池边二十年——九华山化城寺广场衰落现象与复兴途径的思考"
+      ]
+    },
+    {
+      "term": "城镇结构形态更新",
+      "en": "Urban Structural Form Renewal",
+      "category": "更新概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 放生池边二十年——九华山化城寺广场衰落现象与复兴途径的思考"
+      ]
+    },
+    {
+      "term": "圣马可广场",
+      "en": "St. Mark's Square (Florence)",
+      "category": "参照案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 放生池边二十年——九华山化城寺广场衰落现象与复兴途径的思考"
+      ]
+    },
+    {
+      "term": "风景名胜区建筑文化",
+      "en": "Architectural Culture in Scenic and Historic Interest Areas",
+      "category": "研究领域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 天工人巧 两臻其美——以黄山为例探讨风景名胜区建筑文化"
+      ]
+    },
+    {
+      "term": "天工人巧两臻其美",
+      "en": "Heavenly Craftsmanship and Human Ingenuity, Both Achieving Perfection",
+      "category": "设计理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 天工人巧 两臻其美——以黄山为例探讨风景名胜区建筑文化"
+      ]
+    },
+    {
+      "term": "特色是风景名胜的生命",
+      "en": "Characteristics Are the Life of Scenic Areas",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 天工人巧 两臻其美——以黄山为例探讨风景名胜区建筑文化"
+      ]
+    },
+    {
+      "term": "文化是特色的核心",
+      "en": "Culture Is the Core of Characteristics",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 天工人巧 两臻其美——以黄山为例探讨风景名胜区建筑文化"
+      ]
+    },
+    {
+      "term": "传统是文化的基础",
+      "en": "Tradition Is the Foundation of Culture",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 天工人巧 两臻其美——以黄山为例探讨风景名胜区建筑文化"
+      ]
+    },
+    {
+      "term": "黄山玉屏楼",
+      "en": "Huangshan Yuping Building",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 天工人巧 两臻其美——以黄山为例探讨风景名胜区建筑文化"
+      ]
+    },
+    {
+      "term": "狮林饭店",
+      "en": "Shilin Hotel",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 天工人巧 两臻其美——以黄山为例探讨风景名胜区建筑文化"
+      ]
+    },
+    {
+      "term": "依山就势相地立屋",
+      "en": "Following Mountain Terrain, Siting House According to Land",
+      "category": "设计理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 天工人巧 两臻其美——以黄山为例探讨风景名胜区建筑文化"
+      ]
+    },
+    {
+      "term": "化解体量丰富轮廓",
+      "en": "Resolving Volume, Enriching Silhouette",
+      "category": "设计理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 天工人巧 两臻其美——以黄山为例探讨风景名胜区建筑文化"
+      ]
+    },
+    {
+      "term": "情景交融",
+      "en": "Blending of Scene and Emotion",
+      "category": "美学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 天工人巧 两臻其美——以黄山为例探讨风景名胜区建筑文化"
+      ]
+    },
+    {
+      "term": "外适内和",
+      "en": "External Adaptation and Internal Harmony",
+      "category": "生态伦理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 天工人巧 两臻其美——以黄山为例探讨风景名胜区建筑文化",
+        "第四篇 地区主义建筑和当代乡土人居环境 - 从传统乡土民居聚落到现代人居环境——关于住区环境和居住品质",
+        "第四篇 地区主义建筑和当代乡土人居环境 - 旅游设施与景观环境"
+      ]
+    },
+    {
+      "term": "面海融山筑城",
+      "en": "Facing the Sea, Blending with Mountains, Building the City",
+      "category": "设计理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 面海·融山·筑城——营造具有地域特色的城市街区"
+      ]
+    },
+    {
+      "term": "地域特色城市街区",
+      "en": "Urban Districts with Regional Characteristics",
+      "category": "城市设计",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 面海·融山·筑城——营造具有地域特色的城市街区"
+      ]
+    },
+    {
+      "term": "威海市文化路",
+      "en": "Wenhua Road, Weihai City",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 面海·融山·筑城——营造具有地域特色的城市街区"
+      ]
+    },
+    {
+      "term": "显山以融景",
+      "en": "Revealing Mountains to Blend with Scenery",
+      "category": "设计策略",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 面海·融山·筑城——营造具有地域特色的城市街区"
+      ]
+    },
+    {
+      "term": "依山以融势",
+      "en": "Following Mountains to Blend with Momentum",
+      "category": "设计策略",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 面海·融山·筑城——营造具有地域特色的城市街区"
+      ]
+    },
+    {
+      "term": "衬山以融形",
+      "en": "Setting off Mountains to Blend with Form",
+      "category": "设计策略",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 面海·融山·筑城——营造具有地域特色的城市街区"
+      ]
+    },
+    {
+      "term": "欧陆风",
+      "en": "European Continental Style",
+      "category": "建筑风格",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 面海·融山·筑城——营造具有地域特色的城市街区"
+      ]
+    },
+    {
+      "term": "城市区域范围",
+      "en": "Urban Regional Scope",
+      "category": "规划尺度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 面海·融山·筑城——营造具有地域特色的城市街区"
+      ]
+    },
+    {
+      "term": "城市街区范围",
+      "en": "Urban District Scope",
+      "category": "规划尺度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 面海·融山·筑城——营造具有地域特色的城市街区"
+      ]
+    },
+    {
+      "term": "城市建筑范围",
+      "en": "Urban Building Scope",
+      "category": "规划尺度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 面海·融山·筑城——营造具有地域特色的城市街区"
+      ]
+    },
+    {
+      "term": "多中心空间结构",
+      "en": "Multi-Center Spatial Structure",
+      "category": "城市结构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 面海·融山·筑城——营造具有地域特色的城市街区"
+      ]
+    },
+    {
+      "term": "亲自然城市空间环境",
+      "en": "Nature-Close Urban Spatial Environment",
+      "category": "环境概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 面海·融山·筑城——营造具有地域特色的城市街区"
+      ]
+    },
+    {
+      "term": "历史文化街区",
+      "en": "Historical and Cultural District",
+      "category": "城市空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 可持续发展的历史文化街区刍议——绍兴鲁迅故里保护规划的思考与探索"
+      ]
+    },
+    {
+      "term": "绍兴鲁迅故里",
+      "en": "Lu Xun's Hometown, Shaoxing",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 可持续发展的历史文化街区刍议——绍兴鲁迅故里保护规划的思考与探索"
+      ]
+    },
+    {
+      "term": "越都绍兴",
+      "en": "Yue Capital Shaoxing",
+      "category": "历史称谓",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 可持续发展的历史文化街区刍议——绍兴鲁迅故里保护规划的思考与探索"
+      ]
+    },
+    {
+      "term": "台门",
+      "en": "Taimen (Traditional Dwelling)",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 可持续发展的历史文化街区刍议——绍兴鲁迅故里保护规划的思考与探索"
+      ]
+    },
+    {
+      "term": "黑白灰城市色彩",
+      "en": "Black-White-Gray Urban Colors",
+      "category": "城市色彩",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 可持续发展的历史文化街区刍议——绍兴鲁迅故里保护规划的思考与探索"
+      ]
+    },
+    {
+      "term": "原汁原味保护修复",
+      "en": "Original-Flavor Protection and Restoration",
+      "category": "保护原则",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 可持续发展的历史文化街区刍议——绍兴鲁迅故里保护规划的思考与探索"
+      ]
+    },
+    {
+      "term": "特色文化传统",
+      "en": "Characteristics, Culture, Tradition",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 可持续发展的历史文化街区刍议——绍兴鲁迅故里保护规划的思考与探索"
+      ]
+    },
+    {
+      "term": "展示和启迪功能",
+      "en": "Display and Enlightenment Functions",
+      "category": "功能概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 可持续发展的历史文化街区刍议——绍兴鲁迅故里保护规划的思考与探索"
+      ]
+    },
+    {
+      "term": "沈园",
+      "en": "Shen Garden",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 可持续发展的历史文化街区刍议——绍兴鲁迅故里保护规划的思考与探索"
+      ]
+    },
+    {
+      "term": "传统乡土民居聚落",
+      "en": "Traditional Vernacular Dwelling Settlement",
+      "category": "聚落类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 从传统乡土民居聚落到现代人居环境——关于住区环境和居住品质"
+      ]
+    },
+    {
+      "term": "现代人居环境",
+      "en": "Modern Human Settlement Environment",
+      "category": "环境概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 从传统乡土民居聚落到现代人居环境——关于住区环境和居住品质"
+      ]
+    },
+    {
+      "term": "住区环境和居住品质",
+      "en": "Residential Environment and Living Quality",
+      "category": "品质概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 从传统乡土民居聚落到现代人居环境——关于住区环境和居住品质"
+      ]
+    },
+    {
+      "term": "天人合一物我同一",
+      "en": "Unity of Heaven and Humanity, Identity of Subject and Object",
+      "category": "哲学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 从传统乡土民居聚落到现代人居环境——关于住区环境和居住品质"
+      ]
+    },
+    {
+      "term": "依山傍水",
+      "en": "Nestling Under Mountains and Beside Waters",
+      "category": "选址原则",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 从传统乡土民居聚落到现代人居环境——关于住区环境和居住品质"
+      ]
+    },
+    {
+      "term": "负阴抱阳",
+      "en": "Embracing Yin and Facing Yang",
+      "category": "选址原则",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 从传统乡土民居聚落到现代人居环境——关于住区环境和居住品质"
+      ]
+    },
+    {
+      "term": "淡雅的色彩",
+      "en": "Elegant and Simple Colors",
+      "category": "色彩概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 从传统乡土民居聚落到现代人居环境——关于住区环境和居住品质",
+        "第四篇 地区主义建筑和当代乡土人居环境 - 画家·画室·画境 构思·构图·构建——从黄山艺术家中心方案设计看徽州当代乡土建筑创作"
+      ]
+    },
+    {
+      "term": "腰带水",
+      "en": "Belt Water",
+      "category": "水形概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 从传统乡土民居聚落到现代人居环境——关于住区环境和居住品质"
+      ]
+    },
+    {
+      "term": "华立水乡建筑",
+      "en": "Huali Water Town Architecture",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 从传统乡土民居聚落到现代人居环境——关于住区环境和居住品质"
+      ]
+    },
+    {
+      "term": "绿化共生性",
+      "en": "Symbiosis of Greening",
+      "category": "生态概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 从传统乡土民居聚落到现代人居环境——关于住区环境和居住品质"
+      ]
+    },
+    {
+      "term": "旅游设施与景观环境",
+      "en": "Tourism Facilities and Landscape Environment",
+      "category": "研究领域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 旅游设施与景观环境"
+      ]
+    },
+    {
+      "term": "虽由人作宛自天成",
+      "en": "Though Made by Humans, As If Created by Nature",
+      "category": "设计理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 旅游设施与景观环境"
+      ]
+    },
+    {
+      "term": "和故百物皆化",
+      "en": "Harmony, Therefore All Things Transform",
+      "category": "哲学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 旅游设施与景观环境"
+      ]
+    },
+    {
+      "term": "花山谜窟",
+      "en": "Huashan Mystery Cave",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 旅游设施与景观环境"
+      ]
+    },
+    {
+      "term": "人文思考",
+      "en": "Humanistic Thinking",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 旅游设施与景观环境"
+      ]
+    },
+    {
+      "term": "价值评估体系",
+      "en": "Value Evaluation System",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 旅游设施与景观环境"
+      ]
+    },
+    {
+      "term": "意境和文采",
+      "en": "Artistic Conception and Literary Grace",
+      "category": "美学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 旅游设施与景观环境"
+      ]
+    },
+    {
+      "term": "移情于物借物抒情",
+      "en": "Placing Feelings in Objects, Expressing Feelings Through Objects",
+      "category": "美学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 旅游设施与景观环境"
+      ]
+    },
+    {
+      "term": "空亭翼然吐纳云气",
+      "en": "Empty Pavilion Standing Gracefully, Breathing Clouds",
+      "category": "建筑意象",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 旅游设施与景观环境"
+      ]
+    },
+    {
+      "term": "触媒剂",
+      "en": "Catalyst",
+      "category": "功能比喻",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 旅游设施与景观环境"
+      ]
+    },
+    {
+      "term": "徽州当代乡土建筑",
+      "en": "Contemporary Huizhou Vernacular Architecture",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 画家·画室·画境 构思·构图·构建——从黄山艺术家中心方案设计看徽州当代乡土建筑创作"
+      ]
+    },
+    {
+      "term": "黄山艺术家中心",
+      "en": "Huangshan Artist Center",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 画家·画室·画境 构思·构图·构建——从黄山艺术家中心方案设计看徽州当代乡土建筑创作"
+      ]
+    },
+    {
+      "term": "画家画室画境",
+      "en": "Painter, Studio, Painting Realm",
+      "category": "设计概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 画家·画室·画境 构思·构图·构建——从黄山艺术家中心方案设计看徽州当代乡土建筑创作"
+      ]
+    },
+    {
+      "term": "构思构图构建",
+      "en": "Conception, Composition, Construction",
+      "category": "设计方法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 画家·画室·画境 构思·构图·构建——从黄山艺术家中心方案设计看徽州当代乡土建筑创作"
+      ]
+    },
+    {
+      "term": "时空一体的乡土建筑观",
+      "en": "Time-Space Integrated Vernacular Architecture View",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 画家·画室·画境 构思·构图·构建——从黄山艺术家中心方案设计看徽州当代乡土建筑创作"
+      ]
+    },
+    {
+      "term": "和山水打成一片",
+      "en": "Integrating with Mountains and Waters",
+      "category": "设计精髓",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 画家·画室·画境 构思·构图·构建——从黄山艺术家中心方案设计看徽州当代乡土建筑创作"
+      ]
+    },
+    {
+      "term": "宜人的尺度",
+      "en": "Pleasant Scale",
+      "category": "设计精髓",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 画家·画室·画境 构思·构图·构建——从黄山艺术家中心方案设计看徽州当代乡土建筑创作"
+      ]
+    },
+    {
+      "term": "组合的体量",
+      "en": "Composed Volumes",
+      "category": "设计精髓",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 画家·画室·画境 构思·构图·构建——从黄山艺术家中心方案设计看徽州当代乡土建筑创作"
+      ]
+    },
+    {
+      "term": "少而精的装饰",
+      "en": "Few but Refined Decorations",
+      "category": "设计精髓",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 画家·画室·画境 构思·构图·构建——从黄山艺术家中心方案设计看徽州当代乡土建筑创作"
+      ]
+    },
+    {
+      "term": "新安理学新安画派",
+      "en": "Xin'an Neo-Confucianism / Xin'an Painting School",
+      "category": "文化流派",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 画家·画室·画境 构思·构图·构建——从黄山艺术家中心方案设计看徽州当代乡土建筑创作"
+      ]
+    },
+    {
+      "term": "历史碎片",
+      "en": "Historical Fragments",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - \"历史碎片\"的现代包容——安徽池州孝肃街\"历史风貌\"的保护与更新"
+      ]
+    },
+    {
+      "term": "现代包容",
+      "en": "Modern Inclusion",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - \"历史碎片\"的现代包容——安徽池州孝肃街\"历史风貌\"的保护与更新"
+      ]
+    },
+    {
+      "term": "孝肃街",
+      "en": "Xiaosu Street",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - \"历史碎片\"的现代包容——安徽池州孝肃街\"历史风貌\"的保护与更新"
+      ]
+    },
+    {
+      "term": "池州",
+      "en": "Chizhou (Anhui)",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - \"历史碎片\"的现代包容——安徽池州孝肃街\"历史风貌\"的保护与更新"
+      ]
+    },
+    {
+      "term": "历史风貌片段",
+      "en": "Historical Style Fragment",
+      "category": "城市空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - \"历史碎片\"的现代包容——安徽池州孝肃街\"历史风貌\"的保护与更新"
+      ]
+    },
+    {
+      "term": "南湖杏园",
+      "en": "Nanhu Xingyuan",
+      "category": "案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - \"历史碎片\"的现代包容——安徽池州孝肃街\"历史风貌\"的保护与更新"
+      ]
+    },
+    {
+      "term": "原真性整体性可持续性",
+      "en": "Authenticity, Integrity, Sustainability",
+      "category": "保护原则",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - \"历史碎片\"的现代包容——安徽池州孝肃街\"历史风貌\"的保护与更新"
+      ]
+    },
+    {
+      "term": "新旧拼贴",
+      "en": "Old-New Collage",
+      "category": "设计方法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - \"历史碎片\"的现代包容——安徽池州孝肃街\"历史风貌\"的保护与更新"
+      ]
+    },
+    {
+      "term": "以新延续旧",
+      "en": "Using the New to Continue the Old",
+      "category": "设计理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - \"历史碎片\"的现代包容——安徽池州孝肃街\"历史风貌\"的保护与更新"
+      ]
+    },
+    {
+      "term": "空间结构空间尺度界面特征",
+      "en": "Spatial Structure, Spatial Scale, Interface Characteristics",
+      "category": "保护内容",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - \"历史碎片\"的现代包容——安徽池州孝肃街\"历史风貌\"的保护与更新"
+      ]
+    },
+    {
+      "term": "城市肌理",
+      "en": "Urban Fabric",
+      "category": "城市概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - \"历史碎片\"的现代包容——安徽池州孝肃街\"历史风貌\"的保护与更新"
+      ]
+    },
+    {
+      "term": "假古董",
+      "en": "Fake Antiques",
+      "category": "批判对象",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - \"历史碎片\"的现代包容——安徽池州孝肃街\"历史风貌\"的保护与更新"
+      ]
+    },
+    {
+      "term": "后记",
+      "en": "Postscript",
+      "category": "文体",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 后记"
+      ]
+    },
+    {
+      "term": "学术研究源自实践",
+      "en": "Academic Research Originating from Practice",
+      "category": "学术理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 后记"
+      ]
+    },
+    {
+      "term": "热点焦点难点",
+      "en": "Hotspots, Focal Points, Difficulties",
+      "category": "研究方向",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 后记"
+      ]
+    },
+    {
+      "term": "学术理论突破的生长点",
+      "en": "Growth Points for Academic Theory Breakthrough",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 后记"
+      ]
+    },
+    {
+      "term": "物我互动的过程",
+      "en": "Process of Interaction Between Subject and Object",
+      "category": "学术理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 后记"
+      ]
+    },
+    {
+      "term": "学术成果沧海一粟",
+      "en": "Academic Achievements as a Drop in the Ocean",
+      "category": "学术理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 后记"
+      ]
+    },
+    {
+      "term": "云谷山庄设计实践",
+      "en": "Yungu Villa Design Practice",
+      "category": "实践案例",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 后记"
+      ]
+    },
+    {
+      "term": "民居建筑二重性",
+      "en": "Duality of Residential Architecture",
+      "category": "理论概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 后记"
+      ]
+    },
+    {
+      "term": "少量保护大量更新改造",
+      "en": "Small Amount of Protection, Large Amount of Renewal",
+      "category": "保护策略",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 后记"
+      ]
+    },
+    {
+      "term": "时代病泡沫",
+      "en": "Era Diseases and Bubbles",
+      "category": "批判概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四篇 地区主义建筑和当代乡土人居环境 - 后记"
+      ]
+    }
+  ]
+}

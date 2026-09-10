@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-page-node-id="WNys7wr5UvE06H6T4HlxuV">
+<head data-page-node-id="6CzA7wZJ1RJlcrGYC1n5J1">
+<meta charset="UTF-8" data-page-node-id="f9ldwfit7dfpNvoM0AGByJ">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" data-page-node-id="5Mdkru9TCjWLKcmrEaAb4D">
+<title>ima 读写联动 · 最佳实践手册</title>
+<style>
+:root{--ink:#222;--sub:#666;--line:#ddd5c6;--bg:#f8f5ee;--accent:#7a5c2e;--red:#9c241c;--teal:#1c6650;--blue:#144e78;}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{background:var(--bg);color:var(--ink);font-family:"Songti SC","Noto Serif CJK SC","SimSun",serif;line-height:1.9;padding:38px 18px;}
+.wrap{max-width:920px;margin:0 auto;}
+h1{font-size:25px;font-weight:700;letter-spacing:.02em;margin-bottom:4px;}
+.stamp{font-size:12px;color:var(--sub);margin-bottom:26px;border-bottom:2px solid var(--accent);padding-bottom:14px;}
+h2{font-size:19px;font-weight:700;margin:30px 0 4px;color:#443420;}
+h3{font-size:15.5px;font-weight:700;margin:18px 0 4px;}
+p{margin:8px 0;font-size:14.5px;}
+ul{margin:6px 0 6px 20px;}li{margin:4px 0;font-size:14px;}
+.card{background:#efe9db;border:1px solid var(--line);border-radius:8px;padding:13px 16px;margin:12px 0;}
+.q{border-left:4px solid var(--accent);background:#ede4d0;padding:9px 13px;margin:14px 0;font-size:14px;border-radius:0 6px 6px 0;}
+.warn{border-color:var(--red);background:#f4e3df;}
+.good{border-color:var(--teal);background:#e0eee6;}
+table{width:100%;border-collapse:collapse;margin:12px 0;font-size:13px;}
+th,td{border:1px solid var(--line);padding:7px 9px;vertical-align:top;text-align:left;background:#fff;}
+th{background:#e9dfca;font-weight:700;}
+.src{font-size:11.5px;color:#8a7a55;}
+.small{font-size:12px;color:var(--sub);}
+@media(max-width:640px){.wrap{max-width:100%;}p,li{font-size:13.5px;}}
+</style>
+</head>
+<body data-page-node-id="cFpXLCJpcylrtOG4x7msUi">
+<div class="wrap" data-page-node-id="RlYtKrwYoWDqlDRts3omg3">
+<h1 data-page-node-id="SempjVN4NyA7hOCB0A5KhW">ima 读写联动 · 最佳实践手册</h1>
+<div class="stamp" data-page-node-id="su5rzYCBZhhbjwfrkARDwT">把"我们做古村落写作的产物"与"外部挖来的素材"沉淀进 ima 的方法 · 已实测验证写入可行 · 2026-09-06</div>
+
+<div class="q good" data-page-node-id="mMG31UU1YRXADOCkDyhFKa"><b data-page-node-id="JEr3GTPgut5xOPYWQfrYqo">核心结论：</b>能写入。已实测：用 import_urls 把 2 条公开链接成功存入你的个人库（momo的知识库），返回 media_id。ima 不是只读档案馆，是<b data-page-node-id="9d2G48o0R4edSFMRJ550f1">可读可写的知识库</b>——能成为我们写作工程的"第二存档"（本地工作区 + ima 云端）。</div>
+
+<h2 data-page-node-id="5rCp9vmgrPJnjvPrhT7JGw">一、ima 读写能力全景（实测确认）</h2>
+<table data-page-node-id="eiMzBeUzq6VJCCXbEFeEns">
+<tr data-page-node-id="KBCksnsG3BpLyIA70c9A7M"><th style="width:22%" data-page-node-id="hZw6YgrdhGcWGogiSXbj1O">能力</th><th style="width:40%" data-page-node-id="AkSmJkV8QKqDqCuhBwgGd4">工具</th><th data-page-node-id="5EX4VH9DKInt28kpEROuLt">用途</th></tr>
+<tr data-page-node-id="wkjZJVz5IwINHmhKvvunEx"><td data-page-node-id="YpquMrSi5GdWTLNfRB7lIB"><b data-page-node-id="h4sl1hFHmCzKWCMROADSAM">读·列库</b></td><td data-page-node-id="Z6aHuHFOeVGp6CxhtXgFaW">get_knowledge_base_list</td><td data-page-node-id="IuacmhauQ2UawIKsFJC0nF">拉知识库（个人/共享/订阅），已盘出全国方志大库</td></tr>
+<tr data-page-node-id="wTGds5iPhOzhGX9FLpjBMC"><td data-page-node-id="sIeCZ88GOB2SjytulywtlC"><b data-page-node-id="Fgve9k3IkIKTCpUd4nGoWH">读·列文档</b></td><td data-page-node-id="ZpSqpIF0jekKTc2ZSjBnfp">get_knowledge_list</td><td data-page-node-id="b5kETA6n3hCp7qK7392bxC">列某库/文件夹内文档，可按 media_type（PDF/网页/文件夹）过滤</td></tr>
+<tr data-page-node-id="ALx88fggZsnd3VnMcB4TGD"><td data-page-node-id="VAtdkl8eKAt3qTp2zIJkgI"><b data-page-node-id="Bk3P5sBnV7WEQ828xGjuKK">读·检索</b></td><td data-page-node-id="Dath9LkmPmHf0FJqQIEjaI">search_knowledge</td><td data-page-node-id="O8MGYqzQOhLeFrfo7mSCvH">库内关键词检索（命中返回整篇，见联动手册约束）</td></tr>
+<tr data-page-node-id="eFCbBzpE29YrdlDWkC2oNz"><td data-page-node-id="LS78ihN57qUa0liGqfDtwC"><b data-page-node-id="1t82PlSXDxRIP8gFSqdCWN">写·存链接</b></td><td data-page-node-id="RzNYSPBERz605OyH6rkcpr"><b data-page-node-id="5Tvp2s9FiLs0L3AREFMB73">import_urls</b></td><td data-page-node-id="8C17KYbavLDDFj4iabZPTF">把外部公开网页链接批量存库，一次≤10 个 —— <b data-page-node-id="jbVudZf4ZpKDbe3yrMh3oo">已验证成功</b></td></tr>
+<tr data-page-node-id="9wPzNKMOccxRDDW5OeSojh"><td data-page-node-id="u90DUmDsPUr9a0ui80hTEK"><b data-page-node-id="QMqXey94OY0y0l4SNH0cmS">写·存本地文件</b></td><td data-page-node-id="6YOcv7gq07ibJnFMybgEkS">create_media→COS→add_knowledge</td><td data-page-node-id="57auSLQ3nbzxC2wiXoIJog">把我们产出的 HTML/md/PDF 上传入库（需 COS 凭证，多一步）</td></tr>
+<tr data-page-node-id="EBdG8CMmAcY7TzGwofIuYE"><td data-page-node-id="238cyO62YhOsqU9FPlxe7f"><b data-page-node-id="z5gWsF56J8g6PokCgPEQtz">写·重名策略</b></td><td data-page-node-id="jX5ljJCQTxJQVq3bmiepbN">add_knowledge.duplicate_name_strategy</td><td data-page-node-id="1atYHZyxTUtWoEnsp9DaFJ">SAVE保留 / CANCEL取消 / REPLACE覆盖，避免重复</td></tr>
+</table>
+
+<h2 data-page-node-id="Cc3qy3r30jHEccxCswgV6G">二、核心建议：双向分流（不是把什么都塞进去）</h2>
+<p data-page-node-id="glSi6zzJvyJiC57qYGcrDQ">古村落写作工程有两类不同的"知识"，在 ima 里应该<b data-page-node-id="1HXZXPBKYzznGJ0NMdMZpx">分文件夹、用不同方式存</b>，混在一起会乱：</p>
+<table data-page-node-id="262ie9SA7btsLygsLxthzd">
+<tr data-page-node-id="5VfPyGyR4townLyuTJ6vyY"><th style="width:20%" data-page-node-id="3wXuO4mSMlyscA1UaHsGQC">知识类型</th><th style="width:16%" data-page-node-id="AIA4JPveTkd6Vl5PRJPxPD">例子</th><th style="width:24%" data-page-node-id="V90SVdrT383Os6mW6z2Elr">存哪</th><th style="width:22%" data-page-node-id="5CetGJhS6Z77lQFNlZeI8O">方式</th><th data-page-node-id="3Mv5Kbc9IRDgxMSwhJY8KY">为什么</th></tr>
+<tr data-page-node-id="FV5R3eLUqJPZxTCxz8L27e"><td data-page-node-id="lhyddKcuDHXUp3HvML0Fg0"><b data-page-node-id="3TiJ6OWdDMFTunrA2zVo7s">A. 外部素材</b>（元宝/公众号挖来的原文、转载链接）</td><td data-page-node-id="6sgCcp8sAqn1UhBpbbrPZo">山亭石板房各篇、营造三普数据</td><td data-page-node-id="77UvskWvyh6HxGe9ey9hw8">ima「淮海素材」文件夹</td><td data-page-node-id="EPmkp5up4oQe8K4e5FvGI8"><b data-page-node-id="2KcoigwIfAadSFCvlk7VzT">import_urls</b>（存 URL）或把文字粘成 md</td><td data-page-node-id="d3UMMhpa0SGHJNTFsBzr9q">ima 擅长收藏检索原文；留 media_id 便于日后回源</td></tr>
+<tr data-page-node-id="b8Lq3yfh07UhMdw8GZSVDS"><td data-page-node-id="B3biSB1QkBgw0CivAiSLiP"><b data-page-node-id="OO6rkOlDEbPCMQuAXQjhPC">B. 我们产出的工作文档</b>（scope/联动手册/模仿稿 HTML）</td><td data-page-node-id="4PVZg1t3KVgSMEWCZAydA7">淮海_scope、各模仿稿</td><td data-page-node-id="PyM3nSIn54pkEuQpUwxvdV">本地工作区为主（C:…/淮海_古村落田野体_scope）</td><td data-page-node-id="KW8YJbIMHk3RpZaklLOinH">本地 + 定期快照存 ima</td><td data-page-node-id="PXPftg2xC81j1MvweN9WrR">活文档需高频改，ima 不适合当编辑区；当"备份/发布"用</td></tr>
+<tr data-page-node-id="t181XYJoYtueiBR8XTr5sr"><td data-page-node-id="2DpnIKpvXJbVqj7dA32Ohh"><b data-page-node-id="7K8FQUxDygwyeb1vGbqN3C">C. 志书/古籍 L1</b></td><td data-page-node-id="sB4MhoDQfRMpxVbxSOKBGn">滕县志、铜山县志</td><td data-page-node-id="HiAlAKiBUTMvcljy8jSWoW">ima 共享方志库（已有）</td><td data-page-node-id="ddm8Seq3RXTQbZjvXsDBZL">只读引用</td><td data-page-node-id="m0XF8o5qkHiZ7OyFd1uY8C">不动它，通过 search 定向取料</td></tr>
+</table>
+<div class="q" data-page-node-id="XfLhsflTmr282Shf63jCFD"><b data-page-node-id="5tGRfw7IMTeyx68QXAXY80">一句话：</b>ima = <b data-page-node-id="q3oPejYJNYkHBg4aTPNSSd">A 素材的收纳库 + C 志书的检索库 + B 的只读备份</b>；真正的"编辑战场"仍是本地工作区。别把正在改的 HTML 塞进 ima 当编辑器。</div>
+
+<h2 data-page-node-id="DKK7c1Dacc1v1rfUArtZTb">三、最佳实践步骤（怎么跑通整个循环）</h2>
+<div class="card" data-page-node-id="5XXd6nSomdPs3AK6mGP9PS">
+<p data-page-node-id="d0PSIRl4ec7OJGkMQ1ByxY"><b data-page-node-id="BB5N5VICpjZnGbf9H8Wm7n">① 建文件夹（需你在 ima 客户端做一次）：</b>在个人库 momo的知识库 里新建两个文件夹「<b data-page-node-id="K7TDTJeYEO4srb8OqcMFY5">淮海素材</b>」和「<b data-page-node-id="P9DvF2EGAgTc7eHQT3kLsa">古村落写作备份</b>」。ima MCP 暂不提供"建文件夹"工具，这一步需手动（约 10 秒）。</p>
+<p data-page-node-id="OA3BaBBWZ4b3uoP9QDAY45"><b data-page-node-id="OmcdGa3Yqcx4pmMfZesPGY">② 外采入库：</b>元宝/公众号挖到可用链接 → 你在对话里发我 URL 列表 → 我用 import_urls 存进「淮海素材」，拿到 media_id 回填进 scope 的素材表。</p>
+<p data-page-node-id="0Didu3HuFGbooDfZh9HsHn"><b data-page-node-id="T3NljpuaT3n6cN3kmbxADH">③ 关键原文留档：</b>若某篇原文是纯微信（无公开 URL），你把正文贴给我 → 我整理成 .md → create_media 上传，存「淮海素材」（这样连原生微信内容也能沉淀）。</p>
+<p data-page-node-id="wMSNR6BI0niZO9vmthtaZo"><b data-page-node-id="RqHhd9UmCceSOO5JKdbjFu">④ 工作产物快照：</b>每完成一篇模仿稿/一轮 scope 更新，我把 HTML 用 create_media 传一份到「古村落写作备份」，标题带日期。本地仍是最新版，ima 是历史快照。</p>
+<p data-page-node-id="XLBrElqjvFd11lQ0Y55DJW"><b data-page-node-id="QDZDgetH4dsF5tngq59Xjc">⑤ 检索回源：</b>写某村前，先在「淮海素材」search_knowledge 把该村材料捞齐，再查共享方志库补史实，最后本地动笔。</p>
+</div>
+
+<h2 data-page-node-id="Rt0zhArqhGWjqD1HuOHK6p">四、我这边的工具边界（诚实说明）</h2>
+<div class="card" data-page-node-id="t5zeLY1FR5BTUAIWCTEfTe">
+<ul data-page-node-id="w3C4rQ10JcwEr5kilZWmHK">
+<li data-page-node-id="8hEov6fsWEDhDlUb01OCzk"><b data-page-node-id="NyZJRiEbJXKfeW6iNCCElD">import_urls（已验证）</b>：能存公开网页链接。</li>
+<li data-page-node-id="7LxfZ83OfYAZ3t1bf5Dpwz"><b data-page-node-id="4ALEcxrlW5VJB5yjlAsWXM">create_media 上传本地文件（能力存在，未全链路实测）</b>：需要拿 COS 凭证再传，多一步，第一次要试通。</li>
+<li data-page-node-id="joO83P0NHzmpgFcPTvKjyf"><b data-page-node-id="2bkPG0tuw8nzATsFKjf9mK">建文件夹：ima MCP 暂无此工具</b>，需你在 ima 客户端手动建（然后告诉我 folder_id，我就能精准写）。</li>
+<li data-page-node-id="p8V9MDDlLv5XGDhaPbtimS"><b data-page-node-id="ZmrifT9FSVgNdNEYL5hjBG">search 返回整篇超限</b>：搜大型 PDF 会超限，需换小 query 或按文档定向读（见联动手册）。</li>
+</ul>
+</div>
+
+<h2 data-page-node-id="4WwW3egKXl8UKgHESUDZOy">五、下一步（可选）</h2>
+<div class="card" data-page-node-id="Oro4cs4844wdABL4nMnvMR">
+<p data-page-node-id="6ZmqXep3SVfAWcaWFmZeJQ"><b data-page-node-id="5g1lBGSvwWRiP9f6eSF2FU">A.</b> 你在 ima 客户端建好「淮海素材」「古村落写作备份」两个文件夹，把 folder_id 发我 → 我立刻把元宝这次挖的山亭 10 篇素材 + 本 scope/联动手册 全存进去，走通整条「外采→入库→检索→写作」闭环。</p>
+<p data-page-node-id="YpPeKhrkge6AfRPz74eWPD"><b data-page-node-id="YzrAAl3rmHHr2Nu2KWaVEk">B.</b> 我先把已实测能做的做了：用 import_urls 把元宝提供的山亭可用公开链接都存进个人库根目录（暂不分文件夹），等你建好文件夹再整理。</p>
+<p data-page-node-id="KtHQLiYZCJliC4fOUtdaPJ"><b data-page-node-id="W3DmG4FYgmfwhoOnx8dN5y">C.</b> 直接试写山亭石板房首篇，用上这批素材，写完把成品 HTML 快照进 ima。</p>
+</div>
+
+<h2>六、本地↔ima 上传状态核查与标记（2026-09-06 实测补充）</h2>
+<div class="card">
+<p><b>问题：</b>「很多内容已经传过 ima 了，到底哪些传过、哪些没有？」——靠记忆或逐个库翻是不可靠的，必须做一次机器核查并留本地标记。</p>
+
+<h3>1. 核查做法（脚本化，30 秒出结果）</h3>
+<ul>
+<li>数据源：本地 zlibrary 书籍文件 ↔ ima 全库条目快照 <code>kb_data/*.json</code>（132 库 / 2200+ 条目标题）。</li>
+<li>匹配规则三级：<b>精确</b>（规范化后完全一致）→ <b>包含</b>（一方包含另一方且 ≥8 字）→ <b>模糊</b>（相似度 ≥0.72）。</li>
+<li>规范化必须做：去扩展名、去 <code>(Z-Library)</code> / <code>[OCR]</code> 标记、去括号内容与标点、去条目前导编号（如 <code>031</code>）与尾部 <code>_0</code>。</li>
+<li>脚本：<code>check_local_uploads.py</code>（可重跑刷新）；补传规划 <code>plan_backfill.py</code>。</li>
+</ul>
+
+<h3>2. 实测结论（重要，反直觉）</h3>
+<div class="q warn">zlibrary 根目录 599 本书，<b>只有 9 本</b>能在 ima 里找到同名条目（约 1.5%）。ima 现有 2183 条主要来自网页/公众号/志书 PDF/其他目录，<b>不是从本地这批书传的</b>。<br>
+→ 补传不是"补齐漏传"，而是一次<b>新的入库决策</b>：25 GB / 590 本，全传性价比低，应按主题分批。</div>
+
+<h3>3. 踩到的坑（下次直接绕开）</h3>
+<ul>
+<li><b>快照会截断</b>：kb_data 里 3 个库（古建筑 45 / 地质地理 34 / 医学教科书 119）各只存了 1 条 → 匹配前必须查 <code>truncated</code> 标记。修法：优先用本地 <code>kb_deep/&lt;id&gt;/_manifest.json</code> 补全；没有的再走 MCP live 拉。</li>
+<li><b>文件在子文件夹里</b>：MCP <code>get_knowledge_list</code> 首层只返回 folder 条目，需拿 folder_id 二次调用。</li>
+<li><b>大库别直接 MCP 全量拉</b>：119 条的库会返回每条完整 introduction，瞬间爆上下文（本次靠本地 manifest 回避）。</li>
+<li><b>不要用改名做标记</b>：OneDrive 同步目录改名常被文件锁拒绝；标记用<b>清单文件</b>（CSV/HTML）而非文件名前缀。</li>
+<li><b>快照会过期</b>（2026-09-07 复核发现）：kb_catalog 139 库 vs kb_data 只有 132 个文件 → <b>7 个库（253 条）根本不在匹配基数里</b>；且线上条目数已变（地名 5→21、村落田野调查 4→11、古建筑风格工程成品 0→10、山河淮海文案 36→112）。<b>每次核查前必须重拉一次库清单核对条目数</b>，别信旧快照。</li>
+<li><b>纯标题匹配会系统性漏判</b>：改名上传的书按标题匹配必然漏。实测——在古建筑库搜「中国建筑史」命中多个条目（梁思成中国建筑史、图说中国建筑史、中国古代建筑史…），其文件名与本地书名都不一致。<b>标题匹配只能给出"确定已传"的下界，不能给出"确定没传"的结论</b>；要可靠需补一轮内容级检索（按主题到候选库搜关键词）。</li>
+<li><b>扫描范围必须写明</b>：根目录 599 本 + 子目录 205 本 = 804 本；P14 的 <code>work/</code> 下约 1200 个 OCR 中间产物已排除（不是书）。报告不写清范围与排除规则，数字无从判断。</li>
+</ul>
+
+<h3>4. 落地产物（zlibrary 根目录，三件套）</h3>
+<table>
+<tr><th style="width:230px">文件</th><th>用途</th></tr>
+<tr><td><code>ima上传标记_manifest.csv</code></td><td>599 行逐本标记：状态 / 匹配方式 / 大小 / 目标库 / 库 id / ima 条目标题，可筛选</td></tr>
+<tr><td><code>ima上传标记_检查报告.html</code></td><td>核查报告：统计卡 + 全量对照表</td></tr>
+<tr><td><code>ima补传规划_待传清单.html</code></td><td>未上传 590 本按 P0/P1/P2 分组 + 建议目标库映射 + 体量，供评审后分批上传</td></tr>
+</table>
+
+<h3>5. 与既有流程的衔接</h3>
+<p>第二节「双向分流」不变：<b>外部素材 → import_urls 进「淮海素材库」；本地工作产物 → 定期快照进「古村落写作备份库」</b>。本次新增的是第三条支线：<b>本地存量书籍 → 先核查标记 → 再按主题分批入库</b>，且入库前必须先出分组规划给用户评审（25 GB 量级不可闷头全传）。</p>
+</div>
+
+<div class="small" style="border-top:1px solid var(--line);margin-top:26px;padding-top:10px;">ima 读写最佳实践 v2 | v1 已实测 import_urls 写入成功（2 条 URL → momo的知识库）| v2 新增：本地上传状态核查与标记、补传规划 | 与《淮海_scope》《淮海_ima联动》配套</div>
+</div>
+</body>
+</html>

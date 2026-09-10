@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>中国建筑文化档案 · Chinese Architecture Archive</title>
+<style>
+  :root {
+    --bg: #faf8f3;
+    --card-bg: #ffffff;
+    --ink: #2c2c2c;
+    --ink-light: #6b6b6b;
+    --accent: #8b4513;
+    --accent-light: #d4a574;
+    --border: #e8e0d5;
+    --shadow: 0 2px 12px rgba(139, 69, 19, 0.08);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "Noto Serif SC", "Songti SC", "SimSun", Georgia, serif;
+    background: var(--bg);
+    color: var(--ink);
+    min-height: 100vh;
+    line-height: 1.7;
+  }
+  .container { max-width: 900px; margin: 0 auto; padding: 40px 24px 80px; }
+  header { text-align: center; padding: 32px 0; border-bottom: 1px solid var(--border); margin-bottom: 40px; }
+  header h1 { font-size: 2rem; font-weight: 700; letter-spacing: 4px; color: var(--accent); margin-bottom: 8px; }
+  header p { color: var(--ink-light); font-size: 0.95rem; }
+  .hero { background: var(--card-bg); border-radius: 12px; padding: 48px 32px; box-shadow: var(--shadow); text-align: center; margin-bottom: 40px; border: 1px solid var(--border); position: relative; overflow: hidden; }
+  .hero::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, var(--accent-light), var(--accent), var(--accent-light)); }
+  .hero-label { font-size: 0.8rem; color: var(--ink-light); letter-spacing: 2px; margin-bottom: 16px; }
+  .hero-label-en { font-size: 0.75rem; color: var(--accent-light); margin-bottom: 24px; }
+  .hero-title { font-size: 1.6rem; font-weight: 700; color: var(--ink); margin-bottom: 12px; word-break: break-all; }
+  .hero-meta { font-size: 0.85rem; color: var(--ink-light); margin-bottom: 32px; }
+  .hero-meta .cat-tag { display: inline-block; padding: 3px 12px; border-radius: 20px; background: #f5ede2; color: var(--accent); font-size: 0.75rem; margin-right: 8px; }
+  .hero-actions { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+  .btn { display: inline-flex; align-items: center; gap: 8px; padding: 12px 28px; border-radius: 8px; font-size: 0.95rem; font-weight: 500; cursor: pointer; text-decoration: none; transition: all 0.2s; border: none; font-family: inherit; }
+  .btn-primary { background: var(--accent); color: #fff; }
+  .btn-primary:hover { background: #6d3610; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(139,69,19,0.3); }
+  .btn-secondary { background: #fff; color: var(--accent); border: 1px solid var(--accent); }
+  .btn-secondary:hover { background: #f5ede2; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 40px; }
+  .stat-card { background: var(--card-bg); padding: 20px; border-radius: 8px; border: 1px solid var(--border); text-align: center; }
+  .stat-num { font-size: 1.8rem; font-weight: 700; color: var(--accent); }
+  .stat-label { font-size: 0.8rem; color: var(--ink-light); margin-top: 4px; }
+  .section-title { font-size: 1.1rem; font-weight: 600; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 2px solid var(--accent-light); display: flex; justify-content: space-between; align-items: center; }
+  .section-title .sub { font-size: 0.8rem; color: var(--ink-light); font-weight: normal; }
+  .cat-filter { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
+  .cat-filter button { padding: 6px 16px; border-radius: 20px; border: 1px solid var(--border); background: #fff; cursor: pointer; font-size: 0.8rem; font-family: inherit; transition: all 0.15s; }
+  .cat-filter button.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .cat-filter button:hover:not(.active) { border-color: var(--accent-light); }
+  .article-list { list-style: none; }
+  .article-list li { padding: 12px 16px; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: baseline; gap: 16px; }
+  .article-list li:hover { background: #fff; }
+  .article-list a { color: var(--ink); text-decoration: none; flex: 1; font-size: 0.92rem; }
+  .article-list a:hover { color: var(--accent); }
+  .article-list .mini { font-size: 0.7rem; color: var(--ink-light); white-space: nowrap; }
+  footer { text-align: center; padding: 32px 0; color: var(--ink-light); font-size: 0.8rem; border-top: 1px solid var(--border); margin-top: 48px; }
+  footer a { color: var(--accent); text-decoration: none; }
+  .loading { text-align: center; padding: 60px; color: var(--ink-light); }
+  .fade-in { animation: fadeIn 0.4s ease; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  @media (max-width: 600px) {
+    .hero { padding: 32px 20px; }
+    .hero-title { font-size: 1.2rem; }
+    header h1 { font-size: 1.4rem; letter-spacing: 2px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>中国建筑文化档案</h1>
+    <p>Chinese Architecture & Cultural Heritage Archive</p>
+  </header>
+
+  <div id="hero" class="hero loading">加载中 Loading...</div>
+
+  <div id="stats" class="stats"></div>
+
+  <div class="section-title">
+    <span>全部文章 <span class="sub">All Articles</span></span>
+    <span id="list-count" class="sub"></span>
+  </div>
+  <div id="cat-filter" class="cat-filter"></div>
+  <ul id="article-list" class="article-list"></ul>
+
+  <footer>
+    <p>Wadesha / architecture-daily · <a href="https://github.com/Wadesha/architecture-daily" target="_blank">GitHub Repository</a></p>
+    <p style="margin-top:4px">每日随机一篇 · 514 篇内容持续更新</p>
+  </footer>
+</div>
+
+<script>
+let articles = [];
+let currentFilter = 'all';
+let currentArticle = null;
+
+async function loadIndex() {
+  try {
+    const res = await fetch('index.json');
+    const data = await res.json();
+    articles = data.articles;
+    renderStats(data);
+    renderFilter(data);
+    renderList();
+    pickRandom();
+  } catch(e) {
+    document.getElementById('hero').innerHTML = '<p>加载失败，请检查网络。Failed to load index.json.</p>';
+  }
+}
+
+function renderStats(data) {
+  const labels = data.category_labels || {};
+  const cats = data.categories || {};
+  const html = Object.keys(cats).sort().map(k => `
+    <div class="stat-card">
+      <div class="stat-num">${cats[k]}</div>
+      <div class="stat-label">${labels[k] || k}</div>
+    </div>
+  `).join('');
+  document.getElementById('stats').innerHTML = html;
+}
+
+function renderFilter(data) {
+  const labels = data.category_labels || {};
+  const cats = data.categories || {};
+  const html = `<button class="active" onclick="setFilter('all')">全部 All (${data.total})</button>` +
+    Object.keys(cats).sort().map(k => `<button onclick="setFilter('${k}')">${labels[k] || k} (${cats[k]})</button>`).join('');
+  document.getElementById('cat-filter').innerHTML = html;
+}
+
+function setFilter(cat) {
+  currentFilter = cat;
+  document.querySelectorAll('.cat-filter button').forEach((b,i) => {
+    b.classList.toggle('active', (cat==='all' && i===0) || b.textContent.includes(cat.split('_')[0]));
+  });
+  renderList();
+}
+
+function renderList() {
+  let list = currentFilter === 'all' ? articles : articles.filter(a => a.category === currentFilter);
+  // sort by modified desc
+  list = [...list].sort((a,b) => (b.modified||'').localeCompare(a.modified||''));
+  document.getElementById('list-count').textContent = `${list.length} 篇`;
+  const html = list.map(a => {
+    const catName = a.category.replace(/^\d+_/,'');
+    return `<li>
+      <a href="${a.url}" target="_blank" rel="noopener">${a.title}</a>
+      <span class="mini">${catName} · ${a.modified || ''}</span>
+    </li>`;
+  }).join('');
+  document.getElementById('article-list').innerHTML = html;
+}
+
+function pickRandom() {
+  if (!articles.length) return;
+  const a = articles[Math.floor(Math.random() * articles.length)];
+  currentArticle = a;
+  const catLabels = document.querySelector('.stat-card') ? '' : '';
+  const labelMap = {
+    '01_provincial-architecture': '省级建筑 Provincial',
+    '02_villages-and-houses': '村落民居 Villages',
+    '03_overseas-architecture': '海外研究 Overseas',
+    '04_style-analysis': '体风分析 Style'
+  };
+  const catEn = labelMap[a.category] || a.category;
+  document.getElementById('hero').innerHTML = `
+    <div class="hero-label">今日随机 · Today's Random Pick</div>
+    <div class="hero-label-en">${catEn}</div>
+    <h2 class="hero-title fade-in">${a.title}</h2>
+    <div class="hero-meta">
+      <span class="cat-tag">${a.category.replace(/^\d+_/,'')}</span>
+      ${a.subcategory ? '· ' + a.subcategory : ''} · ${(a.size/1024).toFixed(0)} KB · ${a.modified}
+    </div>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="${a.url}" target="_blank" rel="noopener">打开文章 Open Article →</a>
+      <button class="btn btn-secondary" onclick="pickRandom()">🎲 换一篇 Shuffle</button>
+    </div>
+  `;
+}
+
+loadIndex();
+</script>
+</body>
+</html>

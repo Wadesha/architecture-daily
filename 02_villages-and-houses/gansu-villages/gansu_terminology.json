@@ -1,0 +1,457 @@
+{
+  "book_title": "甘肃传统村落",
+  "book_title_en": "Traditional Villages of Gansu",
+  "total_terms": 50,
+  "terms": [
+    {
+      "id": 1,
+      "term_zh": "传统村落",
+      "term_en": "Traditional Village",
+      "category": "概念",
+      "definition_zh": "指拥有物质形态和非物质形态文化遗产，具有较高的历史、文化、科学、艺术、社会、经济价值的村落。甘肃传统村落分布于陇中、陇东南、甘南、河西四大区域，涵盖汉族、藏族、回族、保安族等多民族聚居形态。",
+      "definition_en": "Villages possessing both tangible and intangible cultural heritage with high historical, cultural, scientific, artistic, social, and economic value. Gansu's traditional villages are distributed across four regions: Central Gansu, Southeastern Gansu, Southern Gansu, and the Hexi Corridor, encompassing multi-ethnic settlements including Han, Tibetan, Hui, and Bonan peoples.",
+      "examples": "河口村、尼巴村、天城村等57个村落"
+    },
+    {
+      "id": 2,
+      "term_zh": "选址格局",
+      "term_en": "Site Selection and Layout",
+      "category": "规划",
+      "definition_zh": "村落选址与空间布局的综合考量。甘肃四大区域呈现不同模式：陇中地区多选在塬上；陇东南地区择水而居或背山面水；甘南地区择群而居；河西地区首要考虑交通便捷。",
+      "definition_en": "The comprehensive consideration of village siting and spatial layout. Gansu's four regions exhibit distinct patterns: Central Gansu villages favor loess plateaus; Southeastern Gansu villages are situated near water or backed by mountains; Southern Gansu villages cluster in groups; Hexi Corridor villages prioritize transportation accessibility.",
+      "examples": "天城村三面环山一面绕水、硖口村呈长方形加西边关城"
+    },
+    {
+      "id": 3,
+      "term_zh": "四合院",
+      "term_en": "Siheyuan / Courtyard House",
+      "category": "建筑形制",
+      "definition_zh": "中国传统院落式住宅，由正房、东西厢房、倒座围合而成。甘肃四合院因地域差异呈现不同特征：陇中地区坐北向南双坡屋顶；河西地区高墙厚筑防御性强。",
+      "definition_en": "A traditional Chinese courtyard house enclosed by a main hall, east and west wing rooms, and a reverse-set room. Gansu siheyuan exhibit regional variations: Central Gansu versions face south with double-slope roofs; Hexi Corridor versions feature high thick walls with strong defensive capabilities.",
+      "examples": "瑞安堡三进四合院、八坊十三巷大公馆三进或四进式四合院"
+    },
+    {
+      "id": 4,
+      "term_zh": "三合院",
+      "term_en": "Sanheyuan / Three-sided Courtyard",
+      "category": "建筑形制",
+      "definition_zh": "由正房和左右厢房组成的院落式住宅，无倒座。甘肃传统村落中常见，堂屋居中，旁为两厢，前院后棚（前为居住，后为养殖）。",
+      "definition_en": "A courtyard house composed of a main hall and left/right wing rooms without a reverse-set room. Common in Gansu traditional villages, with the central hall flanked by wings and a front yard/back shed arrangement (front for dwelling, back for livestock).",
+      "examples": "天城村居住建筑均呈三合院形式、火烧寨村242号三合院"
+    },
+    {
+      "id": 5,
+      "term_zh": "土木结构",
+      "term_en": "Earthy-wood Structure",
+      "category": "建筑结构",
+      "definition_zh": "以木材为承重框架、夯土或土坯为围护墙体的建筑结构体系。甘肃传统村落最普遍的结构形式，甘南藏区表现为'外不见木，内不见土'。",
+      "definition_en": "A structural system using timber as the load-bearing frame and rammed earth or adobe as the enclosing walls. The most common structural form in Gansu traditional villages; in Tibetan areas of Southern Gansu it manifests as 'wood concealed outside, earth concealed inside.'",
+      "examples": "尼巴村百年藏寨、扎尕那村传统民居、三陶村徐氏民宅"
+    },
+    {
+      "id": 6,
+      "term_zh": "砖木结构",
+      "term_en": "Brick-wood Structure",
+      "category": "建筑结构",
+      "definition_zh": "以砖为墙体、木材为梁架的建筑结构体系。甘肃清代及民国时期民居中常见，大墩村20世纪七八十年代建筑多为此种形式。",
+      "definition_en": "A structural system using brick for walls and timber for beam frames. Common in Qing dynasty and Republican-era dwellings in Gansu; many 1970s-80s buildings in Dadun Village adopt this form.",
+      "examples": "大墩村多数民居、汪家咀村清真寺"
+    },
+    {
+      "id": 7,
+      "term_zh": "夯土墙",
+      "term_en": "Rammed Earth Wall",
+      "category": "建筑构件",
+      "definition_zh": "用黏土、沙、石灰混合拌料，分层夯实，分层夹入柔韧度极好的红柳枝条筑成的墙体。瑞安堡围墙底部厚7米、顶宽2.8米、高12米，重要位置由大城砖加固。",
+      "definition_en": "Walls constructed by mixing clay, sand, and lime, then compacting in layers with flexible tamarisk branches inserted. Rui'an Fort's walls measure 7m thick at base, 2.8m at top, and 12m high, with key positions reinforced by large bricks.",
+      "examples": "瑞安堡围墙、永泰村龟城城墙、红堡子村堡墙"
+    },
+    {
+      "id": 8,
+      "term_zh": "土坯墙",
+      "term_en": "Adobe Wall",
+      "category": "建筑构件",
+      "definition_zh": "用土坯（晒干的泥砖）砌筑的墙体。甘肃陇上民居采用土坯墙和砖基的建筑格式，屋子冬暖夏凉，外观华美，坚固实用。",
+      "definition_en": "Walls built with adobe (sun-dried mud bricks). Gansu's loess-plateau dwellings use adobe walls on brick foundations, creating rooms warm in winter and cool in summer with an ornate yet durable appearance.",
+      "examples": "石榴村16座清中晚期建筑、权坪村权家大院"
+    },
+    {
+      "id": 9,
+      "term_zh": "穿斗式构架",
+      "term_en": "Chuan-dou Frame / Column-and-tie Frame",
+      "category": "建筑结构",
+      "definition_zh": "中国传统木构架体系之一，柱间不施梁，以穿枋将柱子串接联成一榀房架。强曲村白马藏族建筑主体采用穿斗式构架，但柱间没有穿枋，而是单独立柱后将檩条直接放置于柱头之上。",
+      "definition_en": "One of China's traditional timber frame systems, where columns are connected by horizontal tie-beams rather than beams. The Baima Tibetan buildings in Qiangqu Village use a variant where columns stand independently with purlins placed directly on column tops without tie-beams.",
+      "examples": "强曲村白马藏族传统民居、朱家沟村朱家大院穿斗式转角楼"
+    },
+    {
+      "id": 10,
+      "term_zh": "抬梁式构架",
+      "term_en": "Tai-liang Frame / Post-and-lintel Frame",
+      "category": "建筑结构",
+      "definition_zh": "中国传统木构架体系之一，在柱上抬梁，梁上安短柱，短柱上又抬梁。强曲村建筑主体以外的体量使用抬梁式构架。",
+      "definition_en": "One of China's traditional timber frame systems, where beams are placed on columns, short columns on beams, and additional beams on short columns. The auxiliary volumes of Qiangqu Village buildings use post-and-lintel framing.",
+      "examples": "强曲村白马藏族建筑附属体量"
+    },
+    {
+      "id": 11,
+      "term_zh": "悬山顶",
+      "term_en": "Overhanging Gable Roof",
+      "category": "屋顶形制",
+      "definition_zh": "中国传统屋顶形式之一，屋面双坡，两侧山墙凹进，檩木挑出于山墙之外。蔡家寺村30余处建筑全为悬山顶。",
+      "definition_en": "A traditional Chinese roof form with two slopes and gable walls recessed, with rafters extending beyond the gable walls. Over 30 buildings in Caijiasi Village all feature overhanging gable roofs.",
+      "examples": "蔡家寺村全部建筑、街亭村东城门瞻麓门二层悬山顶"
+    },
+    {
+      "id": 12,
+      "term_zh": "硬山顶",
+      "term_en": "Flush Gable Roof",
+      "category": "屋顶形制",
+      "definition_zh": "中国传统屋顶形式之一，屋面双坡，两侧山墙与屋面齐平或略高于屋面。哈达铺上街村义和昌药店为五檩四椽双坡四段椽硬山顶。瑞安堡大门门廊上布置面阔三间进深一间的硬山顶式门楼。",
+      "definition_en": "A traditional Chinese roof form with two slopes and gable walls flush with or slightly above the roof surface. The Yihechang Pharmacy in Hadapu Shangjie Village features a five-purlin four-rafter double-slope flush gable roof. Rui'an Fort's gate porch has a three-bay one-depths flush gable gate tower.",
+      "examples": "哈达铺上街村义和昌药店、瑞安堡大门门楼、三陶村徐氏民宅堂屋"
+    },
+    {
+      "id": 13,
+      "term_zh": "歇山顶",
+      "term_en": "Gable-and-hip Roof",
+      "category": "屋顶形制",
+      "definition_zh": "中国传统屋顶形式之一，由一条正脊、四条垂脊和四条戗脊组成，又称九脊顶。平堡村灯山楼1691年建为歇山顶，6.8米宽。八坊十三巷老王寺大殿殿顶呈歇山形。",
+      "definition_en": "A traditional Chinese roof form with one main ridge, four vertical ridges, and four diagonal ridges, also known as the nine-ridge roof. The Dengshan Tower in Pingbao Village (built 1691) features a gable-and-hip roof measuring 6.8m wide. The main hall of Laowang Mosque in Bafang Shisanxiang also has a gable-and-hip roof.",
+      "examples": "平堡村灯山楼、八坊十三巷老王寺大殿、东西街村城隍庙山门和大殿"
+    },
+    {
+      "id": 14,
+      "term_zh": "攒尖顶",
+      "term_en": "Pyramidal Roof",
+      "category": "屋顶形制",
+      "definition_zh": "中国传统屋顶形式之一，屋面在顶部交汇为一点，无正脊。米拉日巴佛阁为九层攒尖顶建筑。",
+      "definition_en": "A traditional Chinese roof form where roof surfaces converge at a single point without a main ridge. The Milarepa Buddha Pavilion is a nine-story pyramidal-roof building.",
+      "examples": "合作寺米拉日巴佛阁"
+    },
+    {
+      "id": 15,
+      "term_zh": "平屋顶",
+      "term_en": "Flat Roof",
+      "category": "屋顶形制",
+      "definition_zh": "屋面近乎水平的屋顶形式。甘南地区建筑墙体较厚，开间进深较大，以平屋顶为主，且屋顶可上人，一般用作晾晒用。王院村王家大院平屋顶上覆砂石，檐口红色板材。",
+      "definition_en": "A nearly horizontal roof form. Buildings in Southern Gansu feature thick walls, large bay dimensions, and predominantly flat roofs that are accessible and used for drying. The Wang Family Compound in Wangyuan Village has a flat roof covered with sand and gravel with red eave boards.",
+      "examples": "王院村王家大院、茨日那村素土夯实平屋顶、甘南藏区传统民居"
+    },
+    {
+      "id": 16,
+      "term_zh": "堡寨",
+      "term_en": "Fortified Village / Baozhai",
+      "category": "聚落形态",
+      "definition_zh": "为防御外患而筑的围墙集中居住的村落。甘肃堡寨多为夯土筑墙，设城门、马道、马面等防御设施。永泰村龟城、红堡子村、天城村镇夷城均为典型堡寨。",
+      "definition_en": "A walled, concentrated settlement built for defense against external threats. Gansu baozhai typically feature rammed-earth walls with gates, ramps, and bastions. Yongtai Turtle City, Hongbaozi Village, and Tiancheng's Zhenyi City are typical examples.",
+      "examples": "永泰村龟城、红堡子村、天城村镇夷城、硖口村硖口古城堡"
+    },
+    {
+      "id": 17,
+      "term_zh": "瓮城",
+      "term_en": "Wengcheng / Barbican",
+      "category": "防御设施",
+      "definition_zh": "城门外的半圆形或方形护门小城。天城村镇夷城南门外设龙虎楼，门前置吊桥，内瓮城至中门用青砖砌成，门扇用铁皮包裹，门额上刻'天城锁钥'四字。",
+      "definition_en": "A semicircular or square protective enclosure outside a city gate. Zhenyi City in Tiancheng Village has a Dragon-Tiger Tower outside the south gate with a drawbridge; the inner barbican to the middle gate is built of blue brick with iron-sheathed doors inscribed with 'Tiancheng Key'.",
+      "examples": "天城村镇夷城南门瓮城、洮州卫城四方城门均设瓮城"
+    },
+    {
+      "id": 18,
+      "term_zh": "马面",
+      "term_en": "Mamian / Bastion",
+      "category": "防御设施",
+      "definition_zh": "城墙外侧凸出的墩台，用于防御时从侧面射击攻城之敌。红堡子村东墙中间有马面。瑞安堡围墙角楼和中楼位置向外砖砌局部加宽加厚的护墙墙垛，垛出墙面1.5-4米宽不等。",
+      "definition_en": "Protruding platforms on the outer side of city walls for flanking fire against besiegers. Hongbaozi Village has a mamian at the center of its east wall. Rui'an Fort's corner and central towers feature outward-projecting brick parapets 1.5-4m wide.",
+      "examples": "红堡子村东墙马面、瑞安堡围墙墙垛"
+    },
+    {
+      "id": 19,
+      "term_zh": "烽燧",
+      "term_en": "Beacon Tower",
+      "category": "防御设施",
+      "definition_zh": "古代边防报警的信号台。天城村烽燧有五种类型：沿边墩21座、口外墩11座、东路墩7座、西路墩7座、南路墩2座，现保存完好的有9座，其中一座为汉代所建，1962年被列为省级文物保护单位。硖口村汉壕沟壕垄现存烽燧10座。",
+      "definition_en": "Ancient border warning signal towers. Tiancheng Village has five types: 21 border forts, 11 outer forts, 7 east-route forts, 7 west-route forts, and 2 south-route forts; 9 remain well-preserved, including one Han dynasty tower listed as provincial heritage in 1962. Xiakou Village has 10 surviving beacon towers along its Han-era moat.",
+      "examples": "天城村五种类型烽燧、硖口村汉壕沟烽燧10座"
+    },
+    {
+      "id": 20,
+      "term_zh": "长城",
+      "term_en": "Great Wall",
+      "category": "防御设施",
+      "definition_zh": "中国古代军事防御工程。山丹县境内汉明长城绵延近200公里，壕式汉长城和土筑夯打的明长城虽建于不同年代，但走向、长度完全相同，汉长城在北侧，明长城在其里，两者相距10-80米平行延伸，被专家誉为'露天长城博物馆'，为国家重点文物保护单位。",
+      "definition_en": "Ancient China's military defense工程. In Shandan County, the Han and Ming Great Walls extend nearly 200km; the moat-style Han Wall and rammed-earth Ming Wall, though built in different eras, share identical alignment and length, running parallel 10-80m apart. Hailed as the 'Open-air Great Wall Museum' and a national heritage site.",
+      "examples": "山丹县汉明长城并行段、天城村明长城段长约60里"
+    },
+    {
+      "id": 21,
+      "term_zh": "暗门",
+      "term_en": "Secret Gate",
+      "category": "防御设施",
+      "definition_zh": "长城上的隐蔽出入口。据《甘州府志》记载，山丹境内明长城有五处留有暗门，除此其他地方均无豁口，暗门上建过城楼，南来北往的商客或行人通过时需经守兵稽查方能出入。",
+      "definition_en": "Concealed passageways in the Great Wall. According to the Ganzhou Prefecture Gazetteer, Shandan's Ming Great Wall has five secret gates with no other breaches; gate towers were built above them, and merchants or travelers required guard inspection to pass.",
+      "examples": "山丹县明长城五处暗门"
+    },
+    {
+      "id": 22,
+      "term_zh": "过街楼",
+      "term_en": "Street-crossing Tower",
+      "category": "公共建筑",
+      "definition_zh": "横跨街道上方的楼阁式建筑。硖口村过街楼始建于明代，坐落于南北中心街道偏南，路两旁筑石条砖石砌面的黄土夯筑墩台，间距4米，两台阶架过梁铺木板，上建木结构小楼，悬一大匾楷书'威镇乾坤'四个大字。",
+      "definition_en": "A pavilion-style building spanning above a street. Xiakou Village's street-crossing tower, built in the Ming dynasty, stands south of the central north-south street on two rammed-earth platforms 4m apart, with timber beams and planks forming a bridge and a wooden pavilion above bearing a plaque inscribed 'Power Over Heaven and Earth'.",
+      "examples": "硖口村过街楼"
+    },
+    {
+      "id": 23,
+      "term_zh": "邦克楼",
+      "term_en": "Minaret",
+      "category": "宗教建筑",
+      "definition_zh": "清真寺中召唤穆斯林礼拜的塔楼。八坊十三巷老王寺邦克楼为五层六角木质塔式楼，彩饰华丽，为甘肃清真寺中最为高大雄伟的邦克楼。南关大寺殿顶设3个六角圆顶塔呈平面三角形配置，居前两个较小高15.75米，居后座中一个较大高26.8米。",
+      "definition_en": "The tower in a mosque from which Muslims are called to prayer. Laowang Mosque in Bafang Shisanxiang has a five-story hexagonal wooden minaret with ornate decoration, the tallest and most imposing in Gansu. Nanguan Grand Mosque has three hexagonal domed towers in triangular arrangement: two smaller front towers at 15.75m and one larger rear tower at 26.8m.",
+      "examples": "八坊十三巷老王寺五层六角木质邦克楼、南关大寺3个六角圆顶邦克楼"
+    },
+    {
+      "id": 24,
+      "term_zh": "清真寺",
+      "term_en": "Mosque",
+      "category": "宗教建筑",
+      "definition_zh": "穆斯林举行宗教活动的场所。甘肃清真寺融合中国传统建筑风格与阿拉伯特色，八坊十三巷有八座清真寺分属不同教派。汪家咀村清真寺明洪武十三年1380年创建，采用中国传统四合院形制沿中轴线布置若干进四合院。",
+      "definition_en": "Places of Islamic worship. Gansu mosques blend traditional Chinese architecture with Arab features; Bafang Shisanxiang has eight mosques of different sects. Wangjiazui Village Mosque, founded in 1380 (13th year of Hongwu), follows the traditional Chinese siheyuan layout with multiple courtyards along a central axis.",
+      "examples": "八坊十三巷八座清真寺、汪家咀村清真寺、大墩村保安清真寺"
+    },
+    {
+      "id": 25,
+      "term_zh": "拱北",
+      "term_en": "Gongbei / Sufi Mausoleum",
+      "category": "宗教建筑",
+      "definition_zh": "伊斯兰教苏菲派先贤的墓庐建筑。八坊十三巷大拱北始建于清康熙五十九年1720年，是嘎迪忍耶大拱北门宦始传人祁静一的墓庐所在地，为中国伊斯兰教嘎德忍耶三大圣地之一，总占地面积约14580平方米，总建筑面积约2600平方米。",
+      "definition_en": "Mausoleum buildings for Sufi saints. The Great Gongbei in Bafang Shisanxiang, founded in 1720 (59th year of Kangxi), is the mausoleum of Qi Jingyi, founder of the Qadiriyya Great Gongbei order, and one of China's three major Qadiriyya sacred sites, totaling 14,580 sqm with 2,600 sqm of floor area.",
+      "examples": "八坊十三巷大拱北、索玛拱北"
+    },
+    {
+      "id": 26,
+      "term_zh": "嘛呢房",
+      "term_en": "Mani House",
+      "category": "宗教建筑",
+      "definition_zh": "藏区供奉转经筒的宗教建筑。尼巴村嘛呢房外夯土内木构，内置108个经筒，黄铜质地。拉力沟村嘛呢房最早建于清代，新中国成立后于原址重修，建筑面积300平方米。",
+      "definition_en": "Religious buildings in Tibetan areas housing prayer wheels. Niba Village's mani house has rammed-earth exterior and timber interior with 108 brass prayer wheels. Laligou Village's mani house, first built in the Qing dynasty and rebuilt on the original site after 1949, covers 300 sqm.",
+      "examples": "尼巴村嘛呢房108个黄铜经筒、拉力沟村嘛呢房"
+    },
+    {
+      "id": 27,
+      "term_zh": "经筒",
+      "term_en": "Prayer Wheel",
+      "category": "宗教器物",
+      "definition_zh": "藏传佛教中刻有经文的圆筒，转动即代表诵经。尼巴村嘛呢房内置108个经筒，黄铜质地。合作寺有嘛呢转经房。",
+      "definition_en": "Cylindrical devices inscribed with scriptures in Tibetan Buddhism; turning them represents chanting. Niba Village's mani house contains 108 brass prayer wheels. Hezuo Monastery has a mani prayer wheel hall.",
+      "examples": "尼巴村108个黄铜经筒、合作寺嘛呢转经房"
+    },
+    {
+      "id": 28,
+      "term_zh": "白塔",
+      "term_en": "White Pagoda",
+      "category": "宗教建筑",
+      "definition_zh": "藏传佛教中的白色佛塔。尼巴村白塔为村落核心，博峪村村落边界处有两座白塔是村民精神信仰和宗教活动场所。",
+      "definition_en": "White Buddhist stupas in Tibetan Buddhism. Niba Village's white pagoda serves as the village core; Boyu Village has two white pagodas at its boundary serving as spiritual and religious gathering places.",
+      "examples": "尼巴村白塔、博峪村两座白塔、合作寺白塔"
+    },
+    {
+      "id": 29,
+      "term_zh": "佛阁",
+      "term_en": "Buddhist Pavilion",
+      "category": "宗教建筑",
+      "definition_zh": "供奉佛像的楼阁式建筑。合作寺米拉日巴佛阁始建于清乾隆四十二年1777年，重建于1988年，建筑面积4000平方米，高九层，供奉以米拉日巴尊者及其弟子为主的藏传佛教各派开宗祖师，有各类佛像1270尊，是安多藏区仅有的一座供奉藏传佛教各派宗师的高层建筑名刹。",
+      "definition_en": "Pavilion-style buildings housing Buddha statues. Hezuo Monastery's Milarepa Buddha Pavilion, originally built in 1777 (42nd year of Qianlong) and rebuilt in 1988, covers 4,000 sqm across nine stories, enshrining 1,270 statues of Tibetan Buddhist sect founders led by Milarepa. It is the only high-rise temple in Amdo Tibetan region enshrining masters of all Tibetan Buddhist schools.",
+      "examples": "合作寺米拉日巴九层佛阁"
+    },
+    {
+      "id": 30,
+      "term_zh": "囊欠",
+      "term_en": "Nangqian / Lama's Residence",
+      "category": "宗教建筑",
+      "definition_zh": "藏传佛教寺院中活佛的府邸。合作寺有赛仓活佛囊欠和色赤活佛囊欠。",
+      "definition_en": "The residence of a reincarnated lama (living Buddha) in a Tibetan Buddhist monastery. Hezuo Monastery contains the Nangqian of both the Sercang and Setri incarnate lamas.",
+      "examples": "合作寺赛仓活佛囊欠、色赤活佛囊欠"
+    },
+    {
+      "id": 31,
+      "term_zh": "辩经",
+      "term_en": "Debating Scriptures",
+      "category": "宗教活动",
+      "definition_zh": "藏传佛教喇嘛攻读显宗经典的必经方式，按照因明学体系的逻辑推理方式辩论佛教教义。分为对辩（二人问答）和立宗辩（一人立论待人辩驳）两种形式。农历正月十四上午十一时左右举行一年中规模最大的辩经。",
+      "definition_en": "An essential practice for Tibetan Buddhist lamas studying sutras, debating Buddhist doctrine using Buddhist logic. Two forms: paired debate (two people, one asks one answers) and doctrinal debate (one person establishes a thesis to be challenged). The largest annual debate is held around 11 AM on the 14th day of the first lunar month.",
+      "examples": "合作寺辩经场"
+    },
+    {
+      "id": 32,
+      "term_zh": "法舞",
+      "term_en": "Cham Dance",
+      "category": "宗教活动",
+      "definition_zh": "藏传佛教宗教法会上的面具舞蹈，俗称跳神。舞者佩戴面具，通过旋转跳跃讲述宗教故事，意在祈愿新的一年吉祥如意。合作寺最大最为隆重的宗教法会跳法舞在大经堂前举行。",
+      "definition_en": "Masked dances performed at Tibetan Buddhist religious ceremonies, commonly called 'god dancing.' Dancers wear masks and narrate religious stories through spins and leaps, praying for auspiciousness in the new year. Hezuo Monastery's most grand cham dance is held before its main scripture hall.",
+      "examples": "合作寺大经堂前跳法舞"
+    },
+    {
+      "id": 33,
+      "term_zh": "风马旗",
+      "term_en": "Wind Horse Flag / Lungta",
+      "category": "宗教器物",
+      "definition_zh": "甘南藏区在隘口与山顶放飞的纸风马旗，适逢祭祀节日寒风劲吹时纷纷扬扬飘入云端娱悦天神。遇有活佛尊者圆寂，家家户户须将房顶上的风马旗置放倾斜以示致哀。藏族人将自己或逝者的手镯、帽子、须发或一团羊毛系于风马旗上希冀借助其力牵引升腾。",
+      "definition_en": "Paper wind-horse flags flown at mountain passes and summits in Southern Gansu Tibetan areas, released during festivals to delight the gods. Upon a lama's passing, households tilt their rooftop flags as mourning. Tibetans tie bracelets, hats, hair, or wool to the flags, hoping their fortunes will rise with them.",
+      "examples": "甘南藏区风马旗习俗"
+    },
+    {
+      "id": 34,
+      "term_zh": "踏板房",
+      "term_en": "Taban House",
+      "category": "建筑形制",
+      "definition_zh": "宕昌县东峪村特色民居，土木结构，木板压卵石屋顶，夯土墙体，檐廊式结构。有三间单层和三间双层檐廊式两种，48户保存良好，高度低2.3米，开间小2.7米。",
+      "definition_en": "A distinctive dwelling type in Dongyu Village, Tanchang County, featuring earthy-wood structure, roofs of wooden boards weighted by cobbles, rammed-earth walls, and eave-corridor construction. Two types: three-bay single-story and three-bay two-story eave-corridor; 48 households preserve them well, with low height (2.3m) and small bays (2.7m).",
+      "examples": "东峪村踏板房48户"
+    },
+    {
+      "id": 35,
+      "term_zh": "井口院",
+      "term_en": "Jingkou Courtyard",
+      "category": "建筑形制",
+      "definition_zh": "卓尼县拉力沟村传统民居形式，有二层井口院扇子房和一层井口院扇子房两类。",
+      "definition_en": "A traditional dwelling form in Laligou Village, Zhuoni County, existing as two-story and one-story 'fan-house' variants within a well-shaped courtyard.",
+      "examples": "拉力沟村二层和一层井口院扇子房"
+    },
+    {
+      "id": 36,
+      "term_zh": "庄院",
+      "term_en": "Manor Compound",
+      "category": "建筑形制",
+      "definition_zh": "河西走廊沙漠边缘的高墙厚筑院落式民居，抗风沙、挡酷暑、抵严寒。瑞安堡是庄院式民居中的代表作品，曾被称为'小皇城'。",
+      "definition_en": "High-walled, thickly-built courtyard dwellings on the edge of the Hexi Corridor desert, resistant to sandstorms, heat, and cold. Rui'an Fort is a representative manor compound, once called the 'Little Imperial City.'",
+      "examples": "瑞安堡（小皇城）、三陶村徐氏民宅"
+    },
+    {
+      "id": 37,
+      "term_zh": "暗道",
+      "term_en": "Secret Passage",
+      "category": "防御设施",
+      "definition_zh": "瑞安堡沿围墙地下修有的砖砌拱形通道，可供两人通行，总长160多米。出入口分设在四个区域：围墙顶上西墙中楼望月厅地下、生活区中后院厢房厕所及粮房、前院马厩、庄院外。固可守、破可逃。",
+      "definition_en": "Brick-vaulted underground passages along Rui'an Fort's walls, wide enough for two people, totaling over 160m. Entrances are in four zones: beneath the west-wall Wangyue Tower, in the living quarters' rear wing/toilet/granary, in the front stable, and outside the fort. Defensible when holding, escapable when breached.",
+      "examples": "瑞安堡暗道总长160多米"
+    },
+    {
+      "id": 38,
+      "term_zh": "巡道",
+      "term_en": "Patrol Path",
+      "category": "防御设施",
+      "definition_zh": "瑞安堡围墙顶布置的2米宽环绕庄院四周的通道，外侧是厚0.5米高2.2米的砖砌掩体女儿墙（上砌对外射击孔），内侧砌0.7米高护墙，全长300米，可到达围墙顶部任何地方。",
+      "definition_en": "A 2m-wide path atop Rui'an Fort's walls encircling the compound, with a 0.5m-thick 2.2m-high brick parapet on the outer side (with outward shooting holes) and a 0.7m-high inner wall; total length 300m, reaching every point of the wall top.",
+      "examples": "瑞安堡巡道全长300米"
+    },
+    {
+      "id": 39,
+      "term_zh": "女儿墙",
+      "term_en": "Parapet Wall",
+      "category": "建筑构件",
+      "definition_zh": "建筑物顶部外侧的矮墙。瑞安堡巡道外侧砖砌掩体女儿墙厚0.5米高2.2米，上砌对外射击孔。",
+      "definition_en": "Low walls along the outer edge of a building's top. Rui'an Fort's patrol path outer parapet is 0.5m thick and 2.2m high, with outward shooting holes.",
+      "examples": "瑞安堡砖砌掩体女儿墙"
+    },
+    {
+      "id": 40,
+      "term_zh": "影壁",
+      "term_en": "Screen Wall",
+      "category": "建筑构件",
+      "definition_zh": "院落内或大门外的屏蔽墙壁。八坊十三巷民居院落一般由影壁、正房、左右厢房、下房等组成。东宫馆正北为三开屏式大影壁，上雕江山图一幅。",
+      "definition_en": "A shielding wall inside a courtyard or outside a gate. Bafang Shisanxiang dwellings typically include a screen wall, main hall, wing rooms, and rear room. Donggong Mansion has a three-panel screen wall on its north side carved with a landscape painting.",
+      "examples": "八坊十三巷民居影壁、东宫馆三开屏式大影壁"
+    },
+    {
+      "id": 41,
+      "term_zh": "雀替",
+      "term_en": "Sparrow Brace / Queti",
+      "category": "建筑构件",
+      "definition_zh": "中国传统建筑中置于梁枋与柱相交处的装饰性构件。梅江村假脊假带七云头雀替，佛堂院积善德。",
+      "definition_en": "Decorative brackets placed at the intersection of beams and columns in traditional Chinese architecture. Meijiang Village features false ridge/false band with seven-cloud-head queti in its Buddhist hall courtyard.",
+      "examples": "梅江村七云头雀替"
+    },
+    {
+      "id": 42,
+      "term_zh": "砖雕",
+      "term_en": "Brick Carving",
+      "category": "装饰工艺",
+      "definition_zh": "在青砖上雕刻图案的装饰工艺。八坊十三巷融合回族砖雕、汉族木刻、藏族彩绘。东宫馆砖雕艺术容纳汇集了河州雕刻艺术之精华，堪称砖雕作品的大观园。大拱北内砖雕林立，雕刻内容丰富形象逼真，堪称临夏砖雕艺术宝库中的瑰宝。",
+      "definition_en": "The decorative art of carving patterns into blue bricks. Bafang Shisanxiang blends Hui brick carving, Han wood carving, and Tibetan painting. Donggong Mansion's brick carvings collect the essence of Hezhou carving art, hailed as a 'grand garden of brick carving.' The Great Gongbei's brick carvings are rich and vivid, treasures of Linxia brick carving art.",
+      "examples": "东宫馆砖雕大观园、大拱北砖雕、八坊十三巷回族砖雕"
+    },
+    {
+      "id": 43,
+      "term_zh": "木雕",
+      "term_en": "Wood Carving",
+      "category": "装饰工艺",
+      "definition_zh": "在木材上雕刻图案的装饰工艺。大墩村保安族民居常用花凿墙雕纹饰，在木头上雕刻各种花纹装饰门梁等建筑。瑞安堡木雕精美。八坊十三巷大旮巷80号砖雕木雕雕工细腻。",
+      "definition_en": "The decorative art of carving patterns into wood. Bonan dwellings in Dadun Village commonly use ornate chiseled wall carvings with floral patterns on door beams. Rui'an Fort features exquisite wood carving. No. 80 Daga Lane in Bafang Shisanxiang has delicate brick and wood carving.",
+      "examples": "大墩村保安族花凿墙雕、瑞安堡木雕、八坊十三巷大旮巷80号木雕"
+    },
+    {
+      "id": 44,
+      "term_zh": "宝卷",
+      "term_en": "Baojuan / Precious Scroll",
+      "category": "非遗",
+      "definition_zh": "流行于民间的说唱文学，由历史人物、民间神话、传说和戏曲故事演变而来，内容主要是教化人心，散韵相间。天城宝卷、硖口宝卷（河西宝卷重要组成部分，约五种毛笔手抄本）均在电视文化出现以前的农村流行。",
+      "definition_en": "A folk narrative-singing literature evolved from historical figures, myths, legends, and opera stories, primarily for moral instruction, alternating prose and verse. Tiancheng and Xiakou precious scrolls (the latter part of Hexi Baojuan with about five hand-copied versions) flourished in rural areas before television.",
+      "examples": "天城宝卷、硖口宝卷五种毛笔手抄本"
+    },
+    {
+      "id": 45,
+      "term_zh": "社火",
+      "term_en": "Shehuo / Festival Parade",
+      "category": "非遗",
+      "definition_zh": "中国民间在节日期间的综合性庆祝表演活动。天城村社火秧歌由地蹦子与凤翔秧歌组合而成，15人组成（4个男鼓子、4个女鼓子、4个棒槌和尚、膏药匠、傻公子、大肚子丑婆娘），配合舞龙、赶旱船、踩高跷、竹驴竹马、大头和尚等。永泰村有社火、背鼓子舞、景泰滚灯、景泰拉花。",
+      "definition_en": "A comprehensive folk celebration performance during festivals. Tiancheng Village's shehuo combines 'dibengzi' and Fengyang yangge with 15 performers (4 male drummers, 4 female drummers, 4 monk-stick dancers, a medicine man, a fool, and a fat ugly woman), plus dragon dance, land-boat, stilt-walking, bamboo donkey/horse, and big-head monk. Yongtai Village features shehuo, back-drum dance, Jingtai rolling lanterns, and Jingtai flower pulling.",
+      "examples": "天城村社火、永泰村社火背鼓子舞景泰滚灯景泰拉花"
+    },
+    {
+      "id": 46,
+      "term_zh": "皮影戏",
+      "term_en": "Shadow Puppetry",
+      "category": "非遗",
+      "definition_zh": "艺人们在白色幕布后面一边操纵戏曲人物一边用当地流行曲调唱述故事的戏剧形式。父坪村韩山社皮影戏文字考证于民国十年1921年线装戏本，传承约六代人，乐器配有四弦、三弦、二胡、板胡、大小锣鼓、芽板、牛铃等，唱法分上音和下音，风格悠扬凄凉。罗家村皮影戏台61.36平方米，春秋两季演出。",
+      "definition_en": "A theatrical form where artists manipulate figures behind a white screen while singing in local tunes. Han山 She shadow puppetry in Fuping Village is documented to 1921 (10th year of the Republic) thread-bound scripts, passed down six generations, with instruments including four-string, three-string, erhu, banhu, gongs/drums, and cow-bells; singing divided into upper and lower tones, melodious and melancholic. Luojia Village's shadow puppet stage (61.36 sqm) hosts performances in spring and autumn.",
+      "examples": "父坪村韩山社皮影戏、罗家村皮影戏、火烧寨村皮影戏"
+    },
+    {
+      "id": 47,
+      "term_zh": "花儿",
+      "term_en": "Hua'er / Musical Flower",
+      "category": "非遗",
+      "definition_zh": "流行于甘肃、青海、宁夏等地区的山歌形式。汪家咀村花儿19世纪传入，洮州花儿流传甘南临潭卓尼部分地区及岷县康乐临洮小块地区。东西街村1980年前后花儿是主要娱乐活动，2000年后渐渐不受年轻人欢迎，目前接近消亡状态。临夏每年在莲花山、松鸣岩等地举行花儿演唱比赛，有花儿之乡之称。",
+      "definition_en": "A mountain song form popular in Gansu, Qinghai, and Ningxia. Hua'er was introduced to Wangjiazui Village in the 19th century; Taozhou hua'er spreads in parts of Lintan and Zhuoni in Southern Gansu plus small areas of Minxian, Kangle, and Lintao. In Dongxijie Village hua'er was the main entertainment around 1980 but declined after 2000 and is now near extinction. Linxia holds hua'er competitions at Lianhua Mountain and Songming Rock, earning it the title 'Home of Hua'er.'",
+      "examples": "汪家咀村洮州花儿、东西街村花儿、临夏莲花山花儿会"
+    },
+    {
+      "id": 48,
+      "term_zh": "保安腰刀",
+      "term_en": "Bonan Waist Knife",
+      "category": "非遗",
+      "definition_zh": "保安族传统手工艺制品，与藏刀、蒙古刀齐名。工序多者达80多道，少者也有30-40道，先把铁反复锻打，然后劈开加钢，最后淬火而成。著名品种有什样锦、什样锦双刀、雅王其、波日季、一刀线、双落、满把、扁鞘、蒙古刀、哈萨克刀、鱼刀等。1987年获国家民委国家轻工部优质产品称号，1991年获北京国际博览会金奖。",
+      "definition_en": "The traditional handicraft of the Bonan people, as renowned as Tibetan and Mongolian knives. Production involves 80+ steps (minimum 30-40): repeated forging, splitting and inserting steel, then quenching. Famous varieties include Shiyangjin, Shiyangjin double knife, Yawangqi, Boriji, and others. Won the State Ethnic Affairs Commission and Ministry of Light Industry Quality Product Award in 1987 and the Beijing International Expo Gold Award in 1991.",
+      "examples": "大墩村保安腰刀锻制技艺"
+    },
+    {
+      "id": 49,
+      "term_zh": "池哥昼",
+      "term_en": "Chigezhou Mask Dance",
+      "category": "非遗",
+      "definition_zh": "白马藏人传统祭祀活动和民间舞蹈。正月初五预习面具舞，正月十三正式跳，正月十六结束。九位男性表演：四人扮山神池哥四弟兄，两人扮菩萨池姆，两人扮夫妻池玛，十多岁儿童扮猴娃子。",
+      "definition_en": "The traditional sacrificial activity and folk dance of the Baima Tibetan people. Mask dance rehearsals begin on the 5th day of the first lunar month, formal performances from the 13th to the 16th. Nine male performers: four as mountain gods (Chige brothers), two as bodhisattvas (Chimu), two as a couple (Chima), and a young boy as a monkey child.",
+      "examples": "强曲村池哥昼"
+    },
+    {
+      "id": 50,
+      "term_zh": "外不见木内不见土",
+      "term_en": "Wood Concealed Outside, Earth Concealed Inside",
+      "category": "建筑特征",
+      "definition_zh": "甘南藏区传统土木结构建筑的典型特征：外部以夯土墙围护，看不到木构件；内部以木结构为承重框架，看不到土体。尼巴村百年藏寨、扎尕那村、茨日那村、王府村民居均体现此特征。",
+      "definition_en": "A defining feature of traditional earthy-wood buildings in Southern Gansu Tibetan areas: the exterior is enclosed by rammed earth with no visible timber, while the interior uses a timber load-bearing frame with no visible earth. Seen in Niba Village's century-old Tibetan stockade, Zhagana, Cirina, and Wangfu Village dwellings.",
+      "examples": "尼巴村百年藏寨、扎尕那村、茨日那村、王府村"
+    }
+  ]
+}

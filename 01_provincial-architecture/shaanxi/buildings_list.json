@@ -1,0 +1,758 @@
+[
+  {
+    "chapter": "城镇聚落",
+    "section": "古代都邑",
+    "name": "石峁遗址",
+    "page": 29,
+    "city": "榆林市神木市"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古代都邑",
+    "name": "丰镐遗址",
+    "page": 30,
+    "city": "西安市长安区"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古代都邑",
+    "name": "秦都咸阳城",
+    "page": 32,
+    "city": "咸阳市"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古代都邑",
+    "name": "汉长安城",
+    "page": 35,
+    "city": "西安市未央区"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古代都邑",
+    "name": "隋唐长安城",
+    "page": 39,
+    "city": "西安市"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古代城镇",
+    "name": "西安古城",
+    "page": 45,
+    "city": "西安市"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古代城镇",
+    "name": "府谷府州城",
+    "page": 45,
+    "city": "榆林市府谷县"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古代城镇",
+    "name": "神木高家堡古城",
+    "page": 48,
+    "city": "榆林市神木市"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古代城镇",
+    "name": "榆林卫城",
+    "page": 50,
+    "city": "榆林市"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古代城镇",
+    "name": "吴堡石城",
+    "page": 51,
+    "city": "榆林市吴堡县"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古代城镇",
+    "name": "旬阳蜀河古镇",
+    "page": 52,
+    "city": "安康市旬阳市"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古代城镇",
+    "name": "宁强青木川古镇",
+    "page": 52,
+    "city": "汉中市宁强县"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古城墙与钟鼓楼",
+    "name": "西安古城墙",
+    "page": 56,
+    "city": "西安市"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古城墙与钟鼓楼",
+    "name": "西安钟楼",
+    "page": 57,
+    "city": "西安市"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古城墙与钟鼓楼",
+    "name": "西安鼓楼",
+    "page": 59,
+    "city": "西安市"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古城墙与钟鼓楼",
+    "name": "户县钟楼",
+    "page": 60,
+    "city": "西安市鄠邑区"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古城墙与钟鼓楼",
+    "name": "城固钟楼",
+    "page": 60,
+    "city": "汉中市城固县"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古城墙与钟鼓楼",
+    "name": "神木钟楼",
+    "page": 62,
+    "city": "榆林市神木市"
+  },
+  {
+    "chapter": "城镇聚落",
+    "section": "古城墙与钟鼓楼",
+    "name": "定边鼓楼",
+    "page": 62,
+    "city": "榆林市定边县"
+  },
+  {
+    "chapter": "古村落与古民居",
+    "section": "古村落",
+    "name": "姜寨遗址",
+    "page": 72,
+    "city": "西安市临潼区"
+  },
+  {
+    "chapter": "古村落与古民居",
+    "section": "古村落",
+    "name": "半坡遗址",
+    "page": 73,
+    "city": "西安市灞桥区"
+  },
+  {
+    "chapter": "古村落与古民居",
+    "section": "古村落",
+    "name": "韩城党家村",
+    "page": 73,
+    "city": "渭南市韩城市"
+  },
+  {
+    "chapter": "古村落与古民居",
+    "section": "古村落",
+    "name": "三原柏社村",
+    "page": 77,
+    "city": "咸阳市三原县"
+  },
+  {
+    "chapter": "古村落与古民居",
+    "section": "古村落",
+    "name": "米脂杨家沟扶风古寨",
+    "page": 78,
+    "city": "榆林市米脂县"
+  },
+  {
+    "chapter": "古村落与古民居",
+    "section": "古民居",
+    "name": "米脂刘家峁姜氏庄园",
+    "page": 81,
+    "city": "榆林市米脂县"
+  },
+  {
+    "chapter": "古村落与古民居",
+    "section": "古民居",
+    "name": "韩城党家村民居",
+    "page": 85,
+    "city": "渭南市韩城市"
+  },
+  {
+    "chapter": "古村落与古民居",
+    "section": "古民居",
+    "name": "西安北院门高家大院",
+    "page": 86,
+    "city": "西安市莲湖区"
+  },
+  {
+    "chapter": "古村落与古民居",
+    "section": "古民居",
+    "name": "旬邑唐家宅院",
+    "page": 91,
+    "city": "咸阳市旬邑县"
+  },
+  {
+    "chapter": "古村落与古民居",
+    "section": "古民居",
+    "name": "三原孟店周宅",
+    "page": 93,
+    "city": "咸阳市三原县"
+  },
+  {
+    "chapter": "古村落与古民居",
+    "section": "古民居",
+    "name": "宁强青木川魏宅",
+    "page": 95,
+    "city": "汉中市宁强县"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "佛教寺庙",
+    "name": "西安大慈恩寺",
+    "page": 104,
+    "city": "西安市雁塔区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "佛教寺庙",
+    "name": "长安护国兴教寺",
+    "page": 107,
+    "city": "西安市长安区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "佛教寺庙",
+    "name": "西安大兴善寺",
+    "page": 111,
+    "city": "西安市雁塔区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "佛教寺庙",
+    "name": "西安香积寺",
+    "page": 113,
+    "city": "西安市长安区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "佛教寺庙",
+    "name": "韩城普照寺",
+    "page": 115,
+    "city": "渭南市韩城市"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "佛教寺庙",
+    "name": "洋县智果寺",
+    "page": 116,
+    "city": "汉中市洋县"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "佛教寺庙",
+    "name": "安康白云寺",
+    "page": 118,
+    "city": "安康市汉滨区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "佛教寺庙",
+    "name": "佳县香炉寺",
+    "page": 118,
+    "city": "榆林市佳县"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "佛教寺庙",
+    "name": "榆林戴兴寺",
+    "page": 121,
+    "city": "榆林市"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "佛教寺庙",
+    "name": "横山法云寺",
+    "page": 122,
+    "city": "榆林市横山区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "佛教寺庙",
+    "name": "榆林万佛楼",
+    "page": 123,
+    "city": "榆林市"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "佛教寺庙",
+    "name": "榆林梅花楼",
+    "page": 125,
+    "city": "榆林市"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "道教宫观",
+    "name": "周至楼观台",
+    "page": 125,
+    "city": "西安市周至县"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "道教宫观",
+    "name": "西安八仙庵",
+    "page": 126,
+    "city": "西安市碑林区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "道教宫观",
+    "name": "蓝田水陆庵",
+    "page": 127,
+    "city": "西安市蓝田县"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "道教宫观",
+    "name": "耀州区药王山庙",
+    "page": 129,
+    "city": "铜川市耀州区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "道教宫观",
+    "name": "宝鸡金台观",
+    "page": 136,
+    "city": "宝鸡市金台区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "道教宫观",
+    "name": "宝鸡钓鱼台",
+    "page": 137,
+    "city": "宝鸡市陈仓区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "道教宫观",
+    "name": "华阴玉泉院",
+    "page": 139,
+    "city": "渭南市华阴市"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "道教宫观",
+    "name": "榆林佳县白云观",
+    "page": 143,
+    "city": "榆林市佳县"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "道教宫观",
+    "name": "榆林盘龙山古建筑群",
+    "page": 148,
+    "city": "榆林市"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "伊斯兰教建筑",
+    "name": "西安化觉巷清真寺",
+    "page": 151,
+    "city": "西安市莲湖区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "伊斯兰教建筑",
+    "name": "西安大学习巷清真寺",
+    "page": 153,
+    "city": "西安市莲湖区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "伊斯兰教建筑",
+    "name": "西安小皮院清真寺",
+    "page": 157,
+    "city": "西安市莲湖区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "伊斯兰教建筑",
+    "name": "西安大皮院清真寺",
+    "page": 158,
+    "city": "西安市莲湖区"
+  },
+  {
+    "chapter": "宗教建筑",
+    "section": "伊斯兰教建筑",
+    "name": "西乡鹿龄寺",
+    "page": 161,
+    "city": "汉中市西乡县"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "岳庙",
+    "name": "西安东岳庙",
+    "page": 170,
+    "city": "西安市新城区"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "岳庙",
+    "name": "华阴西岳庙",
+    "page": 173,
+    "city": "渭南市华阴市"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "城隍庙",
+    "name": "西安都城隍庙",
+    "page": 179,
+    "city": "西安市莲湖区"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "城隍庙",
+    "name": "三原城隍庙",
+    "page": 180,
+    "city": "咸阳市三原县"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "城隍庙",
+    "name": "韩城城隍庙",
+    "page": 187,
+    "city": "渭南市韩城市"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "文庙",
+    "name": "西安府文庙",
+    "page": 192,
+    "city": "西安市碑林区"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "文庙",
+    "name": "韩城文庙",
+    "page": 195,
+    "city": "渭南市韩城市"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "文庙",
+    "name": "咸阳文庙",
+    "page": 198,
+    "city": "咸阳市渭城区"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "文庙",
+    "name": "府谷文庙",
+    "page": 199,
+    "city": "榆林市府谷县"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "文庙",
+    "name": "蒲城文庙",
+    "page": 201,
+    "city": "渭南市蒲城县"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "先贤祠庙",
+    "name": "韩城司马迁祠",
+    "page": 202,
+    "city": "渭南市韩城市"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "先贤祠庙",
+    "name": "留坝留侯祠(张良庙)",
+    "page": 205,
+    "city": "汉中市留坝县"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "先贤祠庙",
+    "name": "勉县武侯祠",
+    "page": 209,
+    "city": "汉中市勉县"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "先贤祠庙",
+    "name": "勉县武侯墓",
+    "page": 214,
+    "city": "汉中市勉县"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "先贤祠庙",
+    "name": "白水仓颉庙",
+    "page": 216,
+    "city": "渭南市白水县"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "先贤祠庙",
+    "name": "城固韩氏祠堂",
+    "page": 217,
+    "city": "汉中市城固县"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "其他祠庙",
+    "name": "神木二郎山庙群",
+    "page": 221,
+    "city": "榆林市神木市"
+  },
+  {
+    "chapter": "祠庙建筑",
+    "section": "其他祠庙",
+    "name": "略阳江神庙",
+    "page": 222,
+    "city": "汉中市略阳县"
+  },
+  {
+    "chapter": "书院考院与会馆",
+    "section": "书院与考院",
+    "name": "关中书院",
+    "page": 232,
+    "city": "西安市碑林区"
+  },
+  {
+    "chapter": "书院考院与会馆",
+    "section": "书院与考院",
+    "name": "眉县横渠书院",
+    "page": 235,
+    "city": "宝鸡市眉县"
+  },
+  {
+    "chapter": "书院考院与会馆",
+    "section": "书院与考院",
+    "name": "蒲城考院",
+    "page": 235,
+    "city": "渭南市蒲城县"
+  },
+  {
+    "chapter": "书院考院与会馆",
+    "section": "会馆",
+    "name": "旬阳黄州会馆",
+    "page": 236,
+    "city": "安康市旬阳市"
+  },
+  {
+    "chapter": "书院考院与会馆",
+    "section": "会馆",
+    "name": "紫阳北五省会馆",
+    "page": 239,
+    "city": "安康市紫阳县"
+  },
+  {
+    "chapter": "书院考院与会馆",
+    "section": "会馆",
+    "name": "山阳骡帮会馆",
+    "page": 240,
+    "city": "商洛市山阳县"
+  },
+  {
+    "chapter": "书院考院与会馆",
+    "section": "会馆",
+    "name": "丹凤船帮会馆",
+    "page": 242,
+    "city": "商洛市丹凤县"
+  },
+  {
+    "chapter": "书院考院与会馆",
+    "section": "会馆",
+    "name": "山阳禹王宫",
+    "page": 247,
+    "city": "商洛市山阳县"
+  },
+  {
+    "chapter": "陵墓建筑",
+    "section": "始祖陵寝",
+    "name": "黄帝陵",
+    "page": 253,
+    "city": "延安市黄陵县"
+  },
+  {
+    "chapter": "陵墓建筑",
+    "section": "秦代陵墓",
+    "name": "秦公帝王陵园",
+    "page": 257,
+    "city": "宝鸡市凤翔区"
+  },
+  {
+    "chapter": "陵墓建筑",
+    "section": "秦代陵墓",
+    "name": "秦始皇陵",
+    "page": 261,
+    "city": "西安市临潼区"
+  },
+  {
+    "chapter": "陵墓建筑",
+    "section": "汉代陵墓",
+    "name": "长陵",
+    "page": 265,
+    "city": "咸阳市渭城区"
+  },
+  {
+    "chapter": "陵墓建筑",
+    "section": "汉代陵墓",
+    "name": "霸陵",
+    "page": 266,
+    "city": "西安市灞桥区"
+  },
+  {
+    "chapter": "陵墓建筑",
+    "section": "汉代陵墓",
+    "name": "阳陵",
+    "page": 266,
+    "city": "咸阳市渭城区"
+  },
+  {
+    "chapter": "陵墓建筑",
+    "section": "汉代陵墓",
+    "name": "茂陵",
+    "page": 269,
+    "city": "咸阳市兴平市"
+  },
+  {
+    "chapter": "陵墓建筑",
+    "section": "唐代陵墓",
+    "name": "昭陵",
+    "page": 272,
+    "city": "咸阳市礼泉县"
+  },
+  {
+    "chapter": "陵墓建筑",
+    "section": "唐代陵墓",
+    "name": "乾陵",
+    "page": 273,
+    "city": "咸阳市乾县"
+  },
+  {
+    "chapter": "陵墓建筑",
+    "section": "唐代陵墓",
+    "name": "泰陵",
+    "page": 276,
+    "city": "渭南市蒲城县"
+  },
+  {
+    "chapter": "陵墓建筑",
+    "section": "唐代陵墓",
+    "name": "贞陵",
+    "page": 279,
+    "city": "咸阳市泾阳县"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "佛塔",
+    "name": "大慈恩寺大雁塔",
+    "page": 287,
+    "city": "西安市雁塔区"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "佛塔",
+    "name": "荐福寺小雁塔",
+    "page": 287,
+    "city": "西安市碑林区"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "佛塔",
+    "name": "兴教寺玄奘塔",
+    "page": 291,
+    "city": "西安市长安区"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "佛塔",
+    "name": "香积寺善导塔",
+    "page": 292,
+    "city": "西安市长安区"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "佛塔",
+    "name": "富县柏山寺塔",
+    "page": 293,
+    "city": "延安市富县"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "佛塔",
+    "name": "泾阳崇文宝塔",
+    "page": 294,
+    "city": "咸阳市泾阳县"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "佛塔",
+    "name": "扶风法门寺塔",
+    "page": 297,
+    "city": "宝鸡市扶风县"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "佛塔",
+    "name": "中王堡木塔",
+    "page": 299,
+    "city": "咸阳市三原县"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "佛塔",
+    "name": "千佛铁塔",
+    "page": 299,
+    "city": "咸阳市"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "佛塔",
+    "name": "千佛琉璃塔",
+    "page": 301,
+    "city": "延安市"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "佛塔",
+    "name": "草堂寺鸠摩罗什舍利塔",
+    "page": 302,
+    "city": "西安市鄠邑区"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "石窟",
+    "name": "彬县大佛寺石窟",
+    "page": 303,
+    "city": "咸阳市彬州市"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "石窟",
+    "name": "慈善寺石窟",
+    "page": 305,
+    "city": "宝鸡市麟游县"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "石窟",
+    "name": "富县石泓寺石窟",
+    "page": 308,
+    "city": "延安市富县"
+  },
+  {
+    "chapter": "佛塔石窟",
+    "section": "石窟",
+    "name": "米脂万佛洞",
+    "page": 309,
+    "city": "榆林市米脂县"
+  }
+]

@@ -1,0 +1,1817 @@
+{
+  "title": "江南秘境 松阳传统村落 术语数据库",
+  "title_en": "Glossary of Songyang Traditional Villages",
+  "author": "鲁晓敏",
+  "total_terms": 174,
+  "categories": [
+    "交通工具",
+    "传统工艺",
+    "传统行业",
+    "儒家概念",
+    "制度",
+    "历史",
+    "历史事件",
+    "历史人物",
+    "历史制度",
+    "历史地名",
+    "历史遗迹",
+    "古村落",
+    "古村镇",
+    "哲学概念",
+    "地理",
+    "天文",
+    "建筑",
+    "建筑元素",
+    "建筑屋顶",
+    "建筑工艺",
+    "建筑布局",
+    "建筑构件",
+    "建筑类型",
+    "建筑结构",
+    "建筑风格",
+    "文化",
+    "文化主题",
+    "文化概念",
+    "文学",
+    "文学作品",
+    "文物",
+    "文献",
+    "机构",
+    "村落布局",
+    "村落类型",
+    "植物",
+    "民族",
+    "民族村落",
+    "社会现象",
+    "经典",
+    "经济作物",
+    "考古",
+    "葬俗",
+    "装饰",
+    "风水"
+  ],
+  "terms": [
+    {
+      "term": "松阳",
+      "en": "Songyang (county in Zhejiang)",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序 - 序"
+      ]
+    },
+    {
+      "term": "处州",
+      "en": "Chuzhou (ancient name of Lishui)",
+      "category": "历史地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序 - 序"
+      ]
+    },
+    {
+      "term": "叶法善",
+      "en": "Ye Fashan (Tang dynasty Daoist master)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序 - 序",
+        "村落篇 - 古市：遗落的汉代古镇",
+        "村落篇 - 卯山：风流雨打风吹去"
+      ]
+    },
+    {
+      "term": "张玉娘",
+      "en": "Zhang Yuniang (Song dynasty female poet)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序 - 序",
+        "村落篇 - 鹦鹉冢：一页滑落的南宋诗笺"
+      ]
+    },
+    {
+      "term": "王景",
+      "en": "Wang Jing (Ming Yongle Encyclopedia chief editor)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序 - 序"
+      ]
+    },
+    {
+      "term": "传统村落",
+      "en": "Traditional village",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序 - 序"
+      ]
+    },
+    {
+      "term": "耕读文化",
+      "en": "Farming-studying culture (gengdu wenhua)",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序 - 序"
+      ]
+    },
+    {
+      "term": "田园松阳",
+      "en": "Pastoral Songyang (strategic goal)",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序 - 序"
+      ]
+    },
+    {
+      "term": "松阴溪",
+      "en": "Songyin River",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序 - 序",
+        "村落篇 - 界首：不沉的历史航船",
+        "村落篇 - 大石：玄妙的悬棺谜景"
+      ]
+    },
+    {
+      "term": "阶梯式平谷式傍水式台地式村落",
+      "en": "Ladder/valley/waterside/terrace village types",
+      "category": "村落类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序 - 序"
+      ]
+    },
+    {
+      "term": "沈晦",
+      "en": "Shen Hui (Northern Song last zhuangyuan)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述"
+      ]
+    },
+    {
+      "term": "山下阳村",
+      "en": "Shanxiayang Village (feng shui village)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述",
+        "村落篇 - 山下阳：一幅密布玄机的星象图"
+      ]
+    },
+    {
+      "term": "横樟村",
+      "en": "Hengzhang Village (Bao Zheng descendants)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述"
+      ]
+    },
+    {
+      "term": "包拯",
+      "en": "Bao Zheng (999-1062, Northern Song official)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述"
+      ]
+    },
+    {
+      "term": "风水村落",
+      "en": "Feng shui village",
+      "category": "村落类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述"
+      ]
+    },
+    {
+      "term": "四方神兽",
+      "en": "Four Divine Beasts (Xuanwu/Baihu/Qinglong/Zhuque)",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述"
+      ]
+    },
+    {
+      "term": "阴阳五行",
+      "en": "Yin-Yang and Five Elements",
+      "category": "哲学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述"
+      ]
+    },
+    {
+      "term": "黄家大院",
+      "en": "Huang Family Compound (Songyang)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述",
+        "村落篇 - 黄家大院：独步浙南的民间宫殿"
+      ]
+    },
+    {
+      "term": "杨家堂村",
+      "en": "Yangjiatang Village (ladder-type village)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述",
+        "村落篇 - 杨家堂：书画上的家园"
+      ]
+    },
+    {
+      "term": "阶梯式村落",
+      "en": "Ladder-type village",
+      "category": "村落类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述",
+        "村落篇 - 官岭：古道上的孤独守望者",
+        "村落篇 - 陈家铺：高山之巅的栖居者"
+      ]
+    },
+    {
+      "term": "马头墙",
+      "en": "Horse-head wall (matouqiang)",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述",
+        "村落篇 - 山下阳：一幅密布玄机的星象图",
+        "村落篇 - 吴弄：粉墙黛瓦的建筑长廊",
+        "村落篇 - 黄家大院：独步浙南的民间宫殿",
+        "村落篇 - 靖居：一座敞开的城池"
+      ]
+    },
+    {
+      "term": "牛腿雀替",
+      "en": "Niutui (corbel) and queti (sparrow brace)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述",
+        "村落篇 - 山下阳：一幅密布玄机的星象图"
+      ]
+    },
+    {
+      "term": "篆体寿字",
+      "en": "Seal-script longevity characters",
+      "category": "装饰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述",
+        "村落篇 - 黄家大院：独步浙南的民间宫殿"
+      ]
+    },
+    {
+      "term": "三藩之乱",
+      "en": "Three Feudatories Rebellion (early Qing)",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述"
+      ]
+    },
+    {
+      "term": "浙闽徽三派建筑",
+      "en": "Zhejiang-Fujian-Huizhou architectural styles",
+      "category": "建筑风格",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述"
+      ]
+    },
+    {
+      "term": "畲族村落",
+      "en": "She ethnic village",
+      "category": "民族村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述"
+      ]
+    },
+    {
+      "term": "松古盆地",
+      "en": "Songgu Basin",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述",
+        "村落篇 - 古市：遗落的汉代古镇"
+      ]
+    },
+    {
+      "term": "江南小布达拉宫",
+      "en": "Jiangnan Little Potala Palace (Yangjiatang)",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "江南秘境：寻访松阳传统村落 - 总述",
+        "村落篇 - 杨家堂：书画上的家园"
+      ]
+    },
+    {
+      "term": "界首村",
+      "en": "Jieshou Village (boat-shaped ancient village)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 界首：不沉的历史航船"
+      ]
+    },
+    {
+      "term": "船形村落",
+      "en": "Boat-shaped village layout",
+      "category": "村落布局",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 界首：不沉的历史航船"
+      ]
+    },
+    {
+      "term": "古驿道",
+      "en": "Ancient post road (yidao)",
+      "category": "历史遗迹",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 界首：不沉的历史航船"
+      ]
+    },
+    {
+      "term": "禹王宫",
+      "en": "Yuwang Palace (King Yu Palace)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 界首：不沉的历史航船"
+      ]
+    },
+    {
+      "term": "刘基",
+      "en": "Liu Ji / Liu Bowen (1311-1375, Ming strategist)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 界首：不沉的历史航船"
+      ]
+    },
+    {
+      "term": "丹霞地貌",
+      "en": "Danxia landform",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 界首：不沉的历史航船",
+        "村落篇 - 大石：玄妙的悬棺谜景"
+      ]
+    },
+    {
+      "term": "鹅卵石墙基",
+      "en": "Cobblestone wall foundation",
+      "category": "建筑工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 界首：不沉的历史航船"
+      ]
+    },
+    {
+      "term": "张氏宗祠",
+      "en": "Zhang Family Ancestral Hall",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 界首：不沉的历史航船",
+        "村落篇 - 山下阳：一幅密布玄机的星象图"
+      ]
+    },
+    {
+      "term": "震东小学",
+      "en": "Zhendong Primary School",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 界首：不沉的历史航船"
+      ]
+    },
+    {
+      "term": "大石村",
+      "en": "Dashi Village (suspended coffin site)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 大石：玄妙的悬棺谜景"
+      ]
+    },
+    {
+      "term": "悬棺崖葬",
+      "en": "Suspended coffin / cliff burial (yazang)",
+      "category": "葬俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 大石：玄妙的悬棺谜景"
+      ]
+    },
+    {
+      "term": "尖坛背",
+      "en": "Jiantanbei (cliff with suspended coffin)",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 大石：玄妙的悬棺谜景"
+      ]
+    },
+    {
+      "term": "百越民族",
+      "en": "Baiyue people (ancient southern ethnic group)",
+      "category": "民族",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 大石：玄妙的悬棺谜景"
+      ]
+    },
+    {
+      "term": "印纹陶",
+      "en": "Stamped pottery (Yinwen tao)",
+      "category": "考古",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 大石：玄妙的悬棺谜景"
+      ]
+    },
+    {
+      "term": "龙虎山武夷山",
+      "en": "Longhu Mountain / Wuyi Mountain (cliff burial sites)",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 大石：玄妙的悬棺谜景"
+      ]
+    },
+    {
+      "term": "古市镇",
+      "en": "Gushi Town (Han dynasty ancient town)",
+      "category": "古村镇",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 古市：遗落的汉代古镇"
+      ]
+    },
+    {
+      "term": "东瓯国",
+      "en": "Dong'ou state (ancient kingdom)",
+      "category": "历史",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 古市：遗落的汉代古镇"
+      ]
+    },
+    {
+      "term": "闽越国",
+      "en": "Minyue state (ancient kingdom)",
+      "category": "历史",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 古市：遗落的汉代古镇"
+      ]
+    },
+    {
+      "term": "卯山",
+      "en": "Maoshan (Daoist holy land, Ye surname origin)",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 古市：遗落的汉代古镇",
+        "村落篇 - 卯山：风流雨打风吹去"
+      ]
+    },
+    {
+      "term": "朱熹",
+      "en": "Zhu Xi (1130-1200, Neo-Confucian master)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 古市：遗落的汉代古镇"
+      ]
+    },
+    {
+      "term": "蚱蜢舟",
+      "en": "Grasshopper boat (traditional small boat)",
+      "category": "交通工具",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 古市：遗落的汉代古镇"
+      ]
+    },
+    {
+      "term": "吊脚楼",
+      "en": "Stilt house (diaojiaolou)",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 古市：遗落的汉代古镇"
+      ]
+    },
+    {
+      "term": "布政分司",
+      "en": "Branch administration commissioner (tax agency)",
+      "category": "历史制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 古市：遗落的汉代古镇"
+      ]
+    },
+    {
+      "term": "张道陵",
+      "en": "Zhang Daoling (founder of Daoism)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 卯山：风流雨打风吹去"
+      ]
+    },
+    {
+      "term": "葛洪",
+      "en": "Ge Hong (283-343, Eastern Jin Daoist)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 卯山：风流雨打风吹去"
+      ]
+    },
+    {
+      "term": "陶弘景",
+      "en": "Tao Hongjing (456-536, Southern Dynasties Daoist)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 卯山：风流雨打风吹去"
+      ]
+    },
+    {
+      "term": "唐隆政变",
+      "en": "Tanglong Coup (710 AD)",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 卯山：风流雨打风吹去"
+      ]
+    },
+    {
+      "term": "开元盛世",
+      "en": "Kaiyuan Prosperous Era",
+      "category": "历史",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 卯山：风流雨打风吹去"
+      ]
+    },
+    {
+      "term": "天师殿",
+      "en": "Tianshi Hall (Celestial Master Hall)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 卯山：风流雨打风吹去"
+      ]
+    },
+    {
+      "term": "永宁观",
+      "en": "Yongning Temple (Daoist temple)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 卯山：风流雨打风吹去"
+      ]
+    },
+    {
+      "term": "淳和仙府",
+      "en": "Chunhe Immortal Mansion",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 卯山：风流雨打风吹去"
+      ]
+    },
+    {
+      "term": "官岭村",
+      "en": "Guanling Village (ancient road village)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 官岭：古道上的孤独守望者"
+      ]
+    },
+    {
+      "term": "官岭古道",
+      "en": "Guanling Ancient Road",
+      "category": "历史遗迹",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 官岭：古道上的孤独守望者"
+      ]
+    },
+    {
+      "term": "水口",
+      "en": "Shuikou (water mouth, village feng shui element)",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 官岭：古道上的孤独守望者"
+      ]
+    },
+    {
+      "term": "庑殿顶歇山顶悬山顶硬山顶",
+      "en": "Wudian/Xieshan/Xuanshan/Yingshan roof types",
+      "category": "建筑屋顶",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 官岭：古道上的孤独守望者"
+      ]
+    },
+    {
+      "term": "天人合一",
+      "en": "Unity of heaven and humanity (tianren heyi)",
+      "category": "哲学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 官岭：古道上的孤独守望者"
+      ]
+    },
+    {
+      "term": "苦马溪苦马瀑苦马潭",
+      "en": "Kuma Stream/Waterfall/Pool",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 官岭：古道上的孤独守望者"
+      ]
+    },
+    {
+      "term": "廊桥",
+      "en": "Covered bridge (langqiao)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 官岭：古道上的孤独守望者"
+      ]
+    },
+    {
+      "term": "红豆杉",
+      "en": "Chinese yew (hongdoushan)",
+      "category": "植物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 官岭：古道上的孤独守望者",
+        "村落篇 - 陈家铺：高山之巅的栖居者"
+      ]
+    },
+    {
+      "term": "香榧",
+      "en": "Chinese torreya (xiangfei)",
+      "category": "植物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 官岭：古道上的孤独守望者"
+      ]
+    },
+    {
+      "term": "月池",
+      "en": "Moon Pool (yuechi, feng shui pool)",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 山下阳：一幅密布玄机的星象图"
+      ]
+    },
+    {
+      "term": "地坛",
+      "en": "Earth Altar (ditan)",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 山下阳：一幅密布玄机的星象图"
+      ]
+    },
+    {
+      "term": "天圆地方",
+      "en": "Round heaven, square earth (tianyuan difang)",
+      "category": "哲学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 山下阳：一幅密布玄机的星象图"
+      ]
+    },
+    {
+      "term": "三垣四象",
+      "en": "Three Enclosures and Four Symbols (Chinese constellations)",
+      "category": "天文",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 山下阳：一幅密布玄机的星象图"
+      ]
+    },
+    {
+      "term": "四大神兽",
+      "en": "Four Divine Beasts (Qinglong/Baihu/Zhuque/Xuanwu)",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 山下阳：一幅密布玄机的星象图"
+      ]
+    },
+    {
+      "term": "丁字路口",
+      "en": "T-junction (symbolizing population prosperity)",
+      "category": "村落布局",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 山下阳：一幅密布玄机的星象图"
+      ]
+    },
+    {
+      "term": "吴弄村",
+      "en": "Wunong Village (connected building complex)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 吴弄：粉墙黛瓦的建筑长廊"
+      ]
+    },
+    {
+      "term": "连环建筑",
+      "en": "Connected building complex (serial architecture)",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 吴弄：粉墙黛瓦的建筑长廊"
+      ]
+    },
+    {
+      "term": "三合院四合院",
+      "en": "Three-sided/four-sided courtyard compound",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 吴弄：粉墙黛瓦的建筑长廊"
+      ]
+    },
+    {
+      "term": "浙派徽派建筑",
+      "en": "Zhejiang-style/Huizhou-style architecture",
+      "category": "建筑风格",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 吴弄：粉墙黛瓦的建筑长廊"
+      ]
+    },
+    {
+      "term": "四水归堂",
+      "en": "Four waters returning to hall (sishui guitang)",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 吴弄：粉墙黛瓦的建筑长廊"
+      ]
+    },
+    {
+      "term": "暗室聚财",
+      "en": "Dark room gathering wealth (traditional concept)",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 吴弄：粉墙黛瓦的建筑长廊"
+      ]
+    },
+    {
+      "term": "叶氏宗祠",
+      "en": "Ye Family Ancestral Hall (Wunong)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 吴弄：粉墙黛瓦的建筑长廊"
+      ]
+    },
+    {
+      "term": "兰亭序",
+      "en": "Preface to the Orchid Pavilion (Wang Xizhi calligraphy)",
+      "category": "文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 吴弄：粉墙黛瓦的建筑长廊"
+      ]
+    },
+    {
+      "term": "天井",
+      "en": "Courtyard/skylight (tianjing)",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 吴弄：粉墙黛瓦的建筑长廊"
+      ]
+    },
+    {
+      "term": "集成堂",
+      "en": "Jicheng Hall (Huang Family Compound)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 黄家大院：独步浙南的民间宫殿"
+      ]
+    },
+    {
+      "term": "百寿厅",
+      "en": "Hundred Longevity Hall (204 seal-script longevity chars)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 黄家大院：独步浙南的民间宫殿"
+      ]
+    },
+    {
+      "term": "牛腿雀替斗拱",
+      "en": "Niutui/queti/dougong (corbel/sparrow brace/bracket set)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 黄家大院：独步浙南的民间宫殿"
+      ]
+    },
+    {
+      "term": "黄秋光",
+      "en": "Huang Qiuguang (owner of Huang Family Compound)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 黄家大院：独步浙南的民间宫殿"
+      ]
+    },
+    {
+      "term": "武技厅",
+      "en": "Martial Arts Hall (Huang Family Compound)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 黄家大院：独步浙南的民间宫殿"
+      ]
+    },
+    {
+      "term": "竹菊轩梅兰轩",
+      "en": "Bamboo-Chrysanthemum/Plum-Orchid Studios",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 黄家大院：独步浙南的民间宫殿"
+      ]
+    },
+    {
+      "term": "三进七开间",
+      "en": "Three-bay seven-opening layout",
+      "category": "建筑布局",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 黄家大院：独步浙南的民间宫殿"
+      ]
+    },
+    {
+      "term": "西屏镇",
+      "en": "Xiping Town (Songyang ancient county seat)",
+      "category": "古村镇",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏：凝固的建筑秘籍"
+      ]
+    },
+    {
+      "term": "丁字街",
+      "en": "T-junction street (feng shui layout)",
+      "category": "村落布局",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏：凝固的建筑秘籍"
+      ]
+    },
+    {
+      "term": "延庆寺塔",
+      "en": "Yanqing Temple Pagoda (Northern Song, 1002 AD)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏：凝固的建筑秘籍"
+      ]
+    },
+    {
+      "term": "楼阁式砖木结构",
+      "en": "Pavilion-style brick-wood structure",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏：凝固的建筑秘籍"
+      ]
+    },
+    {
+      "term": "兄弟进士牌坊",
+      "en": "Brothers Jinshi Archway (Ming dynasty)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏：凝固的建筑秘籍"
+      ]
+    },
+    {
+      "term": "勒刻工名",
+      "en": "Inscribing worker names (quality tracking)",
+      "category": "制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏：凝固的建筑秘籍"
+      ]
+    },
+    {
+      "term": "北宋原物",
+      "en": "Northern Song original artifact",
+      "category": "文物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏：凝固的建筑秘籍"
+      ]
+    },
+    {
+      "term": "行达禅师",
+      "en": "Master Xingda (brought Buddhist relics)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏：凝固的建筑秘籍"
+      ]
+    },
+    {
+      "term": "詹雨詹宝",
+      "en": "Zhan Yu / Zhan Bao (Ming dynasty jinshi brothers)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏：凝固的建筑秘籍"
+      ]
+    },
+    {
+      "term": "民国骑楼",
+      "en": "Republic-era arcade buildings (qilou)",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏：凝固的建筑秘籍"
+      ]
+    },
+    {
+      "term": "西屏老街",
+      "en": "Xiping Old Street (ancient market street)",
+      "category": "古村镇",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏老街：时光的写意肖像"
+      ]
+    },
+    {
+      "term": "红太阳牌坊",
+      "en": "Red Sun Archway (Xiping landmark)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏老街：时光的写意肖像"
+      ]
+    },
+    {
+      "term": "善应堂药店",
+      "en": "Shanyingtang Pharmacy (century-old shop)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏老街：时光的写意肖像"
+      ]
+    },
+    {
+      "term": "白铁店",
+      "en": "Tin shop (baitie dian)",
+      "category": "传统工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏老街：时光的写意肖像"
+      ]
+    },
+    {
+      "term": "祖传秘方",
+      "en": "Ancestral secret recipe",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏老街：时光的写意肖像"
+      ]
+    },
+    {
+      "term": "招财猫",
+      "en": "Maneki-neko (beckoning cat)",
+      "category": "文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏老街：时光的写意肖像"
+      ]
+    },
+    {
+      "term": "老中医诊所",
+      "en": "Old Chinese medicine clinic",
+      "category": "传统行业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏老街：时光的写意肖像"
+      ]
+    },
+    {
+      "term": "弹棉店",
+      "en": "Cotton-fluffing shop",
+      "category": "传统行业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏老街：时光的写意肖像"
+      ]
+    },
+    {
+      "term": "钉秤店",
+      "en": "Scale-making shop",
+      "category": "传统行业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏老街：时光的写意肖像"
+      ]
+    },
+    {
+      "term": "棕板店",
+      "en": "Palm-fiber board shop",
+      "category": "传统行业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 西屏老街：时光的写意肖像"
+      ]
+    },
+    {
+      "term": "鹦鹉冢",
+      "en": "Parrot Tomb (Zhang Yuniang's tomb)",
+      "category": "历史遗迹",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 鹦鹉冢：一页滑落的南宋诗笺"
+      ]
+    },
+    {
+      "term": "沈佺",
+      "en": "Shen Quan (Zhang Yuniang's fiancé)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 鹦鹉冢：一页滑落的南宋诗笺"
+      ]
+    },
+    {
+      "term": "孟称舜",
+      "en": "Meng Chengshun (Ming dynasty dramatist)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 鹦鹉冢：一页滑落的南宋诗笺"
+      ]
+    },
+    {
+      "term": "兰雪泉井",
+      "en": "Lanxue Spring Well",
+      "category": "历史遗迹",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 鹦鹉冢：一页滑落的南宋诗笺"
+      ]
+    },
+    {
+      "term": "宋代四大女词人",
+      "en": "Four great female ci poets of Song dynasty",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 鹦鹉冢：一页滑落的南宋诗笺"
+      ]
+    },
+    {
+      "term": "一贞居士",
+      "en": "Yizhen Jushi (Zhang Yuniang's art name)",
+      "category": "文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 鹦鹉冢：一页滑落的南宋诗笺"
+      ]
+    },
+    {
+      "term": "霜娥紫娥",
+      "en": "Shuang'e / Zi'e (Zhang Yuniang's maids)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 鹦鹉冢：一页滑落的南宋诗笺"
+      ]
+    },
+    {
+      "term": "闺房三清鹦鹉墓贞文记",
+      "en": "The Story of Zhang Yuniang (Meng Chengshun's play)",
+      "category": "文学作品",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 鹦鹉冢：一页滑落的南宋诗笺"
+      ]
+    },
+    {
+      "term": "官塘门枫树地",
+      "en": "Guantang Gate / Maple Land (tomb location)",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 鹦鹉冢：一页滑落的南宋诗笺"
+      ]
+    },
+    {
+      "term": "陈家铺村",
+      "en": "Chenjiapu Village (cliff-dwelling ladder village)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 陈家铺：高山之巅的栖居者"
+      ]
+    },
+    {
+      "term": "崖居式村落",
+      "en": "Cliff-dwelling village (yaju shi cunluo)",
+      "category": "村落类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 陈家铺：高山之巅的栖居者"
+      ]
+    },
+    {
+      "term": "寨头峡谷",
+      "en": "Zhaitou Gorge",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 陈家铺：高山之巅的栖居者"
+      ]
+    },
+    {
+      "term": "美人靠",
+      "en": "Meirenkao (beauty's bench / railing seat)",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 陈家铺：高山之巅的栖居者"
+      ]
+    },
+    {
+      "term": "鲍氏宗祠",
+      "en": "Bao Family Ancestral Hall",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 陈家铺：高山之巅的栖居者"
+      ]
+    },
+    {
+      "term": "风水树",
+      "en": "Feng shui tree",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 陈家铺：高山之巅的栖居者"
+      ]
+    },
+    {
+      "term": "之字形山路",
+      "en": "Zigzag mountain road",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 陈家铺：高山之巅的栖居者"
+      ]
+    },
+    {
+      "term": "松古平原",
+      "en": "Songgu Plain",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 陈家铺：高山之巅的栖居者"
+      ]
+    },
+    {
+      "term": "壁书",
+      "en": "Wall calligraphy (bishu)",
+      "category": "文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 杨家堂：书画上的家园"
+      ]
+    },
+    {
+      "term": "宋斤",
+      "en": "Song Jin (Qing dynasty wall calligrapher)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 杨家堂：书画上的家园"
+      ]
+    },
+    {
+      "term": "朱子治家格言",
+      "en": "Zhu Xi's Family Maxims (Zhuzi Zhijia Geyan)",
+      "category": "经典",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 杨家堂：书画上的家园"
+      ]
+    },
+    {
+      "term": "耕读渔樵二十四孝",
+      "en": "Farming-studying-fishing-woodcutting / Twenty-Four Filial Exemplars",
+      "category": "文化主题",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 杨家堂：书画上的家园"
+      ]
+    },
+    {
+      "term": "三连钱鹅卵石图纹",
+      "en": "Three-connected-coin cobblestone pattern",
+      "category": "装饰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 杨家堂：书画上的家园"
+      ]
+    },
+    {
+      "term": "琴棋书画",
+      "en": "Qin, chess, calligraphy, painting (four arts)",
+      "category": "文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 杨家堂：书画上的家园"
+      ]
+    },
+    {
+      "term": "三合院",
+      "en": "Three-sided courtyard compound",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 杨家堂：书画上的家园"
+      ]
+    },
+    {
+      "term": "宋氏宗谱家训",
+      "en": "Song Family Genealogy and Instructions",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 杨家堂：书画上的家园"
+      ]
+    },
+    {
+      "term": "周山头村",
+      "en": "Zhoushantou Village (secluded valley village)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 周山头：幽谷里的家族密码"
+      ]
+    },
+    {
+      "term": "周梓",
+      "en": "Zhou Zi (Southern Song jinshi, village founder)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 周山头：幽谷里的家族密码"
+      ]
+    },
+    {
+      "term": "周氏宗祠",
+      "en": "Zhou Family Ancestral Hall (Zhoushantou)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 周山头：幽谷里的家族密码"
+      ]
+    },
+    {
+      "term": "钟山书院",
+      "en": "Zhongshan Academy (Zhoushantou)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 周山头：幽谷里的家族密码"
+      ]
+    },
+    {
+      "term": "周敦颐爱莲说",
+      "en": "Zhou Dunyi's On Loving the Lotus",
+      "category": "文学",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 周山头：幽谷里的家族密码"
+      ]
+    },
+    {
+      "term": "周亚夫细柳营",
+      "en": "Zhou Yafu's Xiliu Camp (Western Han general)",
+      "category": "历史",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 周山头：幽谷里的家族密码"
+      ]
+    },
+    {
+      "term": "坐南朝北倒座",
+      "en": "Facing north (reverse-seat ancestral hall)",
+      "category": "建筑布局",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 周山头：幽谷里的家族密码"
+      ]
+    },
+    {
+      "term": "拔元匾额",
+      "en": "Bayuan plaque (first in provincial exam)",
+      "category": "文物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 周山头：幽谷里的家族密码"
+      ]
+    },
+    {
+      "term": "插杆石",
+      "en": "Pole-insertion stones (imperial exam markers)",
+      "category": "文物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 周山头：幽谷里的家族密码"
+      ]
+    },
+    {
+      "term": "白衣丞相庙",
+      "en": "White-Robed Prime Minister Temple",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 周山头：幽谷里的家族密码"
+      ]
+    },
+    {
+      "term": "靖居村",
+      "en": "Jingju Village (miniature city layout)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 靖居：一座敞开的城池"
+      ]
+    },
+    {
+      "term": "蓉川古驿道",
+      "en": "Rongchuan Ancient Post Road",
+      "category": "历史遗迹",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 靖居：一座敞开的城池"
+      ]
+    },
+    {
+      "term": "巡检司",
+      "en": "Xunjiansi (inspection office, Ming dynasty)",
+      "category": "历史制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 靖居：一座敞开的城池"
+      ]
+    },
+    {
+      "term": "蓉川书院",
+      "en": "Rongchuan Academy",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 靖居：一座敞开的城池"
+      ]
+    },
+    {
+      "term": "文昌阁关帝庙",
+      "en": "Wenchang Pavilion / Guandi Temple",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 靖居：一座敞开的城池"
+      ]
+    },
+    {
+      "term": "祥云寺",
+      "en": "Xiangyun Temple",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 靖居：一座敞开的城池"
+      ]
+    },
+    {
+      "term": "水碓",
+      "en": "Water-powered trip hammer (shuidui)",
+      "category": "传统工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 靖居：一座敞开的城池"
+      ]
+    },
+    {
+      "term": "泥木结构",
+      "en": "Mud-wood structure",
+      "category": "建筑结构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 靖居：一座敞开的城池"
+      ]
+    },
+    {
+      "term": "水口堤坝",
+      "en": "Water mouth dam",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 靖居：一座敞开的城池"
+      ]
+    },
+    {
+      "term": "章山村",
+      "en": "Zhangshan Village (lotus-shaped feng shui village)",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 章山：莲花宝座上的福祉"
+      ]
+    },
+    {
+      "term": "章山寺",
+      "en": "Zhangshan Temple (ancient temple ruins)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 章山：莲花宝座上的福祉"
+      ]
+    },
+    {
+      "term": "吕祖富",
+      "en": "Lü Zufu (village founder, Qing Kangxi)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 章山：莲花宝座上的福祉"
+      ]
+    },
+    {
+      "term": "莲花形风水",
+      "en": "Lotus-shaped feng shui layout",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 章山：莲花宝座上的福祉"
+      ]
+    },
+    {
+      "term": "莲花坟莲花根",
+      "en": "Lotus Grave / Lotus Root (ancestral tombs)",
+      "category": "历史遗迹",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 章山：莲花宝座上的福祉"
+      ]
+    },
+    {
+      "term": "油茶",
+      "en": "Oil-tea camellia (youcha)",
+      "category": "经济作物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 章山：莲花宝座上的福祉"
+      ]
+    },
+    {
+      "term": "榨油坊",
+      "en": "Oil press workshop",
+      "category": "传统工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 章山：莲花宝座上的福祉"
+      ]
+    },
+    {
+      "term": "块石墙基",
+      "en": "Block-stone wall foundation",
+      "category": "建筑工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 章山：莲花宝座上的福祉"
+      ]
+    },
+    {
+      "term": "藏字布局",
+      "en": "Hidden (cang) layout principle",
+      "category": "村落布局",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 章山：莲花宝座上的福祉"
+      ]
+    },
+    {
+      "term": "道家气场太极",
+      "en": "Taoist aura / Taiji",
+      "category": "哲学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "村落篇 - 章山：莲花宝座上的福祉"
+      ]
+    },
+    {
+      "term": "冯骥才",
+      "en": "Feng Jicai (writer, traditional village advocate)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "传统村落保护",
+      "en": "Traditional village protection",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "古村复活",
+      "en": "Ancient Village Revival (Songyang strategy)",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "石仓七村",
+      "en": "Shicang Seven Villages",
+      "category": "古村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "村居录松古村语",
+      "en": "Village Records / Songgu Village Language (books)",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "鲁晓敏",
+      "en": "Lu Xiaomin (author)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "松阳县文联",
+      "en": "Songyang County Federation of Literary and Art Circles",
+      "category": "机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "中国文联出版社",
+      "en": "China Federation of Literary and Art Circles Publishing House",
+      "category": "机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "温良恭俭让克己复礼",
+      "en": "Gentleness/kindness/respect/frugality/yielding; self-restraint and return to ritual",
+      "category": "儒家概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "自然村锐减",
+      "en": "Sharp decline of natural villages",
+      "category": "社会现象",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    }
+  ]
+}

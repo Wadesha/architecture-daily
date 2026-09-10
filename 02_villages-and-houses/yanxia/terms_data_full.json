@@ -1,0 +1,5321 @@
+{
+  "title": "岩下老街 术语数据库",
+  "title_en": "Glossary of Yanxia Old Street Vernacular Architecture",
+  "author": "赵巍",
+  "total_terms": 503,
+  "categories": [
+    "书院",
+    "书院建筑",
+    "书院活动",
+    "交通",
+    "交通工具",
+    "亭",
+    "人物",
+    "人物号",
+    "人物尊称",
+    "住宅建筑",
+    "佛教修行",
+    "佛教宗派",
+    "佛教概念",
+    "关隘",
+    "典故",
+    "军事阵法",
+    "农业",
+    "农业技术",
+    "农谚",
+    "制度",
+    "医学",
+    "医学流派",
+    "协议",
+    "历史事件",
+    "历史人物",
+    "历史制度",
+    "历史家族",
+    "历史年代",
+    "历史建筑",
+    "历史文献",
+    "历史时期",
+    "历史机构",
+    "历史资料",
+    "历史运动",
+    "历史遗迹",
+    "古地名",
+    "哲学概念",
+    "商业",
+    "商业分类",
+    "商业建筑",
+    "商业术语",
+    "商业机构",
+    "商业街",
+    "商品",
+    "土地制度",
+    "地名",
+    "地方食品",
+    "地理",
+    "地理概括",
+    "地质",
+    "学徒阶段",
+    "学术思想",
+    "学术机构",
+    "学术概念",
+    "学术称号",
+    "学术领域",
+    "学派",
+    "宗教",
+    "宗教仪式",
+    "宗教器物",
+    "宗教地点",
+    "宗教建筑",
+    "宗教概念",
+    "宗教角色",
+    "宗族",
+    "宗族分支",
+    "宗祠",
+    "官职",
+    "寺院",
+    "寺院元素",
+    "寺院制度",
+    "寺院建筑",
+    "封号",
+    "山峰",
+    "工程",
+    "工艺",
+    "工艺品",
+    "建筑",
+    "建筑做法",
+    "建筑元素",
+    "建筑布局",
+    "建筑构件",
+    "建筑空间",
+    "建筑类型",
+    "建筑结构",
+    "建筑群",
+    "建筑装饰",
+    "建筑风格",
+    "彩画类型",
+    "戏曲",
+    "政治概念",
+    "教育建筑",
+    "教育机构",
+    "文化概念",
+    "文学",
+    "文教建筑",
+    "文献",
+    "服务标准",
+    "机构",
+    "材料",
+    "村落类型",
+    "栈道",
+    "桥梁",
+    "楼",
+    "民俗",
+    "民俗仪式",
+    "民俗器物",
+    "民俗活动",
+    "民俗物品",
+    "民俗禁忌",
+    "民俗组织",
+    "民俗职责",
+    "民俗表演",
+    "民俗食物",
+    "民间信仰",
+    "气候",
+    "水井",
+    "水利",
+    "水塘",
+    "泉",
+    "法律文书",
+    "洞穴",
+    "洞穴建筑",
+    "瀑布",
+    "特产",
+    "玩具",
+    "现代用途",
+    "登山道",
+    "研究方法",
+    "砖雕元素",
+    "礼制",
+    "社会习俗",
+    "社会制度",
+    "社会概念",
+    "社会角色",
+    "神祇",
+    "神祇形态",
+    "祠堂",
+    "祠庙",
+    "祭祀",
+    "祭祀用品",
+    "科举",
+    "空间",
+    "结构类型",
+    "节日",
+    "行业",
+    "行业分类",
+    "行业神",
+    "装饰图案",
+    "装饰母题",
+    "装饰细节",
+    "语言",
+    "门窗",
+    "门窗样式",
+    "防御建筑",
+    "院落类型",
+    "题记",
+    "颜料",
+    "风水",
+    "食品"
+  ],
+  "terms": [
+    {
+      "term": "乡土建筑",
+      "en": "Vernacular architecture",
+      "category": "学术概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序"
+      ]
+    },
+    {
+      "term": "乡土文化",
+      "en": "Vernacular culture",
+      "category": "学术概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序"
+      ]
+    },
+    {
+      "term": "聚落",
+      "en": "Settlement",
+      "category": "学术概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序"
+      ]
+    },
+    {
+      "term": "庙堂文化",
+      "en": "Temple culture",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序"
+      ]
+    },
+    {
+      "term": "士大夫文化",
+      "en": "Scholar-official culture",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序"
+      ]
+    },
+    {
+      "term": "市井文化",
+      "en": "Marketplace culture",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序"
+      ]
+    },
+    {
+      "term": "农业文明",
+      "en": "Agricultural civilization",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序"
+      ]
+    },
+    {
+      "term": "比较法",
+      "en": "Comparative method",
+      "category": "研究方法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序"
+      ]
+    },
+    {
+      "term": "抢救性研究",
+      "en": "Rescue research",
+      "category": "研究方法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序"
+      ]
+    },
+    {
+      "term": "陈志华",
+      "en": "Chen Zhihua",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序",
+        "总序与前言 - 前言",
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "马头墙",
+      "en": "Horse-head wall",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序",
+        "第四章 岩下老街的建筑和空间 - 宗祠",
+        "第七章 建筑的雕饰与装修 - 砖石雕"
+      ]
+    },
+    {
+      "term": "吊脚楼",
+      "en": "Stilt house (Diaojiaolou)",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序"
+      ]
+    },
+    {
+      "term": "窑洞",
+      "en": "Cave dwelling (Yaodong)",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 总序"
+      ]
+    },
+    {
+      "term": "岩下老街",
+      "en": "Yanxia Old Street",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言"
+      ]
+    },
+    {
+      "term": "方岩山",
+      "en": "Fangyan Mountain",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言",
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "广慈寺",
+      "en": "Guangci Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言",
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "胡公庙",
+      "en": "Hu Gong Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言",
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "五峰书院",
+      "en": "Wufeng Academy",
+      "category": "教育建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言",
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展",
+        "第六章 五峰坳里的书院 - 五峰书院",
+        "附录 - 附录A 浙江省政府各厅处机关在方岩的办公场所"
+      ]
+    },
+    {
+      "term": "陈亮",
+      "en": "Chen Liang",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言",
+        "第一章 永康的地理、历史和文化环境 - 历史变迁",
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "朱熹",
+      "en": "Zhu Xi",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言",
+        "第一章 永康的地理、历史和文化环境 - 历史变迁",
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "胡则",
+      "en": "Hu Ze",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言",
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "程氏",
+      "en": "Cheng clan",
+      "category": "宗族",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言"
+      ]
+    },
+    {
+      "term": "寿山坑",
+      "en": "Shoushan Keng",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言",
+        "第四章 岩下老街的建筑和空间 - 老街",
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "楼庆西",
+      "en": "Lou Qingxi",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言"
+      ]
+    },
+    {
+      "term": "李秋香",
+      "en": "Li Qiuxiang",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言",
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "砂砾岩",
+      "en": "Sandstone conglomerate",
+      "category": "地质",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言"
+      ]
+    },
+    {
+      "term": "香客",
+      "en": "Pilgrim",
+      "category": "社会角色",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "总序与前言 - 前言"
+      ]
+    },
+    {
+      "term": "永康",
+      "en": "Yongkang",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "婺州",
+      "en": "Wuzhou",
+      "category": "古地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "金华府",
+      "en": "Jinhua Prefecture",
+      "category": "古地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "会稽郡",
+      "en": "Kuaiji Commandery",
+      "category": "古地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "乌伤县",
+      "en": "Wushang County",
+      "category": "古地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "仙霞岭",
+      "en": "Xianxia Ridge",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "钱塘江水系",
+      "en": "Qiantang River system",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "瓯江水系",
+      "en": "Ou River system",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "永康盆地",
+      "en": "Yongkang Basin",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "华溪",
+      "en": "Huaxi River",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "过塘行",
+      "en": "Transit firm (Guotang hang)",
+      "category": "商业机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "赤乌八年",
+      "en": "Eighth year of Chiwu (245 CE)",
+      "category": "历史年代",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "永康县志",
+      "en": "Yongkang County Gazetteer",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 地理位置"
+      ]
+    },
+    {
+      "term": "越文化",
+      "en": "Yue culture",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁"
+      ]
+    },
+    {
+      "term": "百越",
+      "en": "Baiyue (Hundred Yue)",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁"
+      ]
+    },
+    {
+      "term": "天台宗",
+      "en": "Tiantai sect",
+      "category": "佛教宗派",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁",
+        "第五章 方岩山与广慈寺 - 方岩山",
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "大悲寺",
+      "en": "Dabei Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁",
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "新儒学",
+      "en": "Neo-Confucianism",
+      "category": "学术思想",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁"
+      ]
+    },
+    {
+      "term": "事功学",
+      "en": "Utilitarianism (Shigong xue)",
+      "category": "学术思想",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁"
+      ]
+    },
+    {
+      "term": "永康学派",
+      "en": "Yongkang school",
+      "category": "学术思想",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁",
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第六章 五峰坳里的书院 - 寿山往事",
+        "第六章 五峰坳里的书院 - 没有了进士的五峰书院"
+      ]
+    },
+    {
+      "term": "金华学派",
+      "en": "Jinhua school",
+      "category": "学术思想",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁"
+      ]
+    },
+    {
+      "term": "永嘉学派",
+      "en": "Yongjia school",
+      "category": "学术思想",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁"
+      ]
+    },
+    {
+      "term": "吕祖谦",
+      "en": "Lü Zuqian",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁",
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "叶适",
+      "en": "Ye Shi",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁"
+      ]
+    },
+    {
+      "term": "大运河",
+      "en": "Grand Canal",
+      "category": "工程",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁"
+      ]
+    },
+    {
+      "term": "货币税制",
+      "en": "Monetary tax system",
+      "category": "制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 历史变迁"
+      ]
+    },
+    {
+      "term": "信鬼敬神",
+      "en": "Believing in ghosts and revering gods",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "重利事功",
+      "en": "Valuing profit and utilitarian achievement",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "水神",
+      "en": "Water god",
+      "category": "民间信仰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "龙舟",
+      "en": "Dragon boat",
+      "category": "民俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "龙灯",
+      "en": "Dragon lantern",
+      "category": "民俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "泛神信仰",
+      "en": "Pantheistic belief",
+      "category": "宗教概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "淫祀",
+      "en": "Excessive sacrifices (Yinsi)",
+      "category": "宗教概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "巫师",
+      "en": "Shaman",
+      "category": "宗教角色",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "计然之策",
+      "en": "Ji Ran's strategies",
+      "category": "典故",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "勾践",
+      "en": "King Goujian of Yue",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "义利双行",
+      "en": "Righteousness and profit both practiced",
+      "category": "学术概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "诸葛村",
+      "en": "Zhuge Village",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "宗谱",
+      "en": "Genealogy (Zongpu)",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "族训",
+      "en": "Clan instructions",
+      "category": "制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第一章 永康的地理、历史和文化环境 - 文化特点"
+      ]
+    },
+    {
+      "term": "五峰",
+      "en": "Five Peaks (Wufeng)",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "寿山",
+      "en": "Shoushan (Longevity Mountain)",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素"
+      ]
+    },
+    {
+      "term": "固厚峰",
+      "en": "Guhou Peak",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "瀑布峰",
+      "en": "Waterfall Peak",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "覆釜峰",
+      "en": "Fufu Peak",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "桃花峰",
+      "en": "Peach Blossom Peak",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "鸡鸣峰",
+      "en": "Jiming Peak (Rooster Crow Peak)",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "蜈蚣山",
+      "en": "Centipede Mountain",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第四章 岩下老街的建筑和空间 - 老街"
+      ]
+    },
+    {
+      "term": "狮子山",
+      "en": "Lion Mountain",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第四章 岩下老街的建筑和空间 - 老街"
+      ]
+    },
+    {
+      "term": "象鼻岗",
+      "en": "Elephant Trunk Hill",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素"
+      ]
+    },
+    {
+      "term": "寿山寺",
+      "en": "Shoushan Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第六章 五峰坳里的书院 - 寿山往事",
+        "第六章 五峰坳里的书院 - 胡公家庙"
+      ]
+    },
+    {
+      "term": "桃岩寺",
+      "en": "Taoyan Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "胡公大帝",
+      "en": "Emperor Hu Gong",
+      "category": "民间信仰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "程锴",
+      "en": "Cheng Kai",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素"
+      ]
+    },
+    {
+      "term": "槐塘",
+      "en": "Huaitang",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素"
+      ]
+    },
+    {
+      "term": "橙麓村",
+      "en": "Chengli Village",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第四章 岩下老街的建筑和空间 - 老街"
+      ]
+    },
+    {
+      "term": "血缘村落",
+      "en": "Consanguineous village",
+      "category": "村落类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素"
+      ]
+    },
+    {
+      "term": "百工之乡",
+      "en": "Hometown of all crafts",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 影响岩下老街历史发展的几个重要因素",
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "方岩溪",
+      "en": "Fangyan Stream",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境",
+        "第四章 岩下老街的建筑和空间 - 老街",
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "七山二水一分田",
+      "en": "Seven mountains, two waters, one field",
+      "category": "地理概括",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境"
+      ]
+    },
+    {
+      "term": "红色砂砾岩",
+      "en": "Red sandstone conglomerate",
+      "category": "地质",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境"
+      ]
+    },
+    {
+      "term": "割稻坑",
+      "en": "Gedao Ravine (Rice Cutting Ravine)",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境"
+      ]
+    },
+    {
+      "term": "下胡坑",
+      "en": "Xiahu Ravine",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境"
+      ]
+    },
+    {
+      "term": "上坑",
+      "en": "Shang Ravine (Upper Ravine)",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境"
+      ]
+    },
+    {
+      "term": "斜坑",
+      "en": "Xie Ravine (Slanting Ravine)",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境"
+      ]
+    },
+    {
+      "term": "青石板铺路",
+      "en": "Bluestone slab paving",
+      "category": "建筑做法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境"
+      ]
+    },
+    {
+      "term": "鹅卵石镶嵌",
+      "en": "Cobblestone inlay",
+      "category": "建筑做法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境"
+      ]
+    },
+    {
+      "term": "松门桥",
+      "en": "Songmen Bridge",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境",
+        "第四章 岩下老街的建筑和空间 - 老街"
+      ]
+    },
+    {
+      "term": "回龙桥",
+      "en": "Huilong Bridge (Returning Dragon Bridge)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境",
+        "第四章 岩下老街的建筑和空间 - 老街"
+      ]
+    },
+    {
+      "term": "小石拱桥",
+      "en": "Small stone arch bridge",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境"
+      ]
+    },
+    {
+      "term": "台明",
+      "en": "Platform base (Taiming)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境"
+      ]
+    },
+    {
+      "term": "西晒",
+      "en": "Western sun exposure",
+      "category": "气候",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 老街的地理环境位置与自然环境"
+      ]
+    },
+    {
+      "term": "程权",
+      "en": "Cheng Quan",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况",
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "得耕居士",
+      "en": "Degeng Jushi",
+      "category": "人物号",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况"
+      ]
+    },
+    {
+      "term": "得耕居",
+      "en": "Degeng Residence",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况",
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子",
+        "第四章 岩下老街的建筑和空间 - 住宅",
+        "第七章 建筑的雕饰与装修 - 砖石雕"
+      ]
+    },
+    {
+      "term": "程鹏",
+      "en": "Cheng Peng",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况"
+      ]
+    },
+    {
+      "term": "程祚",
+      "en": "Cheng Zuo",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况"
+      ]
+    },
+    {
+      "term": "程坦",
+      "en": "Cheng Tan",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况",
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "世远公",
+      "en": "Shiyuan Gong",
+      "category": "人物尊称",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况"
+      ]
+    },
+    {
+      "term": "天房",
+      "en": "Heaven branch (Tianfang)",
+      "category": "宗族分支",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况"
+      ]
+    },
+    {
+      "term": "地房",
+      "en": "Earth branch (Difang)",
+      "category": "宗族分支",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况"
+      ]
+    },
+    {
+      "term": "人房",
+      "en": "Human branch (Renfang)",
+      "category": "宗族分支",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况"
+      ]
+    },
+    {
+      "term": "独松",
+      "en": "Dusong",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况"
+      ]
+    },
+    {
+      "term": "衙后巷",
+      "en": "Yahou Lane",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况"
+      ]
+    },
+    {
+      "term": "新安",
+      "en": "Xin'an (Huizhou)",
+      "category": "古地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况"
+      ]
+    },
+    {
+      "term": "元谭公",
+      "en": "Yuantan Gong",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 槐塘程氏的迁入和村落的早期状况"
+      ]
+    },
+    {
+      "term": "程鑅",
+      "en": "Cheng Heng",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展",
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "东亭居士",
+      "en": "Dongting Jushi",
+      "category": "人物号",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展"
+      ]
+    },
+    {
+      "term": "程文德",
+      "en": "Cheng Wende",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展",
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子",
+        "第四章 岩下老街的建筑和空间 - 住宅",
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "树德堂",
+      "en": "Shude Hall",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展"
+      ]
+    },
+    {
+      "term": "作勳公",
+      "en": "Zuoxun Gong",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展",
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "世远公祠",
+      "en": "Shiyuan Gong Hall",
+      "category": "宗祠",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展",
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子",
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "作勳公祠",
+      "en": "Zuoxun Gong Hall",
+      "category": "宗祠",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展",
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "丽泽祠",
+      "en": "Lize Temple",
+      "category": "教育建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展",
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "学易斋",
+      "en": "Xueyi Studio",
+      "category": "教育建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展",
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "程正谊",
+      "en": "Cheng Zhengyi",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展",
+        "第五章 方岩山与广慈寺 - 广慈寺历史",
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "黄绾",
+      "en": "Huang Wan",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展"
+      ]
+    },
+    {
+      "term": "松房",
+      "en": "Pine branch (Songfang)",
+      "category": "宗族分支",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展"
+      ]
+    },
+    {
+      "term": "柏房",
+      "en": "Cypress branch (Baifang)",
+      "category": "宗族分支",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展"
+      ]
+    },
+    {
+      "term": "福房",
+      "en": "Blessing branch (Fufang)",
+      "category": "宗族分支",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展"
+      ]
+    },
+    {
+      "term": "禄房",
+      "en": "Salary branch (Lufang)",
+      "category": "宗族分支",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展"
+      ]
+    },
+    {
+      "term": "寿房",
+      "en": "Longevity branch (Shoufang)",
+      "category": "宗族分支",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展"
+      ]
+    },
+    {
+      "term": "双龙戏珠",
+      "en": "Two dragons playing with pearl",
+      "category": "装饰图案",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展",
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "双狮抢球",
+      "en": "Two lions grabbing ball",
+      "category": "装饰图案",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展",
+        "第七章 建筑的雕饰与装修 - 砖石雕"
+      ]
+    },
+    {
+      "term": "前厅后堂",
+      "en": "Front hall rear hall",
+      "category": "建筑布局",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的壮大和村落的初步发展"
+      ]
+    },
+    {
+      "term": "程立重",
+      "en": "Cheng Lizhong",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展",
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "毅庵",
+      "en": "Yi'an",
+      "category": "人物号",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展"
+      ]
+    },
+    {
+      "term": "绍常祠堂",
+      "en": "Shaochang Ancestral Hall",
+      "category": "宗祠",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展",
+        "第四章 岩下老街的建筑和空间 - 宗祠",
+        "附录 - 附录A 浙江省政府各厅处机关在方岩的办公场所"
+      ]
+    },
+    {
+      "term": "义丰雅记",
+      "en": "Yifeng Yaji",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展",
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "风雅颂",
+      "en": "Feng Ya Song (Wind Elegance Ode)",
+      "category": "建筑群",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展"
+      ]
+    },
+    {
+      "term": "禄常祠堂",
+      "en": "Luchang Ancestral Hall",
+      "category": "宗祠",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展"
+      ]
+    },
+    {
+      "term": "程隆兴",
+      "en": "Cheng Longxing Inn",
+      "category": "商业建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展",
+        "第三章 方岩独特的经济文化 - 吃胡公的行业",
+        "附录 - 附录C 方岩旅店情况统计"
+      ]
+    },
+    {
+      "term": "新隆兴旅店",
+      "en": "Xinlongxing Inn",
+      "category": "商业建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展",
+        "附录 - 附录A 浙江省政府各厅处机关在方岩的办公场所"
+      ]
+    },
+    {
+      "term": "城头",
+      "en": "Chengtou (City Head)",
+      "category": "防御建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展"
+      ]
+    },
+    {
+      "term": "跳灯",
+      "en": "Tiaodeng (Lantern Jumping)",
+      "category": "民俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展",
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "三厅两堂",
+      "en": "Three halls two main halls",
+      "category": "建筑布局",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展"
+      ]
+    },
+    {
+      "term": "三进宅院",
+      "en": "Three-courtyard residence",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展"
+      ]
+    },
+    {
+      "term": "屋里塘",
+      "en": "Indoor pond",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展",
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "屋里井",
+      "en": "Indoor well",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展",
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "夯土填平",
+      "en": "Rammed earth filling",
+      "category": "建筑做法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展"
+      ]
+    },
+    {
+      "term": "封闭走廊",
+      "en": "Enclosed corridor",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展"
+      ]
+    },
+    {
+      "term": "三间头",
+      "en": "Sanjiantou (Three Heads)",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展"
+      ]
+    },
+    {
+      "term": "方岩货",
+      "en": "Fangyan goods",
+      "category": "商品",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展",
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "火腿店",
+      "en": "Ham shop",
+      "category": "商业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展"
+      ]
+    },
+    {
+      "term": "道光二十九年",
+      "en": "29th year of Daoguang (1849)",
+      "category": "历史年代",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 程氏的鼎盛和村落的线性发展"
+      ]
+    },
+    {
+      "term": "砂石土路",
+      "en": "Gravel dirt road",
+      "category": "交通",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 文革后老街走向衰败"
+      ]
+    },
+    {
+      "term": "水泥路",
+      "en": "Cement road",
+      "category": "交通",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 文革后老街走向衰败"
+      ]
+    },
+    {
+      "term": "拖拉机",
+      "en": "Tractor",
+      "category": "交通工具",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 文革后老街走向衰败"
+      ]
+    },
+    {
+      "term": "四合院",
+      "en": "Courtyard house (Siheyuan)",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 文革后老街走向衰败",
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "砖瓦房",
+      "en": "Brick-tile house",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 文革后老街走向衰败"
+      ]
+    },
+    {
+      "term": "改革开放",
+      "en": "Reform and Opening Up",
+      "category": "历史时期",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 文革后老街走向衰败"
+      ]
+    },
+    {
+      "term": "文化大革命",
+      "en": "Cultural Revolution",
+      "category": "历史时期",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 文革后老街走向衰败",
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "自留地",
+      "en": "Private plot",
+      "category": "土地制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第二章 岩下老街的发展 - 文革后老街走向衰败"
+      ]
+    },
+    {
+      "term": "得耕",
+      "en": "Degeng (Obtaining Plowing)",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子"
+      ]
+    },
+    {
+      "term": "得耕堂",
+      "en": "Degeng Hall",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子",
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "水田",
+      "en": "Paddy field",
+      "category": "农业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子"
+      ]
+    },
+    {
+      "term": "旱地",
+      "en": "Dry land",
+      "category": "农业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子"
+      ]
+    },
+    {
+      "term": "套种",
+      "en": "Interplanting",
+      "category": "农业技术",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子"
+      ]
+    },
+    {
+      "term": "永康萝卜",
+      "en": "Yongkang radish",
+      "category": "特产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子"
+      ]
+    },
+    {
+      "term": "干菜",
+      "en": "Dried vegetables",
+      "category": "食品",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子"
+      ]
+    },
+    {
+      "term": "清明料谷籽",
+      "en": "Qingming prepare grain seeds",
+      "category": "农谚",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子"
+      ]
+    },
+    {
+      "term": "立夏开秧门",
+      "en": "Lixia open seedling gate",
+      "category": "农谚",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子"
+      ]
+    },
+    {
+      "term": "金竹岗",
+      "en": "Jinzhugang",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子"
+      ]
+    },
+    {
+      "term": "派溪",
+      "en": "Paixi",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子"
+      ]
+    },
+    {
+      "term": "胡库",
+      "en": "Huku",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 种田、砍柴的日子"
+      ]
+    },
+    {
+      "term": "五尺工匠",
+      "en": "Five-foot craftsmen",
+      "category": "行业分类",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "五色工匠",
+      "en": "Five-color craftsmen",
+      "category": "行业分类",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "小铁匠",
+      "en": "Small blacksmith",
+      "category": "行业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "白铁匠",
+      "en": "Tin smith",
+      "category": "行业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "学徒",
+      "en": "Apprentice",
+      "category": "社会角色",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "半作",
+      "en": "Half-worker (Banzuo)",
+      "category": "学徒阶段",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "出师",
+      "en": "Complete apprenticeship (Chushi)",
+      "category": "学徒阶段",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "行话",
+      "en": "Jargon (Hanghua)",
+      "category": "语言",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人",
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "鲁班",
+      "en": "Lu Ban",
+      "category": "行业神",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "程茂发",
+      "en": "Cheng Maofa",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "程明星",
+      "en": "Cheng Mingxing",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "仙居",
+      "en": "Xianju",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "上饶",
+      "en": "Shangrao",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "新昌",
+      "en": "Xinchang",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 背井离乡的手艺人"
+      ]
+    },
+    {
+      "term": "吃胡公",
+      "en": "Eating Hu Gong (relying on Hu Gong)",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "旅店业",
+      "en": "Inn industry",
+      "category": "行业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "程仁昌",
+      "en": "Cheng Renchang Inn",
+      "category": "商业建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "程振兴",
+      "en": "Cheng Zhenxing Inn",
+      "category": "商业建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "房头",
+      "en": "Fangtou (room head/guest-receiver)",
+      "category": "社会角色",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "香头",
+      "en": "Xiangtou (incense head)",
+      "category": "社会角色",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "一宿两餐",
+      "en": "One night two meals",
+      "category": "服务标准",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "胡公庙会",
+      "en": "Hu Gong Temple Fair",
+      "category": "民俗活动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业",
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "打罗汉",
+      "en": "Fighting Luohan (martial performance)",
+      "category": "民俗活动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业",
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "黄绍竑",
+      "en": "Huang Shaohong",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业",
+        "第六章 五峰坳里的书院 - 胡公家庙",
+        "附录 - 附录A 浙江省政府各厅处机关在方岩的办公场所"
+      ]
+    },
+    {
+      "term": "周恩来",
+      "en": "Zhou Enlai",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "郁达夫",
+      "en": "Yu Dafu",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "土地改革",
+      "en": "Land Reform",
+      "category": "历史运动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "公私合营",
+      "en": "Joint state-private operation",
+      "category": "历史运动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "大跃进",
+      "en": "Great Leap Forward",
+      "category": "历史运动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "方岩旅馆",
+      "en": "Fangyan Hotel",
+      "category": "商业建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "赫灵祠",
+      "en": "Heling Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "屏风阁",
+      "en": "Screen Pavilion (Pingfeng Ge)",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业",
+        "第五章 方岩山与广慈寺 - 广慈寺历史",
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "三牲祭品",
+      "en": "Three-animal sacrifices",
+      "category": "祭祀用品",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "轿行",
+      "en": "Sedan-chair shop",
+      "category": "商业机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "杭江铁路",
+      "en": "Hangjiang Railway",
+      "category": "交通",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 吃胡公的行业"
+      ]
+    },
+    {
+      "term": "方岩纸花",
+      "en": "Fangyan paper flowers",
+      "category": "特产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "纸花制作",
+      "en": "Paper flower making",
+      "category": "工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "凿染制",
+      "en": "Chisel-dye-make (three processes)",
+      "category": "工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "白珑珑",
+      "en": "Bai Longlong",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "方岩玩具",
+      "en": "Fangyan toys",
+      "category": "特产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "泥哨",
+      "en": "Clay whistle",
+      "category": "玩具",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "皮老虎",
+      "en": "Leather tiger (clay toy)",
+      "category": "玩具",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "油纸花伞",
+      "en": "Oil-paper flower umbrella",
+      "category": "特产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "柿子油",
+      "en": "Persimmon oil",
+      "category": "材料",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "桐油",
+      "en": "Tung oil",
+      "category": "材料",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "金华火腿",
+      "en": "Jinhua ham",
+      "category": "特产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "冬腿",
+      "en": "Winter ham (Dongtui)",
+      "category": "食品",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "程正伟火腿店",
+      "en": "Cheng Zhengwei Ham Shop",
+      "category": "商业建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "程圣言",
+      "en": "Cheng Shengyan",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "程振丰",
+      "en": "Cheng Zhenfeng",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "程寿",
+      "en": "Cheng Shou",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "青田石雕",
+      "en": "Qingtian stone carving",
+      "category": "工艺品",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "毛竹",
+      "en": "Moso bamboo",
+      "category": "材料",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "芝英",
+      "en": "Zhiying",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第三章 方岩独特的经济文化 - 方岩百货"
+      ]
+    },
+    {
+      "term": "老街",
+      "en": "Old Street (Laojie)",
+      "category": "空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 老街"
+      ]
+    },
+    {
+      "term": "三里长街",
+      "en": "Three-li-long street",
+      "category": "空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 老街"
+      ]
+    },
+    {
+      "term": "大溪桥",
+      "en": "Daxi Bridge",
+      "category": "桥梁",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 老街"
+      ]
+    },
+    {
+      "term": "路亭",
+      "en": "Road pavilion (Luting)",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 老街",
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "周氏宗祠",
+      "en": "Zhou Clan Ancestral Hall",
+      "category": "祠堂",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 老街",
+        "第四章 岩下老街的建筑和空间 - 宗祠",
+        "附录 - 附录A 浙江省政府各厅处机关在方岩的办公场所"
+      ]
+    },
+    {
+      "term": "处州",
+      "en": "Chuzhou (ancient prefecture)",
+      "category": "地名",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 老街"
+      ]
+    },
+    {
+      "term": "香客捐造",
+      "en": "Donated and built by pilgrims",
+      "category": "题记",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 老街"
+      ]
+    },
+    {
+      "term": "临街店面",
+      "en": "Street-facing shop",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 老街"
+      ]
+    },
+    {
+      "term": "住宅",
+      "en": "Residence (zhuzhai)",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "程立重宅院",
+      "en": "Cheng Lizhong Mansion",
+      "category": "住宅建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "花厅",
+      "en": "Flower Hall (huating)",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "太师壁",
+      "en": "Taishi Wall (screen wall)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "戏台",
+      "en": "Stage (xitai)",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "日月井",
+      "en": "Sun-Moon Well (pavilion over pond)",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "后堂",
+      "en": "Rear Hall (houtang)",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "重檐楼牌式门楼",
+      "en": "Double-eave gatehouse",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "玉带环腰",
+      "en": "Jade Belt Encircling the Waist (fengshui)",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅",
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "背山面水",
+      "en": "Backing onto mountains facing water",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "靠山/祖山/案山",
+      "en": "Backing mountain/ancestral mountain/table mountain",
+      "category": "风水",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "屋里塘/屋里井",
+      "en": "In-house pond/in-house well",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "八尺路",
+      "en": "Eight-Foot Road (alley)",
+      "category": "空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "月梁",
+      "en": "Crescent beam (yue liang)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅",
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "雀替",
+      "en": "Sparrow bracket (que ti)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅",
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状",
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "梁托",
+      "en": "Beam bracket (liang tuo)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "三合院",
+      "en": "Three-sided courtyard (sanheyuan)",
+      "category": "院落类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "明堂",
+      "en": "Mingtang (central courtyard)",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "朱丹溪",
+      "en": "Zhu Danxi (1281-1358)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅",
+        "第四章 岩下老街的建筑和空间 - 宗教建筑"
+      ]
+    },
+    {
+      "term": "平安戏",
+      "en": "Peace Play",
+      "category": "民俗活动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "义丰老店",
+      "en": "Yifeng Old Shop",
+      "category": "住宅建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "义丰南院",
+      "en": "Yifeng South Courtyard",
+      "category": "住宅建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "程成昌旅店",
+      "en": "Cheng Chengchang Inn",
+      "category": "商业建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅",
+        "附录 - 附录C 方岩旅店情况统计"
+      ]
+    },
+    {
+      "term": "程仁昌旅店",
+      "en": "Cheng Renchang Inn",
+      "category": "商业建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅",
+        "附录 - 附录C 方岩旅店情况统计"
+      ]
+    },
+    {
+      "term": "程铿别墅",
+      "en": "Cheng Keng Villa",
+      "category": "住宅建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅",
+        "第七章 建筑的雕饰与装修 - 小木作装修"
+      ]
+    },
+    {
+      "term": "中西合璧式建筑",
+      "en": "Chinese-Western combined architecture",
+      "category": "建筑风格",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "倒座",
+      "en": "Reverse-side rooms (daozuo)",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "店堂",
+      "en": "Shop hall (diantang)",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "西间",
+      "en": "West Room (central hall)",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅",
+        "第八章 文化和传统 - 分家"
+      ]
+    },
+    {
+      "term": "品字形天井",
+      "en": "Pin-shaped skylight",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅",
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "怡金堂",
+      "en": "Yijin Hall",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "程乐镛",
+      "en": "Cheng Leyong (1832-1866)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "程昭丰",
+      "en": "Cheng Zhaofeng (1855-1928)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "程铿",
+      "en": "Cheng Keng (1895-1968)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "过继",
+      "en": "Adoption (guoji)",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "独子",
+      "en": "Only son",
+      "category": "社会概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "州司马",
+      "en": "Zhou Sima (prefectural military officer)",
+      "category": "官职",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "砖石结构",
+      "en": "Brick-stone structure",
+      "category": "结构类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "杭州营造厂",
+      "en": "Hangzhou construction factory",
+      "category": "机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 住宅"
+      ]
+    },
+    {
+      "term": "宗祠",
+      "en": "Ancestral hall (zongci)",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "程氏宗祠",
+      "en": "Cheng Clan Ancestral Hall",
+      "category": "祠堂",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "程昭夫祠堂",
+      "en": "Cheng Zhaofu Hall",
+      "category": "祠堂",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "启文公祠",
+      "en": "Qiwen Gong Hall",
+      "category": "祠堂",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "禄房祠堂",
+      "en": "Lu Branch Hall",
+      "category": "祠堂",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "闰二宗祠",
+      "en": "Run-er Ancestral Hall",
+      "category": "祠堂",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "抬梁式",
+      "en": "Post-and-lintel structure (tailiangshi)",
+      "category": "结构类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠",
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "穿斗式",
+      "en": "Column-and-tie structure (chuandoushi)",
+      "category": "结构类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠",
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "牛腿",
+      "en": "Ox-leg corbel (niutui)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠",
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "叠斗",
+      "en": "Stacked brackets (diedou)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠",
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "蟺梁",
+      "en": "Curved beam (shanliang)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠",
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状",
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "左昭右穆",
+      "en": "Left zhao right mu (ancestral tablet arrangement)",
+      "category": "礼制",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "牌位",
+      "en": "Ancestral tablet",
+      "category": "祭祀用品",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "享堂",
+      "en": "Worship hall (xiangtang)",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "正堂",
+      "en": "Main hall (zhengtang)",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "刘英",
+      "en": "Liu Ying (1905-1942)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "程际烈",
+      "en": "Cheng Jilie (1646-1725)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "周时文",
+      "en": "Zhou Shiwen (1254-1315)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "草墅周氏",
+      "en": "Caoshu Zhou clan",
+      "category": "宗族",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "源流塘",
+      "en": "Yuanliu Pond",
+      "category": "水塘",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠",
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "望屏桥",
+      "en": "Wangping Bridge",
+      "category": "桥梁",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗祠"
+      ]
+    },
+    {
+      "term": "宗教建筑",
+      "en": "Religious architecture",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗教建筑"
+      ]
+    },
+    {
+      "term": "经堂",
+      "en": "Jingtang (nunnery)",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗教建筑"
+      ]
+    },
+    {
+      "term": "本保庙",
+      "en": "Benbao Temple (local protection temple)",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗教建筑"
+      ]
+    },
+    {
+      "term": "土地庙",
+      "en": "Earth God Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗教建筑"
+      ]
+    },
+    {
+      "term": "万成庙",
+      "en": "Wancheng Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗教建筑",
+        "附录 - 附录A 浙江省政府各厅处机关在方岩的办公场所"
+      ]
+    },
+    {
+      "term": "朱相公",
+      "en": "Lord Zhu Xianggong",
+      "category": "神祇",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗教建筑"
+      ]
+    },
+    {
+      "term": "送子观音",
+      "en": "Child-Giving Guanyin",
+      "category": "神祇",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗教建筑"
+      ]
+    },
+    {
+      "term": "千手千眼观音",
+      "en": "Thousand-Hand Thousand-Eye Guanyin",
+      "category": "神祇",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗教建筑"
+      ]
+    },
+    {
+      "term": "地藏菩萨",
+      "en": "Ksitigarbha Bodhisattva",
+      "category": "神祇",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗教建筑"
+      ]
+    },
+    {
+      "term": "泛宗教信仰",
+      "en": "Pan-religious belief",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗教建筑"
+      ]
+    },
+    {
+      "term": "滋阴派",
+      "en": "Nourishing Yin School (of medicine)",
+      "category": "医学流派",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗教建筑"
+      ]
+    },
+    {
+      "term": "金元四大名医",
+      "en": "Four Great Physicians of Jin-Yuan period",
+      "category": "医学",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 宗教建筑"
+      ]
+    },
+    {
+      "term": "塘堰",
+      "en": "Ponds and weirs (tangyan)",
+      "category": "水利",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "井泉",
+      "en": "Wells and springs (jingquan)",
+      "category": "水利",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "澈月塘",
+      "en": "Cheyue Pond",
+      "category": "水塘",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "深塘",
+      "en": "Shen Pond (Deep Pond)",
+      "category": "水塘",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "前塘",
+      "en": "Front Pond",
+      "category": "水塘",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "火种塘",
+      "en": "Fire-seed pond (fire-fighting pond)",
+      "category": "水塘",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "饮泉",
+      "en": "Yinquan (Drinking Spring well)",
+      "category": "水井",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "用水准则",
+      "en": "Water-use rules",
+      "category": "社会习俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第四章 岩下老街的建筑和空间 - 塘堰与井泉"
+      ]
+    },
+    {
+      "term": "百步峻",
+      "en": "Hundred-Steep (Baibu Jun)",
+      "category": "登山道",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "飞桥",
+      "en": "Flying Bridge (Feiqiao)",
+      "category": "栈道",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "透关",
+      "en": "Touguan (Pass-Through)",
+      "category": "关隘",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "步云亭",
+      "en": "Buyun Pavilion (Step into Clouds)",
+      "category": "亭",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "罗汉洞",
+      "en": "Luohan (Arhat) Cave",
+      "category": "洞穴建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "蛟龙泉",
+      "en": "Jiaolong Spring (Flood Dragon Spring)",
+      "category": "泉",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "天王殿",
+      "en": "Heavenly King Hall",
+      "category": "寺院建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "天街",
+      "en": "Tianjie (Heavenly Street)",
+      "category": "商业街",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "长生塘",
+      "en": "Changsheng Pond (Long Life Pond)",
+      "category": "水塘",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "砚井",
+      "en": "Inkstone Well",
+      "category": "水井",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "千人坑",
+      "en": "Thousand-Man Pit",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "听泉楼",
+      "en": "Tingquan Tower (Listening to Spring Tower)",
+      "category": "楼",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "正德禅师",
+      "en": "Master Zhengde (founding patriarch)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "肉麦饼",
+      "en": "Roumaibing (meat wheat cake)",
+      "category": "地方食品",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "程方峰",
+      "en": "Cheng Fangfeng (1498-1585)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山",
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "陈十四",
+      "en": "Chen Shisi (peasant uprising leader)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山"
+      ]
+    },
+    {
+      "term": "方腊起义",
+      "en": "Fang La Uprising (1120)",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山",
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "会昌法难",
+      "en": "Huichang Persecution of Buddhism (845)",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 方岩山",
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "止观",
+      "en": "Zhiguan (samadhi and prajna)",
+      "category": "佛教概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "头陀行",
+      "en": "Dhutanga (ascetic practice)",
+      "category": "佛教修行",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "佑顺侯",
+      "en": "Youshun Marquis (Hu Ze title)",
+      "category": "封号",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "赫灵庙",
+      "en": "Heling Temple",
+      "category": "祠庙",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "摩尼教",
+      "en": "Manichaeism (Mingjiao)",
+      "category": "宗教",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "神权君授",
+      "en": "Divine power granted by emperor",
+      "category": "政治概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "子孙派",
+      "en": "Descendant school (monastic system)",
+      "category": "寺院制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "八房",
+      "en": "Eight houses (monastic management)",
+      "category": "寺院制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "聿孤禅师",
+      "en": "Master Yugu (Wanli era abbot)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "大雄宝殿",
+      "en": "Mahavira Hall",
+      "category": "寺院建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "允明禅师",
+      "en": "Master Yunming (post-Cultural Revolution abbot)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "行公/坐公",
+      "en": "Xinggong (traveling)/Zuogong (sitting) Hu Ze",
+      "category": "神祇形态",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "胡公十弟兄",
+      "en": "Hu Gong's ten sworn brothers",
+      "category": "神祇",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺历史"
+      ]
+    },
+    {
+      "term": "广慈寺现状",
+      "en": "Current state of Guangci Temple",
+      "category": "寺院",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "藻井",
+      "en": "Caisson ceiling (zaojing)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "九格天花",
+      "en": "Nine-grid ceiling",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "垂花",
+      "en": "Pendant flower (chuihua)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "须弥座",
+      "en": "Sumeru pedestal (xumizuo)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "三牲",
+      "en": "Three sacrificial animals",
+      "category": "祭祀",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "西游记",
+      "en": "Journey to the West",
+      "category": "文学",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "狮子戏球",
+      "en": "Lions playing with ball (carving motif)",
+      "category": "装饰图案",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "卷草图案",
+      "en": "Scrolling grass pattern",
+      "category": "装饰图案",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "放生池",
+      "en": "Free-life pond",
+      "category": "寺院元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "西方古典主义",
+      "en": "Western classical architecture",
+      "category": "建筑风格",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "护法神",
+      "en": "Dharma-protecting god",
+      "category": "佛教概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第五章 方岩山与广慈寺 - 广慈寺和胡公庙现状"
+      ]
+    },
+    {
+      "term": "书院",
+      "en": "Academy (shuyuan)",
+      "category": "文教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "科举制度",
+      "en": "Imperial examination system",
+      "category": "制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "事功学派",
+      "en": "School of Practical Statecraft (Shigong)",
+      "category": "学派",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "兜率台",
+      "en": "Doushuai Terrace (Tusita Terrace)",
+      "category": "历史遗迹",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "龙湫",
+      "en": "Longqiu (Dragon Pool waterfall)",
+      "category": "瀑布",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "外洞",
+      "en": "Outer Cave",
+      "category": "洞穴",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 寿山往事",
+        "第六章 五峰坳里的书院 - 胡公家庙"
+      ]
+    },
+    {
+      "term": "状元",
+      "en": "Zhuangyuan (first-place jinshi)",
+      "category": "科举",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 寿山往事"
+      ]
+    },
+    {
+      "term": "桃岩丽泽精舍",
+      "en": "Taoyan Lize Jingshe (Taoyan Lize Retreat)",
+      "category": "书院",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "应典",
+      "en": "Ying Dian (1470s-1520s, Shimen)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "程梓",
+      "en": "Cheng Zi (1498-1585, Fangfeng)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "王阳明",
+      "en": "Wang Yangming (1472-1529)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "致良知",
+      "en": "Zhiliangzhi (extending innate knowledge)",
+      "category": "哲学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "东南三贤",
+      "en": "Three Sages of the Southeast (Zhu Xi, Lü Zuqian, Zhang Shi)",
+      "category": "学术称号",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "会田",
+      "en": "Huitian (meeting fields for sacrificial expenses)",
+      "category": "制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "秋会",
+      "en": "Autumn Meeting (academic gathering)",
+      "category": "书院活动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "丁头拱",
+      "en": "Ding-tou bracket (small bracket)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "鼓形柱础",
+      "en": "Drum-shaped column base",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院",
+        "第七章 建筑的雕饰与装修 - 砖石雕"
+      ]
+    },
+    {
+      "term": "步步锦",
+      "en": "Bubujin (step-by-step brocade lattice)",
+      "category": "门窗样式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "满天星",
+      "en": "Mantianxing (sky full of stars lattice)",
+      "category": "门窗样式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "朝阳洞",
+      "en": "Chaoyang Cave (Morning Sun Cave)",
+      "category": "洞穴",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "鹿洞鹅湖",
+      "en": "Ludong (White Deer) and Ehu (Goose Lake) academies",
+      "category": "书院",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 五峰书院"
+      ]
+    },
+    {
+      "term": "胡公家庙",
+      "en": "Hu Gong Family Temple",
+      "category": "祠庙",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 胡公家庙"
+      ]
+    },
+    {
+      "term": "重楼",
+      "en": "Chonglou (Multi-Story Tower)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 胡公家庙"
+      ]
+    },
+    {
+      "term": "库川胡氏",
+      "en": "Kuchuan Hu Clan",
+      "category": "宗族",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 胡公家庙",
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "春帆楼",
+      "en": "Chunfan Tower (Spring Sail Tower)",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 胡公家庙"
+      ]
+    },
+    {
+      "term": "砖木混合结构",
+      "en": "Mixed brick-wood structure",
+      "category": "建筑结构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 胡公家庙"
+      ]
+    },
+    {
+      "term": "西洋式门楼",
+      "en": "Western-style gatehouse",
+      "category": "建筑风格",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 胡公家庙"
+      ]
+    },
+    {
+      "term": "方岩祭礼约",
+      "en": "Fangyan Sacrificial Ritual Pact",
+      "category": "协议",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 胡公家庙"
+      ]
+    },
+    {
+      "term": "永康师范学校",
+      "en": "Yongkang Normal School",
+      "category": "教育机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 没有了进士的五峰书院"
+      ]
+    },
+    {
+      "term": "展览馆",
+      "en": "Exhibition hall",
+      "category": "现代用途",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 没有了进士的五峰书院"
+      ]
+    },
+    {
+      "term": "文房四宝",
+      "en": "Four treasures of the study",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第六章 五峰坳里的书院 - 没有了进士的五峰书院"
+      ]
+    },
+    {
+      "term": "大木作雕饰",
+      "en": "Large timber carving",
+      "category": "建筑装饰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "马腿/牛腿",
+      "en": "Horse leg/Ox leg (corbel bracket)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "金枋",
+      "en": "Gold beam (jinfang)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "梭梁/月梁",
+      "en": "Shuttle beam/Moon beam (suoliang/yueliang)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "气堂",
+      "en": "Qitang (beam end rolling cut)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "梁下巴/梁托",
+      "en": "Beam chin/Beam bracket (liangxiaba/liangtuo)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "米梁",
+      "en": "Rice beam (horizontal beam between columns)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "桁条/檩子",
+      "en": "Purlin (hengtiao/linzi)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "挑檐枋",
+      "en": "Eave-protruding beam (tiaoyanfang)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "叠拱",
+      "en": "Stacked brackets (diegong)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "插叶",
+      "en": "Inserted leaf (chaye)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "三狮戏球",
+      "en": "Three lions playing with ball",
+      "category": "装饰母题",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "王母骑凤",
+      "en": "Queen Mother riding phoenix",
+      "category": "装饰母题",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "玉皇大帝乘龙",
+      "en": "Jade Emperor riding dragon",
+      "category": "装饰母题",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "仙人骑鱼",
+      "en": "Immortal riding fish",
+      "category": "装饰母题",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "盘龙马腿",
+      "en": "Coiled dragon horse leg",
+      "category": "装饰母题",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "卷草纹",
+      "en": "Scrolling grass pattern (juancaowen)",
+      "category": "装饰图案",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "回纹",
+      "en": "Meander pattern (huiwen)",
+      "category": "装饰图案",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰",
+        "第七章 建筑的雕饰与装修 - 小木作装修"
+      ]
+    },
+    {
+      "term": "三抽/三架梁",
+      "en": "Three chou/Three-frame beam",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "穿斗结构",
+      "en": "Column-and-tie construction (chuandou)",
+      "category": "建筑结构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "程高明",
+      "en": "Cheng Gaoming (born 1942, carpenter)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 大木作雕饰"
+      ]
+    },
+    {
+      "term": "小木作装修",
+      "en": "Small timber joinery",
+      "category": "建筑装饰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 小木作装修"
+      ]
+    },
+    {
+      "term": "六扇通高门扇",
+      "en": "Six full-height door leaves",
+      "category": "门窗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 小木作装修"
+      ]
+    },
+    {
+      "term": "上下屉窗",
+      "en": "Upper and lower drawer windows",
+      "category": "门窗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 小木作装修"
+      ]
+    },
+    {
+      "term": "平推窗",
+      "en": "Sliding casement window",
+      "category": "门窗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 小木作装修"
+      ]
+    },
+    {
+      "term": "窗套",
+      "en": "Window frame (window surround)",
+      "category": "门窗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 小木作装修"
+      ]
+    },
+    {
+      "term": "栏板",
+      "en": "Railing panel (lanban)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 小木作装修"
+      ]
+    },
+    {
+      "term": "螺纹栏杆",
+      "en": "Threaded railing (lathe-turned)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 小木作装修"
+      ]
+    },
+    {
+      "term": "雕花栏板",
+      "en": "Carved railing panel",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 小木作装修"
+      ]
+    },
+    {
+      "term": "新仁昌旅店",
+      "en": "Xinrenchang Inn",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 小木作装修",
+        "附录 - 附录A 浙江省政府各厅处机关在方岩的办公场所",
+        "附录 - 附录C 方岩旅店情况统计"
+      ]
+    },
+    {
+      "term": "中西合璧",
+      "en": "Chinese-Western style fusion",
+      "category": "建筑风格",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 小木作装修"
+      ]
+    },
+    {
+      "term": "竹节状线脚",
+      "en": "Bamboo-joint molding",
+      "category": "装饰细节",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 小木作装修"
+      ]
+    },
+    {
+      "term": "砖石雕",
+      "en": "Brick and stone carvings",
+      "category": "建筑装饰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 砖石雕"
+      ]
+    },
+    {
+      "term": "柱础",
+      "en": "Column base (zhuchu)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 砖石雕"
+      ]
+    },
+    {
+      "term": "覆盆",
+      "en": "Overturned basin (fupen)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 砖石雕"
+      ]
+    },
+    {
+      "term": "铜钱纹样",
+      "en": "Copper coin pattern (drainage)",
+      "category": "装饰图案",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 砖石雕"
+      ]
+    },
+    {
+      "term": "眉檐",
+      "en": "Eyebrow eave (meiyan)",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 砖石雕"
+      ]
+    },
+    {
+      "term": "砖牙子",
+      "en": "Brick teeth (zhuanyazi)",
+      "category": "砖雕元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 砖石雕"
+      ]
+    },
+    {
+      "term": "牌楼式门楼",
+      "en": "Paifang-style gatehouse",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 砖石雕"
+      ]
+    },
+    {
+      "term": "麒麟",
+      "en": "Qilin (mythical beast)",
+      "category": "装饰母题",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 砖石雕"
+      ]
+    },
+    {
+      "term": "彩画",
+      "en": "Painted decoration (caihua)",
+      "category": "建筑装饰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 彩画"
+      ]
+    },
+    {
+      "term": "挂落式彩画",
+      "en": "Hanging-falling style painted decoration",
+      "category": "彩画类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 彩画"
+      ]
+    },
+    {
+      "term": "照壁",
+      "en": "Screen wall (zhaobi)",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 彩画"
+      ]
+    },
+    {
+      "term": "垂莲柱",
+      "en": "Hanging lotus column",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 彩画"
+      ]
+    },
+    {
+      "term": "靛青",
+      "en": "Indigo (pigment)",
+      "category": "颜料",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 彩画"
+      ]
+    },
+    {
+      "term": "赭石",
+      "en": "Ochre (pigment)",
+      "category": "颜料",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第七章 建筑的雕饰与装修 - 彩画"
+      ]
+    },
+    {
+      "term": "迎案/胜案",
+      "en": "Welcoming the case/Victorious case",
+      "category": "民俗活动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "罗汉班",
+      "en": "Luohan troupe",
+      "category": "民俗组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "换香火",
+      "en": "Changing incense",
+      "category": "宗教仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "游案",
+      "en": "Touring the case (village rehearsal)",
+      "category": "民俗活动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "跳罗汉",
+      "en": "Jumping Luohan",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "打回头案",
+      "en": "Beating the returning case",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "祭叉",
+      "en": "Sacrificing forks ceremony",
+      "category": "宗教仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "鸳鸯阵",
+      "en": "Yuanyang Formation (Mandarin Duck Formation)",
+      "category": "军事阵法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "武举制度",
+      "en": "Military examination system",
+      "category": "历史制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "胡公神龛/龙庭",
+      "en": "Hu Gong shrine/Dragon court",
+      "category": "宗教器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "吹唱班",
+      "en": "Singing troupe",
+      "category": "民俗组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会",
+        "附录 - 附录B 胡公庙会吹唱班部分曲目"
+      ]
+    },
+    {
+      "term": "拢头酒",
+      "en": "Gathering head wine",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "戚继光",
+      "en": "Qi Jiguang (1528-1588, anti-pirate general)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "厉仲方",
+      "en": "Li Zhongfang (military Zhuangyuan 1190)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 胡公庙会"
+      ]
+    },
+    {
+      "term": "祭灶/送灶君",
+      "en": "Sacrificing to the stove god/Sending off stove god",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "黏糖",
+      "en": "Sticky candy (for stove god)",
+      "category": "民俗物品",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "年头禁",
+      "en": "Year head prohibition",
+      "category": "民俗禁忌",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "谢年/送年",
+      "en": "Thanking the year/Sending the year",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "坐岁",
+      "en": "Sitting through the year (New Year's Eve vigil)",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "迎龙灯",
+      "en": "Welcoming the dragon lantern",
+      "category": "民俗活动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "板桥灯",
+      "en": "Board bridge lantern (dragon lantern type)",
+      "category": "民俗器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "捻灯",
+      "en": "Niandeng (responsibility for dragon head/tail)",
+      "category": "民俗职责",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "催灯",
+      "en": "Urging the lantern",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "接灯",
+      "en": "Connecting lanterns",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "盘龙灯/团龙灯",
+      "en": "Coiling the dragon lantern",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "翻龙灯",
+      "en": "Flipping the dragon lantern",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "送灯/送丁",
+      "en": "Sending lantern/Sending male child",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "朱公位",
+      "en": "Zhu Gong's position (shrine)",
+      "category": "宗教地点",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "程濂/松门公",
+      "en": "Cheng Lian/Songmen Gong (8th generation ancestor)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 正月"
+      ]
+    },
+    {
+      "term": "祭祖",
+      "en": "Ancestor worship",
+      "category": "民俗活动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "清明",
+      "en": "Qingming (Pure Brightness Festival)",
+      "category": "节日",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "标青",
+      "en": "Marking green (hanging white paper at grave)",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "清明果",
+      "en": "Qingming fruit (glutinous rice pastry)",
+      "category": "民俗食物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "金团",
+      "en": "Golden dumpling",
+      "category": "民俗食物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "散清",
+      "en": "Sanqing (post-sacrifice communal lunch)",
+      "category": "民俗活动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "羹饭",
+      "en": "Gengfan (soup rice offering)",
+      "category": "民俗食物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "冬至",
+      "en": "Winter Solstice",
+      "category": "节日",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "中元节/鬼节",
+      "en": "Zhongyuan Festival/Ghost Festival",
+      "category": "节日",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "路头羹饭",
+      "en": "Roadhead soup rice (wild sacrifice)",
+      "category": "民俗仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "拜星",
+      "en": "Worshipping stars (for超度)",
+      "category": "宗教仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "程毅庵",
+      "en": "Cheng Yi'an (15th generation ancestor)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "程镇康",
+      "en": "Cheng Zhenkang (elder, born ~1930s)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 祭祖"
+      ]
+    },
+    {
+      "term": "分家",
+      "en": "Family division (fenjia)",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 分家"
+      ]
+    },
+    {
+      "term": "分家契",
+      "en": "Family division contract",
+      "category": "法律文书",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 分家"
+      ]
+    },
+    {
+      "term": "上大房/下大房",
+      "en": "Upper great room/Lower great room",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 分家"
+      ]
+    },
+    {
+      "term": "程乐涞",
+      "en": "Cheng Lelai (1823-1882, great-grandfather)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 分家"
+      ]
+    },
+    {
+      "term": "程昭斌",
+      "en": "Cheng Zhaobin (eldest son, tea merchant)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 分家"
+      ]
+    },
+    {
+      "term": "程昭祥",
+      "en": "Cheng Zhaoxiang (youngest son, inherited inn)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "第八章 文化和传统 - 分家"
+      ]
+    },
+    {
+      "term": "浙江省政府战时迁方岩",
+      "en": "Zhejiang Provincial Government wartime relocation to Fangyan",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录A 浙江省政府各厅处机关在方岩的办公场所"
+      ]
+    },
+    {
+      "term": "程振兴旅店",
+      "en": "Cheng Zhenxing Inn",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录A 浙江省政府各厅处机关在方岩的办公场所",
+        "附录 - 附录C 方岩旅店情况统计"
+      ]
+    },
+    {
+      "term": "老仁昌旅店",
+      "en": "Laorenchang Inn",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录A 浙江省政府各厅处机关在方岩的办公场所",
+        "附录 - 附录C 方岩旅店情况统计"
+      ]
+    },
+    {
+      "term": "抗战阵亡将士纪念碑",
+      "en": "Anti-Japanese War Fallen Soldiers Memorial Monument",
+      "category": "历史建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录A 浙江省政府各厅处机关在方岩的办公场所"
+      ]
+    },
+    {
+      "term": "十八狐狸",
+      "en": "Eighteen Foxes (dance)",
+      "category": "民俗表演",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录B 胡公庙会吹唱班部分曲目"
+      ]
+    },
+    {
+      "term": "十八蝴蝶",
+      "en": "Eighteen Butterflies (dance)",
+      "category": "民俗表演",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录B 胡公庙会吹唱班部分曲目"
+      ]
+    },
+    {
+      "term": "十八鲤鱼",
+      "en": "Eighteen Carp (dance)",
+      "category": "民俗表演",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录B 胡公庙会吹唱班部分曲目"
+      ]
+    },
+    {
+      "term": "讨饭莲花/永康莲花",
+      "en": "Begging Lotus/Yongkang Lotus",
+      "category": "民俗表演",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录B 胡公庙会吹唱班部分曲目"
+      ]
+    },
+    {
+      "term": "三十六行",
+      "en": "Thirty-Six Trades (dance)",
+      "category": "民俗表演",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录B 胡公庙会吹唱班部分曲目"
+      ]
+    },
+    {
+      "term": "婺剧",
+      "en": "Wuju opera (Jinhua opera)",
+      "category": "戏曲",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录B 胡公庙会吹唱班部分曲目"
+      ]
+    },
+    {
+      "term": "方岩旅店统计",
+      "en": "Fangyan inn statistics",
+      "category": "历史资料",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录C 方岩旅店情况统计"
+      ]
+    },
+    {
+      "term": "分拍",
+      "en": "Fenpai (branch store)",
+      "category": "商业术语",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录C 方岩旅店情况统计"
+      ]
+    },
+    {
+      "term": "天街旅店",
+      "en": "Tianjie (Heavenly Street) inns",
+      "category": "建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录C 方岩旅店情况统计"
+      ]
+    },
+    {
+      "term": "方岩商店统计",
+      "en": "Fangyan store statistics",
+      "category": "历史资料",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录D 民国乙丑年方岩商店情况统计"
+      ]
+    },
+    {
+      "term": "京货",
+      "en": "Jinghuo (capital-style goods)",
+      "category": "商业分类",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录D 民国乙丑年方岩商店情况统计"
+      ]
+    },
+    {
+      "term": "日新书社",
+      "en": "Rixin Book Society",
+      "category": "历史机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录D 民国乙丑年方岩商店情况统计"
+      ]
+    },
+    {
+      "term": "方岩指南",
+      "en": "Fangyan Guide (1925 travel guide)",
+      "category": "历史文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "附录 - 附录D 民国乙丑年方岩商店情况统计"
+      ]
+    },
+    {
+      "term": "赵巍",
+      "en": "Zhao Wei (author, architect)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "查尔斯·柯里亚",
+      "en": "Charles Correa (Indian architect)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "乡土建筑研究",
+      "en": "Vernacular architecture research",
+      "category": "学术领域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    },
+    {
+      "term": "清华乡土组",
+      "en": "Tsinghua Vernacular Architecture Group",
+      "category": "学术机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "后记 - 后记"
+      ]
+    }
+  ]
+}

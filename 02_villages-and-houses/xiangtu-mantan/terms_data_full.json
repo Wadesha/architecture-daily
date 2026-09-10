@@ -1,0 +1,8391 @@
+{
+  "title": "乡土漫谈 术语数据库",
+  "title_en": "Glossary of Vernacular Chat (Xiangtu Mantan)",
+  "author": "陈志华",
+  "total_terms": 813,
+  "categories": [
+    "书法",
+    "交通",
+    "交通工具",
+    "交通设施",
+    "人物",
+    "保护制度",
+    "保护工程",
+    "保护理念",
+    "信仰文化",
+    "公共建筑",
+    "农作物",
+    "出版机构",
+    "历史事件",
+    "历史人物",
+    "历史典故",
+    "历史口号",
+    "历史地理",
+    "历史时期",
+    "古代市镇",
+    "古代建筑",
+    "古代村落",
+    "吉祥语",
+    "品质",
+    "哲学思想",
+    "商业",
+    "商业建筑",
+    "商业机构",
+    "商帮",
+    "器物",
+    "土地制度",
+    "地理",
+    "地理区域",
+    "地理概念",
+    "婚姻制度",
+    "媒体",
+    "学术",
+    "学术方法",
+    "学术机构",
+    "学术概念",
+    "学术领域",
+    "宗教仪式",
+    "宗教信仰",
+    "宗教建筑",
+    "宗教文化",
+    "宗教法器",
+    "宗教设施",
+    "宗族",
+    "宗族结构",
+    "官职",
+    "工程技术",
+    "工艺",
+    "建筑元素",
+    "建筑工艺",
+    "建筑形式",
+    "建筑技术",
+    "建筑材料",
+    "建筑构件",
+    "建筑概念",
+    "建筑空间",
+    "建筑类型",
+    "建筑结构",
+    "建筑装饰",
+    "情感",
+    "手工业",
+    "手工艺",
+    "技术",
+    "政治制度",
+    "政治文化",
+    "教育机构",
+    "文化习俗",
+    "文化典故",
+    "文化概念",
+    "文化组织",
+    "文化艺术",
+    "文化象征",
+    "文化遗产",
+    "文学人物",
+    "文学作品",
+    "文学形式",
+    "文学流派",
+    "文献",
+    "服务业",
+    "机构",
+    "村落类型",
+    "植物",
+    "民俗",
+    "民俗活动",
+    "民间传说",
+    "民间工艺",
+    "民间文学",
+    "民间艺术",
+    "水利工程",
+    "特产",
+    "生产工具",
+    "生产方式",
+    "生活设施",
+    "电视节目",
+    "矿产",
+    "研究内容",
+    "社会习俗",
+    "社会分工",
+    "社会制度",
+    "社会形态",
+    "社会概念",
+    "社会现象",
+    "社会组织",
+    "社会群体",
+    "社会观念",
+    "社会角色",
+    "社会阶层",
+    "祭祀仪式",
+    "科举制度",
+    "经典著作",
+    "经济产业",
+    "经济作物",
+    "经济制度",
+    "经济形态",
+    "经济概念",
+    "美学概念",
+    "考古遗址",
+    "职业",
+    "职官",
+    "自然景观",
+    "自然环境",
+    "自然现象",
+    "节日",
+    "著作",
+    "行业",
+    "行业组织",
+    "行政区划",
+    "语言文化",
+    "风水概念",
+    "饮食",
+    "饮食文化"
+  ],
+  "terms": [
+    {
+      "term": "乡土建筑",
+      "en": "Vernacular architecture",
+      "category": "学术概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序",
+        "序跋选摘 - 《宁海古戏台》序",
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "新叶村",
+      "en": "Xinye Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "楠溪江",
+      "en": "Nanxi River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序",
+        "乡土建筑研究 - 芙蓉村",
+        "乡土建筑研究 - 重回楠溪江",
+        "乡土建筑研究 - 苍坡村",
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "诸葛村",
+      "en": "Zhuge Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序",
+        "乡土建筑研究 - 兰江岸边",
+        "乡土建筑研究 - 俞源村",
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "婺源",
+      "en": "Wuyuan",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序",
+        "乡土建筑研究 - 来到了关麓村",
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "陈志华",
+      "en": "Chen Zhihua",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "李秋香",
+      "en": "Li Qiuxiang",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "楼庆西",
+      "en": "Lou Qingxi",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "罗德胤",
+      "en": "Luo Deyin",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "叶同宽",
+      "en": "Ye Tongkuan",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "费孝通",
+      "en": "Fei Xiaotong",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "中国营造学社",
+      "en": "Chinese Society for Research in Chinese Architecture",
+      "category": "学术机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "古建筑测绘",
+      "en": "Ancient building surveying and mapping",
+      "category": "学术方法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "文峰塔",
+      "en": "Wenfeng Pagoda",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序",
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "宗祠",
+      "en": "Ancestral hall",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序",
+        "乡土建筑研究 - 来到了关麓村",
+        "乡土建筑研究 - 重回楠溪江",
+        "序跋选摘 - 《宁海古戏台》序",
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "书院",
+      "en": "Academy",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序",
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "民居苑",
+      "en": "Folk residence garden",
+      "category": "建筑概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "黄土窑洞",
+      "en": "Loess cave dwelling",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "蹦蹦车",
+      "en": "Three-wheeled bouncing cart",
+      "category": "交通工具",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "文化大革命",
+      "en": "Cultural Revolution",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序",
+        "序跋选摘 - 《古村郭峪碑文集》序",
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "抗日战争",
+      "en": "War of Resistance against Japan",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "三联书店",
+      "en": "SDX Joint Publishing",
+      "category": "出版机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序",
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "清华大学出版社",
+      "en": "Tsinghua University Press",
+      "category": "出版机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "北窗杂记三集",
+      "en": "Beichuang Zaji Sanji",
+      "category": "经典著作",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "村落研究",
+      "en": "Village research",
+      "category": "学术概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "文物保护",
+      "en": "Cultural heritage protection",
+      "category": "学术概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序",
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "农耕时代村落",
+      "en": "Agricultural-era village",
+      "category": "村落类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "原木蛮石",
+      "en": "Raw timber and rough stone",
+      "category": "建筑材料",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "测绘图",
+      "en": "Survey drawings",
+      "category": "学术方法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "乡土文物建筑",
+      "en": "Vernacular heritage buildings",
+      "category": "学术概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "代序 - 代序"
+      ]
+    },
+    {
+      "term": "诸葛亮",
+      "en": "Zhuge Liang",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "兰溪县",
+      "en": "Lanxi County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "金华府",
+      "en": "Jinhua Prefecture",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "婺州",
+      "en": "Wuzhou",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边",
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "钱塘江",
+      "en": "Qiantang River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边",
+        "乡土建筑研究 - 婺源掠影",
+        "乡土建筑研究 - 俞源村",
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "富春江",
+      "en": "Fuchun River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "新安江",
+      "en": "Xin'an River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边",
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "兰江",
+      "en": "Lanjiang River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "严州府",
+      "en": "Yanzhou Prefecture",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "徽商",
+      "en": "Huizhou merchants",
+      "category": "商帮",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边",
+        "乡土建筑研究 - 来到了关麓村",
+        "乡土建筑研究 - 徽商村里的生活",
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "晋商",
+      "en": "Shanxi merchants",
+      "category": "商帮",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边",
+        "乡土建筑研究 - 到张壁村去",
+        "序跋选摘 - 《古村郭峪碑文集》序",
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "金华火腿",
+      "en": "Jinhua ham",
+      "category": "特产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "兰溪酒",
+      "en": "Lanxi wine",
+      "category": "特产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "刻书",
+      "en": "Book printing",
+      "category": "手工业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "纸币",
+      "en": "Paper money",
+      "category": "经济制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "钱关子",
+      "en": "Money coupons",
+      "category": "经济制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "会馆",
+      "en": "Guild hall",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "新安会馆",
+      "en": "Xin'an Guild Hall",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "太平天国",
+      "en": "Taiping Rebellion",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "中药业",
+      "en": "Traditional Chinese medicine industry",
+      "category": "行业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "药皇庙",
+      "en": "Medicine Emperor Temple",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "惠民药局",
+      "en": "Huimin Medicine Bureau",
+      "category": "机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "李渔",
+      "en": "Li Yu",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "杨万里",
+      "en": "Yang Wanli",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边",
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "章懋",
+      "en": "Zhang Mao",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "高隆村",
+      "en": "Gaolong Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "瀫水",
+      "en": "Fushui",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "药帮",
+      "en": "Medicine guild",
+      "category": "行业组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "永昌镇",
+      "en": "Yongchang Town",
+      "category": "古代市镇",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 兰江岸边"
+      ]
+    },
+    {
+      "term": "关麓村",
+      "en": "Guanlu Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "黟县",
+      "en": "Yi County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "歙县",
+      "en": "She County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "屯溪",
+      "en": "Tunxi",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "马头墙",
+      "en": "Horse-head wall",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "拉弓墙",
+      "en": "Bow wall",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "水磨青砖门楼",
+      "en": "Water-ground blue brick gatehouse",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "三合院",
+      "en": "Three-sided courtyard",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村",
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "格扇窗",
+      "en": "Lattice window",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "徽州三雕",
+      "en": "Three Carvings of Huizhou",
+      "category": "建筑技术",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "彩画",
+      "en": "Painted decoration",
+      "category": "建筑装饰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "血缘村落",
+      "en": "Blood-relation village",
+      "category": "村落类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村",
+        "乡土建筑研究 - 初到黄土高原",
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "佃仆制",
+      "en": "Bond servant system",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "学堂屋",
+      "en": "School house",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "宗谱",
+      "en": "Genealogy",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村",
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "杂记",
+      "en": "Miscellaneous notes",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "分家阄书",
+      "en": "Family division document",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村",
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "文昌阁",
+      "en": "Wenchang Pavilion",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村",
+        "乡土建筑研究 - 岩头村",
+        "序跋选摘 - 《古村郭峪碑文集》序",
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "牌坊",
+      "en": "Memorial archway",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "古驿道",
+      "en": "Ancient post road",
+      "category": "交通设施",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "西武岭",
+      "en": "Xiwu Ridge",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "齐白石",
+      "en": "Qi Baishi",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "谢肇淛",
+      "en": "Xie Zhaozhe",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "汪亚芸",
+      "en": "Wang Yayun",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "汪景恒",
+      "en": "Wang Jingheng",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "汪祖武",
+      "en": "Wang Zuwu",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "固定式家具",
+      "en": "Fixed furniture",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 来到了关麓村"
+      ]
+    },
+    {
+      "term": "宗族关系",
+      "en": "Clan relations",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "血缘聚落",
+      "en": "Blood-relation settlement",
+      "category": "村落类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "小姓",
+      "en": "Minor surname",
+      "category": "社会阶层",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "臧获",
+      "en": "Zanghuo (bond servants)",
+      "category": "社会阶层",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "佃仆",
+      "en": "Dianpu (bond servant)",
+      "category": "社会阶层",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活",
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "伴当",
+      "en": "Bandang (attendant)",
+      "category": "社会阶层",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "庄户",
+      "en": "Zhuanghu (tenant household)",
+      "category": "社会阶层",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "人身依附关系",
+      "en": "Personal dependency relation",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "吃信壳",
+      "en": "Eating letter shells (living on remittances)",
+      "category": "经济形态",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "信客",
+      "en": "Letter carrier",
+      "category": "职业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "卖身契",
+      "en": "Deed of sale",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "招赘",
+      "en": "Uxorilocal marriage",
+      "category": "婚姻制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "点主",
+      "en": "Dotting the master (funeral ritual)",
+      "category": "祭祀仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "捐官",
+      "en": "Purchasing official title",
+      "category": "政治制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "诰封",
+      "en": "Imperial patent",
+      "category": "政治制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "奉政大夫",
+      "en": "Fengzheng Daifu",
+      "category": "职官",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "朝议大夫",
+      "en": "Chaoyi Daifu",
+      "category": "职官",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "乡绅",
+      "en": "Local gentry",
+      "category": "社会阶层",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "儒商",
+      "en": "Confucian merchant",
+      "category": "社会角色",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "学塾",
+      "en": "Private school",
+      "category": "教育机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活",
+        "乡土建筑研究 - 芙蓉村",
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "清音班",
+      "en": "Qingyin opera troupe",
+      "category": "文化组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "青帮",
+      "en": "Green Gang",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "鸦片",
+      "en": "Opium",
+      "category": "社会现象",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "赵吉士",
+      "en": "Zhao Jishi",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "徽州府志",
+      "en": "Huizhou Prefecture Annals",
+      "category": "经典著作",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "黟县志",
+      "en": "Yi County Annals",
+      "category": "经典著作",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "二刻拍案惊奇",
+      "en": "Erke Pai'an Jingqi",
+      "category": "经典著作",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "夜谭随录",
+      "en": "Yetan Suilu",
+      "category": "经典著作",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 徽商村里的生活"
+      ]
+    },
+    {
+      "term": "黄土高原",
+      "en": "Loess Plateau",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原",
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "窑洞",
+      "en": "Cave dwelling (yaodong)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原",
+        "乡土建筑研究 - 到张壁村去",
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "窑院",
+      "en": "Cave courtyard",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "靠崖窑",
+      "en": "Cliff-side cave dwelling",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "地坑院",
+      "en": "Sunken courtyard (dikengyuan)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "长武",
+      "en": "Changwu",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "十里铺",
+      "en": "Shilipu Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "彬县",
+      "en": "Bin County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "泾河",
+      "en": "Jing River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "渭河",
+      "en": "Wei River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "乾陵",
+      "en": "Qianling Mausoleum",
+      "category": "考古遗址",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "社火",
+      "en": "Shehuo (folk festivities)",
+      "category": "民俗活动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "秦腔",
+      "en": "Qinqiang opera",
+      "category": "文化艺术",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "剪纸",
+      "en": "Paper-cut",
+      "category": "民间艺术",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "炕围画",
+      "en": "Kang wall painting",
+      "category": "民间艺术",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "皮影",
+      "en": "Shadow puppetry",
+      "category": "民间艺术",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "腰鼓",
+      "en": "Waist drum",
+      "category": "民间艺术",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "清明节",
+      "en": "Qingming Festival",
+      "category": "节日",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原",
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "荡秋千",
+      "en": "Swinging",
+      "category": "民俗活动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "树神回避",
+      "en": "Tree God Avoid",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "村民公约",
+      "en": "Village covenant",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "宗法家长制",
+      "en": "Patriarchal clan system",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "杂姓村",
+      "en": "Multi-surname village",
+      "category": "村落类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "胡同",
+      "en": "Hutong (alley)",
+      "category": "语言文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "塬",
+      "en": "Yuan (tableland)",
+      "category": "地理概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "沟",
+      "en": "Gully",
+      "category": "地理概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "炕",
+      "en": "Kang (heated brick bed)",
+      "category": "生活设施",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "蒸馍",
+      "en": "Steamed bun",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "面花",
+      "en": "Flower-shaped bun",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 初到黄土高原"
+      ]
+    },
+    {
+      "term": "徽州六邑",
+      "en": "Six counties of Huizhou",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "徽州文化圈",
+      "en": "Huizhou cultural circle",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "鄱阳湖",
+      "en": "Poyang Lake",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "大鄣山",
+      "en": "Dazhang Mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "浙岭",
+      "en": "Zhe Ridge",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "吴楚分源",
+      "en": "Wu-Chu Divide",
+      "category": "历史地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "盐业",
+      "en": "Salt trade",
+      "category": "商业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "典当",
+      "en": "Pawnbroking",
+      "category": "商业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "木材贸易",
+      "en": "Timber trade",
+      "category": "商业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "茶叶贸易",
+      "en": "Tea trade",
+      "category": "商业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "程朱阙里",
+      "en": "Cheng-Zhu's hometown",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "朱熹",
+      "en": "Zhu Xi",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影",
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "理学",
+      "en": "Neo-Confucianism",
+      "category": "哲学思想",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "科举",
+      "en": "Imperial examination",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "进士",
+      "en": "Jinshi (presented scholar)",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影",
+        "乡土建筑研究 - 芙蓉村",
+        "乡土建筑研究 - 九龙山下人家",
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "社学",
+      "en": "Community school",
+      "category": "教育机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "私塾",
+      "en": "Private school",
+      "category": "教育机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "市井文化",
+      "en": "Urban culture",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影",
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "四民观",
+      "en": "Four occupations hierarchy",
+      "category": "社会观念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "风水堪舆",
+      "en": "Fengshui (geomancy)",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影",
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "木雕",
+      "en": "Wood carving",
+      "category": "民间工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "石雕",
+      "en": "Stone carving",
+      "category": "民间工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "砖雕",
+      "en": "Brick carving",
+      "category": "民间工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影",
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "傩舞",
+      "en": "Nuo dance",
+      "category": "民俗活动",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影"
+      ]
+    },
+    {
+      "term": "太平军战争",
+      "en": "Taiping Rebellion",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 婺源掠影",
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "彩虹桥",
+      "en": "Caihong (Rainbow) Bridge",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "聚星桥",
+      "en": "Juxing (Gathering Stars) Bridge",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "风雨桥",
+      "en": "Covered bridge (fengyuqiao)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹",
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "石墩木梁",
+      "en": "Stone pier wooden beam",
+      "category": "建筑结构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "板凳桥",
+      "en": "Plank bridge (bandengqiao)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "桥墩",
+      "en": "Bridge pier",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "燕嘴",
+      "en": "Swallow mouth (pointed pier end)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "桥廊",
+      "en": "Bridge corridor",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "经幢",
+      "en": "Buddhist pillar (jingchuang)",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "神橱",
+      "en": "Shrine",
+      "category": "宗教设施",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "大禹",
+      "en": "Great Yu (Yu the Great)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "摩崖石刻",
+      "en": "Cliff carving",
+      "category": "文化遗产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹",
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "文彭",
+      "en": "Wen Peng",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "何震",
+      "en": "He Zhen",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "齐彦槐",
+      "en": "Qi Yanhuai",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "清华八景",
+      "en": "Eight Scenes of Qinghua",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "藻潭浸月",
+      "en": "Algae Pond Soaking Moon",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "小西湖",
+      "en": "Small West Lake",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "双河晚钓",
+      "en": "Double River Evening Fishing",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "五老峰",
+      "en": "Wulao (Five Elders) Peak",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "婺水",
+      "en": "Wu River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "清华镇",
+      "en": "Qinghua Town",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "关圣庙",
+      "en": "Guansheng (Guan Yu) Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "五显庙",
+      "en": "Wuxian Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "如意寺",
+      "en": "Ruyi Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "丁字桥",
+      "en": "Dingzi (T-shaped) Bridge",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "岳飞",
+      "en": "Yue Fei",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "榫卯",
+      "en": "Mortise and tenon joint",
+      "category": "建筑工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "结构美",
+      "en": "Structural beauty",
+      "category": "美学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "装饰美",
+      "en": "Decorative beauty",
+      "category": "美学概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 清华彩虹"
+      ]
+    },
+    {
+      "term": "芙蓉村",
+      "en": "Furong (Hibiscus) Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "芙蓉峰",
+      "en": "Furong Peak",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "陈虞之",
+      "en": "Chen Yuzhi",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "文天祥",
+      "en": "Wen Tianxiang",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村",
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "勤王",
+      "en": "Serving the king (military aid)",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "寨墙",
+      "en": "Village wall (zhaiqiang)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村",
+        "乡土建筑研究 - 苍坡村",
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "蛮石",
+      "en": "Rough stone",
+      "category": "建筑材料",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村",
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "铳眼",
+      "en": "Gun port",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "陈氏大宗祠",
+      "en": "Chen Great Ancestral Hall",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "乐台",
+      "en": "Music stage",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "如意街",
+      "en": "Ruyi Street",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "芙蓉池",
+      "en": "Furong Pool",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "芙蓉亭",
+      "en": "Furong Pavilion",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "芙蓉书院",
+      "en": "Furong Academy",
+      "category": "教育机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "司马第",
+      "en": "Sima Di (Sima Residence)",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "斗栱",
+      "en": "Dougong (bracket set)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "重檐",
+      "en": "Double eaves",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "翼角",
+      "en": "Upturned eave corner",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村",
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "十八金带",
+      "en": "Eighteen gold belts (officials)",
+      "category": "历史典故",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "状元匾",
+      "en": "Zhuangyuan (top scholar) plaque",
+      "category": "文化遗产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "谢灵运",
+      "en": "Xie Lingyun",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村",
+        "乡土建筑研究 - 重回楠溪江",
+        "乡土建筑研究 - 曲径通幽处",
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "永嘉四灵",
+      "en": "Four Spirits of Yongjia",
+      "category": "文学流派",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "赵师秀",
+      "en": "Zhao Shixiu",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "山水诗",
+      "en": "Landscape poetry",
+      "category": "文学形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "纱帽岩",
+      "en": "Gauze Hat Rock",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "三官大帝",
+      "en": "Three Officials Emperor",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "卵石",
+      "en": "Cobblestone",
+      "category": "建筑材料",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 芙蓉村"
+      ]
+    },
+    {
+      "term": "张壁村",
+      "en": "Zhangbi Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去",
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "介休",
+      "en": "Jiexiu",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去",
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "晋中盆地",
+      "en": "Jinzhong Basin",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "汾河",
+      "en": "Fen River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "龙凤河",
+      "en": "Longfeng River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "绵山",
+      "en": "Mian Mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "太行山",
+      "en": "Taihang Mountains",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "介子推",
+      "en": "Jie Zitui",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "晋文公",
+      "en": "Duke Wen of Jin",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "寒食节",
+      "en": "Cold Food Festival",
+      "category": "节日",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "大院",
+      "en": "Grand courtyard (dayuan)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "票号",
+      "en": "Piaohao (remittance bank)",
+      "category": "商业机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "瓮城",
+      "en": "Barbican (wengcheng)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "青砖城墙",
+      "en": "Blue-brick city wall",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "券门",
+      "en": "Arched gate",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "二郎庙",
+      "en": "Erlang Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "更窑",
+      "en": "Watchman cave",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "火炕",
+      "en": "Heated kang (brick bed)",
+      "category": "生活设施",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "凌空塔",
+      "en": "Lingkong Pagoda",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "姑姑塔",
+      "en": "Auntie Pagoda",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "石鼻庵",
+      "en": "Shibi Nunnery",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "德星聚",
+      "en": "De Xing Ju (Gathering of Virtuous Stars)",
+      "category": "文化遗产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "三大士殿",
+      "en": "Three Great Masters Hall",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "黄土沟壑",
+      "en": "Loess gully",
+      "category": "地理概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "黄土台地",
+      "en": "Loess terrace",
+      "category": "地理概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "灵石口",
+      "en": "Lingshi Pass",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "雀鼠谷",
+      "en": "Queshu Valley",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 到张壁村去"
+      ]
+    },
+    {
+      "term": "瓯江",
+      "en": "Ou River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江",
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "永嘉",
+      "en": "Yongjia",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "温州",
+      "en": "Wenzhou",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "雁荡山",
+      "en": "Yandang Mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "仙霞岭",
+      "en": "Xianxia Ridge",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "中原衣冠南渡",
+      "en": "Central Plains scholar migration south",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "五代十国",
+      "en": "Five Dynasties and Ten Kingdoms",
+      "category": "历史时期",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "林坑",
+      "en": "Linkeng Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江",
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "黄南",
+      "en": "Huangnan Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江",
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "上坳",
+      "en": "Shang'ao Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江",
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "岩龙村",
+      "en": "Yanlong Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "佳溪",
+      "en": "Jiaxi Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "碧莲",
+      "en": "Bilian",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "昆阳",
+      "en": "Kunyang",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "潘坑",
+      "en": "Pankeng",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "溪口戴氏",
+      "en": "Xikou Dai clan",
+      "category": "宗族",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "永嘉太守",
+      "en": "Yongjia Prefect",
+      "category": "官职",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "石门",
+      "en": "Shimen",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "石步",
+      "en": "Stepping stones",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "竹筏",
+      "en": "Bamboo raft",
+      "category": "交通工具",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "外廊",
+      "en": "Outer corridor",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "稻草屏障",
+      "en": "Rice straw barrier",
+      "category": "建筑工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "生态建筑",
+      "en": "Ecological architecture",
+      "category": "建筑概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "火盆",
+      "en": "Fire basin",
+      "category": "生活设施",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "戏台",
+      "en": "Stage (xitai)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "赵群力",
+      "en": "Zhao Qunli",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 重回楠溪江"
+      ]
+    },
+    {
+      "term": "李家坑",
+      "en": "Lijiakeng Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "理只村",
+      "en": "Lizhi Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "上塘镇",
+      "en": "Shangtang Town",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "仙居县",
+      "en": "Xianju County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "黄南乡",
+      "en": "Huangnan Township",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "四海山林场",
+      "en": "Sihai Mountain Forest Farm",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "大楠溪",
+      "en": "Great Nanxi River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "黄南溪",
+      "en": "Huangnan Stream",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "黄山溪",
+      "en": "Huangshan Stream",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "斤竹涧",
+      "en": "Jinzhu Gully",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "桃花源",
+      "en": "Peach Blossom Spring",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "陶渊明",
+      "en": "Tao Yuanming",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "武陵人",
+      "en": "Wuling fisherman",
+      "category": "文化典故",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "水口",
+      "en": "Water mouth (shuikou)",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处",
+        "乡土建筑研究 - 蓬溪村",
+        "乡土建筑研究 - 楼下村掠影",
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "石拱桥",
+      "en": "Stone arch bridge",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "蛮石墙",
+      "en": "Rough stone wall",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "腰檐",
+      "en": "Waist eave",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处",
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "美人靠",
+      "en": "Beauty rail (meirenkao)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处",
+        "乡土建筑研究 - 苍坡村",
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "大肚崖",
+      "en": "Big Belly Cliff",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "崖下溪",
+      "en": "Below-Cliff Stream",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "圣旨门",
+      "en": "Shengzhi (Imperial Edict) Gate",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "溪口村",
+      "en": "Xikou Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "龙骨水车",
+      "en": "Dragon-bone waterwheel",
+      "category": "生产工具",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "知足常乐",
+      "en": "Contentment brings happiness",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "农家乐",
+      "en": "Peasant joy (nongjiale)",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 曲径通幽处"
+      ]
+    },
+    {
+      "term": "俞源村",
+      "en": "Yuyuan Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村",
+        "乡土建筑研究 - 九龙山下人家",
+        "乡土建筑研究 - 洞主庙",
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "郭洞村",
+      "en": "Guodong Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村",
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "流坑村",
+      "en": "Liukeng Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村",
+        "乡土建筑研究 - 告别俞源村",
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "武义县",
+      "en": "Wuyi County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村",
+        "乡土建筑研究 - 九龙山下人家",
+        "乡土建筑研究 - 告别俞源村",
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "兰溪",
+      "en": "Lanxi",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "宗法家族制",
+      "en": "Patriarchal clan system",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "房派",
+      "en": "Lineage branch (fangpai)",
+      "category": "宗族结构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "支祠",
+      "en": "Branch ancestral hall (zhici)",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "香火堂",
+      "en": "Incense hall (xianghuotang)",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "大木作",
+      "en": "Major carpentry (damuzuo)",
+      "category": "建筑工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "小木作",
+      "en": "Minor carpentry (xiaomuzuo)",
+      "category": "建筑工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "歇栈",
+      "en": "Inn (xiezhan)",
+      "category": "商业建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "迎宾馆",
+      "en": "Guest house (yingbinguan)",
+      "category": "公共建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "迎玩楼",
+      "en": "Yingwan (Welcome-Play) Tower",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "贡生",
+      "en": "Gongsheng (tribute student)",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "桅杆",
+      "en": "Mast (weigan)",
+      "category": "文化遗产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "风水",
+      "en": "Fengshui (geomancy)",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村",
+        "乡土建筑研究 - 苍坡村",
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "耕读文化",
+      "en": "Farming-reading culture",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "笔墨纸砚",
+      "en": "Four treasures of study",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "琴棋书画",
+      "en": "Qin, qi, book, painting",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "聚宝盆",
+      "en": "Treasure basin",
+      "category": "文化象征",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "刘海戏金蟾",
+      "en": "Liu Hai playing with golden toad",
+      "category": "文化象征",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "洞主庙",
+      "en": "Dongzhu Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村",
+        "乡土建筑研究 - 洞主庙",
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "圆梦楼",
+      "en": "Yuanmeng (Dream-Fulfilling) Tower",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村",
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "山涧",
+      "en": "Mountain stream",
+      "category": "地理概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "钱塘大潮",
+      "en": "Qiantang tidal bore",
+      "category": "自然现象",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 俞源村"
+      ]
+    },
+    {
+      "term": "宣平县",
+      "en": "Xuanping County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家",
+        "乡土建筑研究 - 洞主庙",
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "丽水县",
+      "en": "Lishui County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "金华",
+      "en": "Jinhua",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "处州",
+      "en": "Chuzhou",
+      "category": "历史地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "括州",
+      "en": "Kuozhou",
+      "category": "历史地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "武义江",
+      "en": "Wuyi River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "金华盆地",
+      "en": "Jinhua Basin",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "武义平原",
+      "en": "Wuyi Plain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "九龙山",
+      "en": "Nine Dragons Mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "凤凰山",
+      "en": "Fenghuang (Phoenix) Mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "雪峰山",
+      "en": "Xuefeng Mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "俞川溪",
+      "en": "Yuchuan Stream",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "沉香劈山救母",
+      "en": "Chen Xiang splitting mountain to save mother",
+      "category": "民间传说",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "刘基",
+      "en": "Liu Ji (Liu Bowen)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "口袋形",
+      "en": "Pocket-shaped terrain",
+      "category": "地理概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "八景十景",
+      "en": "Eight Scenes and Ten Scenes",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "大宗祠",
+      "en": "Great ancestral hall",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "望族",
+      "en": "Prominent clan (wangzu)",
+      "category": "宗族",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "教谕",
+      "en": "Confucian school instructor",
+      "category": "官职",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "御史",
+      "en": "Censor (yushi)",
+      "category": "官职",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "多种经营",
+      "en": "Diversified farming",
+      "category": "经济概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "赶羊",
+      "en": "Timber floating (driving sheep)",
+      "category": "生产方式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家"
+      ]
+    },
+    {
+      "term": "大炼钢铁",
+      "en": "Backyard steelmaking movement",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 九龙山下人家",
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "苍坡村",
+      "en": "Cangpo Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "寨门",
+      "en": "Village gate (zhaimen)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "东池",
+      "en": "East Pool",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "西池",
+      "en": "West Pool",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "李氏大宗祠",
+      "en": "Li Great Ancestral Hall",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "笔架山",
+      "en": "Brush-rest mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村",
+        "乡土建筑研究 - 楼下村掠影",
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "砚池",
+      "en": "Inkstone pool",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "笔街",
+      "en": "Brush Street (Bijie)",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "墨锭",
+      "en": "Ink ingot (moding)",
+      "category": "文化遗产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "文房四宝",
+      "en": "Four treasures of the study",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "耕读",
+      "en": "Farming-reading (gengdu)",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "水月堂",
+      "en": "Shuiyue (Water-Moon) Hall",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "望兄亭",
+      "en": "Wangxiong (Gazing-at-Brother) Pavilion",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "送弟阁",
+      "en": "Songdi (Seeing-Off-Brother) Pavilion",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "仁济庙",
+      "en": "Renji Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "周凯",
+      "en": "Zhou Kai",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "平水圣王",
+      "en": "Pingshui (Peaceful-Water) Holy King",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "路亭",
+      "en": "Roadside pavilion",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "水阁",
+      "en": "Water pavilion (shuige)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "半月形水池",
+      "en": "Crescent-shaped pool",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "李霞溪",
+      "en": "Li Xaxi",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "李锦溪",
+      "en": "Li Jinxi",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "李秋山",
+      "en": "Li Qiushan",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "李嘉木",
+      "en": "Li Jiamu",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "童贯征辽",
+      "en": "Tong Guan's campaign against Liao",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "聚亲睦族",
+      "en": "Uniting the clan",
+      "category": "社会观念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 苍坡村"
+      ]
+    },
+    {
+      "term": "岩头村",
+      "en": "Yantou Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村",
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "献义门",
+      "en": "Xianyi Gate",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "丽水街",
+      "en": "Lishui Street",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "丽水湖",
+      "en": "Lishui Lake",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "丽水桥",
+      "en": "Lishui Bridge",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "乘风亭",
+      "en": "Chengfeng (Riding-the-Wind) Pavilion",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "接官亭",
+      "en": "Jieguan (Receiving-Official) Pavilion",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "花亭",
+      "en": "Flower Pavilion",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "琴屿",
+      "en": "Qinyu (Lute Isle)",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "镇南湖",
+      "en": "Zhennan Lake",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "进宦湖",
+      "en": "Jinhuan Lake",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "汤山",
+      "en": "Tang Mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "塔湖庙",
+      "en": "Tahu (Pagoda-Lake) Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "森秀轩",
+      "en": "Senxuan Studio",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "水亭祠",
+      "en": "Shuiting (Water-Pavilion) Shrine",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村",
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "进士牌楼",
+      "en": "Jinshi (Presented Scholar) Archway",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "进士街",
+      "en": "Jinshi Street",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "浚水街",
+      "en": "Junshui (Dredging-Water) Street",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "桂林公",
+      "en": "Guilin Gong",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "金昭",
+      "en": "Jin Zhao",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "叶适",
+      "en": "Ye Shi",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "厦廊",
+      "en": "Covered veranda",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "苏式店面",
+      "en": "Su-style storefront",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "长绛",
+      "en": "Changjiang (Long Embankment)",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "水利工程",
+      "en": "Water conservancy project",
+      "category": "工程技术",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岩头村"
+      ]
+    },
+    {
+      "term": "蓬溪村",
+      "en": "Pengxi Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "康乐公",
+      "en": "Kangle Gong",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "鹤阳村",
+      "en": "Heyang Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "东皋村",
+      "en": "Donggao Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "鹤盛溪",
+      "en": "Hesheng Stream",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "谢氏村落",
+      "en": "Xie clan villages",
+      "category": "宗族",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "矴步",
+      "en": "Stepping-stones (dingbu)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "过水明梁",
+      "en": "Water-crossing bright beam",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "霞港头",
+      "en": "Xiagangtou",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "关帝庙",
+      "en": "Guandi (Guan Yu) Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "老樟树",
+      "en": "Old camphor tree",
+      "category": "自然景观",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "康乐亭",
+      "en": "Kangle Pavilion",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "潴湖",
+      "en": "Zhuhu (Stored-Water) Lake",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "凤凰屿",
+      "en": "Phoenix Isle",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "文笔峰",
+      "en": "Wenbi (Writing-Brush) Peak",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "存著堂",
+      "en": "Cunzhu Hall",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "笔入砚池",
+      "en": "Brush entering inkstone pool",
+      "category": "风水概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "李时靖",
+      "en": "Li Shijing",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "状元街",
+      "en": "Zhuangyuan (Top-Scholar) Street",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "钓台",
+      "en": "Diaotai (Fishing Platform)",
+      "category": "文化遗产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "近云山舍",
+      "en": "Jinyun Shanshe (Near-Cloud Mountain Retreat)",
+      "category": "古代建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "袋形盆地",
+      "en": "Bag-shaped basin",
+      "category": "地理概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "栈道",
+      "en": "Plank road (zhandao)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "四合院",
+      "en": "Four-sided courtyard",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 蓬溪村"
+      ]
+    },
+    {
+      "term": "楼下村",
+      "en": "Louxia Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影",
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "南山村",
+      "en": "Nanshan Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "柏柱垟",
+      "en": "Baizhuyang",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "双峰乡",
+      "en": "Shuangfeng (Twin Peaks) Township",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "福安县",
+      "en": "Fu'an County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "狮峰寺",
+      "en": "Shifeng Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影",
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "仙宫",
+      "en": "Xian Palace (immortal palace)",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "刘氏宗祠",
+      "en": "Liu Ancestral Hall",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影",
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "王氏宗祠",
+      "en": "Wang Ancestral Hall",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影",
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "五显神庙",
+      "en": "Wuxian (Five Manifestations) Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "众厅",
+      "en": "Zhongting (Public Hall)",
+      "category": "公共建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "翠竹湖宫",
+      "en": "Cuizhu Lake Palace",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "泗洲文佛",
+      "en": "Sizhou Wenfo",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "土地公公",
+      "en": "Tudi Gong (Earth God)",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影",
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "夯土墙",
+      "en": "Rammed earth wall",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "山墙",
+      "en": "Gable wall",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "火形屏风墙",
+      "en": "Fire-shaped screen wall",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "前笔架山",
+      "en": "Front Brush-Rest Mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "后笔架山",
+      "en": "Rear Brush-Rest Mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "马上山",
+      "en": "Mashang Mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "郑虎臣",
+      "en": "Zheng Huchen",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "贾似道",
+      "en": "Jia Sidao",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "谢翱",
+      "en": "Xie Ao",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "薛令之",
+      "en": "Xue Lingzhi",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "三贤祠",
+      "en": "Three Worthies Shrine",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "寻龙先生",
+      "en": "Xunlong (Dragon-Seeking) fengshui master",
+      "category": "职业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 楼下村掠影"
+      ]
+    },
+    {
+      "term": "广化禅寺",
+      "en": "Guanghua Chan Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "福安市",
+      "en": "Fu'an City",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "木鱼",
+      "en": "Wooden fish (muyu)",
+      "category": "宗教法器",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "钟声",
+      "en": "Bell sound",
+      "category": "宗教文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "放生池",
+      "en": "Release pond (fangshengchi)",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "禅房",
+      "en": "Meditation cell (chanfang)",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "山门",
+      "en": "Mountain gate (shanmen)",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "大殿",
+      "en": "Main hall (dadian)",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "斋堂",
+      "en": "Dining hall (zhaitang)",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "晚课",
+      "en": "Evening prayers",
+      "category": "宗教仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "早课",
+      "en": "Morning prayers",
+      "category": "宗教仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "诵经",
+      "en": "Chanting scriptures",
+      "category": "宗教仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "暮鼓晨钟",
+      "en": "Evening drums and morning bells",
+      "category": "宗教文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "影壁",
+      "en": "Screen wall (yingbi)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "中山世裔",
+      "en": "Zhongshan Shiyi (Descendants of Zhongshan)",
+      "category": "文化遗产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "茶树",
+      "en": "Tea bush",
+      "category": "经济作物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "茉莉田",
+      "en": "Jasmine field",
+      "category": "经济作物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "榕树",
+      "en": "Banyan tree",
+      "category": "自然景观",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "水竹",
+      "en": "Water bamboo",
+      "category": "自然景观",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "佛手瓜",
+      "en": "Chayote",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "香菇",
+      "en": "Shiitake mushroom",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "龙头鱼",
+      "en": "Dragon-head fish",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "番薯稀粥",
+      "en": "Sweet potato porridge",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "芋头",
+      "en": "Taro",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "孙瑶",
+      "en": "Sun Yao",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 狮峰寺一日"
+      ]
+    },
+    {
+      "term": "岭南",
+      "en": "Lingnan (southern China)",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "梅县",
+      "en": "Meixian",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "梅州市",
+      "en": "Meizhou City",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "客家村落",
+      "en": "Hakka village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "侨乡村",
+      "en": "Qiaoxiang (Overseas Chinese) Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬",
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "寺前排",
+      "en": "Siqianpai Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "高田",
+      "en": "Gaotian Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "塘肚",
+      "en": "Tangdu Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "南口镇",
+      "en": "Nankou Town",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "围龙屋",
+      "en": "Weilongwu (enclosed dragon house)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "客家围龙屋",
+      "en": "Hakka weilongwu",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "泥水工",
+      "en": "Plasterer (mason)",
+      "category": "职业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "地理师",
+      "en": "Geomancer (fengshui master)",
+      "category": "职业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "族谱",
+      "en": "Clan genealogy (zupu)",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "潘氏谱系",
+      "en": "Pan clan genealogy",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "陈婆太",
+      "en": "Chen Potai",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "永发公",
+      "en": "Yongfa Gong",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "三星山",
+      "en": "Sanxing (Three Stars) Mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "三星寨",
+      "en": "Sanxingzhai",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "兴宁",
+      "en": "Xingning",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "汕头",
+      "en": "Shantou",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "一品红",
+      "en": "Poinsettia",
+      "category": "植物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "柚子",
+      "en": "Pomelo",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "凤尾竹",
+      "en": "Phoenix bamboo",
+      "category": "植物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "丫环",
+      "en": "Maidservant",
+      "category": "社会阶层",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "屯家婆",
+      "en": "Tunjiapo (rooster-married woman)",
+      "category": "社会习俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "华侨",
+      "en": "Overseas Chinese",
+      "category": "社会群体",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "供销社",
+      "en": "Supply and marketing cooperative",
+      "category": "机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "年报",
+      "en": "Annual report",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 岭南的暖冬"
+      ]
+    },
+    {
+      "term": "洞主殿",
+      "en": "Dongzhu Hall",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "龙宫山",
+      "en": "Longgong (Dragon Palace) Mountain",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "清源妙道真君",
+      "en": "Qingyuan Miaodao Zhenjun",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "祈梦",
+      "en": "Dream-praying",
+      "category": "宗教仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "清幽阁",
+      "en": "Qingyou Pavilion",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "庙会",
+      "en": "Temple fair",
+      "category": "宗教仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "社戏",
+      "en": "Community opera",
+      "category": "文化习俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙",
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "李冰",
+      "en": "Li Bing",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "都江堰",
+      "en": "Dujiangyan",
+      "category": "水利工程",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "二郎神",
+      "en": "Erlang god",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "沉香",
+      "en": "Chenxiang",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "杨戬",
+      "en": "Yang Jian",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "赵昱",
+      "en": "Zhao Yu",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "三姓社主",
+      "en": "Three-Surname Community Lord",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "沉香救母",
+      "en": "Chenxiang Rescues Mother",
+      "category": "民间传说",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "细腰葫芦",
+      "en": "Narrow-waist gourd",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "拐子龙",
+      "en": "Guaizilong (curved dragon pattern)",
+      "category": "建筑装饰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "开光",
+      "en": "Consecration (kaiguang)",
+      "category": "宗教仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "擎台阁",
+      "en": "Pavilion procession (qingtaige)",
+      "category": "文化习俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙",
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "夏禹王",
+      "en": "King Yu of Xia",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "文昌帝君",
+      "en": "Wenchang Emperor",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "关公",
+      "en": "Guan Gong (Lord Guan)",
+      "category": "信仰文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "庙祝",
+      "en": "Temple keeper",
+      "category": "职业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙",
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "香火田",
+      "en": "Incense fields (temple land)",
+      "category": "土地制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "陆游",
+      "en": "Lu You",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 洞主庙"
+      ]
+    },
+    {
+      "term": "俞氏大宗祠",
+      "en": "Yu Great Ancestral Hall",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "刘伯温",
+      "en": "Liu Bowen",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "古村落保护",
+      "en": "Ancient village protection",
+      "category": "保护理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "旅游业",
+      "en": "Tourism",
+      "category": "经济产业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "政绩",
+      "en": "Political achievements",
+      "category": "政治文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "经济效益",
+      "en": "Economic benefit",
+      "category": "经济概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "涂志刚",
+      "en": "Tu Zhigang",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "俞耀宗",
+      "en": "Yu Yaozong",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "俞步升",
+      "en": "Yu Busheng",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "俞文清",
+      "en": "Yu Wenqing",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "龙灯",
+      "en": "Dragon lantern",
+      "category": "民俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村",
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "清明馃子",
+      "en": "Qingming dumpling",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "蒿草芽",
+      "en": "Mugwort sprout",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "山芋",
+      "en": "Sweet potato",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "茶籽油",
+      "en": "Tea-seed oil",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "细篾葫芦",
+      "en": "Fine-bamboo-covered gourd",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "俞氏宗谱",
+      "en": "Yu clan genealogy",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "李氏宗谱",
+      "en": "Li clan genealogy",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "土地改革",
+      "en": "Land reform",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "鸭绿江",
+      "en": "Yalu River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "小楷",
+      "en": "Small regular script (xiaokai)",
+      "category": "书法",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "祖像",
+      "en": "Ancestor portrait",
+      "category": "文化遗产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 告别俞源村"
+      ]
+    },
+    {
+      "term": "福宝镇",
+      "en": "Fubao Town",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "哥老会",
+      "en": "Gelaohui (Elder Brothers Society)",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "袍哥",
+      "en": "Paoge (robed brother)",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "舵把子",
+      "en": "Duobazi (helmsman)",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "堂口",
+      "en": "Tangkou (branch)",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "仁号",
+      "en": "Ren-hao (Benevolence branch)",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "义号",
+      "en": "Yi-hao (Righteousness branch)",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "礼号",
+      "en": "Li-hao (Propriety branch)",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "智号",
+      "en": "Zhi-hao (Wisdom branch)",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "茶馆",
+      "en": "Teahouse",
+      "category": "公共建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "摆龙门阵",
+      "en": "Bai Longmen Zhen (chatting)",
+      "category": "文化习俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "天禄阁",
+      "en": "Tianlu Pavilion",
+      "category": "公共建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "长乐社",
+      "en": "Changle Society",
+      "category": "公共建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "白茶",
+      "en": "White tea",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "豆腐干",
+      "en": "Dried tofu",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "酥饼",
+      "en": "Crisp cake",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "土匪",
+      "en": "Bandit",
+      "category": "社会群体",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "拉肥猪",
+      "en": "La Feizhu (kidnapping)",
+      "category": "社会现象",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "碉楼",
+      "en": "Watchtower (diaolou)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起",
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "砦门",
+      "en": "Zhai gate (fortified gate)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "湖广实四川",
+      "en": "Huguang filling Sichuan (migration)",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "反清复明",
+      "en": "Overthrow Qing, restore Ming",
+      "category": "历史口号",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "单刀会",
+      "en": "Single Sword Meeting",
+      "category": "宗教仪式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "吃讲茶",
+      "en": "Eating mediation tea",
+      "category": "社会习俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "切口",
+      "en": "Qiekou (argot/slang)",
+      "category": "语言文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "背篼",
+      "en": "Beidou (back basket)",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "范绍增",
+      "en": "Fan Shaozeng (Fan Ha'er)",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "李劼人",
+      "en": "Li Jieren",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "沙汀",
+      "en": "Sha Ting",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起"
+      ]
+    },
+    {
+      "term": "合江县",
+      "en": "Hejiang County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 从哥老会说起",
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "福宝场",
+      "en": "Fubao Market Town",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "回龙街",
+      "en": "Huilong Street",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "王瑗",
+      "en": "Wang Yuan",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "独脚坟",
+      "en": "One-Foot Tomb",
+      "category": "文化遗产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "原始森林",
+      "en": "Primeval forest",
+      "category": "自然环境",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "常绿阔叶林",
+      "en": "Evergreen broadleaf forest",
+      "category": "自然环境",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "福宝林场",
+      "en": "Fubao Forest Farm",
+      "category": "机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "天然林保护",
+      "en": "Natural forest protection",
+      "category": "保护理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "天保工程",
+      "en": "Natural Forest Protection Project",
+      "category": "保护工程",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "世界银行贷款",
+      "en": "World Bank loan",
+      "category": "经济概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "成渝铁路",
+      "en": "Chengdu-Chongqing Railway",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "楠竹",
+      "en": "Moso bamboo (nanzhu)",
+      "category": "植物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "橘子",
+      "en": "Orange",
+      "category": "经济作物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "白沙场",
+      "en": "Baisha Market",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "打工经济",
+      "en": "Migrant worker economy",
+      "category": "经济概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "打工仔",
+      "en": "Migrant worker (male)",
+      "category": "社会群体",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "打工妹",
+      "en": "Migrant worker (female)",
+      "category": "社会群体",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "双河街",
+      "en": "Shuanghe Street",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "美容美发店",
+      "en": "Beauty and hair salon",
+      "category": "服务业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "VCD",
+      "en": "VCD (video CD)",
+      "category": "技术",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "网吧",
+      "en": "Internet cafe",
+      "category": "服务业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "程控电话",
+      "en": "Program-controlled telephone",
+      "category": "技术",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "长途卧车",
+      "en": "Long-distance sleeper bus",
+      "category": "交通",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "李白",
+      "en": "Li Bai",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "长干行",
+      "en": "Ballad of Changgan",
+      "category": "文学作品",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "五龙抱珠",
+      "en": "Five dragons embracing pearl",
+      "category": "风水概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场"
+      ]
+    },
+    {
+      "term": "现代化",
+      "en": "Modernization",
+      "category": "社会概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 走好，福宝场",
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "碛口",
+      "en": "Qikou",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "临县",
+      "en": "Lin County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "吕梁地区",
+      "en": "Lüliang Region",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "黄河",
+      "en": "Yellow River",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "窑洞村落",
+      "en": "Cave-dwelling village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "李家山",
+      "en": "Lijiashan Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "西湾",
+      "en": "Xiwan Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "招贤镇",
+      "en": "Zhaoxian Town",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "瓷窑沟",
+      "en": "Porcelain kiln gully",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "黑龙庙",
+      "en": "Heilong (Black Dragon) Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "西云寺",
+      "en": "Xiyun Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "货栈",
+      "en": "Warehouse (huozhan)",
+      "category": "商业建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "过载店",
+      "en": "Transit shop (guozaidian)",
+      "category": "商业建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "油筏子",
+      "en": "Oil raft",
+      "category": "交通工具",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "老艄",
+      "en": "Old boatman",
+      "category": "职业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "伞头秧歌",
+      "en": "Umbrella-head yangko",
+      "category": "民俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "滩枣",
+      "en": "Beach jujube",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "莜面",
+      "en": "Oat noodles (youmian)",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "荞面",
+      "en": "Buckwheat noodles (qiaomian)",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "饸饹",
+      "en": "Heluo (noodles)",
+      "category": "饮食文化",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "墀头",
+      "en": "Chitou (gable end decoration)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "侯克捷",
+      "en": "Hou Kejie",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "王成军",
+      "en": "Wang Chengjun",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "王洪廷",
+      "en": "Wang Hongting",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "乡土建筑研究 - 碛口恋"
+      ]
+    },
+    {
+      "term": "郭峪村",
+      "en": "Guoyu Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序",
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "阳城县",
+      "en": "Yangcheng County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "山西省",
+      "en": "Shanxi Province",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "石碑",
+      "en": "Stone stele",
+      "category": "文化遗产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "碑文",
+      "en": "Stele inscription",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "地方志",
+      "en": "Local gazetteer",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "二十四史",
+      "en": "Twenty-Four Histories",
+      "category": "文献",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "梁启超",
+      "en": "Liang Qichao",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "杂姓村落",
+      "en": "Multi-surname village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "社",
+      "en": "She (village association)",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "会",
+      "en": "Hui (village society)",
+      "category": "社会组织",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "公议",
+      "en": "Public discussion (gongyi)",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "谱师",
+      "en": "Genealogy master (pushi)",
+      "category": "职业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "阳城帮",
+      "en": "Yangcheng merchant gang",
+      "category": "商帮",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "陈廷敬",
+      "en": "Chen Tingjing",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序",
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "张鹏云",
+      "en": "Zhang Pengyun",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "张好古",
+      "en": "Zhang Haogu",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "李自成",
+      "en": "Li Zicheng",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "豫楼",
+      "en": "Yulou (watchtower)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "汤帝庙",
+      "en": "Tang Emperor Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "侍郎寨",
+      "en": "Shilangzhai (Minister's Fortress)",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "破四旧",
+      "en": "Destroy the Four Olds",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "人民公社",
+      "en": "People's Commune",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序"
+      ]
+    },
+    {
+      "term": "煤铁",
+      "en": "Coal and iron",
+      "category": "矿产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《古村郭峪碑文集》序",
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "门窗格子",
+      "en": "Door and window latticework",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "江南",
+      "en": "Jiangnan (southern Yangtze)",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "明清",
+      "en": "Ming-Qing dynasties",
+      "category": "历史时期",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "扁担",
+      "en": "Carrying pole (biandan)",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "搓麻线",
+      "en": "Twisting hemp thread",
+      "category": "手工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "谷箩",
+      "en": "Grain basket (guluo)",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "鸡笼",
+      "en": "Chicken coop",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "水葫芦",
+      "en": "Water gourd",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "针线笸箩",
+      "en": "Sewing basket",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "料槽",
+      "en": "Feed trough",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "石磙",
+      "en": "Stone roller",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "扣环",
+      "en": "Tethering ring",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "牛腿",
+      "en": "Corbel (niutui)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "梁托",
+      "en": "Beam bracket",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "晓道",
+      "en": "Xiaodao",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "宁海县",
+      "en": "Ninghai County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序",
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "十里红妆",
+      "en": "Ten Miles of Red Dowry",
+      "category": "文化遗产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "朱砂漆",
+      "en": "Cinnabar lacquer",
+      "category": "工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "东阳",
+      "en": "Dongyang",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "泰顺",
+      "en": "Taishun",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "农民工匠",
+      "en": "Farmer-craftsman",
+      "category": "职业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "乡土文化遗产",
+      "en": "Rural cultural heritage",
+      "category": "文化遗产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "民间工艺",
+      "en": "Folk craft",
+      "category": "工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "吉祥寓意",
+      "en": "Auspicious meaning",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "万方安和",
+      "en": "All directions peace",
+      "category": "吉祥语",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "福寿绵长",
+      "en": "Fortune and longevity long",
+      "category": "吉祥语",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "瓜瓞绵绵",
+      "en": "Melons continuous",
+      "category": "吉祥语",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "油灯架",
+      "en": "Oil lamp stand",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "手炉",
+      "en": "Hand warmer",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《江南明清门窗格子》序"
+      ]
+    },
+    {
+      "term": "太行古村落",
+      "en": "Taihang ancient villages",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "晋城市",
+      "en": "Jincheng City",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "泽州",
+      "en": "Zezhou",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "晋东南",
+      "en": "Southeastern Shanxi (Jindongnan)",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "砥泊城",
+      "en": "Dipo City",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "黄城村",
+      "en": "Huangcheng Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "湘峪",
+      "en": "Xiangyu Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "西文兴村",
+      "en": "Xiwenxing Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "侯庄赵家",
+      "en": "Houzhuang Zhao family",
+      "category": "商帮",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "泽潞商帮",
+      "en": "Ze-Lu merchant gang",
+      "category": "商帮",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "炼铁",
+      "en": "Iron smelting",
+      "category": "手工业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "坩埚",
+      "en": "Crucible",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "无烟煤",
+      "en": "Anthracite",
+      "category": "矿产",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "琉璃",
+      "en": "Glazed tile (liuli)",
+      "category": "建筑装饰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "蚕丝",
+      "en": "Silk",
+      "category": "经济作物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "铸铁",
+      "en": "Cast iron",
+      "category": "手工业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "打铁花",
+      "en": "Iron flower throwing",
+      "category": "民俗",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "王国光",
+      "en": "Wang Guoguang",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "张敦仁",
+      "en": "Zhang Dunren",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "文庙",
+      "en": "Confucian Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "跑马廊",
+      "en": "Horse-racing gallery",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "外挑敞廊",
+      "en": "Outward-projecting open corridor",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "堡寨",
+      "en": "Fortress (baozhai)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "真实性",
+      "en": "Authenticity",
+      "category": "保护理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《走近太行古村落》序"
+      ]
+    },
+    {
+      "term": "宁海古戏台",
+      "en": "Ninghai ancient opera stages",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "浙江省",
+      "en": "Zhejiang Province",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "庙宇戏台",
+      "en": "Temple opera stage",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "祠堂戏台",
+      "en": "Ancestral hall opera stage",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "万年台",
+      "en": "Wannian Tai (permanent stage)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "藻井",
+      "en": "Caisson (zaojing)",
+      "category": "建筑构件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "鸡笼顶",
+      "en": "Chicken cage top (caisson type)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "百鸟朝凤",
+      "en": "Hundred birds paying homage to phoenix (caisson type)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "厢楼",
+      "en": "Wing tower",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "城隍庙",
+      "en": "City God Temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "徐培良",
+      "en": "Xu Peiliang",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "新昌县",
+      "en": "Xinchang County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "绍兴县",
+      "en": "Shaoxing County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "北宋",
+      "en": "Northern Song dynasty",
+      "category": "历史时期",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "红娘",
+      "en": "Hong Niang (matchmaker)",
+      "category": "文学人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "西厢记",
+      "en": "Romance of the Western Chamber",
+      "category": "文学作品",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "七七事变",
+      "en": "July 7 Incident (Marco Polo Bridge Incident)",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "土改",
+      "en": "Land reform",
+      "category": "历史事件",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "国家级文物保护单位",
+      "en": "National-level cultural relic protection unit",
+      "category": "保护制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "木作",
+      "en": "Woodwork (muzuo)",
+      "category": "工艺",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "匠师",
+      "en": "Craftsman (jiangshi)",
+      "category": "职业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "院坝",
+      "en": "Courtyard (yuanba)",
+      "category": "建筑空间",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "文化自强",
+      "en": "Cultural self-strengthening",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《宁海古戏台》序"
+      ]
+    },
+    {
+      "term": "乡土屏南",
+      "en": "Vernacular Pingnan",
+      "category": "著作",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "屏南县",
+      "en": "Pingnan County",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "福建省",
+      "en": "Fujian Province",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序",
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "武夷山",
+      "en": "Wuyi Mountain",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "白水洋",
+      "en": "Baishuiyang",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "双溪镇",
+      "en": "Shuangxi Town",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "周芬芳",
+      "en": "Zhou Fenfang",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "王多兴",
+      "en": "Wang Duoxing",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "乡土寿宁",
+      "en": "Vernacular Shouning",
+      "category": "著作",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "宗族制度",
+      "en": "Clan system",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "科举制度",
+      "en": "Imperial examination system",
+      "category": "社会制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "泛神崇拜",
+      "en": "Pantheistic worship",
+      "category": "宗教信仰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "农业社会",
+      "en": "Agricultural society",
+      "category": "社会形态",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "文化遗产",
+      "en": "Cultural heritage",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "历史责任",
+      "en": "Historical responsibility",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "梁底题款",
+      "en": "Inscription under beam",
+      "category": "建筑装饰",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "基本形制",
+      "en": "Basic form",
+      "category": "建筑概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "选址",
+      "en": "Site selection",
+      "category": "建筑概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "布局",
+      "en": "Layout",
+      "category": "建筑概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "民间匠人",
+      "en": "Folk craftsman",
+      "category": "职业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "能工巧匠",
+      "en": "Skilled craftsman",
+      "category": "职业",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "新文化",
+      "en": "New culture",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "地方文化",
+      "en": "Local culture",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "文化积淀",
+      "en": "Cultural accumulation",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "敬业精神",
+      "en": "Professional dedication",
+      "category": "品质",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "责任心",
+      "en": "Sense of responsibility",
+      "category": "品质",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "建筑史书",
+      "en": "Architecture as history book",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "乡土深情",
+      "en": "Deep vernacular affection",
+      "category": "情感",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "文化携带者",
+      "en": "Cultural carrier",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《乡土屏南》序"
+      ]
+    },
+    {
+      "term": "福建土楼",
+      "en": "Fujian tulou (earth buildings)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "土楼",
+      "en": "Tulou (earth building)",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "黄汉民",
+      "en": "Huang Hanmin",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "陈立慕",
+      "en": "Chen Limu",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "福建南部",
+      "en": "Southern Fujian",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "世界文化遗产",
+      "en": "World Cultural Heritage",
+      "category": "保护制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "申遗",
+      "en": "World Heritage nomination",
+      "category": "保护制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "历史文化名村",
+      "en": "Historical-cultural famous village",
+      "category": "保护制度",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "建筑设计院",
+      "en": "Architectural Design Institute",
+      "category": "机构",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "硕士论文",
+      "en": "Master's thesis",
+      "category": "学术",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "乡土建筑研究",
+      "en": "Vernacular architecture research",
+      "category": "学术领域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "学术空气",
+      "en": "Academic atmosphere",
+      "category": "学术概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "地区分布",
+      "en": "Regional distribution",
+      "category": "研究内容",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "建造年代",
+      "en": "Construction era",
+      "category": "研究内容",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "保护办法",
+      "en": "Protection methods",
+      "category": "保护理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "整体保护",
+      "en": "Overall protection",
+      "category": "保护理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "村落保护",
+      "en": "Village protection",
+      "category": "保护理念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "辅助建筑",
+      "en": "Auxiliary building",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "牛棚",
+      "en": "Cattle shed",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "猪栏",
+      "en": "Pigsty",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "磨坊",
+      "en": "Mill",
+      "category": "建筑类型",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "土地庙",
+      "en": "Earth God temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "天后宫",
+      "en": "Tianhou (Mazu) temple",
+      "category": "宗教建筑",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "水塘",
+      "en": "Pond",
+      "category": "建筑元素",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "圆楼",
+      "en": "Round tulou",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "方楼",
+      "en": "Square tulou",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "月牙形",
+      "en": "Crescent-shaped",
+      "category": "建筑形式",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《福建土楼建筑》序"
+      ]
+    },
+    {
+      "term": "故园",
+      "en": "Hometown (Guyuan)",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "远去的家园",
+      "en": "Fading home",
+      "category": "文化概念",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "李玉祥",
+      "en": "Li Yuxiang",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "玉祥",
+      "en": "Yuxiang",
+      "category": "人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "林坑村",
+      "en": "Linkeng Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "凤凰卫视",
+      "en": "Phoenix TV",
+      "category": "媒体",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "寻找远去的家园",
+      "en": "Searching for the Fading Home",
+      "category": "电视节目",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "农业民族",
+      "en": "Agricultural nation",
+      "category": "社会形态",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "南京",
+      "en": "Nanjing",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "鸭血汤",
+      "en": "Duck blood soup",
+      "category": "饮食",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "河北平原",
+      "en": "Hebei Plain",
+      "category": "地理",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "男耕女织",
+      "en": "Men plow women weave",
+      "category": "社会分工",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "歌谣",
+      "en": "Ballad",
+      "category": "民间文学",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "扁豆花",
+      "en": "Hyacinth Bean Flower (ballad)",
+      "category": "民间文学",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "水碓",
+      "en": "Water-powered mill (shuidui)",
+      "category": "器物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "白薯",
+      "en": "Sweet potato",
+      "category": "农作物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "徽州",
+      "en": "Huizhou",
+      "category": "地理区域",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "老房子",
+      "en": "Old Houses (book)",
+      "category": "著作",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "广东梅县",
+      "en": "Meixian, Guangdong",
+      "category": "行政区划",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "楠溪江中游古村落",
+      "en": "Ancient Villages of Middle Nanxi River",
+      "category": "著作",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "花坦村",
+      "en": "Huatan Village",
+      "category": "古代村落",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    },
+    {
+      "term": "拜伦",
+      "en": "Byron",
+      "category": "历史人物",
+      "definition_zh": "",
+      "definition_en": "",
+      "sources": [
+        "序跋选摘 - 《故园——远去的家园》序"
+      ]
+    }
+  ]
+}

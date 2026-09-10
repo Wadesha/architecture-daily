@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "cn": "吊脚楼",
+    "en": "Stilt House (Diaojiaolou)",
+    "category": "建筑结构",
+    "def_zh": "吊脚楼是鄂西土家族、苗族等少数民族的传统民居形式，属于干栏式建筑的一种。房屋依山而建，后半部分接地，前半部分以木柱支撑悬空，形成'吊脚'。吊脚楼多为穿斗式木结构，屋顶为歇山顶或悬山顶，上铺小青瓦。吊脚楼适应了鄂西山区的地形和气候，具有通风防潮、防虫蛇、节约耕地等优点，是土家族建筑文化的代表。",
+    "def_en": "Stilt houses (diaojiaolou) are traditional residences of the Tujia, Miao, and other ethnic minorities in western Hubei, a type of stilt (ganlan) architecture. Built along hillsides, the rear half rests on the ground while the front half is supported by wooden pillars悬空, creating 'hanging feet.' Mostly in column-and-tie wooden structure with hip-and-gable or overhanging gable roofs covered with small grey tiles. Stilt houses adapt to the terrain and climate of western Hubei's mountainous regions, offering ventilation, moisture protection, pest and snake prevention, and farmland conservation—representing Tujia architectural culture.",
+    "examples": "恩施土司城、利川大水井、咸丰黄金洞",
+    "related": [
+      "干栏式建筑",
+      "土司城",
+      "土家族",
+      "穿斗式"
+    ]
+  },
+  {
+    "id": 2,
+    "cn": "穿斗式",
+    "en": "Column-and-Tie Structure (Chuandoushi)",
+    "category": "建筑结构",
+    "def_zh": "穿斗式是中国南方传统建筑的主要木结构形式，以柱子直接承檩，柱子之间用穿枋串联，形成整体框架。与抬梁式不同，穿斗式不用大梁，柱子较密，结构轻巧，适合南方多雨潮湿的气候。湖北鄂西土家族吊脚楼和鄂南民居多采用穿斗式结构，是湖北民间建筑的主要结构形式。",
+    "def_en": "Column-and-tie structure (chuandoushi) is the main wooden structural form of traditional southern Chinese architecture, with columns directly supporting purlins and columns connected by tie beams to form an integral frame. Unlike the post-and-lintel style, column-and-tie structure uses no large beams, has denser columns, and is lightweight—suited to the rainy and humid southern climate. Tujia stilt houses in western Hubei and residences in southern Hubei mostly use column-and-tie structure, the main structural form of Hubei folk architecture.",
+    "examples": "恩施吊脚楼、咸宁古民居、黄冈古民居",
+    "related": [
+      "吊脚楼",
+      "抬梁式",
+      "干栏式建筑",
+      "鄂派民居"
+    ]
+  },
+  {
+    "id": 3,
+    "cn": "抬梁式",
+    "en": "Post-and-Lintel Structure (Tailiangshi)",
+    "category": "建筑结构",
+    "def_zh": "抬梁式是中国北方和官式建筑的主要木结构形式，在柱上抬梁，梁上承檩，形成大跨度空间。抬梁式结构可以获得较大的室内空间，适合宫殿、寺庙等大型建筑。湖北的官式建筑如武当山宫殿、明显陵、荆州文庙等多采用抬梁式结构，与民间的穿斗式形成对比。",
+    "def_en": "Post-and-lintel structure (tailiangshi) is the main wooden structural form of northern Chinese and official architecture, with beams resting on columns and purlins on beams to create large-span spaces. Post-and-lintel structure allows larger interior spaces, suited to palaces and temples. Official buildings in Hubei such as Wudang Mountain palaces, Xianling Mausoleum, and Jingzhou Confucian Temple mostly use post-and-lintel structure, contrasting with the folk column-and-tie style.",
+    "examples": "武当山紫霄宫、明显陵、荆州文庙",
+    "related": [
+      "穿斗式",
+      "斗拱",
+      "官式建筑",
+      "武当山"
+    ]
+  },
+  {
+    "id": 4,
+    "cn": "斗拱",
+    "en": "Bracket Set (Dougong)",
+    "category": "建筑结构",
+    "def_zh": "斗拱是中国古代建筑中柱梁之间的承重和装饰构件，由方形的斗、弓形的拱、斜向的昂组成。湖北地区的斗拱在继承中原传统的基础上形成了地方特色，武当山明代官式建筑的斗拱保留了明代官式特征，而民间建筑的斗拱则趋于简化和装饰化。湖北宋代建筑如当阳玉泉寺铁塔、黄梅五祖寺的斗拱是研究中国古代建筑的重要实物。",
+    "def_en": "Bracket sets (dougong) are load-bearing and decorative components between columns and beams in ancient Chinese architecture, consisting of square dou, bow-shaped gong, and diagonal ang. Hubei bracket sets developed local characteristics while inheriting Central Plains traditions; the Ming official-style bracket sets of Wudang Mountain preserve Ming official features, while folk building bracket sets tend to be simplified and decorative. Song dynasty buildings in Hubei such as the Yuquan Temple Iron Pagoda in Dangyang and Wuzu Temple in Huangmei are important artifacts for studying ancient Chinese architecture.",
+    "examples": "武当山金顶、当阳玉泉寺、黄梅五祖寺",
+    "related": [
+      "抬梁式",
+      "官式建筑",
+      "武当山",
+      "宋代建筑"
+    ]
+  },
+  {
+    "id": 5,
+    "cn": "歇山顶",
+    "en": "Hip-and-Gable Roof (Xieshanding)",
+    "category": "建筑结构",
+    "def_zh": "歇山顶是中国古代建筑的屋顶形式之一，由一条正脊、四条垂脊和四条戗脊组成，屋面有九个脊，又称'九脊顶'。歇山顶有单檐和重檐之分，等级仅次于庑殿顶，常用于宫殿、寺庙的重要建筑。湖北地区的寺庙、祠堂、会馆等多采用歇山顶，武当山紫霄宫大殿、武汉归元寺大雄宝殿等都是歇山顶的代表。",
+    "def_en": "Hip-and-gable roof (xieshanding) is one of the roof forms of ancient Chinese architecture, consisting of one main ridge, four vertical ridges, and four diagonal ridges—nine ridges total, also called 'nine-ridge roof.' Available in single-eave and double-eave versions, its rank is second only to the hip roof, commonly used for important palace and temple buildings. Temples, ancestral halls, and guildhalls in Hubei mostly use hip-and-gable roofs; the Zixiao Palace Main Hall at Wudang Mountain and the Mahavira Hall of Guiyuan Temple in Wuhan are representative examples.",
+    "examples": "武当山紫霄宫、武汉归元寺、荆州关帝庙",
+    "related": [
+      "庑殿顶",
+      "攒尖顶",
+      "悬山顶",
+      "硬山顶"
+    ]
+  },
+  {
+    "id": 6,
+    "cn": "庑殿顶",
+    "en": "Hip Roof (Wudianding)",
+    "category": "建筑结构",
+    "def_zh": "庑殿顶是中国古代建筑最高等级的屋顶形式，由一条正脊和四条垂脊组成，屋面为四面坡，又称'四阿顶'。庑殿顶有单檐和重檐之分，重檐庑殿顶为最高等级，仅用于皇宫和最高级寺庙。湖北地区的庑殿顶建筑较少，武当山金顶为铜铸仿木构重檐庑殿顶，是湖北等级最高的建筑屋顶。",
+    "def_en": "Hip roof (wudianding) is the highest-grade roof form of ancient Chinese architecture, consisting of one main ridge and four vertical ridges with a four-slope roof, also called 'four-eave roof.' Available in single-eave and double-eave versions, the double-eave hip roof is the highest grade, used only for imperial palaces and the highest-ranking temples. Hip roof buildings are relatively rare in Hubei; the Golden Summit of Wudang Mountain is a bronze cast imitating wooden double-eave hip roof, the highest-grade building roof in Hubei.",
+    "examples": "武当山金顶",
+    "related": [
+      "歇山顶",
+      "攒尖顶",
+      "武当山",
+      "官式建筑"
+    ]
+  },
+  {
+    "id": 7,
+    "cn": "攒尖顶",
+    "en": "Pyramidal Roof (Zanjianding)",
+    "category": "建筑结构",
+    "def_zh": "攒尖顶是中国古代建筑的屋顶形式之一，屋面在顶部交汇于一点，形成尖顶，没有正脊。攒尖顶有圆形、方形、六角形、八角形等，常用于亭、阁、塔等建筑。湖北地区的攒尖顶建筑较多，黄鹤楼为四角攒尖顶，武汉古琴台、襄阳古隆中的亭阁等也多采用攒尖顶。",
+    "def_en": "Pyramidal roof (zanjianding) is one of the roof forms of ancient Chinese architecture, with the roof surface converging at a single point at the top to form a pointed roof without a main ridge. Available in round, square, hexagonal, and octagonal forms, it is commonly used for pavilions, towers, and pagodas. Hubei has many pyramidal roof buildings; the Yellow Crane Tower has a four-corner pyramidal roof, and pavilions at Wuhan's Guqin Terrace and Xiangyang's Gulongzhong also use pyramidal roofs.",
+    "examples": "黄鹤楼、武汉古琴台、襄阳古隆中",
+    "related": [
+      "歇山顶",
+      "庑殿顶",
+      "楼阁",
+      "亭"
+    ]
+  },
+  {
+    "id": 8,
+    "cn": "封火山墙",
+    "en": "Fire Wall (Fenghuo Shanqiang)",
+    "category": "建筑结构",
+    "def_zh": "封火山墙是湖北传统民居中高出屋顶的墙体，主要功能是防止火灾蔓延，同时具有装饰作用。湖北地区的封火山墙形式多样，有阶梯状的马头墙、弧形的观音兜、人字形的猫拱背等。鄂东地区的封火山墙受徽派建筑影响，多为阶梯状马头墙；鄂南地区则有独特的猫拱背形式。封火山墙是湖北民居最显著的外部特征之一。",
+    "def_en": "Fire walls (fenghuo shanqiang) are walls rising above the roof in traditional Hubei residences, with the main function of preventing fire spread while also serving decorative purposes. Hubei fire walls have diverse forms, including stepped horse-head walls, curved Guanyin兜, and herringbone cat-arch backs. Fire walls in eastern Hubei are influenced by Huizhou architecture, mostly stepped horse-head walls; southern Hubei has the unique cat-arch back form. Fire walls are one of the most distinctive external features of Hubei residences.",
+    "examples": "黄冈古民居、咸宁古民居、鄂州古民居",
+    "related": [
+      "马头墙",
+      "鄂派民居",
+      "天井院",
+      "穿斗式"
+    ]
+  },
+  {
+    "id": 9,
+    "cn": "马头墙",
+    "en": "Horse-Head Wall (Matouqiang)",
+    "category": "建筑结构",
+    "def_zh": "马头墙是封火山墙的一种，因墙顶形似马头而得名，呈阶梯状，高出屋顶。马头墙起源于徽派建筑，在湖北鄂东地区广泛使用，是湖北民居受徽派建筑影响的重要标志。马头墙有三山式、五山式、七山式等，墙顶通常有瓦当和脊饰，墙面刷白灰，与青瓦形成对比。",
+    "def_en": "Horse-head walls (matouqiang) are a type of fire wall, named for their horse-head-shaped wall tops in a stepped form rising above the roof. Originating from Huizhou architecture, they are widely used in eastern Hubei, an important sign of Huizhou influence on Hubei residences. Horse-head walls have three-step, five-step, and seven-step forms, with tile ends and ridge decorations on top and whitewashed walls contrasting with dark tiles.",
+    "examples": "黄冈红安古民居、麻城古民居、罗田古民居",
+    "related": [
+      "封火山墙",
+      "徽派建筑",
+      "鄂派民居",
+      "天井院"
+    ]
+  },
+  {
+    "id": 10,
+    "cn": "藻井",
+    "en": "Caisson Ceiling (Zaojing)",
+    "category": "建筑结构",
+    "def_zh": "藻井是中国古代建筑天花板上的装饰性凹面结构，通常位于殿堂正中上方，有方形、圆形、八角形等，层层叠涩，中心雕刻或绘制龙凤、莲花等图案。湖北地区的藻井以武当山宫殿和寺庙中的最为精美，武当山金顶的藻井为铜铸，紫霄宫的藻井为木雕，都是湖北古代建筑装饰的精品。",
+    "def_en": "Caisson ceilings (zaojing) are decorative sunken structures in ancient Chinese ceilings, usually located above the center of a hall, in square, round, or octagonal forms with stacked moldings, the center carved or painted with dragons, phoenixes, or lotuses. The most exquisite caissons in Hubei are in Wudang Mountain palaces and temples; the Golden Summit caisson is bronze cast, and the Zixiao Palace caisson is wood-carved—both fine examples of ancient Hubei architectural decoration.",
+    "examples": "武当山金顶、武当山紫霄宫、武汉归元寺",
+    "related": [
+      "斗拱",
+      "官式建筑",
+      "武当山",
+      "寺庙"
+    ]
+  },
+  {
+    "id": 11,
+    "cn": "月梁",
+    "en": "Crescent Beam (Yueliang)",
+    "category": "建筑结构",
+    "def_zh": "月梁是中国古代建筑中梁枋的一种形式，梁身微微拱起，形似新月，故名。月梁具有结构和装饰双重功能，既减轻了梁的自重，又增加了美观。湖北地区的月梁在宋代建筑中较为常见，当阳玉泉寺、黄梅五祖寺等保留有宋代月梁，是研究中国古代木构建筑的重要实物。明清时期月梁逐渐趋于平直，装饰功能减弱。",
+    "def_en": "Crescent beams (yueliang) are a form of beam in ancient Chinese architecture, with the beam body slightly arched like a crescent moon, hence the name. Crescent beams serve both structural and decorative functions, reducing the beam's weight while enhancing beauty. Crescent beams are common in Song dynasty buildings in Hubei; Yuquan Temple in Dangyang and Wuzu Temple in Huangmei preserve Song crescent beams, important artifacts for studying ancient Chinese wooden architecture. During the Ming-Qing, crescent beams gradually became straight with weakened decorative function.",
+    "examples": "当阳玉泉寺、黄梅五祖寺、随州大洪山",
+    "related": [
+      "斗拱",
+      "抬梁式",
+      "宋代建筑",
+      "梭柱"
+    ]
+  },
+  {
+    "id": 12,
+    "cn": "梭柱",
+    "en": "Spindle Column (Suozhu)",
+    "category": "建筑结构",
+    "def_zh": "梭柱是中国古代建筑中柱子的一种形式，柱身两端略细、中间粗，形似织布的梭子，故名。梭柱具有结构和装饰双重功能，既节省材料，又增加了柱子的稳定性和美观。梭柱在宋代建筑中较为常见，湖北地区的宋代建筑如当阳玉泉寺、黄梅五祖寺等保留有梭柱，是研究中国古代建筑的重要实物。",
+    "def_en": "Spindle columns (suozhu) are a column form in ancient Chinese architecture, with both ends slightly thinner and the middle thicker, resembling a weaving shuttle, hence the name. Spindle columns serve both structural and decorative functions, saving material while increasing column stability and beauty. Spindle columns are common in Song dynasty buildings; Song buildings in Hubei such as Yuquan Temple in Dangyang and Wuzu Temple in Huangmei preserve spindle columns, important artifacts for studying ancient Chinese architecture.",
+    "examples": "当阳玉泉寺、黄梅五祖寺",
+    "related": [
+      "月梁",
+      "斗拱",
+      "宋代建筑",
+      "抬梁式"
+    ]
+  },
+  {
+    "id": 13,
+    "cn": "武当山古建筑群",
+    "en": "Ancient Building Complex of Wudang Mountain",
+    "category": "建筑类型",
+    "def_zh": "武当山古建筑群位于十堰市丹江口市，是中国现存规模最大、等级最高的道教古建筑群，始建于唐，明代永乐年间大规模营建，形成了'七十二峰朝大顶，二十四涧水长流'的宏伟格局。建筑群包括金顶、紫霄宫、南岩宫、太子坡、玉虚宫等，占地约100万平方米，有建筑5000余间。武当山古建筑群1994年被列入世界文化遗产名录，是中国道教建筑的巅峰之作。",
+    "def_en": "The Ancient Building Complex of Wudang Mountain, located in Danjiangkou, Shiyan, is China's largest and highest-grade surviving ancient Taoist building complex. Founded in the Tang and massively constructed during the Yongle era of the Ming, it formed the grand layout of 'seventy-two peaks facing the great summit, twenty-four streams flowing continuously.' The complex includes the Golden Summit, Zixiao Palace, Nanyan Palace, Taizipo, and Yuxu Palace, covering about 1 million sq m with over 5,000 rooms. Listed as UNESCO World Heritage in 1994, it represents the pinnacle of Chinese Taoist architecture.",
+    "examples": "金顶、紫霄宫、南岩宫、太子坡",
+    "related": [
+      "道教建筑",
+      "金顶",
+      "紫霄宫",
+      "世界文化遗产"
+    ]
+  },
+  {
+    "id": 14,
+    "cn": "明显陵",
+    "en": "Xianling Mausoleum (Xianling)",
+    "category": "建筑类型",
+    "def_zh": "明显陵位于钟祥市，是明世宗嘉靖皇帝的父亲恭睿献皇帝朱祐杬和母亲章圣皇太后的合葬墓，始建于明正德十四年（1519年），历时40年建成。明显陵占地约183公顷，有陵门、碑亭、石像生、棂星门、五供、方城明楼、宝城等建筑，是明代帝陵中规模最大、结构最独特的一座。明显陵2000年被列入世界文化遗产名录，其'一陵两冢'的布局为明代帝陵中独有。",
+    "def_en": "Xianling Mausoleum, located in Zhongxiang, is the joint tomb of Zhu Youyuan (father of the Jiajing Emperor, posthumously honored as Emperor Gongruixian) and Empress Dowager Zhangsheng. Founded in the 14th year of Zhengde of the Ming (1519 CE), it took 40 years to complete. Covering about 183 hectares with a tomb gate, stele pavilions, stone figures, Lingxing Gate, five offerings, square city and tower, and treasure city, it is the largest and most structurally unique Ming imperial mausoleum. Listed as UNESCO World Heritage in 2000, its 'one mausoleum, two tombs' layout is unique among Ming imperial mausolea.",
+    "examples": "钟祥明显陵",
+    "related": [
+      "明代帝陵",
+      "世界文化遗产",
+      "方城明楼",
+      "石像生"
+    ]
+  },
+  {
+    "id": 15,
+    "cn": "黄鹤楼",
+    "en": "Yellow Crane Tower (Huanghelou)",
+    "category": "建筑类型",
+    "def_zh": "黄鹤楼位于武汉市武昌蛇山，始建于三国吴黄武二年（223年），是中国江南三大名楼之一，有'天下江山第一楼'之誉。黄鹤楼历史上屡毁屡建，现存建筑为1985年重建，高51.4米，五层，攒尖顶，层层飞檐，造型雄伟。黄鹤楼是武汉的城市标志，历代文人墨客在此留下了大量诗篇，崔颢的《黄鹤楼》最为著名。",
+    "def_en": "The Yellow Crane Tower, located on Snake Hill in Wuchang, Wuhan, was founded in the second year of Huangwu of Eastern Wu (223 CE). One of China's three famous towers south of the Yangtze, it is known as the 'Number One Tower Under Heaven.' Destroyed and rebuilt repeatedly throughout history, the current building was reconstructed in 1985, 51.4m high with five stories, a pyramidal roof, and layered flying eaves in a majestic form. The Yellow Crane Tower is Wuhan's city symbol, with numerous poems by literati throughout history, most famously Cui Hao's 'Yellow Crane Tower.'",
+    "examples": "武汉黄鹤楼",
+    "related": [
+      "楼阁",
+      "攒尖顶",
+      "江南三大名楼",
+      "楚文化"
+    ]
+  },
+  {
+    "id": 16,
+    "cn": "荆州古城",
+    "en": "Jingzhou Ancient City",
+    "category": "建筑类型",
+    "def_zh": "荆州古城位于荆州市荆州区，是中国现存保存最完整的古城墙之一，始建于春秋战国时期，现存城墙为清顺治三年（1646年）在明代旧城基础上重建。城墙周长10.5公里，高8.8米，有城门6座、敌楼3座、藏兵洞4个、炮台24座。荆州古城是三国文化的重要遗址，'刘备借荆州''关羽大意失荆州'等故事发生于此，是研究中国古代城市防御体系的重要实物。",
+    "def_en": "Jingzhou Ancient City, located in Jingzhou District, Jingzhou, has one of China's best-preserved ancient city walls. Founded in the Spring and Autumn and Warring States periods, the existing wall was rebuilt in the third year of Shunzhi of the Qing (1646 CE) on the Ming old city foundation. The wall is 10.5km in circumference and 8.8m high, with 6 gates, 3 watchtowers, 4 soldier-hiding caves, and 24 gun emplacements. Jingzhou Ancient City is an important site of Three Kingdoms culture, where stories such as 'Liu Bei Borrows Jingzhou' and 'Guan Yu Carelessly Loses Jingzhou' took place—important for studying ancient Chinese urban defense systems.",
+    "examples": "荆州古城墙、荆州关帝庙",
+    "related": [
+      "古城墙",
+      "三国文化",
+      "楚文化",
+      "城楼"
+    ]
+  },
+  {
+    "id": 17,
+    "cn": "襄阳古城",
+    "en": "Xiangyang Ancient City",
+    "category": "建筑类型",
+    "def_zh": "襄阳古城位于襄阳市襄城区，始建于西汉，现存城墙为明代重建，是中国保存最完整的古城墙之一。城墙周长7.3公里，高8.5米，有城门6座，护城河最宽处达250米，被誉为'华夏第一城池'。襄阳古城是三国文化的重要遗址，'三顾茅庐''隆中对'等故事发生于此，古城内有古隆中、襄阳王府、绿影壁等古迹。",
+    "def_en": "Xiangyang Ancient City, located in Xiangcheng District, Xiangyang, was founded in the Western Han, with the existing wall rebuilt in the Ming—one of China's best-preserved ancient city walls. The wall is 7.3km in circumference and 8.5m high, with 6 gates and a moat up to 250m wide at its widest, known as 'China's Number One Fortress City.' Xiangyang Ancient City is an important site of Three Kingdoms culture, where stories such as 'Three Visits to the Thatched Cottage' and 'Longzhong Dialogue' took place. The city contains historic sites including Gulongzhong, Xiangyang Palace, and the Green Screen Wall.",
+    "examples": "襄阳古城墙、古隆中、绿影壁",
+    "related": [
+      "古城墙",
+      "三国文化",
+      "城楼",
+      "护城河"
+    ]
+  },
+  {
+    "id": 18,
+    "cn": "土司城",
+    "en": "Tusi City (Tusicheng)",
+    "category": "建筑类型",
+    "def_zh": "土司城是鄂西土家族地区土司制度的建筑遗存，土司是元明清时期中央政府在少数民族地区册封的世袭地方统治者。湖北恩施土司城是中国规模最大的土司文化建筑群，包括城门、侗族风雨桥、廪君庙、校场、土司王宫、九进堂、城墙、钟楼、鼓楼等，再现了土家族土司的政治、军事和生活场景。土司建筑融合了土家族、汉族和苗族的建筑风格，是研究中国土司制度的重要实物。",
+    "def_en": "Tusi cities are architectural remains of the tusi (native chieftain) system in the Tujia regions of western Hubei. Tusi were hereditary local rulers enfeoffed by the central government in minority areas during the Yuan-Ming-Qing. Enshi Tusi City in Hubei is China's largest tusi culture building complex, including a city gate, Dong wind-rain bridge, Linjun Temple, parade ground, tusi palace, nine-court hall, city wall, bell tower, and drum tower—reproducing the political, military, and daily scenes of the Tujia tusi. Tusi architecture blends Tujia, Han, and Miao styles, important for studying China's tusi system.",
+    "examples": "恩施土司城、咸丰唐崖土司城",
+    "related": [
+      "吊脚楼",
+      "土家族",
+      "干栏式建筑",
+      "风雨桥"
+    ]
+  },
+  {
+    "id": 19,
+    "cn": "唐崖土司城",
+    "en": "Tangya Tusi City",
+    "category": "建筑类型",
+    "def_zh": "唐崖土司城位于咸丰县，是元明清时期唐崖土司的治所，始建于元至正六年（1346年），鼎盛于明代天启年间。遗址面积约74万平方米，保存有城垣、城门、街巷、衙署、牌坊、墓葬、寺庙等遗迹。唐崖土司城2015年作为'中国土司遗产'的组成部分被列入世界文化遗产名录，是研究中国土司制度和土家族历史文化的重要遗址。",
+    "def_en": "Tangya Tusi City, located in Xianfeng County, was the seat of the Tangya tusi during the Yuan-Ming-Qing, founded in the sixth year of Zhizheng of the Yuan (1346 CE) and flourishing during the Tianqi era of the Ming. The site covers about 740,000 sq m, preserving city walls, gates, streets, government offices, memorial arches, tombs, and temples. Tangya Tusi City was listed as UNESCO World Heritage in 2015 as part of the 'Tusi Sites of China,' an important site for studying China's tusi system and Tujia history and culture.",
+    "examples": "咸丰唐崖土司城遗址",
+    "related": [
+      "土司城",
+      "土家族",
+      "世界文化遗产",
+      "吊脚楼"
+    ]
+  },
+  {
+    "id": 20,
+    "cn": "归元寺",
+    "en": "Guiyuan Temple (Guiyuansi)",
+    "category": "建筑类型",
+    "def_zh": "归元寺位于武汉市汉阳区，始建于清顺治十五年（1658年），是武汉四大佛教丛林之一，有'湖北首刹'之誉。寺院占地约4.7万平方米，有藏经阁、大雄宝殿、罗汉堂、观音阁等建筑，以罗汉堂的500尊泥塑罗汉最为著名。归元寺建筑为典型的清代寺院格局，融合了湖北地方建筑特色，是武汉重要的佛教文化中心。",
+    "def_en": "Guiyuan Temple, located in Hanyang District, Wuhan, was founded in the 15th year of Shunzhi of the Qing (1658 CE). One of Wuhan's four major Buddhist monasteries, it is known as the 'Number One Monastery of Hubei.' Covering about 47,000 sq m with a Sutra Library, Mahavira Hall, Arhat Hall, and Guanyin Pavilion, it is most famous for the 500 clay arhat statues in the Arhat Hall. Guiyuan Temple follows a typical Qing monastery layout, blending Hubei local architectural features—an important Buddhist cultural center in Wuhan.",
+    "examples": "武汉归元寺",
+    "related": [
+      "寺庙",
+      "罗汉堂",
+      "清代建筑",
+      "鄂派建筑"
+    ]
+  },
+  {
+    "id": 21,
+    "cn": "玉泉寺",
+    "en": "Yuquan Temple (Yuquansi)",
+    "category": "建筑类型",
+    "def_zh": "玉泉寺位于当阳市，始建于东汉建安年间，是中国佛教天台宗祖庭之一，与栖霞寺、灵岩寺、国清寺并称'天下四绝'。寺院占地约5.3万平方米，有天王殿、大雄宝殿、毗卢殿等建筑。寺前有玉泉铁塔，建于北宋嘉祐六年（1061年），高17.9米，八角十三层，是中国现存最高、最重的铁塔，为全国重点文物保护单位。",
+    "def_en": "Yuquan Temple, located in Dangyang, was founded in the Jian'an era of the Eastern Han. One of the ancestral temples of the Tiantai sect of Chinese Buddhism, it is ranked with Qixia, Lingyan, and Guoqing temples as the 'Four Wonders Under Heaven.' Covering about 53,000 sq m with a Heavenly Kings Hall, Mahavira Hall, and Vairocana Hall. In front of the temple stands the Yuquan Iron Pagoda, built in the sixth year of Jiayou of the Northern Song (1061 CE), 17.9m high, octagonal with 13 stories—the tallest and heaviest surviving iron pagoda in China, a National Key Cultural Relic.",
+    "examples": "当阳玉泉寺、玉泉铁塔",
+    "related": [
+      "寺庙",
+      "铁塔",
+      "宋代建筑",
+      "天台宗"
+    ]
+  },
+  {
+    "id": 22,
+    "cn": "五祖寺",
+    "en": "Wuzu Temple (Wuzusi)",
+    "category": "建筑类型",
+    "def_zh": "五祖寺位于黄梅县，始建于唐咸亨年间，是中国佛教禅宗五祖弘忍的道场，也是六祖慧能得衣钵之地，有'天下祖庭'之称。寺院依山而建，有山门、天王殿、大雄宝殿、毗卢殿、真身殿等建筑。五祖寺在中国禅宗史上具有重要地位，弘忍在此创立'东山法门'，慧能在此作'菩提本无树'偈语而得传衣钵。",
+    "def_en": "Wuzu Temple, located in Huangmei County, was founded in the Xianheng era of the Tang. It was the道场 of Hongren, the Fifth Patriarch of Chinese Chan Buddhism, and the place where Huineng, the Sixth Patriarch, received the robe and bowl—known as the 'Ancestral Court Under Heaven.' Built along the hillside with a gate, Heavenly Kings Hall, Mahavira Hall, Vairocana Hall, and True Body Hall. Wuzu Temple holds an important place in the history of Chinese Chan Buddhism; Hongren founded the 'East Mountain Dharma Gate' here, and Huineng composed the 'Bodhi originally has no tree' verse to receive the transmission.",
+    "examples": "黄梅五祖寺",
+    "related": [
+      "寺庙",
+      "禅宗",
+      "唐代建筑",
+      "楚文化"
+    ]
+  },
+  {
+    "id": 23,
+    "cn": "鄂派民居",
+    "en": "Hubei Style Residence (Epai Minju)",
+    "category": "建筑类型",
+    "def_zh": "鄂派民居是湖北地区传统民居的统称，融合了北方四合院、南方天井院和徽派建筑的特点，形成了独特的地方风格。鄂派民居多为天井院布局，砖木结构，硬山顶或悬山顶，封火山墙形式多样。鄂东受徽派影响多马头墙，鄂南有猫拱背山墙，鄂西为土家族吊脚楼，鄂北为四合院式。鄂派民居体现了湖北作为南北交通枢纽的文化融合特征。",
+    "def_en": "Hubei style residences (epai minju) is a general term for traditional residences in Hubei, blending features of northern courtyard houses, southern courtyard (tianjing) houses, and Huizhou architecture to form a unique local style. Mostly in courtyard layouts with brick-timber structure, flat-gable or overhanging gable roofs, and diverse fire wall forms. Eastern Hubei is influenced by Huizhou with horse-head walls; southern Hubei has cat-arch back gables; western Hubei has Tujia stilt houses; northern Hubei has courtyard houses. Hubei style residences reflect Hubei's cultural fusion as a north-south transportation hub.",
+    "examples": "黄冈古民居、咸宁古民居、恩施吊脚楼",
+    "related": [
+      "天井院",
+      "封火山墙",
+      "马头墙",
+      "吊脚楼"
+    ]
+  },
+  {
+    "id": 24,
+    "cn": "天井院",
+    "en": "Courtyard House (Tianjingyuan)",
+    "category": "建筑类型",
+    "def_zh": "天井院是湖北传统民居的主要布局形式，房屋围绕中间的天井（小院）布置，天井具有采光、通风、排水的功能。与北方四合院的宽敞不同，湖北天井院的天井较小，四面房屋相连，适应了南方多雨潮湿的气候。天井院多为砖木结构，硬山顶，封火山墙，是湖北民间建筑的主要形式。",
+    "def_en": "Courtyard houses (tianjingyuan) are the main layout form of traditional Hubei residences, with houses arranged around a central courtyard (tianjing) that provides lighting, ventilation, and drainage. Unlike the spacious northern courtyard houses, Hubei courtyards are smaller with connected houses on all sides, adapting to the rainy and humid southern climate. Courtyard houses are mostly brick-timber structures with flat-gable roofs and fire walls, the main form of Hubei folk architecture.",
+    "examples": "黄冈古民居、鄂州古民居、黄石古民居",
+    "related": [
+      "鄂派民居",
+      "封火山墙",
+      "马头墙",
+      "穿斗式"
+    ]
+  },
+  {
+    "id": 25,
+    "cn": "古塔",
+    "en": "Ancient Pagoda (Guta)",
+    "category": "建筑类型",
+    "def_zh": "湖北保存有大量古代佛塔，形式多样，包括楼阁式塔、密檐式塔、覆钵式塔、铁塔等。当阳玉泉寺铁塔是中国现存最高的铁塔，荆州万寿宝塔为明代楼阁式砖塔，襄阳多宝佛塔为明代覆钵式塔，黄梅五祖寺有唐代石塔。湖北古塔是研究中国古代佛教建筑和砖石结构技术的重要实物。",
+    "def_en": "Hubei preserves numerous ancient Buddhist pagodas in diverse forms, including pavilion-style, multi-eaved,覆钵式, and iron pagodas. The Yuquan Temple Iron Pagoda in Dangyang is China's tallest surviving iron pagoda; the Wanshou Pagoda in Jingzhou is a Ming pavilion-style brick pagoda; the Duobao Buddha Pagoda in Xiangyang is a Ming覆钵式 pagoda; Wuzu Temple in Huangmei has Tang stone pagodas. Hubei's ancient pagodas are important artifacts for studying ancient Chinese Buddhist architecture and brick-stone structural technology.",
+    "examples": "当阳玉泉铁塔、荆州万寿宝塔、襄阳多宝佛塔",
+    "related": [
+      "寺庙",
+      "楼阁式塔",
+      "密檐式塔",
+      "宋代建筑"
+    ]
+  },
+  {
+    "id": 26,
+    "cn": "木雕",
+    "en": "Wood Carving (Mudiao)",
+    "category": "建筑装饰",
+    "def_zh": "湖北木雕是中国木雕艺术的重要流派，以鄂东黄冈、鄂南咸宁的木雕最为著名。湖北木雕多用于建筑的梁枋、雀替、门窗、神龛等部位，技法包括浮雕、透雕、圆雕、镂雕等，题材丰富，工艺精湛。湖北木雕融合了徽派、赣派和本地风格，形成了独特的地方特色，是鄂派民居装饰的重要组成部分。",
+    "def_en": "Hubei wood carving is an important school of Chinese wood carving art, with the most famous examples in Huanggang (eastern Hubei) and Xianning (southern Hubei). Mostly used on beams, spandrels, doors, windows, and shrines in buildings, techniques include relief, openwork, round, and hollow carving with rich subjects and exquisite craftsmanship. Hubei wood carving blends Huizhou, Jiangxi, and local styles to form unique local characteristics, an important component of Hubei style residence decoration.",
+    "examples": "黄冈古民居、咸宁古民居、恩施土司城",
+    "related": [
+      "石雕",
+      "砖雕",
+      "鄂派民居",
+      "天井院"
+    ]
+  },
+  {
+    "id": 27,
+    "cn": "石雕",
+    "en": "Stone Carving (Shidiao)",
+    "category": "建筑装饰",
+    "def_zh": "湖北石雕历史悠久，以武当山的明代石雕和荆州、襄阳的古城石雕最为著名。湖北石雕多用于建筑的台基、栏杆、柱础、石狮、牌坊、石像生等部位，技法包括圆雕、浮雕、透雕、线刻等。武当山的石雕为明代官式风格，工艺精湛；明显陵的石像生是明代帝陵石雕的精品。",
+    "def_en": "Hubei stone carving has a long history, with the most famous examples being the Ming stone carvings of Wudang Mountain and the ancient city carvings of Jingzhou and Xiangyang. Mostly used on building pedestals, railings, column bases, stone lions, memorial arches, and stone figure avenues, techniques include round carving, relief, openwork, and line carving. Wudang Mountain stone carvings are in Ming official style with exquisite craftsmanship; the stone figures at Xianling Mausoleum are fine examples of Ming imperial mausoleum stone carving.",
+    "examples": "武当山、明显陵、荆州古城",
+    "related": [
+      "木雕",
+      "砖雕",
+      "石像生",
+      "官式建筑"
+    ]
+  },
+  {
+    "id": 28,
+    "cn": "砖雕",
+    "en": "Brick Carving (Zhuandiao)",
+    "category": "建筑装饰",
+    "def_zh": "湖北砖雕是在青砖上雕刻图案的装饰工艺，多用于门楣、窗楣、照壁、山墙等部位。湖北砖雕以鄂东地区最为发达，受徽派砖雕影响，题材包括人物故事、花鸟虫鱼、博古图案等，工艺精细，层次丰富。湖北砖雕与鄂派民居结合，形成了独特的装饰效果。",
+    "def_en": "Hubei brick carving is a decorative technique of carving patterns on grey bricks, mostly used on door and window lintels, screen walls, and gables. Most developed in eastern Hubei and influenced by Huizhou brick carving, subjects include figure stories, flowers, birds, insects, fish, and antique patterns, with fine craftsmanship and rich layers. Hubei brick carving, combined with Hubei style residences, creates unique decorative effects.",
+    "examples": "黄冈古民居、麻城古民居、红安古民居",
+    "related": [
+      "木雕",
+      "石雕",
+      "鄂派民居",
+      "马头墙"
+    ]
+  },
+  {
+    "id": 29,
+    "cn": "灰塑",
+    "en": "Gray Plaster Sculpture (Huisu)",
+    "category": "建筑装饰",
+    "def_zh": "灰塑是湖北传统建筑中常见的装饰工艺，以石灰为主要材料，掺入红糖、糯米汁等，在建筑表面塑造各种图案。灰塑多用于屋脊、山花、门楣、照壁等部位，题材包括人物故事、花鸟瑞兽、博古图案等。湖北灰塑工艺在明清时期达到高峰，武当山宫殿和民间祠堂都有精美的灰塑装饰。",
+    "def_en": "Gray plaster sculpture (huisu) is a common decorative craft in traditional Hubei architecture, using lime as the main material mixed with brown sugar and glutinous rice juice to mold various patterns on building surfaces. Mostly used on ridges, gables, lintels, and screen walls, subjects include figure stories, flowers, birds, auspicious animals, and antique patterns. Hubei gray plaster sculpture reached its peak in the Ming-Qing, with exquisite decoration in both Wudang Mountain palaces and folk ancestral halls.",
+    "examples": "武当山、黄冈祠堂、咸宁古民居",
+    "related": [
+      "木雕",
+      "石雕",
+      "砖雕",
+      "鄂派民居"
+    ]
+  },
+  {
+    "id": 30,
+    "cn": "琉璃瓦",
+    "en": "Glazed Tile (Liuliwa)",
+    "category": "建筑装饰",
+    "def_zh": "琉璃瓦是表面施釉的陶瓦，湖北地区的琉璃瓦以武当山明代官式建筑使用最为广泛，颜色有黄、绿、蓝等。武当山金顶为铜铸鎏金，紫霄宫等宫殿使用琉璃瓦，体现了明代官式建筑的等级制度。湖北民间建筑则多使用小青瓦，与官式建筑的琉璃瓦形成鲜明对比。",
+    "def_en": "Glazed tiles are ceramic tiles with a glazed surface, most widely used in the Ming official-style buildings of Wudang Mountain in Hubei, in colors including yellow, green, and blue. The Golden Summit of Wudang Mountain is bronze-gilded, while palaces such as Zixiao Palace use glazed tiles, reflecting the hierarchical system of Ming official architecture. Hubei folk buildings mostly use small grey tiles, contrasting sharply with the glazed tiles of official buildings.",
+    "examples": "武当山金顶、武当山紫霄宫、明显陵",
+    "related": [
+      "官式建筑",
+      "武当山",
+      "小青瓦",
+      "歇山顶"
+    ]
+  },
+  {
+    "id": 31,
+    "cn": "彩画",
+    "en": "Painted Decoration (Caihua)",
+    "category": "建筑装饰",
+    "def_zh": "彩画是中国古代建筑木构件上的绘画装饰，湖北地区的彩画以武当山明代官式建筑的和玺彩画和旋子彩画最为著名。武当山宫殿的彩画保留了明代官式彩画的特征，色彩绚丽，工艺精湛。湖北民间建筑的彩画则较为简洁，多为苏式彩画或地方风格，题材包括人物故事、花鸟山水等。",
+    "def_en": "Painted decoration (caihua) is painted decoration on wooden components of ancient Chinese architecture. The most famous in Hubei are the Hexi and Xuanzi painted decorations of the Ming official-style buildings of Wudang Mountain. The painted decorations of Wudang Mountain palaces preserve Ming official features with brilliant colors and exquisite craftsmanship. Painted decorations in Hubei folk buildings are simpler, mostly Su-style or local style, with subjects including figure stories, flowers, birds, and landscapes.",
+    "examples": "武当山紫霄宫、武当山金顶、武汉归元寺",
+    "related": [
+      "官式建筑",
+      "武当山",
+      "和玺彩画",
+      "旋子彩画"
+    ]
+  },
+  {
+    "id": 32,
+    "cn": "石像生",
+    "en": "Stone Figure Avenue (Shixiangsheng)",
+    "category": "建筑装饰",
+    "def_zh": "石像是帝陵和贵族墓前排列的石人石兽，具有象征墓主身份和守护陵墓的功能。湖北明显陵的石像生是明代帝陵中规模最大的之一，有石狮、獬豸、骆驼、象、麒麟、马、武将、文臣等共12对，雕刻精美，是明代石雕艺术的精品。石像生是研究中国古代陵墓制度和石雕艺术的重要实物。",
+    "def_en": "Stone figure avenues (shixiangsheng) are stone human and animal figures arranged in front of imperial mausolea and noble tombs, symbolizing the tomb owner's status and guarding the tomb. The stone figure avenue at Xianling Mausoleum in Hubei is one of the largest among Ming imperial mausolea, with 12 pairs including stone lions, xiezhi, camels, elephants, qilin, horses, military officers, and civil officials in exquisite carving—fine examples of Ming stone carving art. Stone figure avenues are important artifacts for studying ancient Chinese tomb systems and stone carving art.",
+    "examples": "钟祥明显陵",
+    "related": [
+      "明显陵",
+      "石雕",
+      "明代帝陵",
+      "陵墓建筑"
+    ]
+  },
+  {
+    "id": 33,
+    "cn": "牌坊",
+    "en": "Memorial Arch (Paifang)",
+    "category": "建筑装饰",
+    "def_zh": "牌坊是中国古代建筑中用于表彰、纪念、标识的门洞式建筑，湖北地区保存有大量明清牌坊。湖北牌坊有石牌坊、木牌坊、砖牌坊等，形式多样，雕刻精美。武当山的石牌坊为明代官式风格，襄阳、荆州的牌坊多为民间所建，题材包括功德、节孝、科第等。牌坊是研究中国古代社会制度和建筑装饰的重要实物。",
+    "def_en": "Memorial arches (paifang) are gateway-style buildings in ancient Chinese architecture used for commendation, commemoration, and marking. Hubei preserves numerous Ming-Qing memorial arches in stone, wood, and brick forms with diverse styles and exquisite carvings. The stone arches of Wudang Mountain are in Ming official style, while those in Xiangyang and Jingzhou were mostly built by commoners, with subjects including merit, chastity, and academic success. Memorial arches are important artifacts for studying ancient Chinese social institutions and architectural decoration.",
+    "examples": "武当山石牌坊、襄阳古隆中牌坊、荆州牌坊",
+    "related": [
+      "石雕",
+      "官式建筑",
+      "武当山",
+      "祠堂"
+    ]
+  },
+  {
+    "id": 34,
+    "cn": "照壁",
+    "en": "Screen Wall (Zhaobi)",
+    "category": "建筑装饰",
+    "def_zh": "照壁是中国古代建筑中位于大门内或外的遮挡墙体，具有遮挡视线、装饰和风水的功能。湖北地区的照壁形式多样，有一字照壁、八字照壁、座山照壁等，多以砖雕、石雕、灰塑装饰。武当山宫殿的照壁为明代官式风格，民间祠堂和民居的照壁则更具地方特色。",
+    "def_en": "Screen walls (zhaobi) are blocking walls inside or outside the main gate in ancient Chinese architecture, with functions of blocking views, decoration, and fengshui. Hubei screen walls have diverse forms including straight, eight-shaped, and mountain-backed, mostly decorated with brick carving, stone carving, and gray plaster sculpture. The screen walls of Wudang Mountain palaces are in Ming official style, while those in folk ancestral halls and residences have more local characteristics.",
+    "examples": "武当山、襄阳绿影壁、黄冈祠堂",
+    "related": [
+      "砖雕",
+      "石雕",
+      "灰塑",
+      "鄂派民居"
+    ]
+  },
+  {
+    "id": 35,
+    "cn": "脊饰",
+    "en": "Ridge Decoration (Jishi)",
+    "category": "建筑装饰",
+    "def_zh": "脊饰是中国古代建筑屋脊上的装饰构件，包括正吻、垂兽、戗兽、仙人走兽等，具有装饰和等级象征的功能。湖北地区的脊饰以武当山明代官式建筑的最为规范，民间建筑的脊饰则更为自由多样。湖北民居的脊饰多为灰塑或砖雕，题材包括龙凤、花鸟、瑞兽等，是鄂派民居装饰的重要组成部分。",
+    "def_en": "Ridge decorations (jishi) are decorative components on the ridges of ancient Chinese architecture, including main ridge ornaments, vertical ridge beasts, diagonal ridge beasts, and immortal and walking beasts, with decorative and hierarchical symbolic functions. The most standardized ridge decorations in Hubei are in the Ming official-style buildings of Wudang Mountain, while folk building ridge decorations are freer and more diverse. Hubei residence ridge decorations are mostly gray plaster or brick carving with subjects including dragons, phoenixes, flowers, birds, and auspicious animals—an important component of Hubei style residence decoration.",
+    "examples": "武当山、黄冈古民居、咸宁古民居",
+    "related": [
+      "灰塑",
+      "砖雕",
+      "官式建筑",
+      "鄂派民居"
+    ]
+  },
+  {
+    "id": 36,
+    "cn": "小青瓦",
+    "en": "Small Grey Tile (Xiaoqingwa)",
+    "category": "建筑材料",
+    "def_zh": "小青瓦是湖北民间建筑最常用的屋面材料，以黏土烧制而成，呈青灰色，尺寸较小。小青瓦铺设的屋面坡度较缓，重量轻，适合湖北多雨的气候。与官式建筑的琉璃瓦不同，小青瓦朴素实用，是鄂派民居最显著的材料特征之一。",
+    "def_en": "Small grey tiles are the most common roofing material in Hubei folk buildings, fired from clay in blue-grey color with small dimensions. Roofs paved with small grey tiles have gentle slopes and light weight, suited to Hubei's rainy climate. Unlike the glazed tiles of official buildings, small grey tiles are simple and practical, one of the most distinctive material features of Hubei style residences.",
+    "examples": "黄冈古民居、咸宁古民居、恩施吊脚楼",
+    "related": [
+      "鄂派民居",
+      "琉璃瓦",
+      "天井院",
+      "吊脚楼"
+    ]
+  },
+  {
+    "id": 37,
+    "cn": "青砖",
+    "en": "Grey Brick (Qingzhuan)",
+    "category": "建筑材料",
+    "def_zh": "青砖是湖北传统建筑最常用的墙体材料，以黏土烧制而成，呈青灰色，质地坚硬。湖北青砖的烧制技术在明清时期达到高峰，黄冈、咸宁等地的青砖质量优良。青砖墙体具有良好的保温隔热性能，与小青瓦、木构架配合，形成了鄂派民居的典型材料组合。",
+    "def_en": "Grey bricks are the most common wall material in traditional Hubei architecture, fired from clay in blue-grey color with hard texture. Hubei grey brick firing technology reached its peak in the Ming-Qing, with high-quality bricks from Huanggang and Xianning. Grey brick walls have excellent thermal insulation, and combined with small grey tiles and wooden frames, form the typical material combination of Hubei style residences.",
+    "examples": "黄冈古民居、鄂州古民居、荆州古城",
+    "related": [
+      "小青瓦",
+      "砖雕",
+      "鄂派民居",
+      "天井院"
+    ]
+  },
+  {
+    "id": 38,
+    "cn": "木材",
+    "en": "Timber (Mucai)",
+    "category": "建筑材料",
+    "def_zh": "湖北森林资源丰富，木材是传统建筑中最重要的材料之一。湖北传统建筑以木结构为主，武当山宫殿的抬梁式大木作和民间吊脚楼的穿斗式结构都使用了大量木材。湖北木材种类丰富，杉木、松木、楠木、樟木等都用于建筑。鄂西山区的木材资源尤为丰富，为吊脚楼的建造提供了条件。",
+    "def_en": "Hubei is rich in forest resources, and timber is one of the most important materials in traditional architecture. Traditional Hubei architecture is mainly timber-framed; both the post-and-lintel large wooden structures of Wudang Mountain palaces and the column-and-tie structures of folk stilt houses use large amounts of timber. Hubei has rich timber species including fir, pine, nanmu, and camphor, all used in construction. The mountainous regions of western Hubei are particularly rich in timber resources, providing conditions for stilt house construction.",
+    "examples": "武当山、恩施吊脚楼、黄冈古民居",
+    "related": [
+      "抬梁式",
+      "穿斗式",
+      "吊脚楼",
+      "武当山"
+    ]
+  },
+  {
+    "id": 39,
+    "cn": "石材",
+    "en": "Stone (Shicai)",
+    "category": "建筑材料",
+    "def_zh": "湖北石材资源丰富，花岗岩、石灰岩、砂岩等广泛用于建筑。武当山的明代官式建筑大量使用石材，明显陵的石像生和荆州、襄阳的古城墙都是石构建筑的代表。湖北民间建筑也常用石材做台基、柱础、台阶、栏杆等。当阳玉泉寺铁塔是中国现存最高的铁塔，是金属材料在建筑中应用的杰作。",
+    "def_en": "Hubei is rich in stone resources, with granite, limestone, and sandstone widely used in construction. The Ming official-style buildings of Wudang Mountain use large amounts of stone; the stone figures at Xianling Mausoleum and the ancient city walls of Jingzhou and Xiangyang are representative stone structures. Hubei folk buildings also commonly use stone for pedestals, column bases, steps, and railings. The Yuquan Temple Iron Pagoda in Dangyang is China's tallest surviving iron pagoda, a masterpiece of metal material application in architecture.",
+    "examples": "武当山、明显陵、荆州古城、当阳玉泉铁塔",
+    "related": [
+      "石雕",
+      "石像生",
+      "古城墙",
+      "铁塔"
+    ]
+  },
+  {
+    "id": 40,
+    "cn": "铜",
+    "en": "Bronze/Copper (Tong)",
+    "category": "建筑材料",
+    "def_zh": "铜是湖北古代建筑中使用的珍贵金属材料，武当山金顶是中国现存最大的铜铸建筑。金顶建于明永乐十四年（1416年），为铜铸鎏金重檐庑殿顶，高5.54米，宽5.8米，深4.2米，重达数十吨。金顶的铜铸构件在武汉铸造后运至武当山组装，是明代金属铸造和建筑技术的杰作。",
+    "def_en": "Bronze/copper is a precious metal material used in ancient Hubei architecture; the Golden Summit of Wudang Mountain is China's largest surviving bronze-cast building. Built in the 14th year of Yongle of the Ming (1416 CE), it is a bronze-gilded double-eave hip roof, 5.54m high, 5.8m wide, 4.2m deep, weighing dozens of tons. The bronze components of the Golden Summit were cast in Wuhan and transported to Wudang Mountain for assembly—a masterpiece of Ming metal casting and architectural technology.",
+    "examples": "武当山金顶",
+    "related": [
+      "武当山",
+      "官式建筑",
+      "庑殿顶",
+      "明代建筑"
+    ]
+  },
+  {
+    "id": 41,
+    "cn": "楚文化",
+    "en": "Chu Culture (Chu Wenhua)",
+    "category": "文化背景",
+    "def_zh": "楚文化是先秦时期楚国创造的地域文化，湖北是楚文化的核心区域，郢都（今荆州纪南城）是楚国都城。楚文化以浪漫主义为特色，在建筑上体现为高台建筑、凤鸟装饰、漆器艺术等。湖北保存有大量楚文化遗址，随州曾侯乙墓出土的编钟是楚文化音乐艺术的巅峰之作。楚文化对湖北建筑的布局、装饰和审美产生了深远影响。",
+    "def_en": "Chu culture is a regional culture created by the Chu state during the pre-Qin period; Hubei is the core region of Chu culture, with Ying (today's Jinan City in Jingzhou) as the Chu capital. Chu culture is characterized by romanticism, manifested in architecture as high-platform buildings, phoenix-bird decorations, and lacquerware art. Hubei preserves numerous Chu cultural sites; the bianzhong (bell chimes) excavated from the Tomb of Marquis Yi of Zeng in Suizhou represent the pinnacle of Chu cultural musical art. Chu culture profoundly influenced the layout, decoration, and aesthetics of Hubei architecture.",
+    "examples": "荆州纪南城、随州曾侯乙墓、省博物馆",
+    "related": [
+      "荆楚建筑",
+      "编钟",
+      "高台建筑",
+      "漆器"
+    ]
+  },
+  {
+    "id": 42,
+    "cn": "道教建筑",
+    "en": "Taoist Architecture (Daojiao Jianzhu)",
+    "category": "文化背景",
+    "def_zh": "道教建筑是祭祀道教神仙的建筑，包括宫、观、殿、阁、亭等。湖北是道教的重要发源地之一，武当山是道教真武大帝的道场，有'亘古无双胜境，天下第一仙山'之誉。武当山古建筑群是中国现存规模最大、等级最高的道教建筑群，1994年列入世界文化遗产。道教建筑在布局上讲究风水，在装饰上多使用八卦、太极、仙鹤等道教符号。",
+    "def_en": "Taoist architecture refers to buildings for worshipping Taoist deities, including palaces, temples, halls, towers, and pavilions. Hubei is one of the important birthplaces of Taoism; Wudang Mountain is the道场 of the Taoist deity Zhenwu (Perfect Warrior), known as 'the unparalleled sacred realm since antiquity, the number one immortal mountain under heaven.' The Ancient Building Complex of Wudang Mountain is China's largest and highest-grade surviving Taoist building complex, listed as UNESCO World Heritage in 1994. Taoist architecture emphasizes fengshui in layout and uses Taoist symbols such as bagua, taiji, and cranes in decoration.",
+    "examples": "武当山古建筑群、武汉长春观",
+    "related": [
+      "武当山",
+      "金顶",
+      "紫霄宫",
+      "世界文化遗产"
+    ]
+  },
+  {
+    "id": 43,
+    "cn": "三国文化",
+    "en": "Three Kingdoms Culture (Sanguo Wenhua)",
+    "category": "文化背景",
+    "def_zh": "三国文化是湖北重要的历史文化资源，湖北是三国时期魏蜀吴争夺的核心区域，荆州、襄阳、赤壁、夷陵（宜昌）等都是三国重要战场。湖北保存有大量三国文化遗址，荆州古城、襄阳古城、赤壁古战场、当阳关陵等都是三国文化的建筑遗存。三国文化对湖北的城市格局、地名和建筑产生了深远影响。",
+    "def_en": "Three Kingdoms culture is an important historical and cultural resource in Hubei, which was the core region contested by Wei, Shu, and Wu during the Three Kingdoms period. Jingzhou, Xiangyang, Chibi, and Yiling (Yichang) were all important battlefields. Hubei preserves numerous Three Kingdoms cultural sites; Jingzhou Ancient City, Xiangyang Ancient City, the Chibi Ancient Battlefield, and Guanling in Dangyang are architectural remains of Three Kingdoms culture. Three Kingdoms culture profoundly influenced Hubei's urban layout, place names, and architecture.",
+    "examples": "荆州古城、襄阳古城、赤壁古战场、当阳关陵",
+    "related": [
+      "古城墙",
+      "荆州古城",
+      "襄阳古城",
+      "关陵"
+    ]
+  },
+  {
+    "id": 44,
+    "cn": "土家族文化",
+    "en": "Tujia Culture (Tujia Wenhua)",
+    "category": "文化背景",
+    "def_zh": "土家族是湖北主要的少数民族之一，主要聚居在鄂西恩施地区。土家族文化在建筑上体现为吊脚楼、土司城、风雨桥等独特形式。吊脚楼适应了鄂西山区的地形和气候，是土家族建筑文化的代表。土司制度是元明清时期中央政府在土家族地区实行的特殊政治制度，唐崖土司城2015年列入世界文化遗产。",
+    "def_en": "The Tujia are one of Hubei's main ethnic minorities, mainly living in the Enshi region of western Hubei. Tujia culture manifests in architecture as unique forms including stilt houses, tusi cities, and wind-rain bridges. Stilt houses adapt to the terrain and climate of western Hubei's mountains, representing Tujia architectural culture. The tusi system was a special political system implemented by the central government in Tujia areas during the Yuan-Ming-Qing; Tangya Tusi City was listed as UNESCO World Heritage in 2015.",
+    "examples": "恩施土司城、咸丰唐崖土司城、利川大水井",
+    "related": [
+      "吊脚楼",
+      "土司城",
+      "唐崖土司城",
+      "风雨桥"
+    ]
+  },
+  {
+    "id": 45,
+    "cn": "世界文化遗产",
+    "en": "World Cultural Heritage",
+    "category": "文化背景",
+    "def_zh": "湖北拥有三项世界文化遗产：武当山古建筑群（1994年）、明显陵（2000年，作为明清皇家陵寝的扩展项目）、唐崖土司城（2015年，作为中国土司遗产的组成部分）。此外，湖北还有神农架（2016年，世界自然遗产）。这些遗产是湖北古建筑和文化景观的精华，体现了湖北在中国历史文化中的重要地位。",
+    "def_en": "Hubei has three UNESCO World Cultural Heritage sites: the Ancient Building Complex of Wudang Mountain (1994), Xianling Mausoleum (2000, as an extension of the Imperial Tombs of the Ming and Qing Dynasties), and Tangya Tusi City (2015, as part of the Tusi Sites of China). In addition, Hubei has Shennongjia (2016, World Natural Heritage). These heritage sites represent the essence of Hubei's ancient architecture and cultural landscapes, reflecting Hubei's important position in Chinese history and culture.",
+    "examples": "武当山古建筑群、明显陵、唐崖土司城",
+    "related": [
+      "武当山",
+      "明显陵",
+      "唐崖土司城",
+      "道教建筑"
+    ]
+  },
+  {
+    "id": 46,
+    "cn": "编钟",
+    "en": "Bianzhong (Bell Chimes)",
+    "category": "文化背景",
+    "def_zh": "编钟是中国古代的打击乐器，以青铜铸造，按音高排列悬挂。湖北随州曾侯乙墓出土的编钟是迄今发现的最完整、最大的一套编钟，共65件，铸造于战国早期（约公元前433年），音域宽广，音色优美，是楚文化音乐艺术的巅峰之作。编钟的铸造技术和音乐性能体现了中国古代青铜铸造和声学的高超水平。",
+    "def_en": "Bianzhong (bell chimes) are ancient Chinese percussion instruments, cast in bronze and hung in order of pitch. The bianzhong excavated from the Tomb of Marquis Yi of Zeng in Suizhou, Hubei, is the most complete and largest set ever discovered, with 65 bells cast in the early Warring States period (c. 433 BCE), with a wide range and beautiful tone—the pinnacle of Chu cultural musical art. The casting technology and musical performance of bianzhong reflect the high level of ancient Chinese bronze casting and acoustics.",
+    "examples": "随州曾侯乙墓编钟",
+    "related": [
+      "楚文化",
+      "曾侯乙墓",
+      "青铜",
+      "随州"
+    ]
+  },
+  {
+    "id": 47,
+    "cn": "荆楚建筑",
+    "en": "Jingchu Architecture (Jingchu Jianzhu)",
+    "category": "文化背景",
+    "def_zh": "荆楚建筑是湖北地区古代建筑的统称，因湖北古为荆州、楚国之地而得名。荆楚建筑融合了中原建筑的庄重和南方建筑的灵巧，形成了独特的地方风格。在布局上，荆楚建筑讲究中轴对称和天井院；在结构上，官式建筑用抬梁式，民间建筑用穿斗式；在装饰上，融合了楚文化的浪漫主义和道教的符号。荆楚建筑是中国地域建筑的重要流派。",
+    "def_en": "Jingchu architecture is a general term for ancient architecture in Hubei, named for Hubei's ancient status as Jingzhou and the Chu state. Jingchu architecture blends the solemnity of Central Plains architecture with the agility of southern architecture to form a unique local style. In layout, Jingchu architecture emphasizes central axis symmetry and courtyards; in structure, official buildings use post-and-lintel while folk buildings use column-and-tie; in decoration, it blends Chu cultural romanticism with Taoist symbols. Jingchu architecture is an important school of Chinese regional architecture.",
+    "examples": "武当山、荆州古城、黄鹤楼、鄂派民居",
+    "related": [
+      "楚文化",
+      "鄂派民居",
+      "武当山",
+      "天井院"
+    ]
+  },
+  {
+    "id": 48,
+    "cn": "明代官式建筑",
+    "en": "Ming Official Architecture (Ming Guanshi Jianzhu)",
+    "category": "文化背景",
+    "def_zh": "明代官式建筑是明代官方规定的建筑形制和风格，以北京故宫为代表，特点是布局严谨、等级分明、装饰规范。湖北武当山古建筑群是明代官式建筑在地方的最大规模应用，由明成祖朱棣下令营建，使用了官式的抬梁式结构、斗拱、彩画、琉璃瓦等。明显陵也是明代官式建筑的代表，其'一陵两冢'的布局为明代帝陵中独有。",
+    "def_en": "Ming official architecture refers to the architectural forms and styles prescribed by the Ming government, represented by the Forbidden City in Beijing, characterized by rigorous layout, clear hierarchy, and standardized decoration. The Ancient Building Complex of Wudang Mountain in Hubei is the largest-scale application of Ming official architecture outside the capital, ordered by the Yongle Emperor Zhu Di, using official post-and-lintel structure, bracket sets, painted decorations, and glazed tiles. Xianling Mausoleum is also a representative of Ming official architecture, with its unique 'one mausoleum, two tombs' layout among Ming imperial mausolea.",
+    "examples": "武当山古建筑群、明显陵",
+    "related": [
+      "武当山",
+      "明显陵",
+      "抬梁式",
+      "斗拱"
+    ]
+  },
+  {
+    "id": 49,
+    "cn": "禅宗",
+    "en": "Chan Buddhism (Chan Zong)",
+    "category": "文化背景",
+    "def_zh": "禅宗是中国佛教的重要宗派，湖北是禅宗的重要发源地。黄梅五祖寺是五祖弘忍的道场，六祖慧能在此得传衣钵；黄梅四祖寺是四祖道信的道场。禅宗主张'顿悟成佛'，对中国文化产生了深远影响。禅宗寺庙在建筑布局上较为简洁，注重与自然环境的融合，五祖寺、四祖寺都依山而建，体现了禅宗的自然观。",
+    "def_en": "Chan (Zen) Buddhism is an important sect of Chinese Buddhism, and Hubei is an important birthplace of Chan. Wuzu Temple in Huangmei was the道场 of the Fifth Patriarch Hongren, where the Sixth Patriarch Huineng received the transmission; Sizhu Temple in Huangmei was the道场 of the Fourth Patriarch Daoxin. Chan advocates 'sudden enlightenment to Buddhahood,' profoundly influencing Chinese culture. Chan temples have relatively simple architectural layouts, emphasizing integration with the natural environment; both Wuzu and Sizhu temples are built along hillsides, reflecting the Chan view of nature.",
+    "examples": "黄梅五祖寺、黄梅四祖寺、当阳玉泉寺",
+    "related": [
+      "寺庙",
+      "五祖寺",
+      "唐代建筑",
+      "楚文化"
+    ]
+  },
+  {
+    "id": 50,
+    "cn": "青铜文化",
+    "en": "Bronze Culture (Qingtong Wenhua)",
+    "category": "文化背景",
+    "def_zh": "湖北是中国青铜文化的重要区域，随州曾侯乙墓出土的编钟、尊盘、九鼎八簋等青铜器是战国时期青铜铸造技术的巅峰之作。楚国的青铜器以造型奇特、纹饰精美著称，体现了楚文化的浪漫主义风格。青铜文化对湖北的建筑装饰和金属工艺产生了深远影响，武当山金顶的铜铸技术可以追溯到楚文化的青铜铸造传统。",
+    "def_en": "Hubei is an important region of Chinese bronze culture; the bianzhong, zun-pan vessel, and nine ding-eight gui bronzes excavated from the Tomb of Marquis Yi of Zeng in Suizhou represent the pinnacle of Warring States bronze casting technology. Chu bronzes are known for their unusual shapes and exquisite patterns, reflecting the romantic style of Chu culture. Bronze culture profoundly influenced Hubei's architectural decoration and metal craftsmanship; the bronze casting technology of the Wudang Mountain Golden Summit can be traced back to the bronze casting tradition of Chu culture.",
+    "examples": "随州曾侯乙墓、省博物馆青铜器",
+    "related": [
+      "楚文化",
+      "编钟",
+      "曾侯乙墓",
+      "武当山金顶"
+    ]
+  }
+]

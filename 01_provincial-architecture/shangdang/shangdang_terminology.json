@@ -1,0 +1,456 @@
+{
+  "book_title": "上党古建筑",
+  "total_terms": 50,
+  "terms": [
+    {
+      "id": 1,
+      "term_zh": "四坡水式屋顶",
+      "term_en": "Four-slope hip roof",
+      "category": "屋顶形制",
+      "definition_zh": "中国古代建筑屋顶形式之一，屋顶四面均为坡面，又称庑殿顶。在上党早期建筑形象中普遍使用。",
+      "definition_en": "An ancient Chinese roof form with four sloping sides, also known as hip roof. Commonly seen in early Shangdang architectural imagery.",
+      "example": "清化寺造像塔顶系一四坡水式的屋顶；崇寿寺造像碑佛龛上部有四坡水式屋顶浮雕。"
+    },
+    {
+      "id": 2,
+      "term_zh": "叠涩檐",
+      "term_en": "Corbeled eave",
+      "category": "屋顶形制",
+      "definition_zh": "不用斗拱，将砖石逐层挑出形成屋檐的做法，常见于砖塔、石塔。",
+      "definition_en": "An eave formed by projecting bricks or stones layer by layer without bracket sets, common in brick and stone pagodas.",
+      "example": "法兴寺石塔一檐做叠涩式；龙泉寺砖塔檐做叠涩式；三圣瑞现塔檐做叠涩式。"
+    },
+    {
+      "id": 3,
+      "term_zh": "密檐式塔",
+      "term_en": "Multi-eaved pagoda",
+      "category": "塔类",
+      "definition_zh": "塔的第一层塔身较高，以上各层檐子密集，层间距离很短的塔型。",
+      "definition_en": "A pagoda type with a tall first story and densely packed eaves above, with short distances between layers.",
+      "example": "清化寺石塔一为圆形四层密檐式；石塔二为圆形七层密檐式；游仙寺挥公讲主塔为八角七层密檐式。"
+    },
+    {
+      "id": 4,
+      "term_zh": "楼阁式塔",
+      "term_en": "Pavilion-style pagoda",
+      "category": "塔类",
+      "definition_zh": "模仿楼阁建筑形式的塔，每层均有塔身、门窗、斗拱等，可登临。",
+      "definition_en": "A pagoda imitating pavilion architecture, with each story having walls, doors, windows, and bracket sets, climbable.",
+      "example": "龙泉寺舍利塔第十层支出平座上置八根擎檐柱，成为高塔中的一层楼阁。"
+    },
+    {
+      "id": 5,
+      "term_zh": "窣堵波",
+      "term_en": "Stupa",
+      "category": "塔类",
+      "definition_zh": "梵文Stupa的音译，原为埋藏佛舍利的半球形土冢，后演变为喇嘛塔的塔身形式。",
+      "definition_en": "Transliteration of Sanskrit 'Stupa', originally a hemispherical mound for Buddhist relics, later evolved into the body form of Lamaist pagodas.",
+      "example": "崇教寺塔塔身是一个高崇的窣堵波，上有五重相轮。"
+    },
+    {
+      "id": 6,
+      "term_zh": "喇嘛塔",
+      "term_en": "Lamaist pagoda",
+      "category": "塔类",
+      "definition_zh": "藏传佛教系统的塔，塔身为覆钵形（窣堵波），上置相轮和塔刹。",
+      "definition_en": "A pagoda of the Tibetan Buddhist tradition with a reversed-bowl (stupa) body, topped with harmika and finial.",
+      "example": "崇教寺塔是喇嘛塔形式，根据形制为明代作品，喇嘛塔带顶的形式是很少见的。"
+    },
+    {
+      "id": 7,
+      "term_zh": "长明灯",
+      "term_en": "Eternal lamp (Dipamkara)",
+      "category": "佛教供具",
+      "definition_zh": "佛教六种供具之一，梵名弥播，石制灯形建筑，中空可置灯。",
+      "definition_en": "One of the six Buddhist offerings, Sanskrit name 'Dipamkara', a stone lamp structure with hollow interior for lamps.",
+      "example": "法兴寺长明灯造于唐大历八年(773)，灯身做八角形，有中空的灯室。国内仅存三处。"
+    },
+    {
+      "id": 8,
+      "term_zh": "经幢",
+      "term_en": "Sutra column (Dhvajastambha)",
+      "category": "佛教建筑",
+      "definition_zh": "刻有佛经的八角形石柱，下有基座，上有宝盖、宝珠等，唐代开始流行。",
+      "definition_en": "An octagonal stone pillar engraved with Buddhist sutras, with base, canopy, and jewel top, popular from the Tang dynasty.",
+      "example": "崇寿寺经幢位于中大殿前，有东西两座；定林寺经幢建于宋雍熙二年(985)，刻佛顶尊胜陀罗尼经。"
+    },
+    {
+      "id": 9,
+      "term_zh": "须弥座",
+      "term_en": "Xumi pedestal (Sumeru base)",
+      "category": "台基",
+      "definition_zh": "由佛座演变而来的台基形式，上下有枋，中间束腰，常用于高级建筑和塔。",
+      "definition_en": "A pedestal form evolved from Buddhist thrones, with upper and lower bands and a waisted middle, used for high-status buildings and pagodas.",
+      "example": "东岳庙大殿台基做须弥座式全长10.70米；二仙真人庙台基为金代须弥座；崇教寺塔座为八角形须弥座。"
+    },
+    {
+      "id": 10,
+      "term_zh": "束腰",
+      "term_en": "Waisted section",
+      "category": "台基",
+      "definition_zh": "须弥座中部向内收缩的部分，常雕刻人物、花卉、力士等。",
+      "definition_en": "The inward-contracting middle section of a Xumi pedestal, often carved with figures, flowers, and guardians.",
+      "example": "东岳庙台基中央四间束腰石上浮雕人物、桥梁、云龙、花卉等图案，间柱石上各雕侏儒力士。"
+    },
+    {
+      "id": 11,
+      "term_zh": "减柱法",
+      "term_en": "Column-reducing method",
+      "category": "梁架结构",
+      "definition_zh": "金代出现的梁架做法，减少内柱数量以扩大室内空间，用大内额承托梁架。",
+      "definition_en": "A Jin-dynasty beam-frame method reducing interior columns to expand space, using a large transverse lintel to support the frame.",
+      "example": "景德寺大殿平面梁架结构布局前后内柱应为八根，只留两根，其余都减掉，全殿减柱八根，是金代减柱法的标准式样。"
+    },
+    {
+      "id": 12,
+      "term_zh": "大内额",
+      "term_en": "Great transverse lintel",
+      "category": "梁架结构",
+      "definition_zh": "减柱法中使用的粗大横向梁枋，横跨数间以承托上部梁架。",
+      "definition_en": "A large transverse timber used in the column-reducing method, spanning multiple bays to support the upper frame.",
+      "example": "景德寺大殿内柱上横向架大内额，额上置大斗、十字令拱，上架四椽栿与乳栿相接。"
+    },
+    {
+      "id": 13,
+      "term_zh": "四椽栿对乳栿用三柱",
+      "term_en": "Four-rafter beam paired with breast beam on three columns",
+      "category": "梁架结构",
+      "definition_zh": "宋代常见梁架形式，进深六椽，内柱一根，四椽栿前端接檐柱，后尾搭在内柱上，乳栿在内柱与后檐柱之间。",
+      "definition_en": "A common Song-dynasty beam form for six-rafter depth with one interior column; the four-rafter beam spans from eave to interior column, the breast beam between interior and rear eave column.",
+      "example": "崇庆寺千佛殿、开化寺大殿、正觉寺后殿、龙岩寺中殿均采用四椽栿对乳栿用三柱。"
+    },
+    {
+      "id": 14,
+      "term_zh": "六椽栿",
+      "term_en": "Six-rafter beam",
+      "category": "梁架结构",
+      "definition_zh": "进深六椽时贯通前后檐柱的大梁，多见于通檐用两柱的建筑。",
+      "definition_en": "A main beam spanning six rafters from eave to eave, common in buildings with two columns per frame.",
+      "example": "法兴寺中大殿进深六架椽屋，六椽栿南北贯通；府君庙山门梁架通檐用两柱，六椽栿贯通。"
+    },
+    {
+      "id": 15,
+      "term_zh": "驼峰",
+      "term_en": "Camel-hump block",
+      "category": "梁架构件",
+      "definition_zh": "梁架上承托平梁或榑的垫块，形似驼峰，宋代常用，明清渐被蜀柱取代。",
+      "definition_en": "A cushion block on beams supporting the flat beam or purlin, shaped like a camel's hump, common in Song architecture, later replaced by short columns.",
+      "example": "法兴寺大殿自栿上置驼峰、大斗；崇庆寺千佛殿栿上施通缴背联结前后驼峰。"
+    },
+    {
+      "id": 16,
+      "term_zh": "叉手",
+      "term_en": "Fork-hand brace",
+      "category": "梁架构件",
+      "definition_zh": "平梁上承托脊榑的斜向支撑构件，左右各一，呈人字形，唐宋建筑常用。",
+      "definition_en": "Diagonal braces on the flat beam supporting the ridge purlin, one on each side in a V-shape, common in Tang-Song architecture.",
+      "example": "开化寺大殿平梁上立侏儒柱、叉手；正觉寺后殿平梁上施侏儒柱、叉手和合踏。"
+    },
+    {
+      "id": 17,
+      "term_zh": "侏儒柱",
+      "term_en": "Dwarf column (Shu column)",
+      "category": "梁架构件",
+      "definition_zh": "平梁中央承托脊榑的短柱，又称蜀柱，宋代以后逐渐取代叉手成为主要承脊构件。",
+      "definition_en": "A short column at the center of the flat beam supporting the ridge purlin, also called Shu column, gradually replacing fork-hand braces after the Song dynasty.",
+      "example": "崇庆寺千佛殿平梁中央坐驼峰，上立小八角蜀柱以承脊榑结点；府君庙山门平梁上当中用侏儒柱。"
+    },
+    {
+      "id": 18,
+      "term_zh": "丁华抹额拱",
+      "term_en": "Dinghua mo'e bracket",
+      "category": "斗拱构件",
+      "definition_zh": "脊榑下使用的特殊拱型，两端插入侏儒柱或叉手，上承脊榑，多见于山西宋金建筑。",
+      "definition_en": "A special bracket under the ridge purlin, with ends inserted into dwarf columns or fork braces, common in Shanxi Song-Jin architecture.",
+      "example": "龙岩寺中殿平梁上用合踏、侏儒柱、叉手，上施丁华抹额拱以承脊榑。"
+    },
+    {
+      "id": 19,
+      "term_zh": "五铺作",
+      "term_en": "Five-puzuo bracket set",
+      "category": "斗拱",
+      "definition_zh": "宋代斗拱等级，出两跳（抄或昂），包括栌斗、华拱、令拱等，用于中等规模建筑。",
+      "definition_en": "A Song-dynasty bracket grade with two projections (arms or ang), including lu dou, hua gong, and ling gong, used for medium-scale buildings.",
+      "example": "大云院大佛殿斗拱五铺作；崇明寺中殿柱头斗拱七铺作；开化寺大殿柱头铺作五铺作单抄单下昂。"
+    },
+    {
+      "id": 20,
+      "term_zh": "七铺作",
+      "term_en": "Seven-puzuo bracket set",
+      "category": "斗拱",
+      "definition_zh": "宋代斗拱最高等级之一，出四跳，用于高等级建筑。",
+      "definition_en": "One of the highest Song-dynasty bracket grades with four projections, used for high-status buildings.",
+      "example": "崇明寺中殿檐下柱头斗拱七铺作双抄下昂、重拱、偷心造，是上党地区宋代斗拱的最高等级实例。"
+    },
+    {
+      "id": 21,
+      "term_zh": "偷心造",
+      "term_en": "Touxin (open-heart) construction",
+      "category": "斗拱",
+      "definition_zh": "斗拱跳头上不施横拱的做法，与计心造相对，结构简洁，早期建筑常用。",
+      "definition_en": "A bracket construction without transverse brackets on the projection heads, opposite to jixin construction, simple and common in early architecture.",
+      "example": "崇明寺中殿斗拱七铺作双抄下昂、重拱、偷心造；青莲寺中殿内斗拱后尾施五铺作、偷心造。"
+    },
+    {
+      "id": 22,
+      "term_zh": "计心造",
+      "term_en": "Jixin (closed-heart) construction",
+      "category": "斗拱",
+      "definition_zh": "斗拱跳头上施横拱（令拱或慢拱）的做法，与偷心造相对，结构更稳定。",
+      "definition_en": "A bracket construction with transverse brackets (ling or man gong) on projection heads, opposite to touxin, more structurally stable.",
+      "example": "开化寺大殿柱头铺作五铺作单抄单下昂，重拱计心造；崇寿寺释迦殿柱头铺作五铺作单抄单下昂、单拱计心造。"
+    },
+    {
+      "id": 23,
+      "term_zh": "批竹昂",
+      "term_en": "Pizhu ang (bamboo-slit ang)",
+      "category": "斗拱构件",
+      "definition_zh": "昂嘴斜削如批竹的昂式，宋代官式做法，上党地区宋代建筑常用。",
+      "definition_en": "An ang (lever arm) with a beveled tip resembling split bamboo, a Song official style common in Shangdang Song architecture.",
+      "example": "开化寺大殿耍头亦砍作批竹昂形；游仙寺前檐耍头砍成下昂状，昂的形式是批竹昂。"
+    },
+    {
+      "id": 24,
+      "term_zh": "鸳鸯交手拱",
+      "term_en": "Yuanyang jiaoshou gong (mandarin-duck interlocking bracket)",
+      "category": "斗拱构件",
+      "definition_zh": "转角铺作中，45°角线上的瓜子拱与正侧两面的瓜子拱相联交的做法。",
+      "definition_en": "In corner bracket sets, the guazi brackets on the 45° angle line interlock with those on the front and side faces.",
+      "example": "崇明寺中殿转角铺作外跳在45°角线上出角拱、角昂各两个，搭角瓜子拱相联，刻作鸳鸯交手拱。"
+    },
+    {
+      "id": 25,
+      "term_zh": "45°斜拱",
+      "term_en": "45° diagonal bracket",
+      "category": "斗拱",
+      "definition_zh": "在补间铺作位置出45°斜向华拱的做法，上党地区宋金建筑常用，明清演变为大斜拱。",
+      "definition_en": "A bracket set with 45° diagonal hua gong at the inter-columnar position, common in Shangdang Song-Jin architecture, evolving into large diagonal brackets in Ming-Qing.",
+      "example": "南吉祥寺中殿明间补间铺作用45°斜拱；齐圣广佑王庙正殿做45°大斜拱。"
+    },
+    {
+      "id": 26,
+      "term_zh": "翼形拱",
+      "term_en": "Wing-shaped bracket (Yixing gong)",
+      "category": "斗拱构件",
+      "definition_zh": "隐刻在柱头枋上的装饰性拱，形似翼形，不实际承重，上党地区宋代建筑常用。",
+      "definition_en": "A decorative bracket incised on the column-head tie beam, wing-shaped and non-load-bearing, common in Shangdang Song architecture.",
+      "example": "崇寿寺释迦殿补间仅在铺作方位的柱头枋上隐出一头三升，下用翼形拱，这是上党地区的常用手法。"
+    },
+    {
+      "id": 27,
+      "term_zh": "连拱交隐",
+      "term_en": "Lian'gong jiaoyin (interlocking concealed brackets)",
+      "category": "斗拱",
+      "definition_zh": "柱头枋上多层隐刻拱相互交叠的做法，游仙寺等建筑使用。",
+      "definition_en": "A method of multiple layers of concealed brackets interlocking on column-head tie beams, used in Youxian Temple and others.",
+      "example": "游仙寺前檐在柱头中缝上横施泥道拱及柱头枋三层，压槽枋一层，枋子表面隐刻慢拱和令拱，皆做连拱交隐式。"
+    },
+    {
+      "id": 28,
+      "term_zh": "单抄单下昂",
+      "term_en": "Single arm (hua gong) and single ang",
+      "category": "斗拱",
+      "definition_zh": "五铺作斗拱的一种出跳形式，第一跳为华拱（抄），第二跳为昂。",
+      "definition_en": "A five-puzuo bracket projection form with the first jump as hua gong (arm) and the second as ang (lever).",
+      "example": "开化寺大殿柱头铺作五铺作单抄单下昂；崇寿寺释迦殿柱头铺作五铺作单抄单下昂；游仙寺前檐柱头斗拱五铺作单抄单下昂(真昂)。"
+    },
+    {
+      "id": 29,
+      "term_zh": "双抄下昂",
+      "term_en": "Double arms (hua gong) and ang",
+      "category": "斗拱",
+      "definition_zh": "七铺作斗拱的出跳形式，两跳华拱加一跳昂。",
+      "definition_en": "A seven-puzuo bracket projection form with two hua gong arms and one ang.",
+      "example": "崇明寺中殿檐下柱头斗拱七铺作双抄下昂、重拱、偷心造。"
+    },
+    {
+      "id": 30,
+      "term_zh": "歇山顶",
+      "term_en": "Xieshan (gable-on-hip) roof",
+      "category": "屋顶形制",
+      "definition_zh": "中国古代屋顶形式之一，上半部为悬山，下半部为庑殿，有九条脊，又称九脊顶。",
+      "definition_en": "An ancient Chinese roof form with upper half as overhanging gable and lower half as hip, with nine ridges, also called nine-ridge roof.",
+      "example": "大云院大佛殿单檐歇山顶；崇明寺中殿单檐歇山顶；府君庙山门重檐歇山顶。"
+    },
+    {
+      "id": 31,
+      "term_zh": "悬山顶",
+      "term_en": "Xuanshan (overhanging gable) roof",
+      "category": "屋顶形制",
+      "definition_zh": "屋顶两端山面伸出山墙之外的两坡顶，民间建筑常用。",
+      "definition_en": "A two-slope roof with gable ends projecting beyond the gable walls, common in vernacular architecture.",
+      "example": "东岳庙大殿（屯城）面阔三间连檐悬山顶。"
+    },
+    {
+      "id": 32,
+      "term_zh": "硬山顶",
+      "term_en": "Yingshan (flush gable) roof",
+      "category": "屋顶形制",
+      "definition_zh": "屋顶两端山面与山墙齐平的两坡顶，明清民居常用。",
+      "definition_en": "A two-slope roof with gable ends flush with the gable walls, common in Ming-Qing residences.",
+      "example": "润城小城北门单檐硬山顶；润城戏台次间单檐硬山顶。"
+    },
+    {
+      "id": 33,
+      "term_zh": "卷棚顶",
+      "term_en": "Juanshan (curved-ridge) roof",
+      "category": "屋顶形制",
+      "definition_zh": "没有正脊，屋顶顶部呈弧形的两坡顶，常用于园林和献殿。",
+      "definition_en": "A two-slope roof without a main ridge, with a curved top, common in gardens and offerings halls.",
+      "example": "沁水马邑寨某庙献殿做卷棚式，山面向前，形式很别致；大禹庙献殿上施卷棚顶。"
+    },
+    {
+      "id": 34,
+      "term_zh": "十字脊顶",
+      "term_en": "Cross-ridge roof",
+      "category": "屋顶形制",
+      "definition_zh": "两个歇山顶垂直相交形成十字形屋脊的屋顶，常用于亭、阁。",
+      "definition_en": "A roof formed by two intersecting xieshan roofs at right angles, creating a cross-shaped ridge, common in pavilions and towers.",
+      "example": "润城东岳庙献亭上覆歇山十字脊顶，玲珑巧丽。"
+    },
+    {
+      "id": 35,
+      "term_zh": "琉璃鸥尾",
+      "term_en": "Glazed chiwei (owl-tail ornament)",
+      "category": "屋顶装饰",
+      "definition_zh": "正脊两端的琉璃装饰物，起源于汉代，明代逐渐演变为龙吻。",
+      "definition_en": "Glazed ornaments at both ends of the main ridge, originating in the Han dynasty, gradually evolving into dragon ornaments in the Ming.",
+      "example": "长治县某庙琉璃鸥尾；长治县李坊关帝庙琉璃鸥尾；陵川县玉花池村城隍庙元建大殿琉璃鸥尾烧制成化年间(1465-1487)。"
+    },
+    {
+      "id": 36,
+      "term_zh": "琉璃塔楼",
+      "term_en": "Glazed miniature tower on ridge",
+      "category": "屋顶装饰",
+      "definition_zh": "正脊中央的琉璃塔式装饰，有基座、栏杆、斗拱、檐子，是建筑模型的琉璃化。",
+      "definition_en": "A glazed pagoda-shaped ornament at the center of the main ridge, with base, railing, brackets, and eaves, a glazed architectural model.",
+      "example": "长治市南宋村玉皇观大殿正脊上琉璃塔楼为两层八角形；长治县王坊某庙大殿琉璃塔楼三重。"
+    },
+    {
+      "id": 37,
+      "term_zh": "琉璃角神",
+      "term_en": "Glazed corner deity",
+      "category": "屋顶装饰",
+      "definition_zh": "大殿转角端部的琉璃神像装饰，明代建筑常用，上党地区保存多种形象。",
+      "definition_en": "Glazed deity ornaments at the corners of main halls, common in Ming architecture, with various forms preserved in Shangdang.",
+      "example": "长治市南宋村玉皇观大殿之转角端部用琉璃角神一个，上党地方有多种角神形象，还保存着古代制度。"
+    },
+    {
+      "id": 38,
+      "term_zh": "博风、悬鱼、惹草",
+      "term_en": "Bofeng board, xuanyu (hanging fish), recao (suspended grass)",
+      "category": "建筑装饰",
+      "definition_zh": "山面博风板上的装饰，悬鱼呈鱼形，惹草呈草形，琉璃制作时色彩鲜明。",
+      "definition_en": "Decorations on the gable bofeng board; xuanyu is fish-shaped and recao is grass-shaped, vivid when made of glazed ware.",
+      "example": "长子县曲村紫云山护国灵贶王庙博风、悬鱼、惹草俱用琉璃制作，纹样塑造生动，色彩鲜明。"
+    },
+    {
+      "id": 39,
+      "term_zh": "铁花刹",
+      "term_en": "Iron finial",
+      "category": "屋顶装饰",
+      "definition_zh": "殿脊上的铁制装饰刹，山西很普遍，式样甚多，安在正吻或正脊中央。",
+      "definition_en": "Iron decorative finials on roof ridges, common in Shanxi with various forms, placed on main ornaments or ridge center.",
+      "example": "长治市东白兔村祖师庙铁花刹，殿脊上做铁花刹制度，在山西很普遍。"
+    },
+    {
+      "id": 40,
+      "term_zh": "悬塑",
+      "term_en": "Suspended sculpture (xuansu)",
+      "category": "雕塑",
+      "definition_zh": "在墙壁面或梁栿上塑造的悬空雕塑艺术，始于宋盛行于明，不易保存。",
+      "definition_en": "Suspended sculptural art on walls or beams, originating in Song and flourishing in Ming, difficult to preserve.",
+      "example": "长治市莲聚庄观音堂悬塑，不但雕塑精致且保存比较完整，实属可贵。"
+    },
+    {
+      "id": 41,
+      "term_zh": "二十八宿塑像",
+      "term_en": "Twenty-Eight Mansions statues",
+      "category": "雕塑",
+      "definition_zh": "道教二十八星宿神像，晋城玉皇庙元代塑像为中国古代塑像佳作。",
+      "definition_en": "Daoist statues of the twenty-eight lunar mansions; the Yuan-dynasty set at Jade Emperor Temple in Jincheng is a masterpiece of ancient Chinese sculpture.",
+      "example": "晋城县府城玉皇庙西庑中的二十八宿塑群像是元至元三十一年(1294)的作品，均出之民间匠师之手，神态逼真。"
+    },
+    {
+      "id": 42,
+      "term_zh": "天宫楼阁",
+      "term_en": "Heavenly palace pavilion (tiangong louge)",
+      "category": "小木作",
+      "definition_zh": "《营造法式》小木作之一，犹如建筑物的模型，始于宋辽，盛行于明。",
+      "definition_en": "One of the 'small carpentry' items in Yingzao Fashi, resembling an architectural model, originating in Song-Liao and flourishing in Ming.",
+      "example": "晋城县南村二仙观大殿内的一座天宫楼阁，有单拱廊桥一道及其他几座佛龛，雕刻精细且非常完整。"
+    },
+    {
+      "id": 43,
+      "term_zh": "藻井",
+      "term_en": "Caisson ceiling (zaojing)",
+      "category": "小木作",
+      "definition_zh": "建筑内部天花板上的凹入装饰，多用斗拱组成，上下透空，玲珑巧丽。",
+      "definition_en": "A recessed decorative ceiling panel, often composed of bracket sets, open above and below, exquisite and delicate.",
+      "example": "长治市南宋村玉皇观五凤楼楼顶内部藻井(天花)全用斗拱组成，上下透空，玲珑巧丽之致。"
+    },
+    {
+      "id": 44,
+      "term_zh": "五凤楼",
+      "term_en": "Wufeng (Five-Phoenix) Tower",
+      "category": "建筑类型",
+      "definition_zh": "道教建筑中多檐式山门，正面看去五层檐，形如五凤展翅，上党地区多处建有。",
+      "definition_en": "A multi-eave gate tower in Daoist architecture, appearing as five eaves from the front, resembling five phoenixes in flight, built in several Shangdang locations.",
+      "example": "长治市南宋村玉皇观五凤楼平面为正方形，深广各三间，重楼四檐歇山顶，上覆一层雨搭式的檐连成一体，从正面看去是五层檐。"
+    },
+    {
+      "id": 45,
+      "term_zh": "过街楼",
+      "term_en": "Overhead street tower",
+      "category": "建筑类型",
+      "definition_zh": "横跨街巷上空的楼阁，解决狭窄街道的交通问题，同时增添巷中端景。",
+      "definition_en": "A tower spanning over a narrow street, solving circulation while adding a vista at the lane end.",
+      "example": "阳城县润城小城巷口的过街楼，是由于街道狭窄所出现的产物，不但解决了交通问题，同时也增添了巷中的端景。"
+    },
+    {
+      "id": 46,
+      "term_zh": "小城镇规划",
+      "term_en": "Small town planning",
+      "category": "城市规划",
+      "definition_zh": "明代小城镇的完整规划，包括城墙、城门、街巷、丁字街口、巷门等，润城小城为典型实例。",
+      "definition_en": "Complete planning of Ming-dynasty small towns, including walls, gates, streets, T-junctions, and lane gates; Runcheng is a typical example.",
+      "example": "阳城县润城小城为椭圆形，全部用砖砌筑，城内划分十座大街坊，无十字街直穿，形成许多丁字街口，崇祯十一年(1638)有山城一览碑刻。"
+    },
+    {
+      "id": 47,
+      "term_zh": "敞肩拱",
+      "term_en": "Open-spandrel arch",
+      "category": "桥梁",
+      "definition_zh": "拱桥大券两肩各加小券的结构，分杀流量、减轻桥身压力，景德桥为金代实例。",
+      "definition_en": "An arch bridge structure with small arches on both shoulders of the main arch, diverting flow and reducing stress; Jingde Bridge is a Jin-dynasty example.",
+      "example": "晋城景德桥先做单孔大券，再在大券的两肩各加一小券，不但增加桥梁美观，并且借此分杀流量，可以避免桥身被大水冲击。"
+    },
+    {
+      "id": 48,
+      "term_zh": "柱础",
+      "term_en": "Column base (chuzhu)",
+      "category": "建筑构件",
+      "definition_zh": "柱子下方的石质基座，有覆盆、莲瓣、狮子、象等多种雕刻形式，上党明代柱础形制甚高。",
+      "definition_en": "Stone bases under columns, with various carved forms including lotus petals, lions, and elephants; Ming Shangdang column bases are notably tall.",
+      "example": "尧王庙献殿柱础雕一立狮；九天圣母庙柱础雕一伏象；关帝庙后殿柱础下部为六角形基座，各面雕有狮子。"
+    },
+    {
+      "id": 49,
+      "term_zh": "盘龙柱",
+      "term_en": "Coiled-dragon column",
+      "category": "建筑构件",
+      "definition_zh": "柱身雕刻盘龙的石柱，上党地区少见，关帝庙和龙泉寺有明代实例。",
+      "definition_en": "Stone columns with coiled dragons carved on the shaft, rare in Shangdang; Ming examples exist at Guandi Temple and Longquan Temple.",
+      "example": "晋城县府城关帝庙前廊石柱雕刻精致，柱础使用完整的石狮子，殿廊采用石刻盘龙，为上党地区所少见。"
+    },
+    {
+      "id": 50,
+      "term_zh": "挑廊",
+      "term_en": "Projecting gallery (tiaolang)",
+      "category": "民居建筑",
+      "definition_zh": "住宅前廊向外挑出，廊下不用木柱支撑的做法，上党明清民居常用。",
+      "definition_en": "A front gallery projecting outward without wooden column support, common in Shangdang Ming-Qing residences.",
+      "example": "阳城县润城小城某宅正房前廊做挑廊式，廊下不用木柱支撑；沁水县住宅也有使用这样形式的。"
+    }
+  ]
+}

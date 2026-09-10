@@ -1,0 +1,764 @@
+{
+  "book_title": "陕西古建筑",
+  "book_title_en": "Ancient Architecture of Shaanxi",
+  "author": "王军",
+  "total_terms": 90,
+  "categories": [
+    "造像题材",
+    "建筑类型",
+    "城防建筑",
+    "宗教建筑",
+    "佛教概念",
+    "装饰工艺",
+    "装饰艺术",
+    "造像类型",
+    "礼制制度",
+    "陵墓葬具",
+    "建筑工艺",
+    "佛塔构件",
+    "教育建筑",
+    "建筑构件",
+    "地理区域",
+    "造像姿态",
+    "陵墓石刻",
+    "陵墓制度",
+    "民居类型",
+    "建筑布局",
+    "陵墓/佛塔结构",
+    "祠庙建筑",
+    "造像工艺",
+    "屋顶形式",
+    "建筑材料",
+    "城市建筑",
+    "陵墓组成",
+    "造像元素",
+    "佛塔类型",
+    "公共建筑",
+    "壁画类型",
+    "宗教文化",
+    "陵墓形制",
+    "历史文化"
+  ],
+  "terms": [
+    {
+      "id": 1,
+      "term_zh": "楼阁式塔",
+      "term_en": "Multi-story Pagoda (Ge-style)",
+      "category": "佛塔类型",
+      "definition_zh": "中国古塔主要类型之一，模仿中国传统楼阁建筑形式，每层间距较大，设有门窗、平座、栏杆，可登临眺望。代表：西安大雁塔、兴教寺玄奘塔。",
+      "definition_en": "One of the main types of Chinese ancient pagodas, imitating traditional Chinese multi-story architecture, with large spacing between stories, doors and windows, flat seats, and railings, allowing climbing and viewing. Representatives: Giant Wild Goose Pagoda in Xi'an, Xuanzang Pagoda at Xingjiao Temple."
+    },
+    {
+      "id": 2,
+      "term_zh": "密檐式塔",
+      "term_en": "Multi-eave Pagoda (Miyan-style)",
+      "category": "佛塔类型",
+      "definition_zh": "中国古塔主要类型之一，第一层高大，以上各层高度骤减，塔檐紧密重叠，多为实心，不可登临。代表：西安小雁塔、富县柏山寺塔。",
+      "definition_en": "One of the main types of Chinese ancient pagodas, with a tall first story and rapidly decreasing heights above, with tightly overlapping eaves, mostly solid and not climbable. Representatives: Small Wild Goose Pagoda in Xi'an, Baishan Temple Pagoda in Fuxian County."
+    },
+    {
+      "id": 3,
+      "term_zh": "喇嘛式塔",
+      "term_en": "Lama-style Pagoda",
+      "category": "佛塔类型",
+      "definition_zh": "藏传佛教佛塔形式，特征为高大的须弥座、覆钵式塔身、粗壮的十三相轮、华盖、塔刹。陕西现存喇嘛式塔多为明代所修。",
+      "definition_en": "Tibetan Buddhist pagoda form, characterized by a tall xumizuo (Sumeru pedestal), overturned-bowl pagoda body, sturdy thirteen-phase wheels, canopy, and pagoda finial. Most existing Lama-style pagodas in Shaanxi were built in the Ming dynasty."
+    },
+    {
+      "id": 4,
+      "term_zh": "经幢式塔",
+      "term_en": "Jingchuang-style Pagoda (Pillar-style)",
+      "category": "佛塔类型",
+      "definition_zh": "模仿佛教经幢形式的佛塔，多为须弥座、单层六边形塔身、八边形宝盖式塔顶。主要分布于陕北和陕南。",
+      "definition_en": "Buddhist pagodas imitating Buddhist jingchuang (pillar) forms, mostly with xumizuo, single-story hexagonal pagoda body, and octagonal baogai (treasure canopy) style pagoda top. Mainly distributed in northern and southern Shaanxi."
+    },
+    {
+      "id": 5,
+      "term_zh": "造像塔",
+      "term_en": "Statue Pagoda",
+      "category": "佛塔类型",
+      "definition_zh": "塔身布满佛教造像的佛塔，陕西造像塔以明代为主，现存最早的造像塔是耀州区药王山上的三座北魏小型造像塔。",
+      "definition_en": "Buddhist pagodas whose bodies are covered with Buddhist statues. Shaanxi statue pagodas are mainly from the Ming dynasty; the earliest existing statue pagodas are three small Northern Wei statue pagodas on Medicine King Mountain in Yaozhou District."
+    },
+    {
+      "id": 6,
+      "term_zh": "覆斗形封土",
+      "term_en": "Inverted-bowl-shaped Mound",
+      "category": "陵墓形制",
+      "definition_zh": "中国古代帝陵封土形式之一，平面呈方形，顶部收分，形似倒置的斗。陕西西汉帝陵多为此种形式。",
+      "definition_en": "One of the mound forms of ancient Chinese imperial mausoleums, with a square plane and收分 top, shaped like an inverted dou (measuring vessel). Most Western Han imperial mausoleums in Shaanxi adopt this form."
+    },
+    {
+      "id": 7,
+      "term_zh": "因山为陵",
+      "term_en": "Mountain-based Mausoleum",
+      "category": "陵墓形制",
+      "definition_zh": "以自然山体作为陵体，于山南开凿墓室，不另起封土。唐太宗昭陵首创此制，唐代帝陵多采用。",
+      "definition_en": "Using the natural mountain body as the mausoleum, carving the tomb chamber on the southern slope without raising a separate mound. Emperor Taizong's Zhaoling pioneered this system, and most Tang imperial mausoleums adopted it."
+    },
+    {
+      "id": 8,
+      "term_zh": "黄肠题凑",
+      "term_en": "Huangchang Ticou (Yellow Cypress Frame)",
+      "category": "陵墓葬具",
+      "definition_zh": "中国古代最高等级的葬具，用柏木枋堆垒成框形结构。秦公1号大墓出土的是我国古代最早的一套黄肠题凑葬具。",
+      "definition_en": "The highest-grade burial equipment in ancient China, using cypress wood timbers stacked into a frame structure. The one unearthed from Qin Duke Tomb No. 1 is the earliest set of huangchang ticou burial equipment in ancient China."
+    },
+    {
+      "id": 9,
+      "term_zh": "三出阙",
+      "term_en": "Triple Gate Tower (San Chu Que)",
+      "category": "建筑构件",
+      "definition_zh": "中国古代最高等级的阙制，由大小依次递减的三个长方形组成，为帝王专用。汉景帝阳陵南阙门遗址为三出阙。",
+      "definition_en": "The highest-grade gate tower system in ancient China, composed of three rectangles decreasing in size sequentially, exclusively for emperors. The south gate tower site of Emperor Jing's Yangling is a triple gate tower."
+    },
+    {
+      "id": 10,
+      "term_zh": "叠涩出檐",
+      "term_en": "Corbelled Eaves",
+      "category": "建筑构件",
+      "definition_zh": "用砖或石逐层向外挑出形成屋檐的做法，是砖塔最常见的出檐方式。陕西唐塔多采用叠涩出檐。",
+      "definition_en": "The practice of using bricks or stones to project outward layer by layer to form eaves, the most common eave method for brick pagodas. Most Tang pagodas in Shaanxi use corbelled eaves."
+    },
+    {
+      "id": 11,
+      "term_zh": "菱角牙子",
+      "term_en": "Diamond-shaped Tooth Bricks",
+      "category": "建筑构件",
+      "definition_zh": "叠涩出檐中使用的一种装饰性砖层，砖的一端被砍成斜面，层层叠出，形似菱角，增强檐口线。",
+      "definition_en": "A decorative brick layer used in corbelled eaves, with one end of the brick cut into a bevel, stacked layer by layer, shaped like a water chestnut (菱角), strengthening the eave line."
+    },
+    {
+      "id": 12,
+      "term_zh": "须弥座",
+      "term_en": "Xumizuo (Sumeru Pedestal)",
+      "category": "建筑构件",
+      "definition_zh": "源自佛教须弥山的台基形式，由上下枋、束腰、莲瓣等组成，常用于佛塔、佛像、建筑台基。",
+      "definition_en": "A pedestal form derived from Buddhist Mount Sumeru, composed of upper and lower architraves, a waist, and lotus petals, commonly used for pagodas, Buddha statues, and building pedestals."
+    },
+    {
+      "id": 13,
+      "term_zh": "斗栱",
+      "term_en": "Dougong (Bracket Set)",
+      "category": "建筑构件",
+      "definition_zh": "中国古建筑特有的承重构件，由斗、栱、昂、枋等组成，位于柱梁之间，传递荷载并装饰建筑。",
+      "definition_en": "A unique load-bearing component of ancient Chinese architecture, composed of dou (cap blocks), gong (arms), ang (levers), and fang (beams), located between columns and beams, transferring loads and decorating the building."
+    },
+    {
+      "id": 14,
+      "term_zh": "五铺作",
+      "term_en": "Five-puzuo Bracket Set",
+      "category": "建筑构件",
+      "definition_zh": "宋代斗栱等级之一，出两跳，为较高等级的斗栱形制。富县柏山寺塔斗栱为宋式五铺作制式。",
+      "definition_en": "One of the Song dynasty bracket set grades, with two jumps, a relatively high-grade bracket set form. The bracket sets of the Baishan Temple Pagoda in Fuxian County are in Song-style five-puzuo format."
+    },
+    {
+      "id": 15,
+      "term_zh": "偷心造",
+      "term_en": "Touxin-zao (Hidden-heart Construction)",
+      "category": "建筑构件",
+      "definition_zh": "斗栱构造做法之一，跳头上不置横栱，结构简洁。富县柏山寺塔补间铺作采用五铺作偷心造。",
+      "definition_en": "One of the bracket set construction methods, with no horizontal gong on the jump head, simple in structure. The inter-column bracket sets of the Baishan Temple Pagoda in Fuxian County use five-puzuo touxin-zao."
+    },
+    {
+      "id": 16,
+      "term_zh": "计心造",
+      "term_en": "Jixin-zao (Calculated-heart Construction)",
+      "category": "建筑构件",
+      "definition_zh": "斗栱构造做法之一，跳头上置横栱，结构较偷心造复杂，装饰性更强。",
+      "definition_en": "One of the bracket set construction methods, with horizontal gong on the jump head, more complex than touxin-zao and more decorative."
+    },
+    {
+      "id": 17,
+      "term_zh": "永定柱",
+      "term_en": "Yongding Column",
+      "category": "建筑构件",
+      "definition_zh": "从地面直通平座的通柱，用于楼阁式建筑的平座结构。中王堡木塔二、三层出檐由平座永定柱支承。",
+      "definition_en": "A through column extending from the ground directly to the flat seat, used in the flat seat structure of multi-story buildings. The eaves of the second and third stories of the Zhongwangbao Wooden Pagoda are supported by flat-seat yongding columns."
+    },
+    {
+      "id": 18,
+      "term_zh": "抱头梁",
+      "term_en": "Baotou Beam (Head-holding Beam)",
+      "category": "建筑构件",
+      "definition_zh": "一端插入柱中、一端承托檩条的梁，常用于小式建筑。中王堡木塔上层柱脚落在下层柱脚抱头梁上。",
+      "definition_en": "A beam with one end inserted into a column and the other end supporting a purlin, commonly used in small-style buildings. The upper-story column feet of the Zhongwangbao Wooden Pagoda rest on the baotou beams of the lower-story column feet."
+    },
+    {
+      "id": 19,
+      "term_zh": "抹角梁",
+      "term_en": "Mitered Beam (Mojiao Beam)",
+      "category": "建筑构件",
+      "definition_zh": "呈45度斜置的梁，用于攒尖顶建筑的转角处，承托雷公柱。中王堡木塔塔顶构架由数层抹角梁叠架而成。",
+      "definition_en": "A beam placed at a 45-degree angle, used at the corners of pyramidal-roof buildings to support the leigong column. The pagoda top framework of the Zhongwangbao Wooden Pagoda is formed by stacking several layers of mitered beams."
+    },
+    {
+      "id": 20,
+      "term_zh": "雷公柱",
+      "term_en": "Leigong Column",
+      "category": "建筑构件",
+      "definition_zh": "攒尖顶建筑中央的短柱，承托宝顶。中王堡木塔雷公柱落在太平梁上，如亭阁式做法。",
+      "definition_en": "A short column in the center of a pyramidal-roof building, supporting the finial. The leigong column of the Zhongwangbao Wooden Pagoda rests on the taiping beam, like a pavilion-style construction."
+    },
+    {
+      "id": 21,
+      "term_zh": "攒尖顶",
+      "term_en": "Pyramidal Roof (Cuanjian Top)",
+      "category": "屋顶形式",
+      "definition_zh": "中国古建筑屋顶形式之一，屋顶各面交汇于顶部一点，上置宝顶。常用于亭、阁、塔等建筑。",
+      "definition_en": "One of the roof forms of ancient Chinese architecture, where all roof surfaces meet at a single point at the top, with a finial placed on it. Commonly used for pavilions, towers, and pagodas."
+    },
+    {
+      "id": 22,
+      "term_zh": "歇山顶",
+      "term_en": "Hip-and-gable Roof (Xieshan Top)",
+      "category": "屋顶形式",
+      "definition_zh": "中国古建筑屋顶形式之一，由庑殿顶和悬山顶结合而成，有九条脊，等级仅次于庑殿顶。",
+      "definition_en": "One of the roof forms of ancient Chinese architecture, combining the hip roof and overhanging gable roof, with nine ridges, ranking second only to the hip roof in grade."
+    },
+    {
+      "id": 23,
+      "term_zh": "硬山顶",
+      "term_en": "Flush Gable Roof (Yingshan Top)",
+      "category": "屋顶形式",
+      "definition_zh": "中国古建筑屋顶形式之一，两侧山墙与屋面齐平，不伸出，是最低等级的屋顶形式，常用于民居。",
+      "definition_en": "One of the roof forms of ancient Chinese architecture, with both gable walls flush with the roof surface, not projecting, the lowest-grade roof form, commonly used for residences."
+    },
+    {
+      "id": 24,
+      "term_zh": "马头墙",
+      "term_en": "Horse-head Wall (Matou Wall)",
+      "category": "建筑构件",
+      "definition_zh": "高于屋顶的山墙，形似马头，具有防火、防风功能。陕西会馆建筑中常见马头墙。",
+      "definition_en": "A gable wall higher than the roof, shaped like a horse's head, with fire-prevention and wind-prevention functions. Horse-head walls are commonly seen in Shaanxi guild hall buildings."
+    },
+    {
+      "id": 25,
+      "term_zh": "四水归堂",
+      "term_en": "Four Waters Returning to the Hall",
+      "category": "建筑布局",
+      "definition_zh": "南方民居天井式布局，四面屋顶的雨水都汇入天井，寓意聚财。山阳骡帮会馆各院落皆设天井，属典型南方四水归明堂式。",
+      "definition_en": "A southern Chinese residence skylight (tianjing) layout, where rainwater from all four roof surfaces flows into the skylight, symbolizing wealth accumulation. Each courtyard of the Shanyang Mule-Team Guild Hall has a skylight, belonging to the typical southern 'four waters returning to the bright hall' style."
+    },
+    {
+      "id": 26,
+      "term_zh": "天井",
+      "term_en": "Tianjing (Skylight Courtyard)",
+      "category": "建筑布局",
+      "definition_zh": "建筑内部露天的小庭院，用于采光、通风、排水。陕南会馆、民居中常见天井。",
+      "definition_en": "A small open-air courtyard inside a building, used for lighting, ventilation, and drainage. Tianjing are commonly seen in southern Shaanxi guild halls and residences."
+    },
+    {
+      "id": 27,
+      "term_zh": "窑洞",
+      "term_en": "Cave Dwelling (Yaodong)",
+      "category": "民居类型",
+      "definition_zh": "黄土高原地区特有的民居形式，在黄土崖壁上开挖拱形洞穴，冬暖夏凉。陕北是窑洞分布最集中的地区。",
+      "definition_en": "A unique residential form in the Loess Plateau region, with arched caves excavated in loess cliff walls, warm in winter and cool in summer. Northern Shaanxi is the region with the most concentrated distribution of cave dwellings."
+    },
+    {
+      "id": 28,
+      "term_zh": "地坑院",
+      "term_en": "Sunken Courtyard (Dikengyuan)",
+      "category": "民居类型",
+      "definition_zh": "下沉式窑洞，在平地上向下开挖方形大坑，四壁开挖窑洞，又称天井窑院。三原柏社村有大量地坑院。",
+      "definition_en": "Sunken cave dwellings, where a square large pit is excavated downward on flat ground, with caves excavated on the four walls, also called skylight courtyard. There are many sunken courtyards in Baishe Village, Sanyuan County."
+    },
+    {
+      "id": 29,
+      "term_zh": "靠崖窑",
+      "term_en": "Cliff-side Cave (Kaoya Cave)",
+      "category": "民居类型",
+      "definition_zh": "在天然黄土崖壁上开挖的窑洞，是最常见的窑洞形式。陕北黄土高原广泛分布。",
+      "definition_en": "Caves excavated in natural loess cliff walls, the most common cave dwelling form. Widely distributed in the Loess Plateau of northern Shaanxi."
+    },
+    {
+      "id": 30,
+      "term_zh": "锢窑",
+      "term_en": "Arched Brick Cave (Guyao)",
+      "category": "民居类型",
+      "definition_zh": "用砖或石在平地上砌筑的拱形窑洞，不依赖黄土崖壁，又称独立式窑洞。",
+      "definition_en": "Arched caves built with bricks or stones on flat ground, not relying on loess cliff walls, also called independent cave dwellings."
+    },
+    {
+      "id": 31,
+      "term_zh": "四合院",
+      "term_en": "Siheyuan (Courtyard House)",
+      "category": "民居类型",
+      "definition_zh": "中国传统院落式住宅，四面房屋围合中间庭院。陕西关中、陕北均有四合院分布。",
+      "definition_en": "Traditional Chinese courtyard residence, with houses on four sides enclosing a central courtyard. Siheyuan are distributed in both Guanzhong and northern Shaanxi."
+    },
+    {
+      "id": 32,
+      "term_zh": "石胎泥塑",
+      "term_en": "Stone-core Clay Statue",
+      "category": "造像工艺",
+      "definition_zh": "先在岩石上凿出佛像大体轮廓，再用泥塑细部的造像工艺。彬县大佛寺石窟大佛为石胎泥塑。",
+      "definition_en": "A statue-making process where the rough outline of a Buddha statue is first chiseled in rock, then details are modeled with clay. The Great Buddha at the Bin County Great Buddha Temple Grottoes is a stone-core clay statue."
+    },
+    {
+      "id": 33,
+      "term_zh": "石窟",
+      "term_en": "Grotto",
+      "category": "建筑类型",
+      "definition_zh": "在山崖上开凿的佛教建筑，内有佛像、壁画。陕西是我国石窟发展比较发达的地区之一，以晚期石窟为主。",
+      "definition_en": "Buddhist buildings carved into cliffs, containing Buddha statues and murals. Shaanxi is one of the regions with relatively developed grotto development in China, mainly featuring late-period grottoes."
+    },
+    {
+      "id": 34,
+      "term_zh": "摩崖造像",
+      "term_en": "Cliff Statue (Moya Statue)",
+      "category": "造像类型",
+      "definition_zh": "在天然崖壁上直接雕刻的佛像，不开凿洞窟。慈善寺石窟南崖有9个摩崖造像龛。",
+      "definition_en": "Buddha statues directly carved on natural cliff faces, without excavating caves. The south cliff of the Cishan Temple Grottoes has 9 cliff statue niches."
+    },
+    {
+      "id": 35,
+      "term_zh": "经变画",
+      "term_en": "Sutra Illustration Painting (Jingbian Painting)",
+      "category": "壁画类型",
+      "definition_zh": "将佛教经文内容绘制成图画的壁画形式。大佛寺石窟罗汉洞第三窟内壁有浮雕经变故事60余幅。",
+      "definition_en": "A mural form that depicts the content of Buddhist scriptures as paintings. The inner wall of the third cave of the Arhat Cave at the Great Buddha Temple Grottoes has more than 60 relief-carved sutra illustration stories."
+    },
+    {
+      "id": 36,
+      "term_zh": "飞天",
+      "term_en": "Flying Apsara (Feitian)",
+      "category": "造像题材",
+      "definition_zh": "佛教中能在空中飞舞的天神，常作散花、奏乐姿态。大佛寺大佛背光边沿浮雕22躯飞天伎乐。",
+      "definition_en": "Buddhist deities who can fly in the air, often depicted scattering flowers or playing music. The edge of the Great Buddha's halo at the Great Buddha Temple has 22 relief-carved flying apsara musicians."
+    },
+    {
+      "id": 37,
+      "term_zh": "背光",
+      "term_en": "Halo (Backlight)",
+      "category": "造像元素",
+      "definition_zh": "佛像身后的装饰性光环，象征佛的智慧光明。大佛寺大佛背光边沿浮雕飞天伎乐。",
+      "definition_en": "A decorative halo behind a Buddha statue, symbolizing the Buddha's wisdom and light. The edge of the Great Buddha's halo at the Great Buddha Temple has relief-carved flying apsara musicians."
+    },
+    {
+      "id": 38,
+      "term_zh": "结跏趺坐",
+      "term_en": "Cross-legged Sitting (Jiajia Fuzuo)",
+      "category": "造像姿态",
+      "definition_zh": "佛教造像中最常见的坐姿，双足交叉置于大腿上。大佛寺阿弥陀佛依岩结跏趺坐。",
+      "definition_en": "The most common sitting posture in Buddhist statues, with both feet crossed and placed on the thighs. The Amitabha Buddha at the Great Buddha Temple sits cross-legged against the rock."
+    },
+    {
+      "id": 39,
+      "term_zh": "须弥山",
+      "term_en": "Mount Sumeru",
+      "category": "佛教概念",
+      "definition_zh": "佛教宇宙观中的世界中心山，须弥座即由此得名。鸠摩罗什舍利塔塔座浮雕须弥山。",
+      "definition_en": "The mountain at the center of the world in Buddhist cosmology, from which the xumizuo (Sumeru pedestal) gets its name. The pagoda base of the Kumarajiva Relic Pagoda has relief carvings of Mount Sumeru."
+    },
+    {
+      "id": 40,
+      "term_zh": "舍利",
+      "term_en": "Relic (Sarira)",
+      "category": "佛教概念",
+      "definition_zh": "佛陀或高僧火化后留下的结晶体，被视为圣物，建塔供奉。法门寺因佛指舍利而闻名。",
+      "definition_en": "Crystals left after the cremation of the Buddha or eminent monks, regarded as sacred objects, enshrined in pagodas. Famen Temple is famous for the Buddha finger relic."
+    },
+    {
+      "id": 41,
+      "term_zh": "地宫",
+      "term_en": "Underground Palace (Digong)",
+      "category": "陵墓/佛塔结构",
+      "definition_zh": "塔基或陵墓下的地下空间，用于安放舍利或陪葬品。法门寺地宫出土2000多件大唐皇室重宝。",
+      "definition_en": "Underground space under a pagoda base or mausoleum, used to place relics or burial goods. More than 2,000 Tang royal treasures were unearthed from the Famen Temple underground palace."
+    },
+    {
+      "id": 42,
+      "term_zh": "昭穆制度",
+      "term_en": "Zhaomu System",
+      "category": "礼制制度",
+      "definition_zh": "中国古代宗庙和墓葬的排列制度，左昭右穆，长辈居西、晚辈居东。秦始皇陵选址符合昭穆秩序。",
+      "definition_en": "The arrangement system for ancestral temples and tombs in ancient China, with zhao on the left and mu on the right, elders in the west and juniors in the east. The site selection of Qin Shi Huang's Mausoleum conforms to the zhaomu order."
+    },
+    {
+      "id": 43,
+      "term_zh": "陵邑",
+      "term_en": "Mausoleum Town (Lingyi)",
+      "category": "陵墓制度",
+      "definition_zh": "为供奉帝陵而在陵旁设置的县城，迁移豪富居住。汉高祖长陵等五座帝陵均建制陵邑，咸阳塬又称五陵塬。",
+      "definition_en": "County towns established beside imperial mausoleums to serve them, with wealthy people relocated to live there. Five imperial mausoleums including Emperor Gaozu's Changling established mausoleum towns, hence the Xianyang Plateau is also called the Five Mausoleum Plateau."
+    },
+    {
+      "id": 44,
+      "term_zh": "陪葬墓",
+      "term_en": "Companion Tomb (Peizang Tomb)",
+      "category": "陵墓制度",
+      "definition_zh": "帝陵周围的功臣、贵戚墓葬。昭陵陪葬墓有198座，数量为唐朝诸帝陵之冠。",
+      "definition_en": "Tombs of meritorious officials and nobles around imperial mausoleums. Zhaoling has 198 companion tombs, the most among all Tang imperial mausoleums."
+    },
+    {
+      "id": 45,
+      "term_zh": "号墓为陵",
+      "term_en": "Designating a Tomb as a Mausoleum",
+      "category": "陵墓制度",
+      "definition_zh": "将太子、公主的墓葬规格提升为帝陵级别。懿德太子李重润、永泰公主李先蕙墓均号墓为陵。",
+      "definition_en": "Elevating the burial规格 of crown princes and princesses to imperial mausoleum level. The tombs of Crown Prince Yide Li Chongrun and Princess Yongtai Li Xianhui were both designated as mausoleums."
+    },
+    {
+      "id": 46,
+      "term_zh": "神道",
+      "term_en": "Spirit Path (Shendao)",
+      "category": "陵墓组成",
+      "definition_zh": "陵墓前的大道，两侧排列石刻。乾陵神道两侧有石华表、飞马、朱雀、石马、石人等。",
+      "definition_en": "The avenue in front of a mausoleum, with stone carvings arranged on both sides. On both sides of the spirit path of Qianling, there are stone huabiao, flying horses, vermilion birds, stone horses, and stone figures."
+    },
+    {
+      "id": 47,
+      "term_zh": "石像生",
+      "term_en": "Stone Statues (Shixiangsheng)",
+      "category": "陵墓石刻",
+      "definition_zh": "陵墓神道两侧的石人、石兽，象征仪卫。唐陵石像生包括石马、石人、石狮等。",
+      "definition_en": "Stone figures and stone beasts on both sides of the mausoleum spirit path, symbolizing ceremonial guards. Tang mausoleum stone statues include stone horses, stone figures, and stone lions."
+    },
+    {
+      "id": 48,
+      "term_zh": "蕃酋像",
+      "term_en": "Foreign Chief Statue (Fanqiu Statue)",
+      "category": "陵墓石刻",
+      "definition_zh": "陵墓前雕刻的外国或少数民族首领石像。昭陵有十四国蕃君长石像，乾陵有61尊蕃酋像。",
+      "definition_en": "Stone statues of foreign or minority ethnic group chiefs carved in front of mausoleums. Zhaoling has stone statues of 14 foreign tribal chiefs, and Qianling has 61 foreign chief statues."
+    },
+    {
+      "id": 49,
+      "term_zh": "昭陵六骏",
+      "term_en": "Six Steeds of Zhaoling",
+      "category": "陵墓石刻",
+      "definition_zh": "唐太宗昭陵北司马门内的六匹战马石刻，纪念唐太宗征战时骑过的六匹战马。",
+      "definition_en": "Six war horse stone carvings inside the North Sima Gate of Emperor Taizong's Zhaoling, commemorating the six war horses ridden by Emperor Taizong during his military campaigns."
+    },
+    {
+      "id": 50,
+      "term_zh": "城垣",
+      "term_en": "City Wall (Chengyuan)",
+      "category": "城防建筑",
+      "definition_zh": "城市的防御性围墙，多为夯土筑成，外砌砖。西安古城墙是中国现存规模最大、保存最完整的城垣。",
+      "definition_en": "Defensive walls of cities, mostly built of rammed earth with brick exterior. The Xi'an Ancient City Wall is the largest and best-preserved city wall existing in China."
+    },
+    {
+      "id": 51,
+      "term_zh": "瓮城",
+      "term_en": "Wengcheng (Barbican)",
+      "category": "城防建筑",
+      "definition_zh": "城门外的半圆形或方形护门小城，增强城门防御。西安古城墙各门外均有瓮城。",
+      "definition_en": "A semicircular or square small protective city outside the city gate, enhancing gate defense. Each gate of the Xi'an Ancient City Wall has a barbican."
+    },
+    {
+      "id": 52,
+      "term_zh": "马面",
+      "term_en": "Horse-face (Mamian)",
+      "category": "城防建筑",
+      "definition_zh": "城墙上向外突出的墩台，用于侧翼防御。西安古城墙上有马面98座。",
+      "definition_en": "Platforms projecting outward from city walls, used for flank defense. The Xi'an Ancient City Wall has 98 horse-face platforms."
+    },
+    {
+      "id": 53,
+      "term_zh": "角楼",
+      "term_en": "Corner Tower (Jiaolou)",
+      "category": "城防建筑",
+      "definition_zh": "城墙四角上的楼阁，用于瞭望和防御。西安古城墙四角各有一座角楼。",
+      "definition_en": "Pavilions at the four corners of city walls, used for observation and defense. Each of the four corners of the Xi'an Ancient City Wall has a corner tower."
+    },
+    {
+      "id": 54,
+      "term_zh": "钟楼",
+      "term_en": "Bell Tower (Zhonglou)",
+      "category": "城市建筑",
+      "definition_zh": "城市中悬挂大钟的楼阁，用于报时。西安钟楼是中国现存规模最大、形制最完整的钟楼。",
+      "definition_en": "Pavilions in cities hanging large bells, used for timekeeping. The Xi'an Bell Tower is the largest and most complete bell tower existing in China."
+    },
+    {
+      "id": 55,
+      "term_zh": "鼓楼",
+      "term_en": "Drum Tower (Gulou)",
+      "category": "城市建筑",
+      "definition_zh": "城市中放置大鼓的楼阁，与钟楼配合报时。西安鼓楼与钟楼东西相望。",
+      "definition_en": "Pavilions in cities placing large drums, cooperating with bell towers for timekeeping. The Xi'an Drum Tower faces the Bell Tower east-west."
+    },
+    {
+      "id": 56,
+      "term_zh": "会馆",
+      "term_en": "Guild Hall (Huiguan)",
+      "category": "公共建筑",
+      "definition_zh": "明清时期旅居外地的同乡或同业商人建立的聚会场所，多建有戏楼、大殿。陕西会馆建筑融合南北风格。",
+      "definition_en": "Gathering places established by fellow townsmen or same-trade merchants living away from home during the Ming and Qing dynasties, often with opera towers and main halls. Shaanxi guild hall buildings integrate northern and southern styles."
+    },
+    {
+      "id": 57,
+      "term_zh": "戏楼",
+      "term_en": "Opera Tower (Xilou)",
+      "category": "公共建筑",
+      "definition_zh": "会馆、祠庙中用于演戏的楼阁，多为倒座式，面向大殿。陕西会馆多有精美的戏楼。",
+      "definition_en": "Pavilions for opera performances in guild halls and temples, mostly in daozuo (reverse seat) style, facing the main hall. Shaanxi guild halls often have exquisite opera towers."
+    },
+    {
+      "id": 58,
+      "term_zh": "书院",
+      "term_en": "Academy (Shuyuan)",
+      "category": "教育建筑",
+      "definition_zh": "中国古代教育机构，兼具教学、祭祀、藏书功能。陕西关中书院是明清陕西最高学府。",
+      "definition_en": "Ancient Chinese educational institutions, combining teaching, sacrifice, and book collection functions. The Guanzhong Academy in Shaanxi was the highest educational institution in Shaanxi during the Ming and Qing dynasties."
+    },
+    {
+      "id": 59,
+      "term_zh": "考院",
+      "term_en": "Examination Hall (Kaoyuan)",
+      "category": "教育建筑",
+      "definition_zh": "科举考试的场所，有号舍、大堂等建筑。蒲城考院是陕西保存最完整的清代考院。",
+      "definition_en": "Places for imperial examinations, with numbered cells (haoshe) and main halls. The Pucheng Examination Hall is the best-preserved Qing dynasty examination hall in Shaanxi."
+    },
+    {
+      "id": 60,
+      "term_zh": "号舍",
+      "term_en": "Examination Cell (Haoshe)",
+      "category": "教育建筑",
+      "definition_zh": "科举考试中考生答卷的小隔间，每间约1平方米。考院中有大量号舍。",
+      "definition_en": "Small compartments for candidates to answer papers in imperial examinations, each about 1 square meter. Examination halls have a large number of examination cells."
+    },
+    {
+      "id": 61,
+      "term_zh": "文庙",
+      "term_en": "Confucian Temple (Wenmiao)",
+      "category": "祠庙建筑",
+      "definition_zh": "祭祀孔子的祠庙，又称孔庙，多与学宫合建。陕西有西安府文庙、韩城文庙等。",
+      "definition_en": "Temples for sacrificing to Confucius, also called Confucian temples, often built together with schools. Shaanxi has the Xi'an Prefecture Confucian Temple, Hancheng Confucian Temple, etc."
+    },
+    {
+      "id": 62,
+      "term_zh": "城隍庙",
+      "term_en": "City God Temple (Chenghuang Temple)",
+      "category": "祠庙建筑",
+      "definition_zh": "祭祀城隍神的祠庙，城隍为城市守护神。陕西有西安都城隍庙、三原城隍庙等。",
+      "definition_en": "Temples for sacrificing to the City God, the guardian deity of cities. Shaanxi has the Xi'an Capital City God Temple, Sanyuan City God Temple, etc."
+    },
+    {
+      "id": 63,
+      "term_zh": "东岳庙",
+      "term_en": "Eastern Peak Temple (Dongyue Temple)",
+      "category": "祠庙建筑",
+      "definition_zh": "祭祀东岳大帝（泰山神）的祠庙，主司生死。西安东岳庙有精美的壁画。",
+      "definition_en": "Temples for sacrificing to the Great Emperor of the Eastern Peak (Mount Tai deity), in charge of life and death. The Xi'an Eastern Peak Temple has exquisite murals."
+    },
+    {
+      "id": 64,
+      "term_zh": "西岳庙",
+      "term_en": "Western Peak Temple (Xiyue Temple)",
+      "category": "祠庙建筑",
+      "definition_zh": "祭祀西岳大帝（华山神）的祠庙，有陕西小故宫之称。华阴西岳庙规模宏大。",
+      "definition_en": "Temples for sacrificing to the Great Emperor of the Western Peak (Mount Hua deity), known as the 'Small Forbidden City of Shaanxi.' The Xiyue Temple in Huayin has a grand scale."
+    },
+    {
+      "id": 65,
+      "term_zh": "清真寺",
+      "term_en": "Mosque (Qingzhen Temple)",
+      "category": "宗教建筑",
+      "definition_zh": "伊斯兰教礼拜场所，陕西清真寺多采用中国传统建筑形式。西安化觉巷清真寺是中国四大清真寺之一。",
+      "definition_en": "Islamic worship places; most mosques in Shaanxi adopt traditional Chinese architectural forms. the Huajue Lane Mosque in Xi'an is one of the four major mosques in China."
+    },
+    {
+      "id": 66,
+      "term_zh": "邦克楼",
+      "term_en": "Minaret (Bangke Tower)",
+      "category": "宗教建筑",
+      "definition_zh": "清真寺中召唤信徒礼拜的楼阁，又称宣礼塔。陕西清真寺邦克楼多为中国楼阁式。",
+      "definition_en": "Towers in mosques calling believers to worship, also called minarets. Most minarets of Shaanxi mosques are in Chinese multi-story style."
+    },
+    {
+      "id": 67,
+      "term_zh": "道教宫观",
+      "term_en": "Taoist Temple (Gongguan)",
+      "category": "宗教建筑",
+      "definition_zh": "道教祭祀和修行场所，陕西有楼观台、八仙庵、金台观等著名宫观。",
+      "definition_en": "Taoist sacrifice and cultivation places; Shaanxi has famous temples such as Louguantai, Baxian'an, and Jintaiguan."
+    },
+    {
+      "id": 68,
+      "term_zh": "佛教寺庙",
+      "term_en": "Buddhist Temple",
+      "category": "宗教建筑",
+      "definition_zh": "佛教祭祀和修行场所，陕西有大慈恩寺、兴教寺、大兴善寺等著名寺庙。",
+      "definition_en": "Buddhist sacrifice and cultivation places; Shaanxi has famous temples such as Great Ci'en Temple, Xingjiao Temple, and Daxingshan Temple."
+    },
+    {
+      "id": 69,
+      "term_zh": "三教合一",
+      "term_en": "Integration of Three Religions",
+      "category": "宗教文化",
+      "definition_zh": "佛、道、儒三教融合的文化现象。富县石泓寺石窟1号窟和7号窟表现三教合一内容。",
+      "definition_en": "The cultural phenomenon of the integration of Buddhism, Taoism, and Confucianism. Caves 1 and 7 of the Fuxian Shihong Temple Grottoes express the content of the integration of three religions."
+    },
+    {
+      "id": 70,
+      "term_zh": "丝绸之路",
+      "term_en": "Silk Road",
+      "category": "历史文化",
+      "definition_zh": "古代连接中国与西方的贸易通道，陕西是丝绸之路的起点，佛教沿此路东传。",
+      "definition_en": "The ancient trade route connecting China and the West; Shaanxi is the starting point of the Silk Road, along which Buddhism was transmitted eastward."
+    },
+    {
+      "id": 71,
+      "term_zh": "关中",
+      "term_en": "Guanzhong",
+      "category": "地理区域",
+      "definition_zh": "陕西中部渭河平原，四关之中，土地肥沃，是周秦汉唐等十三个王朝的定都之地。",
+      "definition_en": "The Wei River Plain in central Shaanxi, 'within the four passes,' with fertile land, was the capital location of thirteen dynasties including Zhou, Qin, Han, and Tang."
+    },
+    {
+      "id": 72,
+      "term_zh": "陕北",
+      "term_en": "Northern Shaanxi",
+      "category": "地理区域",
+      "definition_zh": "陕西北部黄土高原地区，包括榆林、延安，窑洞、长城、石窟是其建筑特色。",
+      "definition_en": "The Loess Plateau region in northern Shaanxi, including Yulin and Yan'an; cave dwellings, the Great Wall, and grottoes are its architectural features."
+    },
+    {
+      "id": 73,
+      "term_zh": "陕南",
+      "term_en": "Southern Shaanxi",
+      "category": "地理区域",
+      "definition_zh": "陕西南部秦巴山区，包括汉中、安康、商洛，气候湿润，建筑融合南北风格。",
+      "definition_en": "The Qinba Mountain region in southern Shaanxi, including Hanzhong, Ankang, and Shangluo, with a humid climate and buildings integrating northern and southern styles."
+    },
+    {
+      "id": 74,
+      "term_zh": "黄土高原",
+      "term_en": "Loess Plateau",
+      "category": "地理区域",
+      "definition_zh": "中国四大高原之一，覆盖陕北等地，黄土层深厚，是窑洞建筑的天然条件。",
+      "definition_en": "One of the four major plateaus in China, covering northern Shaanxi and other areas, with thick loess layers, providing natural conditions for cave dwelling architecture."
+    },
+    {
+      "id": 75,
+      "term_zh": "夯土",
+      "term_en": "Rammed Earth",
+      "category": "建筑材料",
+      "definition_zh": "用工具逐层夯实的土，是中国古代城墙、台基、陵墓封土的主要材料。",
+      "definition_en": "Soil compacted layer by layer with tools, the main material for ancient Chinese city walls, pedestals, and mausoleum mounds."
+    },
+    {
+      "id": 76,
+      "term_zh": "包砖",
+      "term_en": "Brick Cladding",
+      "category": "建筑工艺",
+      "definition_zh": "在夯土城墙外侧包砌砖层，增强防御和耐久性。西安古城墙为明代包砖城墙。",
+      "definition_en": "Laying brick layers on the outside of rammed-earth city walls to enhance defense and durability. The Xi'an Ancient City Wall is a Ming dynasty brick-clad city wall."
+    },
+    {
+      "id": 77,
+      "term_zh": "琉璃",
+      "term_en": "Glazed Tile",
+      "category": "建筑材料",
+      "definition_zh": "表面施釉的陶质建筑构件，用于屋顶、塔刹等。延安千佛琉璃塔是陕西仅见的琉璃塔。",
+      "definition_en": "Glazed ceramic building components used for roofs, pagoda finials, etc. The Yan'an Thousand-Buddha Glazed Pagoda is the only glazed pagoda seen in Shaanxi."
+    },
+    {
+      "id": 78,
+      "term_zh": "铁铸",
+      "term_en": "Iron Casting",
+      "category": "建筑材料",
+      "definition_zh": "用铁铸造建筑构件或整座建筑。咸阳千佛铁塔是我国现存最高的铁塔。",
+      "definition_en": "Casting building components or entire buildings with iron. the Xianyang Thousand-Buddha Iron Pagoda is the tallest existing iron pagoda in China."
+    },
+    {
+      "id": 79,
+      "term_zh": "鎏金",
+      "term_en": "Gilding",
+      "category": "装饰工艺",
+      "definition_zh": "在金属表面涂金的工艺。泾阳崇文宝塔顶部发现8尊鎏金铜佛像。",
+      "definition_en": "The craft of applying gold to metal surfaces. 8 gilded copper Buddha statues were found at the top of the Jingyang Chongwen Pagoda."
+    },
+    {
+      "id": 80,
+      "term_zh": "砖雕",
+      "term_en": "Brick Carving",
+      "category": "装饰工艺",
+      "definition_zh": "在砖上雕刻图案的工艺，用于墙面、门楼、照壁等。陕西会馆、祠庙中砖雕精美。",
+      "definition_en": "The craft of carving patterns on bricks, used for walls, gate towers, screen walls, etc. Brick carvings in Shaanxi guild halls and temples are exquisite."
+    },
+    {
+      "id": 81,
+      "term_zh": "木雕",
+      "term_en": "Wood Carving",
+      "category": "装饰工艺",
+      "definition_zh": "在木构件上雕刻图案的工艺，用于梁枋、门窗、斗栱等。紫阳北五省会馆木雕蕴涵深厚历史文化。",
+      "definition_en": "The craft of carving patterns on wooden components, used for beams, doors and windows, bracket sets, etc. The wood carvings of the Ziyang Five Northern Provinces Guild Hall contain profound historical culture."
+    },
+    {
+      "id": 82,
+      "term_zh": "石雕",
+      "term_en": "Stone Carving",
+      "category": "装饰工艺",
+      "definition_zh": "在石材上雕刻图案的工艺，用于柱础、栏杆、碑刻等。霍去病墓前石刻是西汉陵墓石刻代表。",
+      "definition_en": "The craft of carving patterns on stone, used for column bases, railings, steles, etc. The stone carvings in front of Huo Qubing's tomb are representative of Western Han mausoleum stone carvings."
+    },
+    {
+      "id": 83,
+      "term_zh": "壁画",
+      "term_en": "Mural",
+      "category": "装饰艺术",
+      "definition_zh": "绘制在墙壁上的图画。紫阳北五省会馆现存110多平方米清代建筑壁画。",
+      "definition_en": "Paintings drawn on walls. The Ziyang Five Northern Provinces Guild Hall preserves more than 110 square meters of Qing dynasty architectural murals."
+    },
+    {
+      "id": 84,
+      "term_zh": "瓦当",
+      "term_en": "Tile End (Wadang)",
+      "category": "建筑构件",
+      "definition_zh": "筒瓦顶端下垂的圆形或半圆形装饰件，有图案或文字。陕西出土大量周秦汉唐瓦当。",
+      "definition_en": "Round or semicircular decorative pieces at the lower end of tube tiles, with patterns or inscriptions. A large number of Zhou, Qin, Han, and Tang tile ends have been unearthed in Shaanxi."
+    },
+    {
+      "id": 85,
+      "term_zh": "滴水",
+      "term_en": "Drip Tile (Dishui)",
+      "category": "建筑构件",
+      "definition_zh": "板瓦前端下垂的三角形装饰件，用于引导雨水。与瓦当配合使用。",
+      "definition_en": "Triangular decorative pieces at the front end of flat tiles, used to guide rainwater. Used in conjunction with tile ends."
+    },
+    {
+      "id": 86,
+      "term_zh": "柱础",
+      "term_en": "Column Base (Zhuchu)",
+      "category": "建筑构件",
+      "definition_zh": "柱子底部的石质基座，防潮并传递荷载。山阳禹王宫石柱础造型各异，石雕图案丰富多彩。",
+      "definition_en": "Stone pedestals at the bottom of columns, moisture-proof and load-transferring. The stone column bases of the Shanyang Yu the Great Palace have various shapes with rich and colorful stone carving patterns."
+    },
+    {
+      "id": 87,
+      "term_zh": "阑额",
+      "term_en": "Architrave (Lan'e)",
+      "category": "建筑构件",
+      "definition_zh": "柱与柱之间的横向联系构件，位于柱头之上。大雁塔塔身用砖砌扁柱和阑额。",
+      "definition_en": "Horizontal connecting components between columns, located above column heads. The Giant Wild Goose Pagoda body uses brick flat columns and architraves."
+    },
+    {
+      "id": 88,
+      "term_zh": "普拍枋",
+      "term_en": "Pubanfang (Flat Beam)",
+      "category": "建筑构件",
+      "definition_zh": "位于阑额之上、承托斗栱的横向构件。兴教寺玄奘塔以砖隐出倚柱、阑额及普拍枋。",
+      "definition_en": "Horizontal components above the architrave, supporting bracket sets. The Xuanzang Pagoda at Xingjiao Temple uses brick-hidden pilasters, architraves, and pubanfang."
+    },
+    {
+      "id": 89,
+      "term_zh": "平座",
+      "term_en": "Flat Seat (Pingzuo)",
+      "category": "建筑构件",
+      "definition_zh": "楼阁式建筑中用于登临的平台，有栏杆。大雁塔各层均有木楼板和木扶梯。",
+      "definition_en": "Platforms for climbing in multi-story buildings, with railings. Each story of the Giant Wild Goose Pagoda has wooden floor slabs and wooden ladders."
+    },
+    {
+      "id": 90,
+      "term_zh": "塔刹",
+      "term_en": "Pagoda Finial (Tasha)",
+      "category": "佛塔构件",
+      "definition_zh": "佛塔顶部的装饰性构件，由刹座、相轮、华盖、宝珠等组成。泾阳崇文宝塔塔顶安置4.19米高铜质宝瓶式塔刹。",
+      "definition_en": "Decorative components at the top of Buddhist pagodas, composed of finial base, phase wheels, canopy, and precious pearl. The top of the Jingyang Chongwen Pagoda is installed with a 4.19-m-high copper treasure-vase-style pagoda finial."
+    }
+  ]
+}
