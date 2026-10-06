@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T08:59:40.512937+00:00",
-  "total": 260,
+  "generated_at": "2026-10-06T09:28:54.877675+00:00",
+  "total": 266,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
     "03_overseas-architecture": 35,
-    "04_style-analysis": 127
+    "04_style-analysis": 133
   },
   "subcategories": {
     "01_provincial-architecture": {
@@ -39,7 +39,7 @@
     "04_style-analysis": {
       "group01-chenzhihua": 18,
       "group02-songyang-luxiaomin": 8,
-      "group03-provincial-series": 88,
+      "group03-provincial-series": 94,
       "group04-early-scholars": 5,
       "group05-hubinbing-villages": 8
     }
@@ -2383,6 +2383,60 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_y-n-h-h-x-s-m.html",
       "size": 9925,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_d-m.html",
+      "title": "岱庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_d-m.html",
+      "size": 10115,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_y-m.html",
+      "title": "颜庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_y-m.html",
+      "size": 10206,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_m-l-w-m.html",
+      "title": "明鲁王墓",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_m-l-w-m.html",
+      "size": 9977,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_z-x-m-k-j-z.html",
+      "title": "中兴煤矿旧址",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_z-x-m-k-j-z.html",
+      "size": 10185,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_y-l-g-s-k-q.html",
+      "title": "郁林观石刻群",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_y-l-g-s-k-q.html",
+      "size": 9896,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_y-z-x-l-t.html",
+      "title": "兖州兴隆塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_y-z-x-l-t.html",
+      "size": 10174,
       "modified": "2026-10-06"
     }
   ]
