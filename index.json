@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T23:43:39.763648+00:00",
-  "total": 212,
+  "generated_at": "2026-10-06T00:46:20.554077+00:00",
+  "total": 218,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
     "03_overseas-architecture": 35,
-    "04_style-analysis": 79
+    "04_style-analysis": 85
   },
   "subcategories": {
     "01_provincial-architecture": {
@@ -39,7 +39,7 @@
     "04_style-analysis": {
       "group01-chenzhihua": 18,
       "group02-songyang-luxiaomin": 8,
-      "group03-provincial-series": 40,
+      "group03-provincial-series": 46,
       "group04-early-scholars": 5,
       "group05-hubinbing-villages": 8
     }
@@ -1951,6 +1951,60 @@
       "subcategory": "group03-provincial-series",
       "filename": "模仿稿_丛书省卷体风_冠县萧城遗址.html",
       "size": 9861,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_东平戴村坝.html",
+      "title": "东平戴村坝",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "模仿稿_丛书省卷体风_东平戴村坝.html",
+      "size": 9524,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_成武护城堤与城湖.html",
+      "title": "成武护城堤与城湖",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "模仿稿_丛书省卷体风_成武护城堤与城湖.html",
+      "size": 9640,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_巨野永丰塔.html",
+      "title": "巨野永丰塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "模仿稿_丛书省卷体风_巨野永丰塔.html",
+      "size": 9563,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_曲阜孔庙.html",
+      "title": "曲阜孔庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "模仿稿_丛书省卷体风_曲阜孔庙.html",
+      "size": 9650,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_邹城孟庙孟府.html",
+      "title": "邹城孟庙孟府",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "模仿稿_丛书省卷体风_邹城孟庙孟府.html",
+      "size": 9572,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/模仿稿_丛书省卷体风_嘉祥武氏祠.html",
+      "title": "嘉祥武氏祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "模仿稿_丛书省卷体风_嘉祥武氏祠.html",
+      "size": 9621,
       "modified": "2026-10-06"
     }
   ]
