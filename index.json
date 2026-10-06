@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T07:57:39.943920+00:00",
-  "total": 248,
+  "generated_at": "2026-10-06T08:10:19.258985+00:00",
+  "total": 254,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
     "03_overseas-architecture": 35,
-    "04_style-analysis": 115
+    "04_style-analysis": 121
   },
   "subcategories": {
     "01_provincial-architecture": {
@@ -39,7 +39,7 @@
     "04_style-analysis": {
       "group01-chenzhihua": 18,
       "group02-songyang-luxiaomin": 8,
-      "group03-provincial-series": 76,
+      "group03-provincial-series": 82,
       "group04-early-scholars": 5,
       "group05-hubinbing-villages": 8
     }
@@ -2275,6 +2275,60 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_m-d-s-h-m-q.html",
       "size": 9919,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_p-l-t-g-c-y-z.html",
+      "title": "平粮台古城遗址",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_p-l-t-g-c-y-z.html",
+      "size": 9821,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_d-y-s-s-g-m.html",
+      "title": "大伊山石棺墓",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_d-y-s-s-g-m.html",
+      "size": 9827,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-w-c-y-z.html",
+      "title": "梁王城遗址",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_l-w-c-y-z.html",
+      "size": 9639,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_d-t-h-m.html",
+      "title": "定陶汉墓",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_d-t-h-m.html",
+      "size": 9662,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-c-s-s-h-g.html",
+      "title": "聊城山陕会馆",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_l-c-s-s-h-g.html",
+      "size": 9844,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-z-c-y-z.html",
+      "title": "泗州城遗址",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-z-c-y-z.html",
+      "size": 9810,
       "modified": "2026-10-06"
     }
   ]
