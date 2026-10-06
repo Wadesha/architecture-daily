@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T09:28:54.877675+00:00",
-  "total": 266,
+  "generated_at": "2026-10-06T11:00:07.990909+00:00",
+  "total": 272,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
     "03_overseas-architecture": 35,
-    "04_style-analysis": 133
+    "04_style-analysis": 139
   },
   "subcategories": {
     "01_provincial-architecture": {
@@ -39,7 +39,7 @@
     "04_style-analysis": {
       "group01-chenzhihua": 18,
       "group02-songyang-luxiaomin": 8,
-      "group03-provincial-series": 94,
+      "group03-provincial-series": 100,
       "group04-early-scholars": 5,
       "group05-hubinbing-villages": 8
     }
@@ -2437,6 +2437,60 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_y-z-x-l-t.html",
       "size": 10174,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_t-b-l.html",
+      "title": "太白楼",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_t-b-l.html",
+      "size": 10376,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_q-y-y.html",
+      "title": "清晏园",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_q-y-y.html",
+      "size": 10523,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-q-a-t-j.html",
+      "title": "临清鳌头矶",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_l-q-a-t-j.html",
+      "size": 10444,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_g-d-f-w-m.html",
+      "title": "归德府文庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_g-d-f-w-m.html",
+      "size": 10864,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_x-z-q-l-x-g.html",
+      "title": "徐州乾隆行宫",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_x-z-q-l-x-g.html",
+      "size": 10645,
+      "modified": "2026-10-06"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_w-t-t.html",
+      "title": "文通塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_w-t-t.html",
+      "size": 10702,
       "modified": "2026-10-06"
     }
   ]
