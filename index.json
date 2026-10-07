@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T04:23:52.295056+00:00",
-  "total": 431,
+  "generated_at": "2026-10-07T09:13:50.054832+00:00",
+  "total": 445,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
     "03_overseas-architecture": 35,
-    "04_style-analysis": 298
+    "04_style-analysis": 312
   },
   "subcategories": {
     "01_provincial-architecture": {
@@ -39,7 +39,7 @@
     "04_style-analysis": {
       "group01-chenzhihua": 18,
       "group02-songyang-luxiaomin": 8,
-      "group03-provincial-series": 259,
+      "group03-provincial-series": 273,
       "group04-early-scholars": 5,
       "group05-hubinbing-villages": 8
     }
@@ -3922,6 +3922,132 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_f-x-w-m-d-c-d.html",
       "size": 10853,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_y-c-t-l-c-t-s-j-c.html",
+      "title": "郓城仝林村仝氏家祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_y-c-t-l-c-t-s-j-c.html",
+      "size": 9878,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-x-d-j-j-s-j-c.html",
+      "title": "嘉祥大靳靳氏家祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_j-x-d-j-j-s-j-c.html",
+      "size": 9677,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-x-c-y-c-s-j-c.html",
+      "title": "嘉祥楚营楚氏家祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_j-x-c-y-c-s-j-c.html",
+      "size": 9572,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_c-w-s-s-j-x-f.html",
+      "title": "成武申氏节孝坊",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_c-w-s-s-j-x-f.html",
+      "size": 10118,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_y-c-z-s-z-l-z-s-c.html",
+      "title": "郓城状元张楼状元祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_y-c-z-s-z-l-z-s-c.html",
+      "size": 9668,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_y-c-t-t-l-h-s-c-t.html",
+      "title": "郓城唐塔路侯氏祠堂",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_y-c-t-t-l-h-s-c-t.html",
+      "size": 9755,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-y-g-t-s-g-d.html",
+      "title": "连云港塔山古道",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_l-y-g-t-s-g-d.html",
+      "size": 9782,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-y-g-d-w-y-s-c.html",
+      "title": "连云港大雾崖石城",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_l-y-g-d-w-y-s-c.html",
+      "size": 9833,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_z-c-z-l-w-d-t.html",
+      "title": "柘城赵楼武德堂",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_z-c-z-l-w-d-t.html",
+      "size": 10043,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_x-y-y-s-s-f.html",
+      "title": "夏邑杨氏寿坊",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_x-y-y-s-s-f.html",
+      "size": 9998,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-s-z-j-g-g.html",
+      "title": "界首臧家公馆",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_j-s-z-j-g-g.html",
+      "size": 10115,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_w-s-c-j-t-l.html",
+      "title": "汶上崔家堂楼",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_w-s-c-j-t-l.html",
+      "size": 9896,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_t-c-m-t-q-z-s.html",
+      "title": "郯城马头清真寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_t-c-m-t-q-z-s.html",
+      "size": 10388,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_x-t-h-d-s-y-b-x-t.html",
+      "title": "新泰怀德书院北学堂",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_x-t-h-d-s-y-b-x-t.html",
+      "size": 10076,
       "modified": "2026-10-07"
     }
   ]
