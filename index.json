@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T23:50:23.544476+00:00",
-  "total": 380,
+  "generated_at": "2026-10-07T01:38:35.265339+00:00",
+  "total": 409,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
     "03_overseas-architecture": 35,
-    "04_style-analysis": 247
+    "04_style-analysis": 276
   },
   "subcategories": {
     "01_provincial-architecture": {
@@ -39,7 +39,7 @@
     "04_style-analysis": {
       "group01-chenzhihua": 18,
       "group02-songyang-luxiaomin": 8,
-      "group03-provincial-series": 208,
+      "group03-provincial-series": 237,
       "group04-early-scholars": 5,
       "group05-hubinbing-villages": 8
     }
@@ -3463,6 +3463,267 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_m-d-s-w-m.html",
       "size": 10445,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_k-f-s-s-g-h-g.html",
+      "title": "开封山陕甘会馆",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_k-f-s-s-g-h-g.html",
+      "size": 10271,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_z-k-g-d-m.html",
+      "title": "周口关帝庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_z-k-g-d-m.html",
+      "size": 9785,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_z-x-z-y-f-m.html",
+      "title": "朱仙镇岳飞庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_z-x-z-y-f-m.html",
+      "size": 9992,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_z-x-z-q-z-s.html",
+      "title": "朱仙镇清真寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_z-x-z-q-z-s.html",
+      "size": 10478,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_t-x-w-m-d-c-d.html",
+      "title": "通许文庙大成殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_t-x-w-m-d-c-d.html",
+      "size": 9944,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_q-x-w-m-d-c-d.html",
+      "title": "杞县文庙大成殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_q-x-w-m-d-c-d.html",
+      "size": 10103,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_k-f-t-t-y-g-s-t.html",
+      "title": "开封铁塔（祐国寺塔）",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_k-f-t-t-y-g-s-t.html",
+      "size": 9824,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_k-f-f-t.html",
+      "title": "开封繁塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_k-f-f-t.html",
+      "size": 9851,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_k-f-y-q-g-y-h-g.html",
+      "title": "开封延庆观玉皇阁",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_k-f-y-q-g-y-h-g.html",
+      "size": 9782,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-x-k-m-d-c-d.html",
+      "title": "寿县孔庙大成殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-x-k-m-d-c-d.html",
+      "size": 9956,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-x-b-e-s-d-x-b-d.html",
+      "title": "寿县报恩寺大雄宝殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-x-b-e-s-d-x-b-d.html",
+      "size": 9869,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-x-q-z-s-w-x-b-d.html",
+      "title": "寿县清真寺无相宝殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-x-q-z-s-w-x-b-d.html",
+      "size": 9992,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_f-y-g-l.html",
+      "title": "凤阳鼓楼",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_f-y-g-l.html",
+      "size": 9743,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_f-y-m-h-l.html",
+      "title": "凤阳明皇陵",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_f-y-m-h-l.html",
+      "size": 9746,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_m-c-w-m-d-c-d.html",
+      "title": "蒙城文庙大成殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_m-c-w-m-d-c-d.html",
+      "size": 9899,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_f-y-k-x-l.html",
+      "title": "阜阳奎星楼",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_f-y-k-x-l.html",
+      "size": 9740,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_b-z-x-g-t.html",
+      "title": "亳州薛阁塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_b-z-x-g-t.html",
+      "size": 9836,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_b-z-d-d-z-g.html",
+      "title": "亳州道德中宫",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_b-z-d-d-z-g.html",
+      "size": 9899,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_b-b-t-h-m.html",
+      "title": "蚌埠汤和墓",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_b-b-t-h-m.html",
+      "size": 9866,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_x-z-y-l-s-d-s-y.html",
+      "title": "徐州云龙山大士岩",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_x-z-y-l-s-d-s-y.html",
+      "size": 10004,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_x-z-w-m-d-c-d.html",
+      "title": "徐州文庙大成殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_x-z-w-m-d-c-d.html",
+      "size": 9809,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_h-a-q-j-w-m-d-c-d.html",
+      "title": "淮安清江文庙大成殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_h-a-q-j-w-m-d-c-d.html",
+      "size": 9860,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-q-j-l-l-y-d-x-b-d.html",
+      "title": "宿迁极乐律院大雄宝殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-q-j-l-l-y-d-x-b-d.html",
+      "size": 9941,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_n-l-d-g-q-z-s.html",
+      "title": "宁陵东关清真寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_n-l-d-g-q-z-s.html",
+      "size": 9932,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_x-c-y-z-g-m-j.html",
+      "title": "项城袁寨古民居",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_x-c-y-z-g-m-j.html",
+      "size": 10199,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-q-l-m-z-g-j.html",
+      "title": "沈丘李鸣钟故居",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-q-l-m-z-g-j.html",
+      "size": 9974,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-q-z-r-c-s.html",
+      "title": "宿迁真如禅寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-q-z-r-c-s.html",
+      "size": 9722,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_h-a-s-k-z-y-f.html",
+      "title": "淮安沈坤状元府",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_h-a-s-k-z-y-f.html",
+      "size": 10136,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_x-y-k-z-h-x-c-d-c-d.html",
+      "title": "夏邑孔子还乡祠大成殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_x-y-k-z-h-x-c-d-c-d.html",
+      "size": 10079,
       "modified": "2026-10-07"
     }
   ]
