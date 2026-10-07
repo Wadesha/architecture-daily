@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T03:01:27.951319+00:00",
-  "total": 422,
+  "generated_at": "2026-10-07T04:23:52.295056+00:00",
+  "total": 431,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
     "03_overseas-architecture": 35,
-    "04_style-analysis": 289
+    "04_style-analysis": 298
   },
   "subcategories": {
     "01_provincial-architecture": {
@@ -39,7 +39,7 @@
     "04_style-analysis": {
       "group01-chenzhihua": 18,
       "group02-songyang-luxiaomin": 8,
-      "group03-provincial-series": 250,
+      "group03-provincial-series": 259,
       "group04-early-scholars": 5,
       "group05-hubinbing-villages": 8
     }
@@ -3841,6 +3841,87 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_c-g-g-c-s-c.html",
       "size": 12093,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_c-w-w-h-t.html",
+      "title": "成武卧化塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_c-w-w-h-t.html",
+      "size": 10343,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_c-w-w-m-l-x-m.html",
+      "title": "成武文庙棂星门",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_c-w-w-m-l-x-m.html",
+      "size": 10643,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-s-y-s-p-f.html",
+      "title": "苏述御史牌坊",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-s-y-s-p-f.html",
+      "size": 11249,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_w-x-z-w-m.html",
+      "title": "汶西真武庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_w-x-z-w-m.html",
+      "size": 11018,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_q-y-t-s-x-g.html",
+      "title": "前营泰山行宫",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_q-y-t-s-x-g.html",
+      "size": 10541,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_d-m-w-m-d-c-d.html",
+      "title": "东明文庙大成殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_d-m-w-m-d-c-d.html",
+      "size": 10886,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-x-s-s-t.html",
+      "title": "睢县圣寿寺塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-x-s-s-t.html",
+      "size": 10757,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-x-w-y-t.html",
+      "title": "睢县无忧寺塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-x-w-y-t.html",
+      "size": 10922,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_f-x-w-m-d-c-d.html",
+      "title": "丰县文庙大成殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_f-x-w-m-d-c-d.html",
+      "size": 10853,
       "modified": "2026-10-07"
     }
   ]
