@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T09:21:00.660544+00:00",
-  "total": 445,
+  "generated_at": "2026-10-07T10:10:24.346649+00:00",
+  "total": 454,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
     "03_overseas-architecture": 35,
-    "04_style-analysis": 312
+    "04_style-analysis": 321
   },
   "subcategories": {
     "01_provincial-architecture": {
@@ -39,7 +39,7 @@
     "04_style-analysis": {
       "group01-chenzhihua": 18,
       "group02-songyang-luxiaomin": 8,
-      "group03-provincial-series": 273,
+      "group03-provincial-series": 282,
       "group04-early-scholars": 5,
       "group05-hubinbing-villages": 8
     }
@@ -4052,6 +4052,87 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_x-t-h-d-s-y-b-x-t.html",
       "size": 10076,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_w-s-g-d-m-w-s-d.html",
+      "title": "汶上关帝庙武圣殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_w-s-g-d-m-w-s-d.html",
+      "size": 10574,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-y-x-g-c-x-s-j-c.html",
+      "title": "巨野奚阁村奚氏家祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_j-y-x-g-c-x-s-j-c.html",
+      "size": 10691,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-y-w-d-c-w-s-j-c.html",
+      "title": "巨野王店村王氏家祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_j-y-w-d-c-w-s-j-c.html",
+      "size": 11129,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-y-h-t-c-l-s-c-t.html",
+      "title": "巨野后屯村李氏祠堂",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_j-y-h-t-c-l-s-c-t.html",
+      "size": 11261,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_w-s-z-m-x-s-j-c.html",
+      "title": "汶上赵庙徐氏家祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_w-s-z-m-x-s-j-c.html",
+      "size": 11681,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_w-s-l-y-k-g-j.html",
+      "title": "汶上刘韵珂故居",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_w-s-l-y-k-g-j.html",
+      "size": 10676,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-x-h-g-h-s-j-c.html",
+      "title": "嘉祥韩垓韩氏家祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_j-x-h-g-h-s-j-c.html",
+      "size": 11219,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-l-z-w-p-f.html",
+      "title": "兰陵庄坞牌坊",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_l-l-z-w-p-f.html",
+      "size": 10774,
+      "modified": "2026-10-07"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_y-c-w-r-d-y-j-g-m.html",
+      "title": "郓城万人堌堆义军公墓",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_y-c-w-r-d-y-j-g-m.html",
+      "size": 11738,
       "modified": "2026-10-07"
     }
   ]
