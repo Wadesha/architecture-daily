@@ -1,11 +1,11 @@
 {
   "generated_at": "2026-10-08T02:10:18.817634+00:00",
-  "total": 481,
+  "total": 476,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
     "03_overseas-architecture": 35,
-    "04_style-analysis": 348
+    "04_style-analysis": 343
   },
   "subcategories": {
     "01_provincial-architecture": {
@@ -39,7 +39,7 @@
     "04_style-analysis": {
       "group01-chenzhihua": 18,
       "group02-songyang-luxiaomin": 8,
-      "group03-provincial-series": 309,
+      "group03-provincial-series": 304,
       "group04-early-scholars": 5,
       "group05-hubinbing-villages": 8
     }
@@ -1477,33 +1477,6 @@
       "modified": "2026-09-10"
     },
     {
-      "url": "04_style-analysis/group03-provincial-series/t-j_c-s-s-j-f_l-w-s-s-b_g-w-c-g.html",
-      "title": "天津古建筑",
-      "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
-      "filename": "天津_丛书省卷风_联网搜索版_过往成果.html",
-      "size": 28542,
-      "modified": "2026-09-10"
-    },
-    {
-      "url": "04_style-analysis/group03-provincial-series/s-d_c-s-s-j-f_l-w-s-s-b_g-w-c-g.html",
-      "title": "山东古建筑",
-      "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
-      "filename": "山东_丛书省卷风_联网搜索版_过往成果.html",
-      "size": 253832,
-      "modified": "2026-09-10"
-    },
-    {
-      "url": "04_style-analysis/group03-provincial-series/f-f-l_c-s-s-j-t.html",
-      "title": "全国\"古建筑地图 / 古建筑丛书\"各省卷体",
-      "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
-      "filename": "方法论_丛书省卷体.html",
-      "size": 14302,
-      "modified": "2026-09-10"
-    },
-    {
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_w-r-f-y-l.html",
       "title": "万荣飞云楼",
       "category": "04_style-analysis",
@@ -1523,10 +1496,10 @@
     },
     {
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_b-g-s.html",
-      "title": "模仿稿 · 丛书各省卷体 · 保国寺",
+      "title": "保国寺",
       "category": "04_style-analysis",
       "subcategory": "group03-provincial-series",
-      "filename": "模仿稿_丛书省卷体风_保国寺.html",
+      "filename": "保国寺.html",
       "size": 12867,
       "modified": "2026-09-10"
     },
@@ -1622,10 +1595,10 @@
     },
     {
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-d-m.html",
-      "title": "模仿稿 · 丛书各省卷体 · 济渎庙",
+      "title": "济渎庙",
       "category": "04_style-analysis",
       "subcategory": "group03-provincial-series",
-      "filename": "模仿稿_丛书省卷体风_济渎庙.html",
+      "filename": "济渎庙.html",
       "size": 12595,
       "modified": "2026-09-10"
     },
@@ -1649,10 +1622,10 @@
     },
     {
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_z-w-g.html",
-      "title": "模仿稿 · 丛书各省卷体 · 真武阁",
+      "title": "真武阁",
       "category": "04_style-analysis",
       "subcategory": "group03-provincial-series",
-      "filename": "模仿稿_丛书省卷体风_真武阁.html",
+      "filename": "真武阁.html",
       "size": 12599,
       "modified": "2026-09-10"
     },
@@ -1717,24 +1690,6 @@
       "subcategory": "group03-provincial-series",
       "filename": "模仿稿_丛书省卷体风_高平开化寺.html",
       "size": 9812,
-      "modified": "2026-09-10"
-    },
-    {
-      "url": "04_style-analysis/group03-provincial-series/h-b_c-s-s-j-f_l-w-s-s-b_g-w-c-g.html",
-      "title": "湖北古建筑",
-      "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
-      "filename": "湖北_丛书省卷风_联网搜索版_过往成果.html",
-      "size": 176330,
-      "modified": "2026-09-10"
-    },
-    {
-      "url": "04_style-analysis/group03-provincial-series/s-x_c-s-s-j-f_l-w-s-s-b_g-w-c-g.html",
-      "title": "陕西古建筑",
-      "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
-      "filename": "陕西_丛书省卷风_联网搜索版_过往成果.html",
-      "size": 121858,
       "modified": "2026-09-10"
     },
     {
