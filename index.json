@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-08T07:39:09.985677+00:00",
-  "total": 476,
+  "total": 482,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
@@ -4332,6 +4332,60 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_x-y-g-d-z-s-g-m-j.html",
       "size": 13189,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_p-l-g.html",
+      "title": "蓬莱阁",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_p-l-g.html",
+      "size": 9987,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_q-f-k-f.html",
+      "title": "曲阜孔府",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_q-f-k-f.html",
+      "size": 9963,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_n-x-x-y.html",
+      "title": "内乡县衙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_n-x-x-y.html",
+      "size": 10044,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-q-s-s-h-g.html",
+      "title": "社旗山陕会馆",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-q-s-s-h-g.html",
+      "size": 9843,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_h-c.html",
+      "title": "宏村",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_h-c.html",
+      "size": 10119,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_a-q-z-f-t.html",
+      "title": "安庆振风塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_a-q-z-f-t.html",
+      "size": 10086,
       "modified": "2026-10-09"
     }
   ]
