@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T07:39:09.985677+00:00",
+  "generated_at": "2026-10-09",
   "total": 488,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
     "03_overseas-architecture": 35,
-    "04_style-analysis": 343
+    "04_style-analysis": 355
   },
   "subcategories": {
     "01_provincial-architecture": {
@@ -34,15 +34,15 @@
       "yanxia-oldstreet": 5
     },
     "03_overseas-architecture": {
-      "03_overseas-architecture": 35
+      "": 35
     },
     "04_style-analysis": {
       "group01-chenzhihua": 18,
       "group02-songyang-luxiaomin": 8,
-      "group03-provincial-series": 284,
+      "group03-provincial-series": 256,
       "group04-early-scholars": 5,
       "group05-hubinbing-villages": 8,
-      "group06-outside-huaihai": 20
+      "group06-outside-huaihai": 60
     }
   },
   "articles": [
@@ -1598,7 +1598,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-d-m.html",
       "title": "济渎庙",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "济渎庙.html",
       "size": 12595,
       "modified": "2026-09-10"
@@ -1616,7 +1616,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_y-l-b.html",
       "title": "渔梁坝",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "模仿稿_丛书省卷体风_渔梁坝.html",
       "size": 15333,
       "modified": "2026-10-09"
@@ -1634,7 +1634,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-d-s-c.html",
       "title": "罗东舒祠（宝纶阁）",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "模仿稿_丛书省卷体风_罗东舒祠.html",
       "size": 11194,
       "modified": "2026-10-08"
@@ -1670,7 +1670,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_x-g-s-f.html",
       "title": "许国石坊",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "模仿稿_丛书省卷体风_许国石坊.html",
       "size": 10135,
       "modified": "2026-10-08"
@@ -1823,7 +1823,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-c-g-y-l.html",
       "title": "聊城光岳楼",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "模仿稿_丛书省卷体风_聊城光岳楼.html",
       "size": 11612,
       "modified": "2026-10-08"
@@ -1832,7 +1832,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-c-t-q-z.html",
       "title": "聊城土桥闸",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "模仿稿_丛书省卷体风_聊城土桥闸.html",
       "size": 11469,
       "modified": "2026-10-08"
@@ -1841,7 +1841,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_y-g-q-j-m-t.html",
       "title": "阳谷七级码头",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "模仿稿_丛书省卷体风_阳谷七级码头.html",
       "size": 11767,
       "modified": "2026-10-08"
@@ -1859,7 +1859,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-q-y-h-c-g.html",
       "title": "临清运河钞关",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "模仿稿_丛书省卷体风_临清运河钞关.html",
       "size": 15443,
       "modified": "2026-10-09"
@@ -1904,7 +1904,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_g-x-x-c-y-z.html",
       "title": "冠县萧城遗址",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "模仿稿_丛书省卷体风_冠县萧城遗址.html",
       "size": 10885,
       "modified": "2026-10-08"
@@ -2273,7 +2273,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-c-s-s-h-g.html",
       "title": "聊城山陕会馆",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_l-c-s-s-h-g.html",
       "size": 10801,
       "modified": "2026-10-08"
@@ -2417,7 +2417,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-q-a-t-j.html",
       "title": "临清鳌头矶",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_l-q-a-t-j.html",
       "size": 11440,
       "modified": "2026-10-08"
@@ -2453,7 +2453,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-q-s-l-b-t.html",
       "title": "临清舍利宝塔",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_l-q-s-l-b-t.html",
       "size": 10735,
       "modified": "2026-10-08"
@@ -2462,7 +2462,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-c-l-x-s-t-t.html",
       "title": "聊城隆兴寺铁塔",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_l-c-l-x-s-t-t.html",
       "size": 10450,
       "modified": "2026-10-08"
@@ -2642,7 +2642,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_d-a-c-z-m.html",
       "title": "东阿曹植墓",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_d-a-c-z-m.html",
       "size": 11681,
       "modified": "2026-10-08"
@@ -2651,7 +2651,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_y-g-j-y-g.html",
       "title": "阳谷景阳冈",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_y-g-j-y-g.html",
       "size": 11842,
       "modified": "2026-10-08"
@@ -2660,7 +2660,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-c-h-y-g.html",
       "title": "聊城海源阁",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_l-c-h-y-g.html",
       "size": 11631,
       "modified": "2026-10-08"
@@ -2885,7 +2885,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-n-l-y-s.html",
       "title": "济南灵岩寺",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_j-n-l-y-s.html",
       "size": 12195,
       "modified": "2026-10-08"
@@ -2894,7 +2894,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_z-q-c-z-y-y-z.html",
       "title": "章丘城子崖遗址",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_z-q-c-z-y-y-z.html",
       "size": 10846,
       "modified": "2026-10-07",
@@ -2904,7 +2904,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_z-q-d-p-l-g-c.html",
       "title": "章丘东平陵故城",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_z-q-d-p-l-g-c.html",
       "size": 10813,
       "modified": "2026-10-07",
@@ -2914,7 +2914,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_z-p-d-g-y-z.html",
       "title": "邹平丁公遗址",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_z-p-d-g-y-z.html",
       "size": 10654,
       "modified": "2026-10-07",
@@ -2924,7 +2924,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-n-s-m-t.html",
       "title": "济南四门塔",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_j-n-s-m-t.html",
       "size": 10669,
       "modified": "2026-10-08"
@@ -2933,7 +2933,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-n-q-f-y-z-x.html",
       "title": "济南千佛崖造像",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_j-n-q-f-y-z-x.html",
       "size": 12872,
       "modified": "2026-10-09"
@@ -3032,7 +3032,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_l-w-q-c-c-j-y-g.html",
       "title": "莱芜齐长城锦阳关",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_l-w-q-c-c-j-y-g.html",
       "size": 13437,
       "modified": "2026-10-09"
@@ -3041,7 +3041,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_z-b-p-s-l-g-j.html",
       "title": "淄博蒲松龄故宅",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_z-b-p-s-l-g-j.html",
       "size": 18595,
       "modified": "2026-10-09"
@@ -3050,7 +3050,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_z-b-y-w-j-c.html",
       "title": "淄博颜文姜祠",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_z-b-y-w-j-c.html",
       "size": 11992,
       "modified": "2026-10-08"
@@ -3059,7 +3059,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_z-q-z-j-y.html",
       "title": "章丘朱家峪",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_z-q-z-j-y.html",
       "size": 13419,
       "modified": "2026-10-09"
@@ -3744,7 +3744,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_r-n-w-m-d-c-d.html",
       "title": "汝南文庙大成殿",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_r-n-w-m-d-c-d.html",
       "size": 13001,
       "modified": "2026-10-08"
@@ -3789,7 +3789,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_r-n-w-y-t.html",
       "title": "汝南悟颖塔",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_r-n-w-y-t.html",
       "size": 13463,
       "modified": "2026-10-08"
@@ -3798,7 +3798,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_c-g-g-c-s-c.html",
       "title": "蔡国故城（上蔡）",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_c-g-g-c-s-c.html",
       "size": 12093,
       "modified": "2026-10-07"
@@ -4338,7 +4338,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_p-l-g.html",
       "title": "蓬莱阁",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_p-l-g.html",
       "size": 9987,
       "modified": "2026-10-09"
@@ -4356,7 +4356,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_n-x-x-y.html",
       "title": "内乡县衙",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_n-x-x-y.html",
       "size": 10044,
       "modified": "2026-10-09"
@@ -4365,7 +4365,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-q-s-s-h-g.html",
       "title": "社旗山陕会馆",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_s-q-s-s-h-g.html",
       "size": 9843,
       "modified": "2026-10-09"
@@ -4374,7 +4374,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_h-c.html",
       "title": "宏村",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_h-c.html",
       "size": 10119,
       "modified": "2026-10-09"
@@ -4383,7 +4383,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_a-q-z-f-t.html",
       "title": "安庆振风塔",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_a-q-z-f-t.html",
       "size": 10086,
       "modified": "2026-10-09"
@@ -4392,7 +4392,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_m-s-z-y.html",
       "title": "牟氏庄园",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_m-s-z-y.html",
       "size": 10233,
       "modified": "2026-10-09"
@@ -4401,7 +4401,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-q-y.html",
       "title": "十笏园",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_s-q-y.html",
       "size": 9855,
       "modified": "2026-10-09"
@@ -4410,7 +4410,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-n-w-z-y.html",
       "title": "济南万竹园",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_j-n-w-z-y.html",
       "size": 9645,
       "modified": "2026-10-09"
@@ -4419,7 +4419,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_g-r-g-d-m-d-d.html",
       "title": "广饶关帝庙大殿",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_g-r-g-d-m-d-d.html",
       "size": 9738,
       "modified": "2026-10-09"
@@ -4428,7 +4428,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-y-s-t.html",
       "title": "嵩岳寺塔",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_s-y-s-t.html",
       "size": 9780,
       "modified": "2026-10-09"
@@ -4437,7 +4437,7 @@
       "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-l-s.html",
       "title": "少林寺",
       "category": "04_style-analysis",
-      "subcategory": "group03-provincial-series",
+      "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_s-l-s.html",
       "size": 9990,
       "modified": "2026-10-09"
