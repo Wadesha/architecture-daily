@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-08T07:39:09.985677+00:00",
-  "total": 482,
+  "total": 488,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
@@ -4386,6 +4386,60 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_a-q-z-f-t.html",
       "size": 10086,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_m-s-z-y.html",
+      "title": "牟氏庄园",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_m-s-z-y.html",
+      "size": 10233,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-q-y.html",
+      "title": "十笏园",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-q-y.html",
+      "size": 9855,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_j-n-w-z-y.html",
+      "title": "济南万竹园",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_j-n-w-z-y.html",
+      "size": 9645,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_g-r-g-d-m-d-d.html",
+      "title": "广饶关帝庙大殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_g-r-g-d-m-d-d.html",
+      "size": 9738,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-y-s-t.html",
+      "title": "嵩岳寺塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-y-s-t.html",
+      "size": 9780,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_s-l-s.html",
+      "title": "少林寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_s-l-s.html",
+      "size": 9990,
       "modified": "2026-10-09"
     }
   ]
