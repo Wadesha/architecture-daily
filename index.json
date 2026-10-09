@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-09",
-  "total": 488,
+  "total": 494,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
@@ -4440,6 +4440,60 @@
       "subcategory": "group06-outside-huaihai",
       "filename": "m-f-g_c-s-s-j-t-f_s-l-s.html",
       "size": 9990,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_ding-lin-si.html",
+      "title": "浮来山定林寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_ding-lin-si.html",
+      "size": 10575,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_guang-ming-si.html",
+      "title": "五莲山光明寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_guang-ming-si.html",
+      "size": 10440,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_hai-chun-xuan-ta.html",
+      "title": "海春轩塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_hai-chun-xuan-ta.html",
+      "size": 10641,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_dong-tai-tai-shan-si.html",
+      "title": "东台泰山寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_dong-tai-tai-shan-si.html",
+      "size": 10488,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_lu-gong-ci.html",
+      "title": "陆公祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_lu-gong-ci.html",
+      "size": 10200,
+      "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_song-cao-gu-ju.html",
+      "title": "宋曹故居",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_song-cao-gu-ju.html",
+      "size": 10791,
       "modified": "2026-10-09"
     }
   ]
