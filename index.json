@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-09",
-  "total": 494,
+  "total": 501,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
@@ -4495,6 +4495,69 @@
       "filename": "m-f-g_c-s-s-j-t-f_song-cao-gu-ju.html",
       "size": 10791,
       "modified": "2026-10-09"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_pu-zhao-si-da-xiong-bao-dian.html",
+      "title": "清丰普照寺大雄宝殿",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_pu-zhao-si-da-xiong-bao-dian.html",
+      "size": 10167,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_pu-yang-ji-du-jiao-tang.html",
+      "title": "濮阳基督教堂",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_pu-yang-ji-du-jiao-tang.html",
+      "size": 9813,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_pu-yang-tian-zhu-jiao-tang.html",
+      "title": "濮阳天主教堂",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_pu-yang-tian-zhu-jiao-tang.html",
+      "size": 10014,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_pu-yang-qing-zhen-si.html",
+      "title": "濮阳清真寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_pu-yang-qing-zhen-si.html",
+      "size": 9780,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_dan-guai-chen-shi-ci-tang.html",
+      "title": "单拐陈氏祠堂",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_dan-guai-chen-shi-ci-tang.html",
+      "size": 9561,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_huai-yuan-jiao-hui-jian-zhu.html",
+      "title": "怀远教会建筑旧址",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_huai-yuan-jiao-hui-jian-zhu.html",
+      "size": 9768,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_beng-bu-tian-qiao-qing-zhen-si.html",
+      "title": "蚌埠天桥清真寺",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_beng-bu-tian-qiao-qing-zhen-si.html",
+      "size": 9981,
+      "modified": "2026-10-10"
     }
   ]
 }
