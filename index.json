@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-10T07:31:17.138620",
-  "total": 526,
+  "total": 531,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
@@ -4782,6 +4782,51 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_nantian-men.html",
       "size": 9978,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_linyi-tianzhu-jiaotang.html",
+      "title": "临沂天主教堂",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_linyi-tianzhu-jiaotang.html",
+      "size": 9993,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_yinan-xinliang-qiao.html",
+      "title": "沂南信量桥",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_yinan-xinliang-qiao.html",
+      "size": 9699,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_mengyin-yingxian-qiao.html",
+      "title": "蒙阴迎仙桥",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_mengyin-yingxian-qiao.html",
+      "size": 9684,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_yinan-bailong-qiao.html",
+      "title": "沂南白龙桥",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_yinan-bailong-qiao.html",
+      "size": 9627,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_feixian-fengshan-qiao.html",
+      "title": "费县凤山桥",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_feixian-fengshan-qiao.html",
+      "size": 9435,
       "modified": "2026-10-10"
     }
   ]
