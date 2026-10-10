@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-10T07:31:17.138620",
-  "total": 516,
+  "total": 521,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
@@ -4692,6 +4692,51 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_lanshanhaishangbei.html",
       "size": 9750,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_baodugu-moya.html",
+      "title": "抱犊崮摩崖造像",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_baodugu-moya.html",
+      "size": 10605,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_quanli-chen-ju.html",
+      "title": "圈里陈氏旧居",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_quanli-chen-ju.html",
+      "size": 10650,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_lufeng-qiao.html",
+      "title": "鲁封桥",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_lufeng-qiao.html",
+      "size": 10065,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_shiwushanquan.html",
+      "title": "石屋山泉石刻",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_shiwushanquan.html",
+      "size": 10431,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_baigu-ta.html",
+      "title": "白骨塔",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_baigu-ta.html",
+      "size": 10335,
       "modified": "2026-10-10"
     }
   ]
