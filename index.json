@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-10T07:31:17.138620",
-  "total": 501,
+  "total": 505,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
@@ -4557,6 +4557,42 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_beng-bu-tian-qiao-qing-zhen-si.html",
       "size": 9981,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_shou-xian-kui-guang-ge.html",
+      "title": "寿县奎光阁",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_shou-xian-kui-guang-ge.html",
+      "size": 10151,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_shou-xian-sun-gong-ci.html",
+      "title": "寿县孙公祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_shou-xian-sun-gong-ci.html",
+      "size": 9667,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_zheng-yang-guan-gu-cheng-men.html",
+      "title": "寿县正阳关古城门",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_zheng-yang-guan-gu-cheng-men.html",
+      "size": 9753,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_feng-tai-mao-xian-dong.html",
+      "title": "凤台茅仙洞·清天观",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_feng-tai-mao-xian-dong.html",
+      "size": 9763,
       "modified": "2026-10-10"
     }
   ]
