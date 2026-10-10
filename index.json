@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-10T07:31:17.138620",
-  "total": 531,
+  "total": 536,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
@@ -4827,6 +4827,51 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_feixian-fengshan-qiao.html",
       "size": 9435,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_mohkou-guanqia.html",
+      "title": "沫河口关卡",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_mohkou-guanqia.html",
+      "size": 11262,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_nieweizi-tianzhutang.html",
+      "title": "聂圩子天主教堂",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_nieweizi-tianzhutang.html",
+      "size": 10395,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_huaiyuan-guandimiao.html",
+      "title": "怀远关帝庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_huaiyuan-guandimiao.html",
+      "size": 10353,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_huaiyuan-panjia-citang.html",
+      "title": "怀远潘家祠堂",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_huaiyuan-panjia-citang.html",
+      "size": 10440,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_huaiyuan-yushi-qiao.html",
+      "title": "怀远玉石桥",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_huaiyuan-yushi-qiao.html",
+      "size": 10461,
       "modified": "2026-10-10"
     }
   ]
