@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-10T07:31:17.138620",
-  "total": 505,
+  "total": 511,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
@@ -4593,6 +4593,60 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_feng-tai-mao-xian-dong.html",
       "size": 9763,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_xiangshanmiao.html",
+      "title": "淮北相山庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_xiangshanmiao.html",
+      "size": 9812,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_suzhouxuegong.html",
+      "title": "宿州学宫",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_suzhouxuegong.html",
+      "size": 9817,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_linyikongmiao.html",
+      "title": "临沂孔庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_linyikongmiao.html",
+      "size": 9903,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_suqianlongwang.html",
+      "title": "宿迁龙王庙行宫",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_suqianlongwang.html",
+      "size": 9774,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_bozhouhuazu.html",
+      "title": "亳州华祖庵",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_bozhouhuazu.html",
+      "size": 9610,
+      "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_yingshangyoujia.html",
+      "title": "颍上尤家花园及故居",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_yingshangyoujia.html",
+      "size": 9788,
       "modified": "2026-10-10"
     }
   ]
