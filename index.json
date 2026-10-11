@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-10T07:31:17.138620",
-  "total": 542,
+  "total": 546,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
@@ -4926,6 +4926,42 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_longzihu-lusujing.html",
       "size": 9888,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_huaiyuan-yidali-tianzhujiaotang.html",
+      "title": "意大利天主教堂旧址",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_huaiyuan-yidali-tianzhujiaotang.html",
+      "size": 10323,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_guzhen-gongping-miao.html",
+      "title": "公平庙",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_guzhen-gongping-miao.html",
+      "size": 10206,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_bengbu-gulong-jing.html",
+      "title": "古龙井",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_bengbu-gulong-jing.html",
+      "size": 9999,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_guzhen-mingqing-yidao-bei.html",
+      "title": "明清驿道和三孔桥碑",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_guzhen-mingqing-yidao-bei.html",
+      "size": 10248,
       "modified": "2026-10-11"
     }
   ]
