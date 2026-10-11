@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-10T07:31:17.138620",
-  "total": 546,
+  "total": 555,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
@@ -4962,6 +4962,87 @@
       "subcategory": "group03-provincial-series",
       "filename": "m-f-g_c-s-s-j-t-f_guzhen-mingqing-yidao-bei.html",
       "size": 10248,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_sunjiaweizi-dengjiang-zongqianwei.html",
+      "title": "渡江战役总前委孙家圩子旧址",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_sunjiaweizi-dengjiang-zongqianwei.html",
+      "size": 9978,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_xinsijun-huaishang-xingshu.html",
+      "title": "新四军淮上行署旧址",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_xinsijun-huaishang-xingshu.html",
+      "size": 9963,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_huaiyuan-laoximen-bao.html",
+      "title": "侵华日军老西门夹山口碉堡",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_huaiyuan-laoximen-bao.html",
+      "size": 9930,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_huaiyuan-shannan-bao.html",
+      "title": "侵华日军山南碉堡",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_huaiyuan-shannan-bao.html",
+      "size": 9663,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_guzhen-shuilao.html",
+      "title": "侵华日军水牢",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_guzhen-shuilao.html",
+      "size": 9792,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_guzhen-xianwei-dayuan.html",
+      "title": "固镇县县委县政府办公大院",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_guzhen-xianwei-dayuan.html",
+      "size": 10182,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_wuhe-jiang-pailou.html",
+      "title": "江泽民题词牌楼",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_wuhe-jiang-pailou.html",
+      "size": 9840,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_guzhen-guijing.html",
+      "title": "固镇古井",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_guzhen-guijing.html",
+      "size": 9606,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_huaiyuan-shuanglie-ci.html",
+      "title": "双烈祠",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_huaiyuan-shuanglie-ci.html",
+      "size": 9758,
       "modified": "2026-10-11"
     }
   ]
