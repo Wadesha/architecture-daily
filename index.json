@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-10T07:31:17.138620",
-  "total": 536,
+  "total": 542,
   "categories": {
     "01_provincial-architecture": 49,
     "02_villages-and-houses": 49,
@@ -4873,6 +4873,60 @@
       "filename": "m-f-g_c-s-s-j-t-f_huaiyuan-yushi-qiao.html",
       "size": 10461,
       "modified": "2026-10-10"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_huaiyuan-lugong-jinianbei.html",
+      "title": "卢公纪念碑",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_huaiyuan-lugong-jinianbei.html",
+      "size": 9558,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_huaishang-wanjia-shengfo-bei.html",
+      "title": "万家生佛碑",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_huaishang-wanjia-shengfo-bei.html",
+      "size": 9504,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_huaiyuan-qimushi.html",
+      "title": "启母石",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_huaiyuan-qimushi.html",
+      "size": 9450,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_huaiyuan-siyanjing.html",
+      "title": "四眼井",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_huaiyuan-siyanjing.html",
+      "size": 9489,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_longzihu-liulijing.html",
+      "title": "古琉璃井",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_longzihu-liulijing.html",
+      "size": 9645,
+      "modified": "2026-10-11"
+    },
+    {
+      "url": "04_style-analysis/group03-provincial-series/m-f-g_c-s-s-j-t-f_longzihu-lusujing.html",
+      "title": "鲁肃井",
+      "category": "04_style-analysis",
+      "subcategory": "group03-provincial-series",
+      "filename": "m-f-g_c-s-s-j-t-f_longzihu-lusujing.html",
+      "size": 9888,
+      "modified": "2026-10-11"
     }
   ]
 }
